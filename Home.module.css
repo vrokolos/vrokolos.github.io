@@ -1,0 +1,212 @@
+
+.k-listview {
+  overflow: auto;
+  flex: 1;
+}
+
+.template-wrapper p {
+  line-height: 1.2;
+  padding: 20px;
+  width: 180px;
+  text-align: left;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.k-listview-content {
+  height: 65em;
+}
+
+.k-listview-content .k-listview-item {
+  padding: 10px 0px 0px 10px;
+}
+
+.k-listview-content .k-listview-item:after {
+  content: '';
+  height: 100%;
+  height: 2px;
+  background: #F4F4F4;
+  position: absolute;
+}
+
+
+.k-listview-content .k-listview-item .cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.k-group-title {
+  font-family: inherit;
+  font-size: 30px;
+  line-height: normal;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 20px 0px 5px 0px;
+  border-bottom: 1px solid #666;
+  color: #666;
+  padding-bottom: 5px;
+}
+
+.k-group-footer {
+  font-family: inherit;
+  font-size: 17px;
+  line-height: normal;
+  font-weight: 400;
+  font-style: italic;
+  margin: 0px;
+}
+
+.k-card {
+  border-width: 0px;
+  height: 270px;
+  width: 180px;
+  display: inline-table;
+  margin: 8px;
+  background-color: #000;
+}
+
+.k-card span {
+  color: #666;
+
+}
+
+.k-card>span {
+  display: flex;
+
+}
+
+.k-card a img {
+  margin-bottom: -6px;
+}
+
+.k-card span img {
+  height: 14px;
+  color: black;
+  background-color: black;
+  padding: 2px;
+  border-radius: 12px;
+}
+
+.k-button-text {
+  font-size: 200%;
+}
+
+.k-card a>span {
+  display: flex;
+  padding: 5px;
+  font-size: 13px;
+  font-weight: bold;
+  /* white-space: nowrap; */
+}
+
+.srcImg {
+  flex: 1;
+  text-align: center;
+  margin-top: -1px;
+}
+
+.midspan {
+  flex: 1;
+  text-align: center;
+}
+
+.mainToolbar .k-toolbar-tool {
+  height: 100%;
+}
+
+.mainToolbar .k-toolbar-tool .k-textbox {
+  height: 100%;
+  font-size: 200%;
+  width: 200px;
+  flex: 1;
+  background: #262626;
+  color: white;
+}
+
+.mainToolbar {
+  gap: 0px;
+  padding: 0px;
+  padding-left: 8px;
+}
+
+.imgOverlay {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  height: 20px;
+  color: black;
+  background-color: black;
+  padding: 2px;
+  border-radius: 12px;
+  opacity: 0.5;
+}
+
+.sep {
+  color: aliceblue;
+  font-size: 400%;
+  width: 100%;
+  border: 1px solid;
+  border: none;
+  margin-top: 50px;
+  text-align: center;
+}
+
+#toolbar2 .k-textbox {
+  height: 100%;
+}
+
+.k-selected {
+  background: #050505;
+}
+
+#toolbar2 :first-child {
+  flex: 1;
+}
+
+.k-icon {
+  margin-top: -4px;
+}
+
+.cont {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+}
+
+.grd {
+  flex: 1;
+}
+
+.stm {
+  width: 1000px;
+}
+
+.cards>.k-selected {
+  border: 2px solid red;
+}
+
+.k-listview-content>.k-selected {
+  background-color: initial;
+}
+
+.k-card-media {
+  width: 100%;
+  height: auto;
+}
+
+
+
+a:visited {
+  color: #999;
+
+}
+
+a:link {
+  color: #999;
+}
+
+a {
+  text-decoration: none;
+}
