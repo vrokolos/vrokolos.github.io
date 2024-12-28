@@ -234,3 +234,7 @@ h4:empty {
   white-space: nowrap;
   vertical-align: baseline;
 }
+
+.focused {
+  border: 2px solid blue;
+}
