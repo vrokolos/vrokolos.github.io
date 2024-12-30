@@ -89,7 +89,7 @@
 }
 
 .k-button-text {
-  font-size: 300%;
+  font-size: 220%;
 }
 
 .k-card a>span {
@@ -129,13 +129,23 @@
   padding: 0px;
   padding-left: 8px;
   max-height: 130px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftButtons {
+    display: flex;
+}
+
+.rightButtons {
+    display: flex;
 }
 
 .imgOverlay {
   position: absolute;
   top: 3px;
   left: 3px;
-  height: 20px;
+  height: 25px;
   color: black;
   background-color: black;
   padding: 2px;
