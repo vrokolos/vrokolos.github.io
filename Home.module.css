@@ -59,11 +59,17 @@
 
 .k-card {
   border-width: 0px;
-  height: 270px;
-  width: 180px;
+  width: calc((100% - 82px) / 4);
   display: inline-table;
   margin: 8px;
   background-color: #000;
+}
+
+@media (min-width: 850px) {
+  .k-card {
+    width: 180px;
+    height: 270px;
+  }
 }
 
 .k-card span {
@@ -89,7 +95,7 @@
 }
 
 .k-button-text {
-  font-size: 220%;
+  font-size: 300%;
 }
 
 .k-card a>span {
@@ -129,16 +135,17 @@
   padding: 0px;
   padding-left: 8px;
   max-height: 130px;
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .leftButtons {
-    display: flex;
+  display: flex;
+  flex: auto;
 }
 
 .rightButtons {
-    display: flex;
+  display: flex;
 }
 
 .imgOverlay {
@@ -248,12 +255,6 @@ h4:empty {
 
 .focused {
   border: 2px solid blue;
-}
-
-@media (max-width: 600px) {
-  .mainToolbar {
-      flex-direction: column;
-  }
 }
 
 .k-toolbar > span > svg {
