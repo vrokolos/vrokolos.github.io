@@ -201,9 +201,6 @@
   width: 1000px;
 }
 
-.cards>.k-selected {
-  border: 2px solid red;
-}
 
 .k-listview-content>.k-selected {
   background-color: initial;
@@ -283,4 +280,16 @@ h4:empty {
 
 #toolbar3 {
   display: flex;
+}
+
+    
+.k-button {
+  margin: 2px;
+  width: 60px;
+}
+
+.k-button-solid-base.k-selected {
+  background-color: #007bff;
+  color: white;
+  border: white;
 }
