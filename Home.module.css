@@ -293,3 +293,16 @@ h4:empty {
   color: white;
   border: white;
 }
+
+.tooltip-image {
+    width: 100%;
+    height: auto;
+}
+
+#tltip img {
+  width: 100%;
+  height: auto;
+}
+#tltip {
+  opacity: 1;
+}
