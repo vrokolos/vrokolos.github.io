@@ -232,7 +232,7 @@ h4:empty {
 
 .react-tooltip {
   z-index: 9999;
-  width: 600px !important;
+  width: 500px !important;
 }
 
 .badge {
@@ -305,4 +305,41 @@ h4:empty {
 }
 #tltip {
   opacity: 1;
+}
+
+.image-container {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  max-width: 100%;
+}
+
+.background-image {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.logo-image {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;  
+
+  width: 40% !important; /* Adjust the width as needed */
+  height: auto !important; /* Maintain aspect ratio */
+
+}
+
+h3 {
+  font-size: 200%;
+  width: 100%;
+  
+}
+
+.fas {
+  width: 20px;
 }
