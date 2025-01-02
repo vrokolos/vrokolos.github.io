@@ -160,6 +160,21 @@
   opacity: 0.5;
 }
 
+.libOverlay {
+  position: absolute;
+  bottom: 3px;
+  right: 3px;
+  height: 25px;
+  background-color: black;
+  padding: 2px;
+  border-radius: 12px;
+  opacity: 0.5;
+  text-align: right;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 .sep {
   color: aliceblue;
   font-size: 400%;
@@ -328,6 +343,7 @@ h4:empty {
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 1;  
+  max-height: 150px;
 
   width: 40% !important; /* Adjust the width as needed */
   height: auto !important; /* Maintain aspect ratio */
