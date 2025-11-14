@@ -1,6 +1,5 @@
 ﻿Fallout Tactics
 Anomaly Warzone Earth
-Portal
 Poker Night at the Inventory
 Cave Story+
 Space Pirates and Zombies
@@ -24,12 +23,10 @@ Borderlands GOTY
 Team Fortress 2
 Two Worlds II HD
 Serious Sam 3: BFE
-BioShock
 Aquaria
 Pixel Heroes: Byte & Magic
 Sanctum
 Wasteland 2
-Left 4 Dead 2
 Prince of Persia: The Forgotten Sands
 Galactic Civilizations II: Ultimate Edition
 Tropico 4
