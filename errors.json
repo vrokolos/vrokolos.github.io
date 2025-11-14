@@ -1,1 +1,1 @@
-﻿[{"Id":"BundlesFetch","Message":"Bundles Fetch: Exception calling \"Parse\" with \"1\" argument(s): \"String was not recognized as a valid DateTime.\""},{"Id":"Git","Message":"remote: This repository moved. Please use the new location:        "}]
+﻿[{"Id":"BundlesFetch","Message":"Bundles Fetch: The remote server returned an error: (429) Too Many Requests."},{"Id":"Git","Message":"remote: This repository moved. Please use the new location:        "}]
