@@ -7,8 +7,6 @@ Shank
 STAR WARS: Dark Forces
 Far Cry 3 Blood Dragon
 Serious Sam Fusion 2017 (beta)
-Transistor
-Fallout Tactics
 Bulletstorm
 The Ball
 The Banner Saga
@@ -16,10 +14,7 @@ Leviathan: Warships
 Monaco
 Dorfromantik
 Apotheon
-Total War: SHOGUN 2
 Unreal Gold
-Anomaly Warzone Earth
-Metro 2033
 Viking: Battle for Asgard
 Miasma Chronicles
 Space Haven
@@ -28,14 +23,11 @@ Eets Munchies
 The Council
 Rampage Knights
 LEGO 2K Drive
-The Talos Principle
 Hot Lava
-Metro: Last Light
 Xotic
 Of Orcs And Men
 Men of War: Assault Squad
 Catherine Classic
-Psychonauts
 Rome: Total War
 Gothic 1 Classic
 DeathSpank: Thongs Of Virtue
@@ -48,7 +40,6 @@ Dungeon Defenders
 Before the Echo
 Craft The World
 STAR WARS Jedi Knight: Dark Forces II
-Sid Meier's Civilization VI
 Oil Rush
 Hurtworld
 SEUM: Speedrunners from Hell
@@ -56,10 +47,8 @@ Kentucky Route Zero
 Yooka-Laylee and the Impossible Lair
 IXION
 Windward
-Tyranny
 Dwarfs!?
 Skulls of the Shogun
-Rocket League
 Total War: NAPOLEON - Definitive Edition
 Dead Island
 Victoria II
@@ -70,7 +59,6 @@ Jamestown
 Flat Heroes
 Magicka
 Hector: Ep 3
-Brotato
 Broforce
 XCOM: Chimera Squad
 Portal
@@ -95,7 +83,6 @@ F.E.A.R. 2: Project Origin
 Resonance
 Opus Magnum
 The Swapper
-Galactic Civilizations III
 Sherlock Holmes: Nemesis
 Mafia II
 Penumbra: Overture
@@ -128,10 +115,8 @@ Atom Zombie Smasher
 Space Pirates and Zombies
 Runaway: The Dream of the Turtle
 Smile For Me
-Far Cry 3
 Factorio
 Roadwarden
-Tomb Raider
 Duke Nukem Forever
 Townsmen - A Kingdom Rebuilt
 The Swords of Ditto: Mormo's Curse
@@ -150,7 +135,6 @@ Sid Meier's Civilization IV: Colonization
 Warhammer 40,000: Dawn of War III
 Morphblade
 SteamWorld Heist
-XCOM 2
 Children of Morta
 Organ Trail: Director's Cut
 Valkyria Chronicles
@@ -179,9 +163,7 @@ Okami HD
 Burnout Paradise: The Ultimate Box
 RimWorld
 Octodad: Dadliest Catch
-Borderlands 2
 Total War: EMPIRE - Definitive Edition
-Total War: WARHAMMER
 Screeps: World
 Sid Meier's Civilization IV: Warlords
 Fractal: Make Blooms Not War
@@ -190,12 +172,10 @@ Song of Farca
 Max Payne 3
 Hacker Evolution - Untold
 Middle-earth: Shadow of Mordor
-Saints Row IV
 Between Horizons
 Tales from Candlekeep: Tomb of Annihilation
 Uplink
 Hell Yeah!
-Europa Universalis IV
 Worms Clan Wars
 Warstone TD
 Don't Starve
@@ -206,19 +186,15 @@ Little Racers STREET
 Don't Starve Together
 Interplanetary
 Command and Conquer: Red Alert 3 - Uprising
-Darkest Dungeon
 Hacknet
 Trine 2
 PAYDAY: The Heist
 Project Warlock
-Fort Triumph
 RAW - Realms of Ancient War
 Abyss Odyssey
 SYNTHETIK
 Chasm
 Braid
-Counter-Strike: Global Offensive
-Prison Architect
 Call of Duty: Modern Warfare 2 (2009)
 PLANET ALPHA
 Uurnog Uurnlimited
@@ -227,7 +203,6 @@ Screencheat
 Stacking
 Section 8: Prejudice
 FTL: Faster Than Light
-DREDGE
 Confrontation
 A Story About My Uncle
 BIT.TRIP RUNNER
@@ -243,10 +218,8 @@ English Country Tune
 Machinarium
 Sacred 2 Gold
 DeathSpank
-This War of Mine
 Starseed Pilgrim
 Back to the Future: Ep 3 - Citizen Brown
-Sins of a Solar Empire: Rebellion
 Mind Over Magic
 South Park: The Stick of Truth
 Dead Space (2008)
@@ -255,7 +228,6 @@ Thomas Was Alone
 Hitman: Codename 47
 Gothic 3 Forsaken Gods
 Sam & Max 301: The Penal Zone
-Torchlight II
 Galactic Civilizations I: Ultimate Edition
 Magicka 2
 Ozymandias
@@ -269,19 +241,15 @@ One Way Heroics
 Legend of Grimrock
 Blackguards
 L.A. Noire
-Torchlight
 Blood Bowl: Legendary Edition
 Sid Meier's Civilization V
 Mr Shifty
 Hard Reset Redux
 Antichamber
 Neon Sundown
-Shadowrun: Dragonfall - Director's Cut
 Pathfinder: Wrath of the Righteous
-Never Alone (Kisima Ingitchuna)
 Diplomacy is Not an Option
 Borderlands GOTY
-Grand Theft Auto V
 Rover Mechanic Simulator
 Space Run Galaxy
 Wasteland 1 - The Original Classic
@@ -295,16 +263,13 @@ Saints Row: The Third
 Blackwell Deception
 Zombie Shooter
 Time Gentlemen, Please!
-Wolfenstein: The New Order
 Niche - a genetics survival game
 Sam & Max 302: The Tomb of Sammun-Mak
 The Age of Decadence
 Faerie Solitaire
-Batman: Arkham City
 Tales from the Borderlands
 Regular Human Basketball
 Assassin's Creed Revelations
-Fallout: New Vegas
 Othercide
 BROK the InvestiGator
 Styx: Master of Shadows
@@ -322,7 +287,6 @@ Invisible, Inc.
 The Shapeshifting Detective
 Syberia 2
 Alpha Protocol
-Lethal League
 Sherlock Holmes: The Mystery of The Persian Carpet
 World of Goo
 Tiny and Big: Grandpa's Leftovers
@@ -340,17 +304,14 @@ The Binding of Isaac: Rebirth
 King's Bounty: Armored Princess
 Murders on the Yangtze River
 Lethal League Blaze
-ENDLESS Legend
 Intrusion 2
 Distant Worlds 2
 The Next BIG Thing
 Goat Simulator
-Pillars of Eternity
 11-11 Memories Retold
 Day of Defeat: Source
 Ben There, Dan That!
 Halcyon 6: Lightspeed Edition
-The Whispered World Special Edition
 Lara Croft and the Guardian of Light
 Spintires
 Warhammer 40,000: Rogue Trader
@@ -370,7 +331,6 @@ Bunch Of Heroes
 Anno 2070
 F.E.A.R.: Extraction Point
 Cortex Command
-Dungeon of the ENDLESS
 Yakuza Kiwami 2
 Tom Clancy's Splinter Cell: Conviction
 Revenge of the Titans
@@ -384,7 +344,6 @@ Sherlock Holmes versus Jack the Ripper
 The Incredible Adventures of Van Helsing
 Saints Row 2
 Return to Monkey Island
-The Stanley Parable
 Slay the Spire
 ACE COMBAT ASSAULT HORIZON
 Grand Theft Auto IV: The Complete Edition
@@ -395,13 +354,11 @@ Renegade Ops
 Vampire: The Masquerade - Coteries of New York
 Horizon Chase Turbo
 Golf With Your Friends
-Prey
 Cognition: An Erica Reed Thriller
 Planetary Annihilation
 Sonic Generations
 Ziggurat
 Unreal Tournament: Game of the Year Edition
-Warhammer 40,000: Space Marine
 Disco Elysium
 Shadowgrounds
 Poly Bridge
@@ -413,10 +370,8 @@ Death's Gambit: Afterlife
 Stealth Bastard Deluxe
 Mirror's Edge
 inMomentum
-Brothers - A Tale of Two Sons
 Mark of the Ninja
 Rogue: Genesia
-BioShock Infinite
 Risen
 Wasteland 2: Director's Cut
 Shoppe Keep 2
@@ -438,7 +393,6 @@ Truberbrook
 The Testament of Sherlock Holmes
 PAYDAY 2
 Inkulinati
-Strange Horticulture
 Stray Gods: The Roleplaying Musical
 Shadow Warrior
 Hotline Miami
@@ -462,7 +416,6 @@ Cogs
 Steel Storm: Burning Retribution
 Bridge Constructor Portal
 Party Hard
-The Long Dark
 Medal of Honor(TM) Multiplayer
 The 39 Steps
 Gish
@@ -472,7 +425,6 @@ Papetura
 Rain of Reflections
 Faerie Solitaire Remastered
 The Witcher 3: Wild Hunt
-Cities: Skylines
 Darksburg
 Divinity: Original Sin 2
 Wargame: European Escalation
@@ -485,7 +437,6 @@ Multiwinia
 METAL GEAR SOLID V: THE PHANTOM PAIN
 Runaway: A Road Adventure
 This Is the Police 2
-Batman: Arkham Asylum GOTY Edition
 Capsized
 Rise of the Triad
 The Occupation
@@ -521,8 +472,6 @@ Critical Mass
 Concrete Jungle
 Stardew Valley
 Chaos Reborn
-Costume Quest
-Kerbal Space Program
 Papers, Please
 Proteus
 Nomad Survival
@@ -535,14 +484,12 @@ Gratuitous Space Battles
 Warhammer 40,000: Dawn of War II
 RIVE
 Going Medieval
-Lost Castle
 Stygian: Reign of the Old Ones
 Audiosurf
 F.E.A.R. 3
 Dome Keeper
 Jurassic World Evolution
 Sherlock Holmes: The Awakened (2008)
-Spec Ops: The Line
 BioShock
 CryoFall
 Runaway: A Twist of Fate
@@ -570,7 +517,6 @@ Alan Wake's American Nightmare
 Total War: MEDIEVAL II - Definitive Edition
 NightSky
 Aquaria
-The Walking Dead
 Shattered Planet
 Divinity II: Developer's Cut
 Arma 2: Private Military Company
@@ -605,7 +551,6 @@ ENDLESS Space - Definitive Edition
 Dungeons of Dredmor
 Blackwell Unbound
 Sanctum
-Dishonored
 Orcs Must Die!
 Hand of Fate
 Arma 2: British Armed Forces
@@ -628,31 +573,24 @@ Prince of Persia: The Forgotten Sands
 Figment
 Bastion
 Phantom Doctrine
-LIMBO
-Galactic Civilizations II: Ultimate Edition
 Else Heart.Break()
-Fallout 3 - Game of the Year Edition
 Castle Crashers
 Old World
 Nation Red
-Tropico 4
 Oxygen Not Included
 TSIOQUE
 Driftland: The Magic Revival
 Alice: Madness Returns
 Dwarf Fortress
-Rogue Legacy
 Generation Zero
 LEGO MARVEL Super Heroes
 MO:Astray
 Hector: Ep 2
 Tomb Raider: Underworld
-Sunless Sea
 The Banner Saga 2
 Darkest Hour: A Hearts of Iron Game
 Insurgency
 Waking Mars
-INSIDE
 Skullgirls 2nd Encore
 Risen 2 - Dark Waters
 AI War 2
@@ -660,7 +598,6 @@ The Last Door - Collector's Edition
 The Witcher 2: Assassins of Kings
 DEFCON
 The Spiral Scouts
-Killing Floor
 Pony Island
 Trine
 Heave Ho
@@ -669,11 +606,8 @@ F.E.A.R.
 Blackwell Epiphany
 The Cave
 Stoneshard
-Magic: The Gathering — Duels of the Planeswalkers 2012
-Gone Home
 Raiden V: Director's Cut
 XCOM: Enemy Unknown
-Call of Juarez Gunslinger
 Arma 2
 Strange Brigade
 Broken Age
