@@ -65,7 +65,6 @@ Magicka
 Hector: Ep 3
 Broforce
 XCOM: Chimera Squad
-Portal
 Dino D-Day
 BioShock Remastered
 Immortal Redneck
@@ -253,6 +252,7 @@ Legend of Grimrock
 Blackguards
 L.A. Noire
 Samorost 2
+Torchlight
 Blood Bowl: Legendary Edition
 Sid Meier's Civilization V
 Mr Shifty
@@ -322,7 +322,6 @@ Distant Worlds 2
 The Next BIG Thing
 Goat Simulator
 11-11 Memories Retold
-Day of Defeat: Source
 Ben There, Dan That!
 Halcyon 6: Lightspeed Edition
 Lara Croft and the Guardian of Light
@@ -548,7 +547,6 @@ The Hex
 Back to the Future: Ep 2 - Get Tannen!
 Graveyard Keeper
 The Excavation of Hob's Barrow
-Half-Life 2
 Rebel Galaxy
 Crypt of the NecroDancer
 Pixel Heroes: Byte & Magic
