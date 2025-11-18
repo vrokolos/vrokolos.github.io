@@ -1,4 +1,5 @@
 ﻿Chaos on Deponia
+Serious Sam HD: The Second Encounter
 Dungeon Siege III
 SkyDrift
 Sid Meier's Railroads!
@@ -162,7 +163,6 @@ Hitman: Absolution
 Hero Siege
 Farthest Frontier
 DOOM
-The Bard's Tale Trilogy
 Medal of Honor
 Timberborn
 Beholder
@@ -182,6 +182,7 @@ Middle-earth: Shadow of Mordor
 Between Horizons
 Tales from Candlekeep: Tomb of Annihilation
 Uplink
+Wallace & Gromit Ep 2: The Last Resort
 Hell Yeah!
 Worms Clan Wars
 Warstone TD
@@ -231,6 +232,7 @@ Back to the Future: Ep 3 - Citizen Brown
 Mind Over Magic
 South Park: The Stick of Truth
 Crying Suns
+Wallace & Gromit Ep 4: The Bogey Man
 Dead Space (2008)
 Sword of the Stars: The Pit
 Thomas Was Alone
@@ -305,6 +307,7 @@ Bohemian Killing
 Blackguards 2
 Battle Chasers: Nightwar
 BATTLETECH
+Wallace & Gromit Ep 3: Muzzled!
 The Sexy Brutale
 Crawl
 Eliza
@@ -390,6 +393,7 @@ Dungeon Rats
 Frozen Synapse Prime
 Gnomoria
 Repetendium
+Hector: Ep 1
 Fortix 2
 Sideway
 SpaceChem
