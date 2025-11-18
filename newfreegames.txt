@@ -133,6 +133,7 @@ Norland
 Prince of Persia: The Sands of Time
 Little Inferno
 Ceville
+Shadowrun: Hong Kong - Extended Edition
 Guacamelee! 2
 Starpoint Gemini Warlords
 Outward
@@ -188,7 +189,6 @@ Don't Starve
 Agatha Christie - Murder on the Orient Express
 STAR WARS Jedi Knight: Jedi Academy
 Sins of a Solar Empire: Trinity
-Little Racers STREET
 Don't Starve Together
 Interplanetary
 Command and Conquer: Red Alert 3 - Uprising
@@ -237,7 +237,6 @@ Thomas Was Alone
 Hitman: Codename 47
 Gothic 3 Forsaken Gods
 Sam & Max 301: The Penal Zone
-Galactic Civilizations I: Ultimate Edition
 Magicka 2
 Ozymandias
 Aegis Defenders
