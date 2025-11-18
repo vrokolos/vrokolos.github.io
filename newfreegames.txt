@@ -7,6 +7,7 @@ Shank
 STAR WARS: Dark Forces
 Far Cry 3 Blood Dragon
 Serious Sam Fusion 2017 (beta)
+Fallout Tactics
 Bulletstorm
 The Ball
 The Banner Saga
@@ -14,6 +15,7 @@ Leviathan: Warships
 Monaco
 Dorfromantik
 Apotheon
+Total War: SHOGUN 2
 Unreal Gold
 Viking: Battle for Asgard
 Miasma Chronicles
@@ -63,6 +65,8 @@ Broforce
 XCOM: Chimera Squad
 Portal
 Dino D-Day
+BioShock Remastered
+Immortal Redneck
 Tales of Maj'Eyal
 Bounty of One
 Prince of Persia: The Two Thrones
@@ -91,7 +95,6 @@ Victor Vran
 The Elder Scrolls IV: Oblivion 
 King Arthur - The Role-playing Wargame
 SKALD: Against the Black Priory
-Half-Life Deathmatch: Source
 Darksiders III
 Osmos
 Cave Story+
@@ -109,6 +112,7 @@ DARK SOULS: Prepare To Die Edition
 Gothic II: Gold Classic
 ArcaniA
 Hover
+King's Bounty: The Legend
 Halcyon 6: Starbase Commander (CLASSIC)
 Knights of Pen and Paper +1
 Atom Zombie Smasher 
@@ -136,6 +140,7 @@ Warhammer 40,000: Dawn of War III
 Morphblade
 SteamWorld Heist
 Children of Morta
+Homeworld Remastered Collection
 Organ Trail: Director's Cut
 Valkyria Chronicles
 The Binding of Isaac
@@ -241,6 +246,7 @@ One Way Heroics
 Legend of Grimrock
 Blackguards
 L.A. Noire
+Samorost 2
 Blood Bowl: Legendary Edition
 Sid Meier's Civilization V
 Mr Shifty
@@ -370,6 +376,7 @@ Death's Gambit: Afterlife
 Stealth Bastard Deluxe
 Mirror's Edge
 inMomentum
+God's Trigger
 Mark of the Ninja
 Rogue: Genesia
 Risen
@@ -415,6 +422,7 @@ Total War Battles: SHOGUN
 Cogs
 Steel Storm: Burning Retribution
 Bridge Constructor Portal
+Sid Meier's Civilization III: Complete
 Party Hard
 Medal of Honor(TM) Multiplayer
 The 39 Steps
@@ -430,6 +438,7 @@ Divinity: Original Sin 2
 Wargame: European Escalation
 Grey Goo
 Clanfolk
+Two Point Hospital
 Wizard of Legend
 The Elder Scrolls V: Skyrim
 Euro Truck Simulator 2
@@ -441,7 +450,6 @@ Capsized
 Rise of the Triad
 The Occupation
 Serious Sam 3: BFE
-Half-Life 2: Deathmatch
 Back to the Future: Ep 1 - It's About Time
 The Baconing
 STAR WARS Jedi Knight: Mysteries of the Sith
@@ -460,6 +468,7 @@ Tomb Raider: Anniversary
 Sam & Max 305: The City that Dares not Sleep
 Super Meat Boy
 ONE PIECE PIRATE WARRIORS 3
+Fallout
 Dead In Vinland
 Gunpoint
 Toki Tori
@@ -490,6 +499,7 @@ F.E.A.R. 3
 Dome Keeper
 Jurassic World Evolution
 Sherlock Holmes: The Awakened (2008)
+Satellite Reign
 BioShock
 CryoFall
 Runaway: A Twist of Fate
@@ -513,6 +523,7 @@ Giana Sisters: Twisted Dreams
 Portal Knights
 Assassin's Creed Brotherhood
 Dark Future: Blood Red States
+BioShock 2 Remastered
 Alan Wake's American Nightmare
 Total War: MEDIEVAL II - Definitive Edition
 NightSky
@@ -606,6 +617,7 @@ F.E.A.R.
 Blackwell Epiphany
 The Cave
 Stoneshard
+Fallout 2
 Raiden V: Director's Cut
 XCOM: Enemy Unknown
 Arma 2
