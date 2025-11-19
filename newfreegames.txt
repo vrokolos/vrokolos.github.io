@@ -72,7 +72,6 @@ Tales of Maj'Eyal
 Bounty of One
 Prince of Persia: The Two Thrones
 Poker Night at the Inventory
-I’m not a Monster
 Subterrain
 Citizens of Earth
 The Showdown Effect
@@ -148,7 +147,6 @@ Valkyria Chronicles
 The Binding of Isaac
 The Tiny Bang Story
 A Virus Named TOM
-Viscera Cleanup Detail: Shadow Warrior
 Phoenix Wright: Ace Attorney Trilogy
 Rocketbirds: Hardboiled Chicken
 Prince of Persia
@@ -429,8 +427,8 @@ Steel Storm: Burning Retribution
 Bridge Constructor Portal
 Sid Meier's Civilization III: Complete
 Party Hard
+The Long Dark
 Medal of Honor(TM) Multiplayer
-The 39 Steps
 Gish
 Overload
 Finding Paradise
@@ -523,7 +521,6 @@ Wasteland Angel
 Alicia Griffith – Lakeside Murder
 Fell Seal: Arbiter's Mark
 Minecraft: Story Mode - A Telltale Games Series
-Realms of the Haunting
 Hitman 2: Silent Assassin
 Giana Sisters: Twisted Dreams
 Portal Knights
@@ -605,7 +602,6 @@ Hector: Ep 2
 Tomb Raider: Underworld
 The Banner Saga 2
 Darkest Hour: A Hearts of Iron Game
-Insurgency
 Waking Mars
 Skullgirls 2nd Encore
 Risen 2 - Dark Waters
