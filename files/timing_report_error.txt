@@ -1,0 +1,8 @@
+﻿=== PERFORMANCE TIMING REPORT ===
+Steam Friends & Playtime: 2.914 ms
+Load All Games (3994 games): 0 ms
+Process All Games: 130 ms
+Process HowLongToBeat Data: 919 ms
+Process DeckSettings Data: 0 ms
+
+=== ERROR OCCURRED AT: 12.340 ms ===
