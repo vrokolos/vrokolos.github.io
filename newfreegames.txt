@@ -296,7 +296,6 @@ SHENZHEN I/O
 HITMAN 2
 Invisible, Inc.
 The Shapeshifting Detective
-Syberia 2
 Alpha Protocol
 Sherlock Holmes: The Mystery of The Persian Carpet
 World of Goo
@@ -447,7 +446,6 @@ Wargame: European Escalation
 Grey Goo
 Clanfolk
 Two Point Hospital
-Wizard of Legend
 The Elder Scrolls V: Skyrim
 Euro Truck Simulator 2
 Multiwinia
