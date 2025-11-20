@@ -499,6 +499,7 @@ Gratuitous Space Battles
 Warhammer 40,000: Dawn of War II
 RIVE
 Going Medieval
+LEGO The Lord of the Rings
 Stygian: Reign of the Old Ones
 Audiosurf
 F.E.A.R. 3
@@ -604,6 +605,7 @@ Hector: Ep 2
 Tomb Raider: Underworld
 The Banner Saga 2
 Darkest Hour: A Hearts of Iron Game
+LEGO Batman 3: Beyond Gotham
 Waking Mars
 Skullgirls 2nd Encore
 Risen 2 - Dark Waters
