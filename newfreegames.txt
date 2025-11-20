@@ -141,6 +141,7 @@ Warhammer 40,000: Dawn of War III
 Morphblade
 SteamWorld Heist
 Children of Morta
+Emily is Away <3
 Homeworld Remastered Collection
 Organ Trail: Director's Cut
 Valkyria Chronicles
@@ -160,6 +161,7 @@ Hitman: Absolution
 Hero Siege
 Farthest Frontier
 DOOM
+Omno
 Medal of Honor
 Timberborn
 Beholder
@@ -393,6 +395,7 @@ Fortix 2
 Sideway
 SpaceChem
 PUSS!
+Mind Scanners
 Counter-Strike: Source
 Guacamelee! Gold Edition
 Dust: An Elysian Tail
