@@ -222,3 +222,1439 @@
 2025-11-21 13:31:28 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-11-21 13:31:28 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-11-21 13:31:28 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-21 13:31:44 - TIMING: Total execution completed in 17.487 ms
+2025-11-21 14:15:53 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-21 14:15:54 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-21 14:15:54 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-21 14:15:54 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-21 14:15:59 - WARN: Failed to fetch Deck Verified data for "theHunter: Call of the Wild" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:00 - WARN: Failed to fetch Deck Verified data for "Four Kings One War" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:00 - WARN: Failed to fetch Deck Verified data for "Verdun" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:00 - WARN: Failed to fetch Deck Verified data for "SKALD: Against the Black Priory" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:01 - WARN: Failed to fetch Deck Verified data for "Grim Fandango Remastered" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:01 - WARN: Failed to fetch Deck Verified data for "The Talos Principle" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:01 - WARN: Failed to fetch Deck Verified data for "The Banner Saga 3" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:01 - WARN: Failed to fetch Deck Verified data for "Forager" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:01 - WARN: Failed to fetch Deck Verified data for "The Last Door - Collector's Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:01 - WARN: Failed to fetch Deck Verified data for "Yoku's Island Express" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:01 - WARN: Failed to fetch Deck Verified data for "ENDLESS Space 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:01 - WARN: Failed to fetch Deck Verified data for "Chivalry 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:02 - WARN: Failed to fetch Deck Verified data for "Unsolved Case: Murderous Script Collector's Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:02 - WARN: Failed to fetch Deck Verified data for "Disney•Pixar Cars" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:02 - WARN: Failed to fetch Deck Verified data for "ARK Fjordur" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:02 - WARN: Failed to fetch Deck Verified data for "Super Sidekicks" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:02 - WARN: Failed to fetch Deck Verified data for "Sunrider: Mask of Arcadius" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:02 - WARN: Failed to fetch Deck Verified data for "Spec Ops: The Line" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:03 - WARN: Failed to fetch Deck Verified data for "South Park: The Stick of Truth" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:03 - WARN: Failed to fetch Deck Verified data for "Batman: Arkham City" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:03 - WARN: Failed to fetch Deck Verified data for "Interkosmos" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:03 - WARN: Failed to fetch Deck Verified data for "Astronarch" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:03 - WARN: Failed to fetch Deck Verified data for "Star Wars Jedi: Survivor" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:03 - WARN: Failed to fetch Deck Verified data for "GoNNER" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:03 - WARN: Failed to fetch Deck Verified data for "Ascendant" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:03 - WARN: Failed to fetch Deck Verified data for "TerraTech" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:04 - WARN: Failed to fetch Deck Verified data for "Pearls of Atlantis: The Cove" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:04 - WARN: Failed to fetch Deck Verified data for "Resident Evil 5" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:04 - WARN: Failed to fetch Deck Verified data for "198X" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:04 - WARN: Failed to fetch Deck Verified data for "Super Meat Boy" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:04 - WARN: Failed to fetch Deck Verified data for "Half-Life 2: Episode One" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:04 - WARN: Failed to fetch Deck Verified data for "Return to Mysterious Island 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:05 - WARN: Failed to fetch Deck Verified data for "The Drone Racing League Simulator" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:05 - WARN: Failed to fetch Deck Verified data for "Commandos 3: Destination Berlin" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:05 - WARN: Failed to fetch Deck Verified data for "Figment 2: Creed Valley" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:05 - WARN: Failed to fetch Deck Verified data for "Balconing Simulator 2020" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:05 - WARN: Failed to fetch Deck Verified data for "Gratuitous Space Battles" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:05 - WARN: Failed to fetch Deck Verified data for "Poker Night at the Inventory" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:05 - WARN: Failed to fetch Deck Verified data for "Kingdom Two Crowns" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:06 - WARN: Failed to fetch Deck Verified data for "NBA 2K21" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:06 - WARN: Failed to fetch Deck Verified data for "Mystery Masters: Psycho Train Deluxe Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:06 - WARN: Failed to fetch Deck Verified data for "Pillars of Eternity - Definitive Edition Pack" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:06 - WARN: Failed to fetch Deck Verified data for "Warhammer 40,000: Dawn of War III" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:06 - WARN: Failed to fetch Deck Verified data for "Spelunky" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:06 - WARN: Failed to fetch Deck Verified data for "Supermarket Simulator" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:06 - WARN: Failed to fetch Deck Verified data for "Deponia The Complete Journey" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:07 - WARN: Failed to fetch Deck Verified data for "Nightmares from the Deep: The Cursed Heart" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:07 - WARN: Failed to fetch Deck Verified data for "Runbow" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:07 - WARN: Failed to fetch Deck Verified data for "Evil West" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:07 - WARN: Failed to fetch Deck Verified data for "1000xRESIST" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:07 - WARN: Failed to fetch Deck Verified data for "Strife" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:07 - WARN: Failed to fetch Deck Verified data for "Knockout City" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:07 - WARN: Failed to fetch Deck Verified data for "Impulsion" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:08 - WARN: Failed to fetch Deck Verified data for "SEGA Mega Drive & Genesis Classics" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:08 - WARN: Failed to fetch Deck Verified data for "Aerial_Knight's Never Yield" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:08 - WARN: Failed to fetch Deck Verified data for "NightSky" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:08 - WARN: Failed to fetch Deck Verified data for "Pixel Heroes: Byte & Magic" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:08 - WARN: Failed to fetch Deck Verified data for "Kingdoms of Amalur: Reckoning" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:08 - WARN: Failed to fetch Deck Verified data for "Gone Home" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:08 - WARN: Failed to fetch Deck Verified data for "Agony UNRATED" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:09 - WARN: Failed to fetch Deck Verified data for "Legacy of Kain: Soul Reaver 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:09 - WARN: Failed to fetch Deck Verified data for "Saints Row IV: Re-Elected" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:09 - WARN: Failed to fetch Deck Verified data for "Tandem A Tale of Shadows" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:09 - WARN: Failed to fetch Deck Verified data for "A Dance of Fire and Ice" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:09 - WARN: Failed to fetch Deck Verified data for "Glorkian Warrior: The Trials Of Glork" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:09 - WARN: Failed to fetch Deck Verified data for "Theatre of War 2: Africa 1943" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:09 - WARN: Failed to fetch Deck Verified data for "This Is the Police 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:10 - WARN: Failed to fetch Deck Verified data for "Spintires" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:10 - WARN: Failed to fetch Deck Verified data for "The King of Fighters 2003" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:10 - WARN: Failed to fetch Deck Verified data for "Assassin's Creed Unity" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:10 - WARN: Failed to fetch Deck Verified data for "Aces of the Luftwaffe – Squadron" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:10 - WARN: Failed to fetch Deck Verified data for "The Bridge" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:10 - WARN: Failed to fetch Deck Verified data for "Full Metal Furies" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:10 - WARN: Failed to fetch Deck Verified data for "Hector: Ep 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:11 - WARN: Failed to fetch Deck Verified data for "Dodo Peak" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:11 - WARN: Failed to fetch Deck Verified data for "Inkulinati (Game Preview)" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:11 - WARN: Failed to fetch Deck Verified data for "Inscryption" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:11 - WARN: Failed to fetch Deck Verified data for "The Binding of Isaac: Rebirth" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:11 - WARN: Failed to fetch Deck Verified data for "Transistor" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:11 - WARN: Failed to fetch Deck Verified data for "Silver Chains" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:11 - WARN: Failed to fetch Deck Verified data for "The Last Dream: Developer's Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:12 - WARN: Failed to fetch Deck Verified data for "Trinity Fusion" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:12 - WARN: Failed to fetch Deck Verified data for "PAYDAY 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:12 - WARN: Failed to fetch Deck Verified data for "S.T.A.L.K.E.R.: Shadow of Chernobyl" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:12 - WARN: Failed to fetch Deck Verified data for "Q.U.B.E. 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:12 - WARN: Failed to fetch Deck Verified data for "Tomb Raider II" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:12 - WARN: Failed to fetch Deck Verified data for "Whispering Willows" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:12 - WARN: Failed to fetch Deck Verified data for "Transistor" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:13 - WARN: Failed to fetch Deck Verified data for "Cataclismo" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:13 - WARN: Failed to fetch Deck Verified data for "Gunpoint" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:13 - WARN: Failed to fetch Deck Verified data for "The Outer Worlds 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:13 - WARN: Failed to fetch Deck Verified data for "Velvet Assassin" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:13 - WARN: Failed to fetch Deck Verified data for "Monster Hunter Wilds" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:13 - WARN: Failed to fetch Deck Verified data for "inMomentum" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:13 - WARN: Failed to fetch Deck Verified data for "Screencheat" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:14 - WARN: Failed to fetch Deck Verified data for "Iratus" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:14 - WARN: Failed to fetch Deck Verified data for "Crayon Physics Deluxe" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:14 - WARN: Failed to fetch Deck Verified data for "Hades" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:14 - WARN: Failed to fetch Deck Verified data for "The King of Fighters 2002 Unlimited Match" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:14 - WARN: Failed to fetch Deck Verified data for "Ori and the Blind Forest" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:14 - WARN: Failed to fetch Deck Verified data for "Dead Age" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:14 - WARN: Failed to fetch Deck Verified data for "Runaway: A Twist of Fate" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:15 - WARN: Failed to fetch Deck Verified data for "Sniper Elite" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:15 - WARN: Failed to fetch Deck Verified data for "Super Lucky's Tale" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:15 - WARN: Failed to fetch Deck Verified data for "TSIOQUE" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:15 - WARN: Failed to fetch Deck Verified data for "while True: learn()" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:15 - WARN: Failed to fetch Deck Verified data for "Gratuitous Space Battles" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:15 - WARN: Failed to fetch Deck Verified data for "Dragon Age: Origins - Ultimate Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:15 - WARN: Failed to fetch Deck Verified data for "Tony Hawk's Pro Skater 3 + 4" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:16 - WARN: Failed to fetch Deck Verified data for "Marine Sharpshooter II: Jungle Warfare" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:16 - WARN: Failed to fetch Deck Verified data for "Death's Door" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:16 - WARN: Failed to fetch Deck Verified data for "Resident Evil 6" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:16 - WARN: Failed to fetch Deck Verified data for "Crusader Kings III" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:16 - WARN: Failed to fetch Deck Verified data for "Super Meat Boy" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:16 - WARN: Failed to fetch Deck Verified data for "Naheulbeuk's Dungeon Master" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:16 - WARN: Failed to fetch Deck Verified data for "DARQ" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:17 - WARN: Failed to fetch Deck Verified data for "Legends of Runeterra" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:17 - WARN: Failed to fetch Deck Verified data for "Fallout: New Vegas" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:17 - WARN: Failed to fetch Deck Verified data for "Call of Duty: Modern Warfare III" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:17 - WARN: Failed to fetch Deck Verified data for "Turbo Pug DX" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:17 - WARN: Failed to fetch Deck Verified data for "MOLEK-SYNTEZ" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:17 - WARN: Failed to fetch Deck Verified data for "Tonight We Riot" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:18 - WARN: Failed to fetch Deck Verified data for "Leviathan: Warships" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:18 - WARN: Failed to fetch Deck Verified data for "Lost Horizon" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:18 - WARN: Failed to fetch Deck Verified data for "HITMAN" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:18 - WARN: Failed to fetch Deck Verified data for "MONSTER HUNTER RISE" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:18 - WARN: Failed to fetch Deck Verified data for "Syberia II" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:18 - WARN: Failed to fetch Deck Verified data for "The Witcher Adventure Game" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:18 - WARN: Failed to fetch Deck Verified data for "Satellite Reign" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:18 - WARN: Failed to fetch Deck Verified data for "FM21 Resource Archiver" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:19 - WARN: Failed to fetch Deck Verified data for "Goat Simulator" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:19 - WARN: Failed to fetch Deck Verified data for "Behind the Frame: The Finest Scenery VR" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:19 - WARN: Failed to fetch Deck Verified data for "GRIP" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:19 - WARN: Failed to fetch Deck Verified data for "Full Throttle Remastered" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:19 - WARN: Failed to fetch Deck Verified data for "Cities: Skylines  Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:19 - WARN: Failed to fetch Deck Verified data for "Aces of the Luftwaffe - Squadron Extended Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:20 - WARN: Failed to fetch Deck Verified data for "The Elder Scrolls V: Skyrim" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:20 - WARN: Failed to fetch Deck Verified data for "Layers of Fear 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:20 - WARN: Failed to fetch Deck Verified data for "Salt and Sanctuary" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:20 - WARN: Failed to fetch Deck Verified data for "Peppa Pig: World Adventures" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:20 - WARN: Failed to fetch Deck Verified data for "LEGO Star Wars: The Skywalker Saga" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:20 - WARN: Failed to fetch Deck Verified data for "Treasure Adventure Game" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:20 - WARN: Failed to fetch Deck Verified data for "Internet Cafe Simulator" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:21 - WARN: Failed to fetch Deck Verified data for "Gamedec - Definitive Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:21 - WARN: Failed to fetch Deck Verified data for "Map Pack" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:21 - WARN: Failed to fetch Deck Verified data for "Die Young: Prologue" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:21 - WARN: Failed to fetch Deck Verified data for "Nomad Survival" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:21 - WARN: Failed to fetch Deck Verified data for "Affliction" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:21 - WARN: Failed to fetch Deck Verified data for "DogFighter" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:21 - WARN: Failed to fetch Deck Verified data for "Revita" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:22 - WARN: Failed to fetch Deck Verified data for "Relicta" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:22 - WARN: Failed to fetch Deck Verified data for "Return of the Obra Dinn" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:22 - WARN: Failed to fetch Deck Verified data for "Deus Ex: The Fall" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:22 - WARN: Failed to fetch Deck Verified data for "Grand Theft Auto V" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:22 - WARN: Failed to fetch Deck Verified data for "Helium Rain" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:22 - WARN: Failed to fetch Deck Verified data for "Uplink" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:22 - WARN: Failed to fetch Deck Verified data for "Fahrenheit: Indigo Prophecy Remastered" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:23 - WARN: Failed to fetch Deck Verified data for "FurryFury" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:23 - WARN: Failed to fetch Deck Verified data for "Tobe's Vertical Adventure" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:23 - WARN: Failed to fetch Deck Verified data for "Warhammer 40,000: Battlesector" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:23 - WARN: Failed to fetch Deck Verified data for "Deiland" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:23 - WARN: Failed to fetch Deck Verified data for "Mordheim: City of the Damned" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:23 - WARN: Failed to fetch Deck Verified data for "Morkredd" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:23 - WARN: Failed to fetch Deck Verified data for "Interplanetary" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:24 - WARN: Failed to fetch Deck Verified data for "Schedule I" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:24 - WARN: Failed to fetch Deck Verified data for "vApe Escape" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:24 - WARN: Failed to fetch Deck Verified data for "Besiege + The Splintered Sea DLC" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:24 - WARN: Failed to fetch Deck Verified data for "Lake" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:24 - WARN: Failed to fetch Deck Verified data for "Frostpunk 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:24 - WARN: Failed to fetch Deck Verified data for "Organ Trail: Director's Cut" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:24 - WARN: Failed to fetch Deck Verified data for "The Textorcist" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:25 - WARN: Failed to fetch Deck Verified data for "Hi-Fi RUSH" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:25 - WARN: Failed to fetch Deck Verified data for "Distance" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:25 - WARN: Failed to fetch Deck Verified data for "Jack Orlando Director's Cut" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:25 - WARN: Failed to fetch Deck Verified data for "STAR WARS Jedi Knight: Dark Forces II" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:25 - WARN: Failed to fetch Deck Verified data for "Kulebra and the Souls of Limbo" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:25 - WARN: Failed to fetch Deck Verified data for "Dust: An Elysian Tail" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:25 - WARN: Failed to fetch Deck Verified data for "Shadow Warrior (2013) DirectX 11 Version" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:26 - WARN: Failed to fetch Deck Verified data for "The Leviathan's fantasy" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:26 - WARN: Failed to fetch Deck Verified data for "Destiny or Fate" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:26 - WARN: Failed to fetch Deck Verified data for "Against All Odds" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:26 - WARN: Failed to fetch Deck Verified data for "Trials of the Blood Dragon" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:26 - WARN: Failed to fetch Deck Verified data for "Clone Drone in the Danger Zone" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:26 - WARN: Failed to fetch Deck Verified data for "CRYPTARK" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:26 - WARN: Failed to fetch Deck Verified data for "The Vanishing of Ethan Carter" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:27 - WARN: Failed to fetch Deck Verified data for "Age of Wonders 2: The Wizard's Throne" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:27 - WARN: Failed to fetch Deck Verified data for "OddBallers" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:27 - WARN: Failed to fetch Deck Verified data for "Dishonored: Death of the Outsider" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:27 - WARN: Failed to fetch Deck Verified data for "Wallace & Gromit: Fright of the Bumblebees" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:27 - WARN: Failed to fetch Deck Verified data for "Elite Dangerous" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:27 - WARN: Failed to fetch Deck Verified data for "Mystery Case Files: Black Crown - CE" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:27 - WARN: Failed to fetch Deck Verified data for "Blackguards 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:28 - WARN: Failed to fetch Deck Verified data for "Quake III Arena" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:28 - WARN: Failed to fetch Deck Verified data for "Sir, You Are Being Hunted" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:28 - WARN: Failed to fetch Deck Verified data for "Max: The Curse of Brotherhood" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:28 - WARN: Failed to fetch Deck Verified data for "Total War: MEDIEVAL II - Definitive Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:28 - WARN: Failed to fetch Deck Verified data for "Steel Rats" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:28 - WARN: Failed to fetch Deck Verified data for "Police Simulator: Patrol Officers" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:28 - WARN: Failed to fetch Deck Verified data for "Rocket League" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:29 - WARN: Failed to fetch Deck Verified data for "Fallout New Vegas: Gun Runners’ Arsenal" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:29 - WARN: Failed to fetch Deck Verified data for "Assassin’s Creed Syndicate" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:29 - WARN: Failed to fetch Deck Verified data for "Never Alone (Kisima Ingitchuna)" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:29 - WARN: Failed to fetch Deck Verified data for "Tacoma" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:29 - WARN: Failed to fetch Deck Verified data for "Awesomenauts" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:29 - WARN: Failed to fetch Deck Verified data for "Paradox Soul" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:29 - WARN: Failed to fetch Deck Verified data for "Teenage Mutant Ninja Turtles: Shredder's Revenge" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:30 - WARN: Failed to fetch Deck Verified data for "Helping the Hotties" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:30 - WARN: Failed to fetch Deck Verified data for "Trine" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:30 - WARN: Failed to fetch Deck Verified data for "Death Goat" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:30 - WARN: Failed to fetch Deck Verified data for "Leisure Suit Larry 3 - Passionate Patti in Pursuit of the Pulsating Pectorals" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:30 - WARN: Failed to fetch Deck Verified data for "Prince of Persia The Lost Crown" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:30 - WARN: Failed to fetch Deck Verified data for "Red Solstice 2: Survivors" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:30 - WARN: Failed to fetch Deck Verified data for "Gris" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:31 - WARN: Failed to fetch Deck Verified data for "Starseed Pilgrim" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:31 - WARN: Failed to fetch Deck Verified data for "Moving Out" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:31 - WARN: Failed to fetch Deck Verified data for "World of Goo" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:31 - WARN: Failed to fetch Deck Verified data for "TRIALS of MANA" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:31 - WARN: Failed to fetch Deck Verified data for "The Banner Saga" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:31 - WARN: Failed to fetch Deck Verified data for "Agatha Christie - Hercule Poirot: The First Cases" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:31 - WARN: Failed to fetch Deck Verified data for "Super Time Force Ultra" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:32 - WARN: Failed to fetch Deck Verified data for "Caribbean Crashers" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:32 - WARN: Failed to fetch Deck Verified data for "Slain: Back from Hell" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:32 - WARN: Failed to fetch Deck Verified data for "Hero's Hour" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:32 - WARN: Failed to fetch Deck Verified data for "Elite Dangerous" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:32 - WARN: Failed to fetch Deck Verified data for "Back to the Future: Ep 1 - It's About Time" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:32 - WARN: Failed to fetch Deck Verified data for "Aground" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:32 - WARN: Failed to fetch Deck Verified data for "POSTAL: Classic and Uncut" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:33 - WARN: Failed to fetch Deck Verified data for "Outer Wilds" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:33 - WARN: Failed to fetch Deck Verified data for "Hammerfight" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:33 - WARN: Failed to fetch Deck Verified data for "Train Valley 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:33 - WARN: Failed to fetch Deck Verified data for "BioShock 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:33 - WARN: Failed to fetch Deck Verified data for "Dear Esther" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:33 - WARN: Failed to fetch Deck Verified data for "Wasteland 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:33 - WARN: Failed to fetch Deck Verified data for "Saints Row IV" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:34 - WARN: Failed to fetch Deck Verified data for "Among Us" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:34 - WARN: Failed to fetch Deck Verified data for "New Tales from the Borderlands" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:34 - WARN: Failed to fetch Deck Verified data for "Little Nightmares II" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:34 - WARN: Failed to fetch Deck Verified data for "Eternights" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:34 - WARN: Failed to fetch Deck Verified data for "Deliver At All Costs" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:16:34 - WARN: Failed to fetch Deck Verified data for "Else Heart.Break()" (SteamID: ) - HTTP 429
+2025-11-21 14:16:35 - WARN: Failed to fetch Deck Verified data for "Xenonauts" (SteamID: ) - HTTP 429
+2025-11-21 14:16:35 - WARN: Failed to fetch Deck Verified data for "Tharsis" (SteamID: ) - HTTP 429
+2025-11-21 14:16:35 - WARN: Failed to fetch Deck Verified data for "The Tomorrow War" (SteamID: ) - HTTP 429
+2025-11-21 14:16:35 - WARN: Failed to fetch Deck Verified data for "Mail Time" (SteamID: ) - HTTP 429
+2025-11-21 14:16:35 - WARN: Failed to fetch Deck Verified data for "Subterrain" (SteamID: ) - HTTP 429
+2025-11-21 14:16:35 - WARN: Failed to fetch Deck Verified data for "Pathway" (SteamID: ) - HTTP 429
+2025-11-21 14:16:35 - WARN: Failed to fetch Deck Verified data for "Lost Ruins" (SteamID: ) - HTTP 429
+2025-11-21 14:16:35 - WARN: Failed to fetch Deck Verified data for "DEATH STRANDING" (SteamID: ) - HTTP 429
+2025-11-21 14:16:36 - WARN: Failed to fetch Deck Verified data for "Sacred Citadel" (SteamID: ) - HTTP 429
+2025-11-21 14:16:36 - WARN: Failed to fetch Deck Verified data for "Tales of Monkey Island: Chapter 5" (SteamID: ) - HTTP 429
+2025-11-21 14:16:36 - WARN: Failed to fetch Deck Verified data for "Ozymandias: Bronze Age Empire Sim" (SteamID: ) - HTTP 429
+2025-11-21 14:16:36 - WARN: Failed to fetch Deck Verified data for "Impostor Factory" (SteamID: ) - HTTP 429
+2025-11-21 14:16:36 - WARN: Failed to fetch Deck Verified data for "Surviving Mars" (SteamID: ) - HTTP 429
+2025-11-21 14:16:36 - WARN: Failed to fetch Deck Verified data for "Deus Ex GOTY Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:16:37 - WARN: Failed to fetch Deck Verified data for "CryoFall" (SteamID: ) - HTTP 429
+2025-11-21 14:16:37 - WARN: Failed to fetch Deck Verified data for "to a T" (SteamID: ) - HTTP 429
+2025-11-21 14:16:37 - WARN: Failed to fetch Deck Verified data for "Don't Starve" (SteamID: ) - HTTP 429
+2025-11-21 14:16:37 - WARN: Failed to fetch Deck Verified data for "Death Stranding" (SteamID: ) - HTTP 429
+2025-11-21 14:16:37 - WARN: Failed to fetch Deck Verified data for "Surf World Series" (SteamID: ) - HTTP 429
+2025-11-21 14:16:37 - WARN: Failed to fetch Deck Verified data for "Thronebreaker: The Witcher Tales" (SteamID: ) - HTTP 429
+2025-11-21 14:16:37 - WARN: Failed to fetch Deck Verified data for "Crash Bandicoot N. Sane Trilogy" (SteamID: ) - HTTP 429
+2025-11-21 14:16:38 - WARN: Failed to fetch Deck Verified data for "Metaphor: ReFantazio" (SteamID: ) - HTTP 429
+2025-11-21 14:16:38 - WARN: Failed to fetch Deck Verified data for "Broilers" (SteamID: ) - HTTP 429
+2025-11-21 14:16:38 - WARN: Failed to fetch Deck Verified data for "Valheim (Game Preview)" (SteamID: ) - HTTP 429
+2025-11-21 14:16:38 - WARN: Failed to fetch Deck Verified data for "Back to the Dawn" (SteamID: ) - HTTP 429
+2025-11-21 14:16:38 - WARN: Failed to fetch Deck Verified data for "Left 4 Dead" (SteamID: ) - HTTP 429
+2025-11-21 14:16:38 - WARN: Failed to fetch Deck Verified data for "Old School Musical" (SteamID: ) - HTTP 429
+2025-11-21 14:16:38 - WARN: Failed to fetch Deck Verified data for "Residual" (SteamID: ) - HTTP 429
+2025-11-21 14:16:39 - WARN: Failed to fetch Deck Verified data for "Dicey Dungeons" (SteamID: ) - HTTP 429
+2025-11-21 14:16:39 - WARN: Failed to fetch Deck Verified data for "Leisure Suit Larry 6 - Shape Up Or Slip Out" (SteamID: ) - HTTP 429
+2025-11-21 14:16:39 - WARN: Failed to fetch Deck Verified data for "DOOM + DOOM II" (SteamID: ) - HTTP 429
+2025-11-21 14:16:39 - WARN: Failed to fetch Deck Verified data for "Blue Prince" (SteamID: ) - HTTP 429
+2025-11-21 14:16:39 - WARN: Failed to fetch Deck Verified data for "Assassin’s Creed Chronicles: India" (SteamID: ) - HTTP 429
+2025-11-21 14:16:39 - WARN: Failed to fetch Deck Verified data for "When Ski Lifts Go Wrong " (SteamID: ) - HTTP 429
+2025-11-21 14:16:39 - WARN: Failed to fetch Deck Verified data for "Abandon Ship" (SteamID: ) - HTTP 429
+2025-11-21 14:16:40 - WARN: Failed to fetch Deck Verified data for "Jalopy" (SteamID: ) - HTTP 429
+2025-11-21 14:16:40 - WARN: Failed to fetch Deck Verified data for "Star Wars: Knights of the Old Republic II - The Sith Lords" (SteamID: ) - HTTP 429
+2025-11-21 14:16:40 - WARN: Failed to fetch Deck Verified data for "Pacific Drive" (SteamID: ) - HTTP 429
+2025-11-21 14:16:40 - WARN: Failed to fetch Deck Verified data for "Chessarama" (SteamID: ) - HTTP 429
+2025-11-21 14:16:40 - WARN: Failed to fetch Deck Verified data for "Rain World" (SteamID: ) - HTTP 429
+2025-11-21 14:16:40 - WARN: Failed to fetch Deck Verified data for "Blackwell Deception" (SteamID: ) - HTTP 429
+2025-11-21 14:16:40 - WARN: Failed to fetch Deck Verified data for "SteamWorld Quest: Hand of Gilgamech" (SteamID: ) - HTTP 429
+2025-11-21 14:16:41 - WARN: Failed to fetch Deck Verified data for "Age of Empires IV: Anniversary Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:16:41 - WARN: Failed to fetch Deck Verified data for "Serious Sam Fusion 2017 (beta)" (SteamID: ) - HTTP 429
+2025-11-21 14:16:41 - WARN: Failed to fetch Deck Verified data for "MineSweeper (Free)" (SteamID: ) - HTTP 429
+2025-11-21 14:16:41 - WARN: Failed to fetch Deck Verified data for "Critical Mass" (SteamID: ) - HTTP 429
+2025-11-21 14:16:41 - WARN: Failed to fetch Deck Verified data for "Medieval Dynasty" (SteamID: ) - HTTP 429
+2025-11-21 14:16:41 - WARN: Failed to fetch Deck Verified data for "Tempest 4000" (SteamID: ) - HTTP 429
+2025-11-21 14:16:41 - WARN: Failed to fetch Deck Verified data for "SELECTIONS OF TITAN ART BOOK" (SteamID: ) - HTTP 429
+2025-11-21 14:16:42 - WARN: Failed to fetch Deck Verified data for "Tomb Raider: Anniversary" (SteamID: ) - HTTP 429
+2025-11-21 14:16:42 - WARN: Failed to fetch Deck Verified data for "The Forest Quartet" (SteamID: ) - HTTP 429
+2025-11-21 14:16:42 - WARN: Failed to fetch Deck Verified data for "Thief: Deadly Shadows" (SteamID: ) - HTTP 429
+2025-11-21 14:16:42 - WARN: Failed to fetch Deck Verified data for "TOEM" (SteamID: ) - HTTP 429
+2025-11-21 14:16:42 - WARN: Failed to fetch Deck Verified data for "Cris Tales" (SteamID: ) - HTTP 429
+2025-11-21 14:16:42 - WARN: Failed to fetch Deck Verified data for "The Rise of the Golden Idol" (SteamID: ) - HTTP 429
+2025-11-21 14:16:42 - WARN: Failed to fetch Deck Verified data for "Memoria" (SteamID: ) - HTTP 429
+2025-11-21 14:16:43 - WARN: Failed to fetch Deck Verified data for "Gothic 3" (SteamID: ) - HTTP 429
+2025-11-21 14:16:43 - WARN: Failed to fetch Deck Verified data for "Lethal League Blaze" (SteamID: ) - HTTP 429
+2025-11-21 14:16:43 - WARN: Failed to fetch Deck Verified data for "SteamWorld Dig 2" (SteamID: ) - HTTP 429
+2025-11-21 14:16:43 - WARN: Failed to fetch Deck Verified data for "Going Medieval" (SteamID: ) - HTTP 429
+2025-11-21 14:16:43 - WARN: Failed to fetch Deck Verified data for "Into The Breach" (SteamID: ) - HTTP 429
+2025-11-21 14:16:43 - WARN: Failed to fetch Deck Verified data for "RUINER" (SteamID: ) - HTTP 429
+2025-11-21 14:16:43 - WARN: Failed to fetch Deck Verified data for "Gravity Circuit" (SteamID: ) - HTTP 429
+2025-11-21 14:16:44 - WARN: Failed to fetch Deck Verified data for "Evergarden" (SteamID: ) - HTTP 429
+2025-11-21 14:16:44 - WARN: Failed to fetch Deck Verified data for "Joe Dever's Lone Wolf HD Remastered" (SteamID: ) - HTTP 429
+2025-11-21 14:16:44 - WARN: Failed to fetch Deck Verified data for "The Binding of Isaac" (SteamID: ) - HTTP 429
+2025-11-21 14:16:44 - WARN: Failed to fetch Deck Verified data for "Model Builder" (SteamID: ) - HTTP 429
+2025-11-21 14:16:44 - WARN: Failed to fetch Deck Verified data for "ARK Ragnarok" (SteamID: ) - HTTP 429
+2025-11-21 14:16:44 - WARN: Failed to fetch Deck Verified data for "Hard Reset Redux" (SteamID: ) - HTTP 429
+2025-11-21 14:16:44 - WARN: Failed to fetch Deck Verified data for "Game of Thrones " (SteamID: ) - HTTP 429
+2025-11-21 14:16:45 - WARN: Failed to fetch Deck Verified data for "ReDrawn: The Painted Tower" (SteamID: ) - HTTP 429
+2025-11-21 14:16:45 - WARN: Failed to fetch Deck Verified data for "STAR WARS Battlefront II" (SteamID: ) - HTTP 429
+2025-11-21 14:16:45 - WARN: Failed to fetch Deck Verified data for "The King's Bird" (SteamID: ) - HTTP 429
+2025-11-21 14:16:45 - WARN: Failed to fetch Deck Verified data for "Call of Duty" (SteamID: ) - HTTP 429
+2025-11-21 14:16:45 - WARN: Failed to fetch Deck Verified data for "Invincible Presents: Atom Eve" (SteamID: ) - HTTP 429
+2025-11-21 14:16:45 - WARN: Failed to fetch Deck Verified data for "Samorost 1" (SteamID: ) - HTTP 429
+2025-11-21 14:16:45 - WARN: Failed to fetch Deck Verified data for "Shadows: Heretic Kingdoms" (SteamID: ) - HTTP 429
+2025-11-21 14:16:46 - WARN: Failed to fetch Deck Verified data for "Fallout" (SteamID: ) - HTTP 429
+2025-11-21 14:16:46 - WARN: Failed to fetch Deck Verified data for "Ziggurat" (SteamID: ) - HTTP 429
+2025-11-21 14:16:46 - WARN: Failed to fetch Deck Verified data for "Legendary" (SteamID: ) - HTTP 429
+2025-11-21 14:16:46 - WARN: Failed to fetch Deck Verified data for "Braid" (SteamID: ) - HTTP 429
+2025-11-21 14:16:46 - WARN: Failed to fetch Deck Verified data for "Rust" (SteamID: ) - HTTP 429
+2025-11-21 14:16:46 - WARN: Failed to fetch Deck Verified data for "SHENZHEN I/O" (SteamID: ) - HTTP 429
+2025-11-21 14:16:46 - WARN: Failed to fetch Deck Verified data for "Submerged Hidden Depths" (SteamID: ) - HTTP 429
+2025-11-21 14:16:47 - WARN: Failed to fetch Deck Verified data for "Bridge Constructor: Medieval" (SteamID: ) - HTTP 429
+2025-11-21 14:16:47 - WARN: Failed to fetch Deck Verified data for "Ravenloft: Strahd's Possession" (SteamID: ) - HTTP 429
+2025-11-21 14:16:47 - WARN: Failed to fetch Deck Verified data for "Effie" (SteamID: ) - HTTP 429
+2025-11-21 14:16:47 - WARN: Failed to fetch Deck Verified data for "Just Cause 2" (SteamID: ) - HTTP 429
+2025-11-21 14:16:47 - WARN: Failed to fetch Deck Verified data for "Adam's Venture Chronicles" (SteamID: ) - HTTP 429
+2025-11-21 14:16:47 - WARN: Failed to fetch Deck Verified data for "Tormented Souls" (SteamID: ) - HTTP 429
+2025-11-21 14:16:47 - WARN: Failed to fetch Deck Verified data for "Hearts of Iron IV" (SteamID: ) - HTTP 429
+2025-11-21 14:16:48 - WARN: Failed to fetch Deck Verified data for "Hi-Fi RUSH" (SteamID: ) - HTTP 429
+2025-11-21 14:16:48 - WARN: Failed to fetch Deck Verified data for "Five Dates" (SteamID: ) - HTTP 429
+2025-11-21 14:16:48 - WARN: Failed to fetch Deck Verified data for "River City Girls" (SteamID: ) - HTTP 429
+2025-11-21 14:16:48 - WARN: Failed to fetch Deck Verified data for "The Elder Scrolls III: Morrowind GOTY Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:16:48 - WARN: Failed to fetch Deck Verified data for "Violations Will Be Punished" (SteamID: ) - HTTP 429
+2025-11-21 14:16:48 - WARN: Failed to fetch Deck Verified data for "Crash Bandicoot 4: It’s About Time" (SteamID: ) - HTTP 429
+2025-11-21 14:16:49 - WARN: Failed to fetch Deck Verified data for "Spelunky 2" (SteamID: ) - HTTP 429
+2025-11-21 14:16:49 - WARN: Failed to fetch Deck Verified data for "Cogs" (SteamID: ) - HTTP 429
+2025-11-21 14:16:49 - WARN: Failed to fetch Deck Verified data for "Assassin's Creed Chronicles : China" (SteamID: ) - HTTP 429
+2025-11-21 14:16:49 - WARN: Failed to fetch Deck Verified data for "Afterimage" (SteamID: ) - HTTP 429
+2025-11-21 14:16:49 - WARN: Failed to fetch Deck Verified data for "Lure of the Temptress" (SteamID: ) - HTTP 429
+2025-11-21 14:16:49 - WARN: Failed to fetch Deck Verified data for "Face Noir" (SteamID: ) - HTTP 429
+2025-11-21 14:16:49 - WARN: Failed to fetch Deck Verified data for "Skyborn" (SteamID: ) - HTTP 429
+2025-11-21 14:16:50 - WARN: Failed to fetch Deck Verified data for "Yakuza: Like a Dragon" (SteamID: ) - HTTP 429
+2025-11-21 14:16:50 - WARN: Failed to fetch Deck Verified data for "The Witcher 3: Wild Hunt" (SteamID: ) - HTTP 429
+2025-11-21 14:16:50 - WARN: Failed to fetch Deck Verified data for "Portal" (SteamID: ) - HTTP 429
+2025-11-21 14:16:50 - WARN: Failed to fetch Deck Verified data for "Them's Fightin' Herds" (SteamID: ) - HTTP 429
+2025-11-21 14:16:50 - WARN: Failed to fetch Deck Verified data for "Tell Me Why" (SteamID: ) - HTTP 429
+2025-11-21 14:16:50 - WARN: Failed to fetch Deck Verified data for "Dracula: The Resurrection" (SteamID: ) - HTTP 429
+2025-11-21 14:16:50 - WARN: Failed to fetch Deck Verified data for "Hacknet" (SteamID: ) - HTTP 429
+2025-11-21 14:16:51 - WARN: Failed to fetch Deck Verified data for "The Dwarves" (SteamID: ) - HTTP 429
+2025-11-21 14:16:51 - WARN: Failed to fetch Deck Verified data for "Bloons TD 6" (SteamID: ) - HTTP 429
+2025-11-21 14:16:51 - WARN: Failed to fetch Deck Verified data for "RAYMAN LEGENDS" (SteamID: ) - HTTP 429
+2025-11-21 14:16:51 - WARN: Failed to fetch Deck Verified data for "Jotun Valhalla Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:16:51 - WARN: Failed to fetch Deck Verified data for "Tomb Raider GAME OF THE YEAR EDITION" (SteamID: ) - HTTP 429
+2025-11-21 14:16:51 - WARN: Failed to fetch Deck Verified data for "God's Trigger" (SteamID: ) - HTTP 429
+2025-11-21 14:16:51 - WARN: Failed to fetch Deck Verified data for "Metal Slug 2" (SteamID: ) - HTTP 429
+2025-11-21 14:16:52 - WARN: Failed to fetch Deck Verified data for "Gears Tactics - Base Game" (SteamID: ) - HTTP 429
+2025-11-21 14:16:52 - WARN: Failed to fetch Deck Verified data for "Drawn: Trail of Shadows" (SteamID: ) - HTTP 429
+2025-11-21 14:16:52 - WARN: Failed to fetch Deck Verified data for "A Plague Tale: Requiem" (SteamID: ) - HTTP 429
+2025-11-21 14:16:52 - WARN: Failed to fetch Deck Verified data for "Frostpunk" (SteamID: ) - HTTP 429
+2025-11-21 14:16:52 - WARN: Failed to fetch Deck Verified data for "Intrusion 2" (SteamID: ) - HTTP 429
+2025-11-21 14:16:52 - WARN: Failed to fetch Deck Verified data for "The Wandering Village (Game Preview)" (SteamID: ) - HTTP 429
+2025-11-21 14:16:52 - WARN: Failed to fetch Deck Verified data for "Citizen Sleeper" (SteamID: ) - HTTP 429
+2025-11-21 14:16:53 - WARN: Failed to fetch Deck Verified data for "Haunted Hotel: Personal Nightmare" (SteamID: ) - HTTP 429
+2025-11-21 14:16:53 - WARN: Failed to fetch Deck Verified data for "Roadwarden" (SteamID: ) - HTTP 429
+2025-11-21 14:16:53 - WARN: Failed to fetch Deck Verified data for "Cat Quest II" (SteamID: ) - HTTP 429
+2025-11-21 14:16:53 - WARN: Failed to fetch Deck Verified data for "Gamecraft" (SteamID: ) - HTTP 429
+2025-11-21 14:16:53 - WARN: Failed to fetch Deck Verified data for "Bramble: The Mountain King" (SteamID: ) - HTTP 429
+2025-11-21 14:16:53 - WARN: Failed to fetch Deck Verified data for "Train Valley" (SteamID: ) - HTTP 429
+2025-11-21 14:16:53 - WARN: Failed to fetch Deck Verified data for "Dungeon Siege 2" (SteamID: ) - HTTP 429
+2025-11-21 14:16:54 - WARN: Failed to fetch Deck Verified data for "Crying Suns" (SteamID: ) - HTTP 429
+2025-11-21 14:16:54 - WARN: Failed to fetch Deck Verified data for "The Sims 3" (SteamID: ) - HTTP 429
+2025-11-21 14:16:54 - WARN: Failed to fetch Deck Verified data for "Open Roads" (SteamID: ) - HTTP 429
+2025-11-21 14:16:54 - WARN: Failed to fetch Deck Verified data for "Wolfenstein: The New Order" (SteamID: ) - HTTP 429
+2025-11-21 14:16:54 - WARN: Failed to fetch Deck Verified data for "Hue" (SteamID: ) - HTTP 429
+2025-11-21 14:16:54 - WARN: Failed to fetch Deck Verified data for "Hitchhiker" (SteamID: ) - HTTP 429
+2025-11-21 14:16:54 - WARN: Failed to fetch Deck Verified data for "Unavowed" (SteamID: ) - HTTP 429
+2025-11-21 14:16:55 - WARN: Failed to fetch Deck Verified data for "Persona5: The Phantom X" (SteamID: ) - HTTP 429
+2025-11-21 14:16:55 - WARN: Failed to fetch Deck Verified data for "Star Wars: Knights of the Old Republic" (SteamID: ) - HTTP 429
+2025-11-21 14:16:55 - WARN: Failed to fetch Deck Verified data for "Real Bout Fatal Fury 2: The Newcomers" (SteamID: ) - HTTP 429
+2025-11-21 14:16:55 - WARN: Failed to fetch Deck Verified data for "Ogu and the Secret Forest" (SteamID: ) - HTTP 429
+2025-11-21 14:16:55 - WARN: Failed to fetch Deck Verified data for "The Elder Scrolls IV: Oblivion Game of the Year Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:16:55 - WARN: Failed to fetch Deck Verified data for "Castle Break" (SteamID: ) - HTTP 429
+2025-11-21 14:16:55 - WARN: Failed to fetch Deck Verified data for "Living Legends: The Frozen Fear Collection" (SteamID: ) - HTTP 429
+2025-11-21 14:16:56 - WARN: Failed to fetch Deck Verified data for "Spiritfarer: Farewell Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:16:56 - WARN: Failed to fetch Deck Verified data for "Riders Republic" (SteamID: ) - HTTP 429
+2025-11-21 14:16:56 - WARN: Failed to fetch Deck Verified data for "Prison Architect" (SteamID: ) - HTTP 429
+2025-11-21 14:16:56 - WARN: Failed to fetch Deck Verified data for "Deus Ex: Mankind Divided" (SteamID: ) - HTTP 429
+2025-11-21 14:16:56 - WARN: Failed to fetch Deck Verified data for "The Last of Us Part I" (SteamID: ) - HTTP 429
+2025-11-21 14:16:56 - WARN: Failed to fetch Deck Verified data for "Assassin's Creed Revelations" (SteamID: ) - HTTP 429
+2025-11-21 14:16:56 - WARN: Failed to fetch Deck Verified data for "Halo: The Master Chief Collection" (SteamID: ) - HTTP 429
+2025-11-21 14:16:57 - WARN: Failed to fetch Deck Verified data for "The Elder Scrolls IV: Oblivion Remastered" (SteamID: ) - HTTP 429
+2025-11-21 14:16:57 - WARN: Failed to fetch Deck Verified data for "House of 1,000 Doors - Family Secrets" (SteamID: ) - HTTP 429
+2025-11-21 14:16:57 - WARN: Failed to fetch Deck Verified data for "Galactic Civilizations III" (SteamID: ) - HTTP 429
+2025-11-21 14:16:57 - WARN: Failed to fetch Deck Verified data for "Vengeance: Lost Love" (SteamID: ) - HTTP 429
+2025-11-21 14:16:57 - WARN: Failed to fetch Deck Verified data for "Alpha Mission II" (SteamID: ) - HTTP 429
+2025-11-21 14:16:57 - WARN: Failed to fetch Deck Verified data for "Dream Tactics" (SteamID: ) - HTTP 429
+2025-11-21 14:16:57 - WARN: Failed to fetch Deck Verified data for "Sid Meier's Ace Patrol: Pacific Skies" (SteamID: ) - HTTP 429
+2025-11-21 14:16:58 - WARN: Failed to fetch Deck Verified data for "Assassin's Creed Origins" (SteamID: ) - HTTP 429
+2025-11-21 14:16:58 - WARN: Failed to fetch Deck Verified data for "Two Point Hospital" (SteamID: ) - HTTP 429
+2025-11-21 14:16:58 - WARN: Failed to fetch Deck Verified data for "Beyond Blue" (SteamID: ) - HTTP 429
+2025-11-21 14:16:58 - WARN: Failed to fetch Deck Verified data for "Alan Wake's American Nightmare" (SteamID: ) - HTTP 429
+2025-11-21 14:16:58 - WARN: Failed to fetch Deck Verified data for "Snake Eyes Dungeon" (SteamID: ) - HTTP 429
+2025-11-21 14:16:58 - WARN: Failed to fetch Deck Verified data for "Dragon Age: Origins - Ultimate Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:16:58 - WARN: Failed to fetch Deck Verified data for "Hydrophobia: Prophecy" (SteamID: ) - HTTP 429
+2025-11-21 14:16:59 - WARN: Failed to fetch Deck Verified data for "Alwa's Awakening" (SteamID: ) - HTTP 429
+2025-11-21 14:16:59 - WARN: Failed to fetch Deck Verified data for "Wheels of Aurelia" (SteamID: ) - HTTP 429
+2025-11-21 14:16:59 - WARN: Failed to fetch Deck Verified data for "Broforce" (SteamID: ) - HTTP 429
+2025-11-21 14:16:59 - WARN: Failed to fetch Deck Verified data for "Lost in Random" (SteamID: ) - HTTP 429
+2025-11-21 14:16:59 - WARN: Failed to fetch Deck Verified data for "ENDLESS Legend" (SteamID: ) - HTTP 429
+2025-11-21 14:16:59 - WARN: Failed to fetch Deck Verified data for "Hive Jump 2: Survivors" (SteamID: ) - HTTP 429
+2025-11-21 14:16:59 - WARN: Failed to fetch Deck Verified data for "Football Manager 2022" (SteamID: ) - HTTP 429
+2025-11-21 14:17:00 - WARN: Failed to fetch Deck Verified data for "Hearthstone" (SteamID: ) - HTTP 429
+2025-11-21 14:17:00 - WARN: Failed to fetch Deck Verified data for "Quake" (SteamID: ) - HTTP 429
+2025-11-21 14:17:00 - WARN: Failed to fetch Deck Verified data for "Leviathan: The Last Day of the Decade" (SteamID: ) - HTTP 429
+2025-11-21 14:17:00 - WARN: Failed to fetch Deck Verified data for "Cyberpunk 2077" (SteamID: ) - HTTP 429
+2025-11-21 14:17:00 - WARN: Failed to fetch Deck Verified data for "RoboCop: Rogue City" (SteamID: ) - HTTP 429
+2025-11-21 14:17:00 - WARN: Failed to fetch Deck Verified data for "Risk of Rain 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:01 - WARN: Failed to fetch Deck Verified data for "Styx: Master of Shadows" (SteamID: ) - HTTP 429
+2025-11-21 14:17:01 - WARN: Failed to fetch Deck Verified data for "Dead In Bermuda" (SteamID: ) - HTTP 429
+2025-11-21 14:17:01 - WARN: Failed to fetch Deck Verified data for "Asterigos: Curse of the Stars" (SteamID: ) - HTTP 429
+2025-11-21 14:17:01 - WARN: Failed to fetch Deck Verified data for "Disneyland Adventures" (SteamID: ) - HTTP 429
+2025-11-21 14:17:01 - WARN: Failed to fetch Deck Verified data for "SHENZHEN I/O" (SteamID: ) - HTTP 429
+2025-11-21 14:17:01 - WARN: Failed to fetch Deck Verified data for "MultiVR.se" (SteamID: ) - HTTP 429
+2025-11-21 14:17:01 - WARN: Failed to fetch Deck Verified data for "Warcraft II: Remastered" (SteamID: ) - HTTP 429
+2025-11-21 14:17:01 - WARN: Failed to fetch Deck Verified data for "Turok 2: Seeds of Evil" (SteamID: ) - HTTP 429
+2025-11-21 14:17:02 - WARN: Failed to fetch Deck Verified data for "A Tiny Sticker Tale" (SteamID: ) - HTTP 429
+2025-11-21 14:17:02 - WARN: Failed to fetch Deck Verified data for "Jade Empire: Special Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:02 - WARN: Failed to fetch Deck Verified data for "Neverwinter Nights 2: Platinum" (SteamID: ) - HTTP 429
+2025-11-21 14:17:02 - WARN: Failed to fetch Deck Verified data for "Alessia's Dollhouse" (SteamID: ) - HTTP 429
+2025-11-21 14:17:02 - WARN: Failed to fetch Deck Verified data for "Janosik - Highlander Precision Platformer" (SteamID: ) - HTTP 429
+2025-11-21 14:17:02 - WARN: Failed to fetch Deck Verified data for "Fell Seal: Arbiter's Mark" (SteamID: ) - HTTP 429
+2025-11-21 14:17:03 - WARN: Failed to fetch Deck Verified data for "Jorel’s Brother and The Most Important Game of the Galaxy" (SteamID: ) - HTTP 429
+2025-11-21 14:17:03 - WARN: Failed to fetch Deck Verified data for "Samurai Shodown II" (SteamID: ) - HTTP 429
+2025-11-21 14:17:03 - WARN: Failed to fetch Deck Verified data for "Ori and the Blind Forest: Definitive Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:03 - WARN: Failed to fetch Deck Verified data for "Quake 4" (SteamID: ) - HTTP 429
+2025-11-21 14:17:03 - WARN: Failed to fetch Deck Verified data for "The Secret of Monkey Island: Special Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:03 - WARN: Failed to fetch Deck Verified data for "BioShock 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:03 - WARN: Failed to fetch Deck Verified data for "Space Legends: At the Edge of the Universe" (SteamID: ) - HTTP 429
+2025-11-21 14:17:03 - WARN: Failed to fetch Deck Verified data for "My Time At Portia" (SteamID: ) - HTTP 429
+2025-11-21 14:17:04 - WARN: Failed to fetch Deck Verified data for "theHunter: Call of the Wild" (SteamID: ) - HTTP 429
+2025-11-21 14:17:04 - WARN: Failed to fetch Deck Verified data for "Tomb Raider GOTY" (SteamID: ) - HTTP 429
+2025-11-21 14:17:04 - WARN: Failed to fetch Deck Verified data for "Welcome Back To 2007 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:04 - WARN: Failed to fetch Deck Verified data for "Minabo – A Walk Through Life" (SteamID: ) - HTTP 429
+2025-11-21 14:17:04 - WARN: Failed to fetch Deck Verified data for "Moving Out" (SteamID: ) - HTTP 429
+2025-11-21 14:17:04 - WARN: Failed to fetch Deck Verified data for "Wolfenstein II: The New Colossus" (SteamID: ) - HTTP 429
+2025-11-21 14:17:05 - WARN: Failed to fetch Deck Verified data for "Silent Hunter III" (SteamID: ) - HTTP 429
+2025-11-21 14:17:05 - WARN: Failed to fetch Deck Verified data for "Monaco" (SteamID: ) - HTTP 429
+2025-11-21 14:17:05 - WARN: Failed to fetch Deck Verified data for "The Settlers - New Allies" (SteamID: ) - HTTP 429
+2025-11-21 14:17:05 - WARN: Failed to fetch Deck Verified data for "Resident Evil 0" (SteamID: ) - HTTP 429
+2025-11-21 14:17:05 - WARN: Failed to fetch Deck Verified data for "Builders of Greece: Prologue" (SteamID: ) - HTTP 429
+2025-11-21 14:17:05 - WARN: Failed to fetch Deck Verified data for "Fallout 3: Game of the Year Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:05 - WARN: Failed to fetch Deck Verified data for "Merry Snowballs" (SteamID: ) - HTTP 429
+2025-11-21 14:17:06 - WARN: Failed to fetch Deck Verified data for "Shadowrun Returns" (SteamID: ) - HTTP 429
+2025-11-21 14:17:06 - WARN: Failed to fetch Deck Verified data for "Minecraft: Story Mode - A Telltale Games Series" (SteamID: ) - HTTP 429
+2025-11-21 14:17:06 - WARN: Failed to fetch Deck Verified data for "KID A MNESIA EXHIBITION" (SteamID: ) - HTTP 429
+2025-11-21 14:17:06 - WARN: Failed to fetch Deck Verified data for "Wasteland 1 - The Original Classic" (SteamID: ) - HTTP 429
+2025-11-21 14:17:06 - WARN: Failed to fetch Deck Verified data for "Outcast 1.1" (SteamID: ) - HTTP 429
+2025-11-21 14:17:06 - WARN: Failed to fetch Deck Verified data for "SMITE 2 (Game Preview)" (SteamID: ) - HTTP 429
+2025-11-21 14:17:06 - WARN: Failed to fetch Deck Verified data for "Dome Keeper" (SteamID: ) - HTTP 429
+2025-11-21 14:17:07 - WARN: Failed to fetch Deck Verified data for "BeeFense" (SteamID: ) - HTTP 429
+2025-11-21 14:17:07 - WARN: Failed to fetch Deck Verified data for "The Outer Worlds: Spacer's Choice Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:07 - WARN: Failed to fetch Deck Verified data for "Showgunners" (SteamID: ) - HTTP 429
+2025-11-21 14:17:07 - WARN: Failed to fetch Deck Verified data for "Quest for Infamy" (SteamID: ) - HTTP 429
+2025-11-21 14:17:07 - WARN: Failed to fetch Deck Verified data for "League of Legends" (SteamID: ) - HTTP 429
+2025-11-21 14:17:07 - WARN: Failed to fetch Deck Verified data for "Acceleration of SUGURI 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:07 - WARN: Failed to fetch Deck Verified data for "ArcaniA: Fall of Setarrif" (SteamID: ) - HTTP 429
+2025-11-21 14:17:08 - WARN: Failed to fetch Deck Verified data for "Frostpunk Original Soundtrack\t" (SteamID: ) - HTTP 429
+2025-11-21 14:17:08 - WARN: Failed to fetch Deck Verified data for "Baldur's Gate II: Enhanced Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:08 - WARN: Failed to fetch Deck Verified data for "Sunless Skies" (SteamID: ) - HTTP 429
+2025-11-21 14:17:08 - WARN: Failed to fetch Deck Verified data for "Axiom Verge Randomizer Beta" (SteamID: ) - HTTP 429
+2025-11-21 14:17:08 - WARN: Failed to fetch Deck Verified data for "Hand of Fate" (SteamID: ) - HTTP 429
+2025-11-21 14:17:08 - WARN: Failed to fetch Deck Verified data for "Grim Legends: The Forsaken Bride" (SteamID: ) - HTTP 429
+2025-11-21 14:17:08 - WARN: Failed to fetch Deck Verified data for "STEEP" (SteamID: ) - HTTP 429
+2025-11-21 14:17:09 - WARN: Failed to fetch Deck Verified data for "Between Horizons" (SteamID: ) - HTTP 429
+2025-11-21 14:17:09 - WARN: Failed to fetch Deck Verified data for "Day of the Tentacle Remastered" (SteamID: ) - HTTP 429
+2025-11-21 14:17:09 - WARN: Failed to fetch Deck Verified data for "Divine Knockout" (SteamID: ) - HTTP 429
+2025-11-21 14:17:09 - WARN: Failed to fetch Deck Verified data for "Warhammer 40,000: Darktide" (SteamID: ) - HTTP 429
+2025-11-21 14:17:09 - WARN: Failed to fetch Deck Verified data for "Strangeland" (SteamID: ) - HTTP 429
+2025-11-21 14:17:09 - WARN: Failed to fetch Deck Verified data for "Deep Sky Derelicts" (SteamID: ) - HTTP 429
+2025-11-21 14:17:09 - WARN: Failed to fetch Deck Verified data for "Sideway" (SteamID: ) - HTTP 429
+2025-11-21 14:17:10 - WARN: Failed to fetch Deck Verified data for "Heroes of the Lance" (SteamID: ) - HTTP 429
+2025-11-21 14:17:10 - WARN: Failed to fetch Deck Verified data for "Dragon Age II: Ultimate Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:10 - WARN: Failed to fetch Deck Verified data for "Banishers: Ghosts of New Eden" (SteamID: ) - HTTP 429
+2025-11-21 14:17:10 - WARN: Failed to fetch Deck Verified data for "Skulls of the Shogun" (SteamID: ) - HTTP 429
+2025-11-21 14:17:10 - WARN: Failed to fetch Deck Verified data for "Far Cry New Dawn" (SteamID: ) - HTTP 429
+2025-11-21 14:17:10 - WARN: Failed to fetch Deck Verified data for "Commandos: Behind Enemy Lines" (SteamID: ) - HTTP 429
+2025-11-21 14:17:10 - WARN: Failed to fetch Deck Verified data for "ArcaniA" (SteamID: ) - HTTP 429
+2025-11-21 14:17:11 - WARN: Failed to fetch Deck Verified data for "Tomb Raider: Underworld" (SteamID: ) - HTTP 429
+2025-11-21 14:17:11 - WARN: Failed to fetch Deck Verified data for "Rabbids: Party of Legends" (SteamID: ) - HTTP 429
+2025-11-21 14:17:11 - WARN: Failed to fetch Deck Verified data for "Wandersong" (SteamID: ) - HTTP 429
+2025-11-21 14:17:11 - WARN: Failed to fetch Deck Verified data for "Sanctum" (SteamID: ) - HTTP 429
+2025-11-21 14:17:11 - WARN: Failed to fetch Deck Verified data for "Sherlock Holmes versus Jack the Ripper" (SteamID: ) - HTTP 429
+2025-11-21 14:17:11 - WARN: Failed to fetch Deck Verified data for "Arma: Gold Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:11 - WARN: Failed to fetch Deck Verified data for "Dishonored - Definitive Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:12 - WARN: Failed to fetch Deck Verified data for "Hogwarts Legacy" (SteamID: ) - HTTP 429
+2025-11-21 14:17:12 - WARN: Failed to fetch Deck Verified data for "The Rosebud Condominium" (SteamID: ) - HTTP 429
+2025-11-21 14:17:12 - WARN: Failed to fetch Deck Verified data for "RAGE 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:12 - WARN: Failed to fetch Deck Verified data for "Watch Dogs: Legion" (SteamID: ) - HTTP 429
+2025-11-21 14:17:12 - WARN: Failed to fetch Deck Verified data for "Fallout 76" (SteamID: ) - HTTP 429
+2025-11-21 14:17:12 - WARN: Failed to fetch Deck Verified data for "Sherlock Holmes: Crimes and Punishments" (SteamID: ) - HTTP 429
+2025-11-21 14:17:12 - WARN: Failed to fetch Deck Verified data for "The Pale Beyond" (SteamID: ) - HTTP 429
+2025-11-21 14:17:13 - WARN: Failed to fetch Deck Verified data for "Homeworld Remastered Collection" (SteamID: ) - HTTP 429
+2025-11-21 14:17:13 - WARN: Failed to fetch Deck Verified data for "Sinking Island" (SteamID: ) - HTTP 429
+2025-11-21 14:17:13 - WARN: Failed to fetch Deck Verified data for "Rabbit Hole 3D: Steam Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:13 - WARN: Failed to fetch Deck Verified data for "Tales of the Neon Sea" (SteamID: ) - HTTP 429
+2025-11-21 14:17:13 - WARN: Failed to fetch Deck Verified data for "Bleeding Edge" (SteamID: ) - HTTP 429
+2025-11-21 14:17:13 - WARN: Failed to fetch Deck Verified data for "Gigapocalypse" (SteamID: ) - HTTP 429
+2025-11-21 14:17:13 - WARN: Failed to fetch Deck Verified data for "World In Conflict" (SteamID: ) - HTTP 429
+2025-11-21 14:17:14 - WARN: Failed to fetch Deck Verified data for "Dragon Age: Origins - Ultimate Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:14 - WARN: Failed to fetch Deck Verified data for "Call of Duty: WWII" (SteamID: ) - HTTP 429
+2025-11-21 14:17:14 - WARN: Failed to fetch Deck Verified data for "Jazz Jackrabbit 2: The Secret Files" (SteamID: ) - HTTP 429
+2025-11-21 14:17:14 - WARN: Failed to fetch Deck Verified data for "Turnip Boy Commits Tax Evasion" (SteamID: ) - HTTP 429
+2025-11-21 14:17:14 - WARN: Failed to fetch Deck Verified data for "Hatoful Boyfriend" (SteamID: ) - HTTP 429
+2025-11-21 14:17:14 - WARN: Failed to fetch Deck Verified data for "Moving Out 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:14 - WARN: Failed to fetch Deck Verified data for "McPixel" (SteamID: ) - HTTP 429
+2025-11-21 14:17:15 - WARN: Failed to fetch Deck Verified data for "Whiskey & Zombies: Great Southern Zombie Escape" (SteamID: ) - HTTP 429
+2025-11-21 14:17:15 - WARN: Failed to fetch Deck Verified data for "Rogue: Genesia" (SteamID: ) - HTTP 429
+2025-11-21 14:17:15 - WARN: Failed to fetch Deck Verified data for "God of War" (SteamID: ) - HTTP 429
+2025-11-21 14:17:15 - WARN: Failed to fetch Deck Verified data for "Biing!: Sex, Intrigue and Scalpels" (SteamID: ) - HTTP 429
+2025-11-21 14:17:15 - WARN: Failed to fetch Deck Verified data for "Book of Demons" (SteamID: ) - HTTP 429
+2025-11-21 14:17:15 - WARN: Failed to fetch Deck Verified data for "Murder by Numbers" (SteamID: ) - HTTP 429
+2025-11-21 14:17:15 - WARN: Failed to fetch Deck Verified data for "Abyss: The Wraiths of Eden" (SteamID: ) - HTTP 429
+2025-11-21 14:17:16 - WARN: Failed to fetch Deck Verified data for "Amnesia: A Machine For Pigs" (SteamID: ) - HTTP 429
+2025-11-21 14:17:16 - WARN: Failed to fetch Deck Verified data for "Yesterday Origins" (SteamID: ) - HTTP 429
+2025-11-21 14:17:16 - WARN: Failed to fetch Deck Verified data for "Pirates of Black Cove Gold" (SteamID: ) - HTTP 429
+2025-11-21 14:17:16 - WARN: Failed to fetch Deck Verified data for "Hundred Days Grape Lab" (SteamID: ) - HTTP 429
+2025-11-21 14:17:16 - WARN: Failed to fetch Deck Verified data for "Somerville" (SteamID: ) - HTTP 429
+2025-11-21 14:17:16 - WARN: Failed to fetch Deck Verified data for "Assassin's Creed Rogue" (SteamID: ) - HTTP 429
+2025-11-21 14:17:16 - WARN: Failed to fetch Deck Verified data for "SpellForce 3: Versus Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:17 - WARN: Failed to fetch Deck Verified data for "Anno 2070" (SteamID: ) - HTTP 429
+2025-11-21 14:17:17 - WARN: Failed to fetch Deck Verified data for "SteamWorld Heist" (SteamID: ) - HTTP 429
+2025-11-21 14:17:17 - WARN: Failed to fetch Deck Verified data for "Soccer Brawl" (SteamID: ) - HTTP 429
+2025-11-21 14:17:17 - WARN: Failed to fetch Deck Verified data for "Tales from Candlekeep: Tomb of Annihilation" (SteamID: ) - HTTP 429
+2025-11-21 14:17:17 - WARN: Failed to fetch Deck Verified data for "Darksiders II" (SteamID: ) - HTTP 429
+2025-11-21 14:17:17 - WARN: Failed to fetch Deck Verified data for "Home Behind" (SteamID: ) - HTTP 429
+2025-11-21 14:17:17 - WARN: Failed to fetch Deck Verified data for "VirtuaVerse" (SteamID: ) - HTTP 429
+2025-11-21 14:17:18 - WARN: Failed to fetch Deck Verified data for "Manor Lords (Game Preview)" (SteamID: ) - HTTP 429
+2025-11-21 14:17:18 - WARN: Failed to fetch Deck Verified data for "Sengoku 3" (SteamID: ) - HTTP 429
+2025-11-21 14:17:18 - WARN: Failed to fetch Deck Verified data for "Shadowrun: Dragonfall - Director's Cut" (SteamID: ) - HTTP 429
+2025-11-21 14:17:18 - WARN: Failed to fetch Deck Verified data for "Sherlock Holmes: Nemesis" (SteamID: ) - HTTP 429
+2025-11-21 14:17:18 - WARN: Failed to fetch Deck Verified data for "Warhammer 40,000: Gladius - Relics of War" (SteamID: ) - HTTP 429
+2025-11-21 14:17:18 - WARN: Failed to fetch Deck Verified data for "Empyrion - Galactic Survival" (SteamID: ) - HTTP 429
+2025-11-21 14:17:18 - WARN: Failed to fetch Deck Verified data for "Mata Hari" (SteamID: ) - HTTP 429
+2025-11-21 14:17:19 - WARN: Failed to fetch Deck Verified data for "BioShock Remastered" (SteamID: ) - HTTP 429
+2025-11-21 14:17:19 - WARN: Failed to fetch Deck Verified data for "World of Goo" (SteamID: ) - HTTP 429
+2025-11-21 14:17:19 - WARN: Failed to fetch Deck Verified data for "Wonder Boy The Dragons Trap" (SteamID: ) - HTTP 429
+2025-11-21 14:17:19 - WARN: Failed to fetch Deck Verified data for "Gish" (SteamID: ) - HTTP 429
+2025-11-21 14:17:19 - WARN: Failed to fetch Deck Verified data for "Fallout New Vegas: Courier's Stash" (SteamID: ) - HTTP 429
+2025-11-21 14:17:19 - WARN: Failed to fetch Deck Verified data for "Metal Slug Tactics" (SteamID: ) - HTTP 429
+2025-11-21 14:17:19 - WARN: Failed to fetch Deck Verified data for "Griftlands" (SteamID: ) - HTTP 429
+2025-11-21 14:17:20 - WARN: Failed to fetch Deck Verified data for "CHUCHEL" (SteamID: ) - HTTP 429
+2025-11-21 14:17:20 - WARN: Failed to fetch Deck Verified data for "Riverbond" (SteamID: ) - HTTP 429
+2025-11-21 14:17:20 - WARN: Failed to fetch Deck Verified data for "Car Mechanic Simulator 2018" (SteamID: ) - HTTP 429
+2025-11-21 14:17:20 - WARN: Failed to fetch Deck Verified data for "Hero's Hour" (SteamID: ) - HTTP 429
+2025-11-21 14:17:20 - WARN: Failed to fetch Deck Verified data for "Hidden Folks" (SteamID: ) - HTTP 429
+2025-11-21 14:17:20 - WARN: Failed to fetch Deck Verified data for "FEZ" (SteamID: ) - HTTP 429
+2025-11-21 14:17:20 - WARN: Failed to fetch Deck Verified data for "looK INside" (SteamID: ) - HTTP 429
+2025-11-21 14:17:21 - WARN: Failed to fetch Deck Verified data for "Halcyon 6: Starbase Commander (CLASSIC)" (SteamID: ) - HTTP 429
+2025-11-21 14:17:21 - WARN: Failed to fetch Deck Verified data for "Command & Conquer: Red Alert, Counterstrike and The Aftermath" (SteamID: ) - HTTP 429
+2025-11-21 14:17:21 - WARN: Failed to fetch Deck Verified data for "I’m not a Monster" (SteamID: ) - HTTP 429
+2025-11-21 14:17:21 - WARN: Failed to fetch Deck Verified data for "Gravitar Recharged" (SteamID: ) - HTTP 429
+2025-11-21 14:17:21 - WARN: Failed to fetch Deck Verified data for "Regular Human Basketball" (SteamID: ) - HTTP 429
+2025-11-21 14:17:21 - WARN: Failed to fetch Deck Verified data for "Wobbly Life" (SteamID: ) - HTTP 429
+2025-11-21 14:17:21 - WARN: Failed to fetch Deck Verified data for "Samorost 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:22 - WARN: Failed to fetch Deck Verified data for "Anna's Quest" (SteamID: ) - HTTP 429
+2025-11-21 14:17:22 - WARN: Failed to fetch Deck Verified data for "Tomb Raider Chronicles" (SteamID: ) - HTTP 429
+2025-11-21 14:17:22 - WARN: Failed to fetch Deck Verified data for "Celeste" (SteamID: ) - HTTP 429
+2025-11-21 14:17:22 - WARN: Failed to fetch Deck Verified data for "Section 8: Prejudice" (SteamID: ) - HTTP 429
+2025-11-21 14:17:22 - WARN: Failed to fetch Deck Verified data for "Void Bastards" (SteamID: ) - HTTP 429
+2025-11-21 14:17:22 - WARN: Failed to fetch Deck Verified data for "Dying Light" (SteamID: ) - HTTP 429
+2025-11-21 14:17:23 - WARN: Failed to fetch Deck Verified data for "RiME" (SteamID: ) - HTTP 429
+2025-11-21 14:17:23 - WARN: Failed to fetch Deck Verified data for "No Man's Sky" (SteamID: ) - HTTP 429
+2025-11-21 14:17:23 - WARN: Failed to fetch Deck Verified data for "Dordogne" (SteamID: ) - HTTP 429
+2025-11-21 14:17:23 - WARN: Failed to fetch Deck Verified data for "Silence" (SteamID: ) - HTTP 429
+2025-11-21 14:17:23 - WARN: Failed to fetch Deck Verified data for "Deponia" (SteamID: ) - HTTP 429
+2025-11-21 14:17:23 - WARN: Failed to fetch Deck Verified data for "Blood Omen 2: Legacy of Kain" (SteamID: ) - HTTP 429
+2025-11-21 14:17:23 - WARN: Failed to fetch Deck Verified data for "Frostpunk Expansions Original Soundtrack" (SteamID: ) - HTTP 429
+2025-11-21 14:17:24 - WARN: Failed to fetch Deck Verified data for "Castlevania: Lords of Shadow 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:24 - WARN: Failed to fetch Deck Verified data for "Ultima  Underworld II" (SteamID: ) - HTTP 429
+2025-11-21 14:17:24 - WARN: Failed to fetch Deck Verified data for "Dad Quest" (SteamID: ) - HTTP 429
+2025-11-21 14:17:24 - WARN: Failed to fetch Deck Verified data for "Leisure Suit Larry 6 - Shape Up Or Slip Out" (SteamID: ) - HTTP 429
+2025-11-21 14:17:24 - WARN: Failed to fetch Deck Verified data for "Sheltered" (SteamID: ) - HTTP 429
+2025-11-21 14:17:24 - WARN: Failed to fetch Deck Verified data for "Leisure Suit Larry - Magna Cum Laude Uncut and Uncensored" (SteamID: ) - HTTP 429
+2025-11-21 14:17:24 - WARN: Failed to fetch Deck Verified data for "Bastion" (SteamID: ) - HTTP 429
+2025-11-21 14:17:25 - WARN: Failed to fetch Deck Verified data for "Sam & Max 304: Beyond the Alley of the Dolls" (SteamID: ) - HTTP 429
+2025-11-21 14:17:25 - WARN: Failed to fetch Deck Verified data for "Head Goal: Soccer Online" (SteamID: ) - HTTP 429
+2025-11-21 14:17:25 - WARN: Failed to fetch Deck Verified data for "The Occupation" (SteamID: ) - HTTP 429
+2025-11-21 14:17:25 - WARN: Failed to fetch Deck Verified data for "Think of the Children Beta" (SteamID: ) - HTTP 429
+2025-11-21 14:17:25 - WARN: Failed to fetch Deck Verified data for "Alan Wake's American Nightmare" (SteamID: ) - HTTP 429
+2025-11-21 14:17:25 - WARN: Failed to fetch Deck Verified data for "Minecraft Launcher" (SteamID: ) - HTTP 429
+2025-11-21 14:17:25 - WARN: Failed to fetch Deck Verified data for "Battlestar Galactica Deadlock" (SteamID: ) - HTTP 429
+2025-11-21 14:17:26 - WARN: Failed to fetch Deck Verified data for "Leisure Suit Larry 7 - Love for Sail" (SteamID: ) - HTTP 429
+2025-11-21 14:17:26 - WARN: Failed to fetch Deck Verified data for "Assassin's Creed 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:26 - WARN: Failed to fetch Deck Verified data for "Time Mysteries: Inheritance - Remastered" (SteamID: ) - HTTP 429
+2025-11-21 14:17:26 - WARN: Failed to fetch Deck Verified data for "Euro Truck Simulator" (SteamID: ) - HTTP 429
+2025-11-21 14:17:26 - WARN: Failed to fetch Deck Verified data for "The Cursed Crusade" (SteamID: ) - HTTP 429
+2025-11-21 14:17:26 - WARN: Failed to fetch Deck Verified data for "HyperDot" (SteamID: ) - HTTP 429
+2025-11-21 14:17:26 - WARN: Failed to fetch Deck Verified data for "Fallout: London" (SteamID: ) - HTTP 429
+2025-11-21 14:17:27 - WARN: Failed to fetch Deck Verified data for "Amnesia: The Bunker" (SteamID: ) - HTTP 429
+2025-11-21 14:17:27 - WARN: Failed to fetch Deck Verified data for "Dashy Square" (SteamID: ) - HTTP 429
+2025-11-21 14:17:27 - WARN: Failed to fetch Deck Verified data for "Shadowrun: Dragonfall - Director's Cut" (SteamID: ) - HTTP 429
+2025-11-21 14:17:27 - WARN: Failed to fetch Deck Verified data for "The Sims 4" (SteamID: ) - HTTP 429
+2025-11-21 14:17:27 - WARN: Failed to fetch Deck Verified data for "Faster Than Light" (SteamID: ) - HTTP 429
+2025-11-21 14:17:27 - WARN: Failed to fetch Deck Verified data for "AdVenture Capitalist" (SteamID: ) - HTTP 429
+2025-11-21 14:17:27 - WARN: Failed to fetch Deck Verified data for "Kathy Rain" (SteamID: ) - HTTP 429
+2025-11-21 14:17:28 - WARN: Failed to fetch Deck Verified data for "Party Hard" (SteamID: ) - HTTP 429
+2025-11-21 14:17:28 - WARN: Failed to fetch Deck Verified data for "The Invisible Hand" (SteamID: ) - HTTP 429
+2025-11-21 14:17:28 - WARN: Failed to fetch Deck Verified data for "STAR WARS Jedi Knight: Mysteries of the Sith" (SteamID: ) - HTTP 429
+2025-11-21 14:17:28 - WARN: Failed to fetch Deck Verified data for "Deadlight: Director's Cut" (SteamID: ) - HTTP 429
+2025-11-21 14:17:28 - WARN: Failed to fetch Deck Verified data for "An Elder Scrolls Legend: Battlespire" (SteamID: ) - HTTP 429
+2025-11-21 14:17:28 - WARN: Failed to fetch Deck Verified data for "F.E.A.R." (SteamID: ) - HTTP 429
+2025-11-21 14:17:28 - WARN: Failed to fetch Deck Verified data for "Rhythm Doctor" (SteamID: ) - HTTP 429
+2025-11-21 14:17:29 - WARN: Failed to fetch Deck Verified data for "Whispering Willows" (SteamID: ) - HTTP 429
+2025-11-21 14:17:29 - WARN: Failed to fetch Deck Verified data for "Banished" (SteamID: ) - HTTP 429
+2025-11-21 14:17:29 - WARN: Failed to fetch Deck Verified data for "Asphalt Legends Unite" (SteamID: ) - HTTP 429
+2025-11-21 14:17:29 - WARN: Failed to fetch Deck Verified data for "Lossless Scaling" (SteamID: ) - HTTP 429
+2025-11-21 14:17:29 - WARN: Failed to fetch Deck Verified data for "Omikron - The Nomad Soul" (SteamID: ) - HTTP 429
+2025-11-21 14:17:29 - WARN: Failed to fetch Deck Verified data for "Ashen" (SteamID: ) - HTTP 429
+2025-11-21 14:17:29 - WARN: Failed to fetch Deck Verified data for "Pizza Hero" (SteamID: ) - HTTP 429
+2025-11-21 14:17:30 - WARN: Failed to fetch Deck Verified data for "Fallout Tactics" (SteamID: ) - HTTP 429
+2025-11-21 14:17:30 - WARN: Failed to fetch Deck Verified data for "Heavy Rain" (SteamID: ) - HTTP 429
+2025-11-21 14:17:30 - WARN: Failed to fetch Deck Verified data for "Leisure Suit Larry 1 - In the Land of the Lounge Lizards" (SteamID: ) - HTTP 429
+2025-11-21 14:17:30 - WARN: Failed to fetch Deck Verified data for "Overload - Playable Teaser" (SteamID: ) - HTTP 429
+2025-11-21 14:17:30 - WARN: Failed to fetch Deck Verified data for "LEGO The Hobbit" (SteamID: ) - HTTP 429
+2025-11-21 14:17:30 - WARN: Failed to fetch Deck Verified data for "Resident Evil" (SteamID: ) - HTTP 429
+2025-11-21 14:17:30 - WARN: Failed to fetch Deck Verified data for "DEATH STRANDING DIRECTOR'S CUT" (SteamID: ) - HTTP 429
+2025-11-21 14:17:31 - WARN: Failed to fetch Deck Verified data for "The Dig" (SteamID: ) - HTTP 429
+2025-11-21 14:17:31 - WARN: Failed to fetch Deck Verified data for "Dragonsphere" (SteamID: ) - HTTP 429
+2025-11-21 14:17:31 - WARN: Failed to fetch Deck Verified data for "Football Manager 2024 Pre-game editor" (SteamID: ) - HTTP 429
+2025-11-21 14:17:31 - WARN: Failed to fetch Deck Verified data for "Yars: Recharged" (SteamID: ) - HTTP 429
+2025-11-21 14:17:31 - WARN: Failed to fetch Deck Verified data for "AlternativA" (SteamID: ) - HTTP 429
+2025-11-21 14:17:31 - WARN: Failed to fetch Deck Verified data for "Tomb Raider: The Last Revelation" (SteamID: ) - HTTP 429
+2025-11-21 14:17:31 - WARN: Failed to fetch Deck Verified data for "Legacy of Kain: Defiance" (SteamID: ) - HTTP 429
+2025-11-21 14:17:32 - WARN: Failed to fetch Deck Verified data for "Super Adventure Hand" (SteamID: ) - HTTP 429
+2025-11-21 14:17:32 - WARN: Failed to fetch Deck Verified data for "Tiny Tina's Wonderlands" (SteamID: ) - HTTP 429
+2025-11-21 14:17:32 - WARN: Failed to fetch Deck Verified data for "Where The Water Tastes Like Wine" (SteamID: ) - HTTP 429
+2025-11-21 14:17:32 - WARN: Failed to fetch Deck Verified data for "Faerie Solitaire" (SteamID: ) - HTTP 429
+2025-11-21 14:17:32 - WARN: Failed to fetch Deck Verified data for "Dream Daddy" (SteamID: ) - HTTP 429
+2025-11-21 14:17:32 - WARN: Failed to fetch Deck Verified data for "Aarklash: Legacy" (SteamID: ) - HTTP 429
+2025-11-21 14:17:32 - WARN: Failed to fetch Deck Verified data for "Sherlock Holmes Crimes and Punishments" (SteamID: ) - HTTP 429
+2025-11-21 14:17:33 - WARN: Failed to fetch Deck Verified data for "Creatures of Ava" (SteamID: ) - HTTP 429
+2025-11-21 14:17:33 - WARN: Failed to fetch Deck Verified data for "Donut County" (SteamID: ) - HTTP 429
+2025-11-21 14:17:33 - WARN: Failed to fetch Deck Verified data for "Five Nights at Freddy's: Into the Pit" (SteamID: ) - HTTP 429
+2025-11-21 14:17:33 - WARN: Failed to fetch Deck Verified data for "Kao the Kangaroo" (SteamID: ) - HTTP 429
+2025-11-21 14:17:33 - WARN: Failed to fetch Deck Verified data for "Arma: Cold War Assault" (SteamID: ) - HTTP 429
+2025-11-21 14:17:33 - WARN: Failed to fetch Deck Verified data for "Bendy and the Ink Machine" (SteamID: ) - HTTP 429
+2025-11-21 14:17:33 - WARN: Failed to fetch Deck Verified data for "The LEGO NINJAGO Movie Video Game" (SteamID: ) - HTTP 429
+2025-11-21 14:17:34 - WARN: Failed to fetch Deck Verified data for "English Country Tune" (SteamID: ) - HTTP 429
+2025-11-21 14:17:34 - WARN: Failed to fetch Deck Verified data for "Ghost Master" (SteamID: ) - HTTP 429
+2025-11-21 14:17:34 - WARN: Failed to fetch Deck Verified data for "Night Reverie" (SteamID: ) - HTTP 429
+2025-11-21 14:17:34 - WARN: Failed to fetch Deck Verified data for "Teslagrad" (SteamID: ) - HTTP 429
+2025-11-21 14:17:34 - WARN: Failed to fetch Deck Verified data for "Priest Simulator: Vampire Show" (SteamID: ) - HTTP 429
+2025-11-21 14:17:34 - WARN: Failed to fetch Deck Verified data for "Founders' Fortune" (SteamID: ) - HTTP 429
+2025-11-21 14:17:34 - WARN: Failed to fetch Deck Verified data for "The Crow's Eye" (SteamID: ) - HTTP 429
+2025-11-21 14:17:35 - WARN: Failed to fetch Deck Verified data for "Disciples III: Renaissance" (SteamID: ) - HTTP 429
+2025-11-21 14:17:35 - WARN: Failed to fetch Deck Verified data for "Symphonia" (SteamID: ) - HTTP 429
+2025-11-21 14:17:35 - WARN: Failed to fetch Deck Verified data for "112 Operator" (SteamID: ) - HTTP 429
+2025-11-21 14:17:35 - WARN: Failed to fetch Deck Verified data for "UBERSOLDIER II" (SteamID: ) - HTTP 429
+2025-11-21 14:17:35 - WARN: Failed to fetch Deck Verified data for "Dead Static Drive" (SteamID: ) - HTTP 429
+2025-11-21 14:17:35 - WARN: Failed to fetch Deck Verified data for "STAR WARS Jedi Knight: Jedi Academy" (SteamID: ) - HTTP 429
+2025-11-21 14:17:35 - WARN: Failed to fetch Deck Verified data for "Beyond: Two Souls" (SteamID: ) - HTTP 429
+2025-11-21 14:17:36 - WARN: Failed to fetch Deck Verified data for "Healer's Quest" (SteamID: ) - HTTP 429
+2025-11-21 14:17:36 - WARN: Failed to fetch Deck Verified data for "Disney Dreamlight Valley" (SteamID: ) - HTTP 429
+2025-11-21 14:17:36 - WARN: Failed to fetch Deck Verified data for "Hydro Thunder Hurricane" (SteamID: ) - HTTP 429
+2025-11-21 14:17:36 - WARN: Failed to fetch Deck Verified data for "Space Warlord Organ Trading Simulator" (SteamID: ) - HTTP 429
+2025-11-21 14:17:36 - WARN: Failed to fetch Deck Verified data for "STAR WARS Rebellion" (SteamID: ) - HTTP 429
+2025-11-21 14:17:36 - WARN: Failed to fetch Deck Verified data for "Trine 3: The Artifacts of Power" (SteamID: ) - HTTP 429
+2025-11-21 14:17:36 - WARN: Failed to fetch Deck Verified data for "Flintlock: The Siege of Dawn" (SteamID: ) - HTTP 429
+2025-11-21 14:17:37 - WARN: Failed to fetch Deck Verified data for "Baldur's Gate II: Enhanced Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:37 - WARN: Failed to fetch Deck Verified data for "Agatha Christie - Murder on the Orient Express" (SteamID: ) - HTTP 429
+2025-11-21 14:17:37 - WARN: Failed to fetch Deck Verified data for "Immortals Fenyx Rising" (SteamID: ) - HTTP 429
+2025-11-21 14:17:37 - WARN: Failed to fetch Deck Verified data for "Starbound" (SteamID: ) - HTTP 429
+2025-11-21 14:17:37 - WARN: Failed to fetch Deck Verified data for "Rocket League" (SteamID: ) - HTTP 429
+2025-11-21 14:17:37 - WARN: Failed to fetch Deck Verified data for "RoboCop: Rogue City" (SteamID: ) - HTTP 429
+2025-11-21 14:17:37 - WARN: Failed to fetch Deck Verified data for "Neon Sundown" (SteamID: ) - HTTP 429
+2025-11-21 14:17:38 - WARN: Failed to fetch Deck Verified data for "Eliza" (SteamID: ) - HTTP 429
+2025-11-21 14:17:38 - WARN: Failed to fetch Deck Verified data for "DREDGE" (SteamID: ) - HTTP 429
+2025-11-21 14:17:38 - WARN: Failed to fetch Deck Verified data for "Tearstone" (SteamID: ) - HTTP 429
+2025-11-21 14:17:38 - WARN: Failed to fetch Deck Verified data for "Trine 5: A Clockwork Conspiracy" (SteamID: ) - HTTP 429
+2025-11-21 14:17:38 - WARN: Failed to fetch Deck Verified data for "Psychonauts" (SteamID: ) - HTTP 429
+2025-11-21 14:17:38 - WARN: Failed to fetch Deck Verified data for "Cave Story+" (SteamID: ) - HTTP 429
+2025-11-21 14:17:38 - WARN: Failed to fetch Deck Verified data for "Fuga: Melodies of Steel 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:39 - WARN: Failed to fetch Deck Verified data for "The Lord of The Rings Return to Moria" (SteamID: ) - HTTP 429
+2025-11-21 14:17:39 - WARN: Failed to fetch Deck Verified data for "Mini Ninjas" (SteamID: ) - HTTP 429
+2025-11-21 14:17:39 - WARN: Failed to fetch Deck Verified data for "Severed Steel" (SteamID: ) - HTTP 429
+2025-11-21 14:17:39 - WARN: Failed to fetch Deck Verified data for "Distant Space 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:39 - WARN: Failed to fetch Deck Verified data for "Sapphire Safari" (SteamID: ) - HTTP 429
+2025-11-21 14:17:39 - WARN: Failed to fetch Deck Verified data for "Hollow Knight" (SteamID: ) - HTTP 429
+2025-11-21 14:17:39 - WARN: Failed to fetch Deck Verified data for "Eastern Exorcist" (SteamID: ) - HTTP 429
+2025-11-21 14:17:40 - WARN: Failed to fetch Deck Verified data for "Cobi Treasure Deluxe" (SteamID: ) - HTTP 429
+2025-11-21 14:17:40 - WARN: Failed to fetch Deck Verified data for "For Honor" (SteamID: ) - HTTP 429
+2025-11-21 14:17:40 - WARN: Failed to fetch Deck Verified data for "Assassin’s Creed Chronicles Russia" (SteamID: ) - HTTP 429
+2025-11-21 14:17:40 - WARN: Failed to fetch Deck Verified data for "Pinball FX3" (SteamID: ) - HTTP 429
+2025-11-21 14:17:40 - WARN: Failed to fetch Deck Verified data for "Void Bastards" (SteamID: ) - HTTP 429
+2025-11-21 14:17:40 - WARN: Failed to fetch Deck Verified data for "Anarcute" (SteamID: ) - HTTP 429
+2025-11-21 14:17:40 - WARN: Failed to fetch Deck Verified data for "Destroyer: The U-Boat Hunter" (SteamID: ) - HTTP 429
+2025-11-21 14:17:41 - WARN: Failed to fetch Deck Verified data for "Offspring Fling!" (SteamID: ) - HTTP 429
+2025-11-21 14:17:41 - WARN: Failed to fetch Deck Verified data for "Lunar Axe" (SteamID: ) - HTTP 429
+2025-11-21 14:17:41 - WARN: Failed to fetch Deck Verified data for "Leisure Suit Larry 1 - In the Land of the Lounge Lizards" (SteamID: ) - HTTP 429
+2025-11-21 14:17:41 - WARN: Failed to fetch Deck Verified data for "DEATHLOOP" (SteamID: ) - HTTP 429
+2025-11-21 14:17:41 - WARN: Failed to fetch Deck Verified data for "GWENT: The Witcher Card Game" (SteamID: ) - HTTP 429
+2025-11-21 14:17:41 - WARN: Failed to fetch Deck Verified data for "Teleglitch: Die More Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:42 - WARN: Failed to fetch Deck Verified data for "Starlink: Battle for Atlas" (SteamID: ) - HTTP 429
+2025-11-21 14:17:42 - WARN: Failed to fetch Deck Verified data for "Forza Motorsport" (SteamID: ) - HTTP 429
+2025-11-21 14:17:42 - WARN: Failed to fetch Deck Verified data for "Summer's Gone - Season 1" (SteamID: ) - HTTP 429
+2025-11-21 14:17:42 - WARN: Failed to fetch Deck Verified data for "ScourgeBringer" (SteamID: ) - HTTP 429
+2025-11-21 14:17:42 - WARN: Failed to fetch Deck Verified data for "Call of Juarez: Gunslinger" (SteamID: ) - HTTP 429
+2025-11-21 14:17:42 - WARN: Failed to fetch Deck Verified data for "Onsen Master" (SteamID: ) - HTTP 429
+2025-11-21 14:17:42 - WARN: Failed to fetch Deck Verified data for "Towerborne (Game Preview)" (SteamID: ) - HTTP 429
+2025-11-21 14:17:43 - WARN: Failed to fetch Deck Verified data for "Stealth Bastard Deluxe" (SteamID: ) - HTTP 429
+2025-11-21 14:17:43 - WARN: Failed to fetch Deck Verified data for "Despotism 3k" (SteamID: ) - HTTP 429
+2025-11-21 14:17:43 - WARN: Failed to fetch Deck Verified data for "Alan Wake" (SteamID: ) - HTTP 429
+2025-11-21 14:17:43 - WARN: Failed to fetch Deck Verified data for "Overthrown (Game Preview)" (SteamID: ) - HTTP 429
+2025-11-21 14:17:43 - WARN: Failed to fetch Deck Verified data for "AVICII Invector" (SteamID: ) - HTTP 429
+2025-11-21 14:17:43 - WARN: Failed to fetch Deck Verified data for "Dragon Age: Inquisition - Game of the Year Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:43 - WARN: Failed to fetch Deck Verified data for "Last Horizon" (SteamID: ) - HTTP 429
+2025-11-21 14:17:44 - WARN: Failed to fetch Deck Verified data for "Santa Rockstar" (SteamID: ) - HTTP 429
+2025-11-21 14:17:44 - WARN: Failed to fetch Deck Verified data for "The Bureau: XCOM Declassified" (SteamID: ) - HTTP 429
+2025-11-21 14:17:44 - WARN: Failed to fetch Deck Verified data for "Thumper" (SteamID: ) - HTTP 429
+2025-11-21 14:17:44 - WARN: Failed to fetch Deck Verified data for "Young Souls" (SteamID: ) - HTTP 429
+2025-11-21 14:17:44 - WARN: Failed to fetch Deck Verified data for "King of the Monsters" (SteamID: ) - HTTP 429
+2025-11-21 14:17:44 - WARN: Failed to fetch Deck Verified data for "Bramble The Mountain King" (SteamID: ) - HTTP 429
+2025-11-21 14:17:44 - WARN: Failed to fetch Deck Verified data for "Hotline Miami" (SteamID: ) - HTTP 429
+2025-11-21 14:17:45 - WARN: Failed to fetch Deck Verified data for "Project Highrise" (SteamID: ) - HTTP 429
+2025-11-21 14:17:45 - WARN: Failed to fetch Deck Verified data for "Crysis Warhead" (SteamID: ) - HTTP 429
+2025-11-21 14:17:45 - WARN: Failed to fetch Deck Verified data for "Project Zomboid" (SteamID: ) - HTTP 429
+2025-11-21 14:17:45 - WARN: Failed to fetch Deck Verified data for "Doomdark's Revenge" (SteamID: ) - HTTP 429
+2025-11-21 14:17:45 - WARN: Failed to fetch Deck Verified data for "The Deed" (SteamID: ) - HTTP 429
+2025-11-21 14:17:45 - WARN: Failed to fetch Deck Verified data for "HUMANKIND" (SteamID: ) - HTTP 429
+2025-11-21 14:17:45 - WARN: Failed to fetch Deck Verified data for "Quake 4" (SteamID: ) - HTTP 429
+2025-11-21 14:17:46 - WARN: Failed to fetch Deck Verified data for "Thronebreaker: The Witcher Tales" (SteamID: ) - HTTP 429
+2025-11-21 14:17:46 - WARN: Failed to fetch Deck Verified data for "Adios" (SteamID: ) - HTTP 429
+2025-11-21 14:17:46 - WARN: Failed to fetch Deck Verified data for "Whispering Willows" (SteamID: ) - HTTP 429
+2025-11-21 14:17:46 - WARN: Failed to fetch Deck Verified data for "Total War: WARHAMMER II" (SteamID: ) - HTTP 429
+2025-11-21 14:17:46 - WARN: Failed to fetch Deck Verified data for "SkyDrift Infinity" (SteamID: ) - HTTP 429
+2025-11-21 14:17:46 - WARN: Failed to fetch Deck Verified data for "Hellpoint" (SteamID: ) - HTTP 429
+2025-11-21 14:17:46 - WARN: Failed to fetch Deck Verified data for "Fall Guys" (SteamID: ) - HTTP 429
+2025-11-21 14:17:47 - WARN: Failed to fetch Deck Verified data for "Lightfish" (SteamID: ) - HTTP 429
+2025-11-21 14:17:47 - WARN: Failed to fetch Deck Verified data for "A Normal Lost Phone" (SteamID: ) - HTTP 429
+2025-11-21 14:17:47 - WARN: Failed to fetch Deck Verified data for "Sword of the Stars: The Pit" (SteamID: ) - HTTP 429
+2025-11-21 14:17:47 - WARN: Failed to fetch Deck Verified data for "Liberte" (SteamID: ) - HTTP 429
+2025-11-21 14:17:47 - WARN: Failed to fetch Deck Verified data for "Subterrain: Mines of Titan" (SteamID: ) - HTTP 429
+2025-11-21 14:17:47 - WARN: Failed to fetch Deck Verified data for "VVVVVV" (SteamID: ) - HTTP 429
+2025-11-21 14:17:47 - WARN: Failed to fetch Deck Verified data for "RPG Maker VX Ace" (SteamID: ) - HTTP 429
+2025-11-21 14:17:48 - WARN: Failed to fetch Deck Verified data for "Galactic Civilizations I: Ultimate Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:48 - WARN: Failed to fetch Deck Verified data for "I LIKE THE FLOWERS" (SteamID: ) - HTTP 429
+2025-11-21 14:17:48 - WARN: Failed to fetch Deck Verified data for "Puzzle Pack 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:48 - WARN: Failed to fetch Deck Verified data for "Tom Clancy's The Division 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:48 - WARN: Failed to fetch Deck Verified data for "Trials Fusion" (SteamID: ) - HTTP 429
+2025-11-21 14:17:48 - WARN: Failed to fetch Deck Verified data for "Boundless" (SteamID: ) - HTTP 429
+2025-11-21 14:17:48 - WARN: Failed to fetch Deck Verified data for "Tin Hearts" (SteamID: ) - HTTP 429
+2025-11-21 14:17:49 - WARN: Failed to fetch Deck Verified data for "DEMON'S TILT" (SteamID: ) - HTTP 429
+2025-11-21 14:17:49 - WARN: Failed to fetch Deck Verified data for "Snake Pass" (SteamID: ) - HTTP 429
+2025-11-21 14:17:49 - WARN: Failed to fetch Deck Verified data for "City of Brass" (SteamID: ) - HTTP 429
+2025-11-21 14:17:49 - WARN: Failed to fetch Deck Verified data for "Shadow Warrior" (SteamID: ) - HTTP 429
+2025-11-21 14:17:49 - WARN: Failed to fetch Deck Verified data for "DRAGON BALL XENOVERSE 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:49 - WARN: Failed to fetch Deck Verified data for "ENDLESS Zone" (SteamID: ) - HTTP 429
+2025-11-21 14:17:50 - WARN: Failed to fetch Deck Verified data for "Age of Empires III: Definitive Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:50 - WARN: Failed to fetch Deck Verified data for "QuestRun" (SteamID: ) - HTTP 429
+2025-11-21 14:17:50 - WARN: Failed to fetch Deck Verified data for "Watch Dogs: Legion" (SteamID: ) - HTTP 429
+2025-11-21 14:17:50 - WARN: Failed to fetch Deck Verified data for "NARAKA: BLADEPOINT" (SteamID: ) - HTTP 429
+2025-11-21 14:17:50 - WARN: Failed to fetch Deck Verified data for "RetroArch" (SteamID: ) - HTTP 429
+2025-11-21 14:17:50 - WARN: Failed to fetch Deck Verified data for "Prison Architect" (SteamID: ) - HTTP 429
+2025-11-21 14:17:50 - WARN: Failed to fetch Deck Verified data for "DashBored" (SteamID: ) - HTTP 429
+2025-11-21 14:17:50 - WARN: Failed to fetch Deck Verified data for "Darkest Hour: A Hearts of Iron Game" (SteamID: ) - HTTP 429
+2025-11-21 14:17:51 - WARN: Failed to fetch Deck Verified data for "Cook, Serve, Delicious! 3?!" (SteamID: ) - HTTP 429
+2025-11-21 14:17:51 - WARN: Failed to fetch Deck Verified data for "Oil Sheik" (SteamID: ) - HTTP 429
+2025-11-21 14:17:51 - WARN: Failed to fetch Deck Verified data for "Crypto Against All Odds" (SteamID: ) - HTTP 429
+2025-11-21 14:17:51 - WARN: Failed to fetch Deck Verified data for "Battle Breakers" (SteamID: ) - HTTP 429
+2025-11-21 14:17:51 - WARN: Failed to fetch Deck Verified data for "Eye of the Beholder" (SteamID: ) - HTTP 429
+2025-11-21 14:17:51 - WARN: Failed to fetch Deck Verified data for "Indiana Jones and the Great Circle" (SteamID: ) - HTTP 429
+2025-11-21 14:17:52 - WARN: Failed to fetch Deck Verified data for "Death Coming" (SteamID: ) - HTTP 429
+2025-11-21 14:17:52 - WARN: Failed to fetch Deck Verified data for "The Last Blade" (SteamID: ) - HTTP 429
+2025-11-21 14:17:52 - WARN: Failed to fetch Deck Verified data for "STAR WARS Jedi: Survivor" (SteamID: ) - HTTP 429
+2025-11-21 14:17:52 - WARN: Failed to fetch Deck Verified data for "Valkyria Chronicles" (SteamID: ) - HTTP 429
+2025-11-21 14:17:52 - WARN: Failed to fetch Deck Verified data for "Total Chaos" (SteamID: ) - HTTP 429
+2025-11-21 14:17:52 - WARN: Failed to fetch Deck Verified data for "SNK 40th Anniversary Collection" (SteamID: ) - HTTP 429
+2025-11-21 14:17:52 - WARN: Failed to fetch Deck Verified data for "Edge Of Eternity" (SteamID: ) - HTTP 429
+2025-11-21 14:17:52 - WARN: Failed to fetch Deck Verified data for "Human Fall Flat" (SteamID: ) - HTTP 429
+2025-11-21 14:17:53 - WARN: Failed to fetch Deck Verified data for "Oddworld: Abe's Oddysee" (SteamID: ) - HTTP 429
+2025-11-21 14:17:53 - WARN: Failed to fetch Deck Verified data for " Wanba Warriors" (SteamID: ) - HTTP 429
+2025-11-21 14:17:53 - WARN: Failed to fetch Deck Verified data for "Sam & Max 302: The Tomb of Sammun-Mak" (SteamID: ) - HTTP 429
+2025-11-21 14:17:53 - WARN: Failed to fetch Deck Verified data for "Tom Clancy's Ghost Recon Breakpoint" (SteamID: ) - HTTP 429
+2025-11-21 14:17:53 - WARN: Failed to fetch Deck Verified data for "Cities: Skylines" (SteamID: ) - HTTP 429
+2025-11-21 14:17:53 - WARN: Failed to fetch Deck Verified data for "AR-K" (SteamID: ) - HTTP 429
+2025-11-21 14:17:54 - WARN: Failed to fetch Deck Verified data for "LEGO Star Wars: The Skywalker Saga" (SteamID: ) - HTTP 429
+2025-11-21 14:17:54 - WARN: Failed to fetch Deck Verified data for "The Last Tinker" (SteamID: ) - HTTP 429
+2025-11-21 14:17:54 - WARN: Failed to fetch Deck Verified data for "Football Manager 2024 Resource archiver" (SteamID: ) - HTTP 429
+2025-11-21 14:17:54 - WARN: Failed to fetch Deck Verified data for "Monument Valley 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:54 - WARN: Failed to fetch Deck Verified data for "Grand Theft Auto V" (SteamID: ) - HTTP 429
+2025-11-21 14:17:54 - WARN: Failed to fetch Deck Verified data for "Arcade Paradise" (SteamID: ) - HTTP 429
+2025-11-21 14:17:54 - WARN: Failed to fetch Deck Verified data for "PAYDAY: The Heist" (SteamID: ) - HTTP 429
+2025-11-21 14:17:54 - WARN: Failed to fetch Deck Verified data for "Tom Clancy's Splinter Cell Chaos Theory" (SteamID: ) - HTTP 429
+2025-11-21 14:17:55 - WARN: Failed to fetch Deck Verified data for "Football Manager 2021 Touch" (SteamID: ) - HTTP 429
+2025-11-21 14:17:55 - WARN: Failed to fetch Deck Verified data for "OpenTTD" (SteamID: ) - HTTP 429
+2025-11-21 14:17:55 - WARN: Failed to fetch Deck Verified data for "Octodad: Dadliest Catch" (SteamID: ) - HTTP 429
+2025-11-21 14:17:55 - WARN: Failed to fetch Deck Verified data for "Watch Dogs 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:55 - WARN: Failed to fetch Deck Verified data for "Planescape Torment: Enhanced Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:55 - WARN: Failed to fetch Deck Verified data for "Assassins Creed Syndicate" (SteamID: ) - HTTP 429
+2025-11-21 14:17:56 - WARN: Failed to fetch Deck Verified data for "Overcooked" (SteamID: ) - HTTP 429
+2025-11-21 14:17:56 - WARN: Failed to fetch Deck Verified data for "Dishonored Definitive Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:56 - WARN: Failed to fetch Deck Verified data for "Generation Zero" (SteamID: ) - HTTP 429
+2025-11-21 14:17:56 - WARN: Failed to fetch Deck Verified data for "METAL SLUG 3" (SteamID: ) - HTTP 429
+2025-11-21 14:17:56 - WARN: Failed to fetch Deck Verified data for "Blazing Chrome" (SteamID: ) - HTTP 429
+2025-11-21 14:17:56 - WARN: Failed to fetch Deck Verified data for "Splot Beta" (SteamID: ) - HTTP 429
+2025-11-21 14:17:56 - WARN: Failed to fetch Deck Verified data for "Deponia Doomsday" (SteamID: ) - HTTP 429
+2025-11-21 14:17:57 - WARN: Failed to fetch Deck Verified data for "Just Cause" (SteamID: ) - HTTP 429
+2025-11-21 14:17:57 - WARN: Failed to fetch Deck Verified data for "Samorost 2" (SteamID: ) - HTTP 429
+2025-11-21 14:17:57 - WARN: Failed to fetch Deck Verified data for "Dungeons & Dragons: Daggerdale" (SteamID: ) - HTTP 429
+2025-11-21 14:17:57 - WARN: Failed to fetch Deck Verified data for "BioShock 2 Remastered" (SteamID: ) - HTTP 429
+2025-11-21 14:17:57 - WARN: Failed to fetch Deck Verified data for "Fallout: New Vegas" (SteamID: ) - HTTP 429
+2025-11-21 14:17:57 - WARN: Failed to fetch Deck Verified data for "Dungeons of Dredmor" (SteamID: ) - HTTP 429
+2025-11-21 14:17:57 - WARN: Failed to fetch Deck Verified data for "Neverwinter Nights Diamond" (SteamID: ) - HTTP 429
+2025-11-21 14:17:58 - WARN: Failed to fetch Deck Verified data for "Twin Mirror" (SteamID: ) - HTTP 429
+2025-11-21 14:17:58 - WARN: Failed to fetch Deck Verified data for "Resident Evil 4" (SteamID: ) - HTTP 429
+2025-11-21 14:17:58 - WARN: Failed to fetch Deck Verified data for "Gears 5" (SteamID: ) - HTTP 429
+2025-11-21 14:17:58 - WARN: Failed to fetch Deck Verified data for "Gone Home" (SteamID: ) - HTTP 429
+2025-11-21 14:17:58 - WARN: Failed to fetch Deck Verified data for "DOOM 3: BFG Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:17:58 - WARN: Failed to fetch Deck Verified data for "Legend of Grimrock" (SteamID: ) - HTTP 429
+2025-11-21 14:17:58 - WARN: Failed to fetch Deck Verified data for "Banished" (SteamID: ) - HTTP 429
+2025-11-21 14:17:59 - WARN: Failed to fetch Deck Verified data for "War of the Roses" (SteamID: ) - HTTP 429
+2025-11-21 14:17:59 - WARN: Failed to fetch Deck Verified data for "Mass Effect 2 (2010)" (SteamID: ) - HTTP 429
+2025-11-21 14:17:59 - WARN: Failed to fetch Deck Verified data for "Senua’s Saga: Hellblade II" (SteamID: ) - HTTP 429
+2025-11-21 14:17:59 - WARN: Failed to fetch Deck Verified data for "Telling Lies" (SteamID: ) - HTTP 429
+2025-11-21 14:17:59 - WARN: Failed to fetch Deck Verified data for "Ghostrunner" (SteamID: ) - HTTP 429
+2025-11-21 14:17:59 - WARN: Failed to fetch Deck Verified data for "Stories Untold" (SteamID: ) - HTTP 429
+2025-11-21 14:17:59 - WARN: Failed to fetch Deck Verified data for "BROK the InvestiGator" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:00 - WARN: Failed to fetch Deck Verified data for "Yet Another Zombie Defense HD" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:00 - WARN: Failed to fetch Deck Verified data for "Orwell: Keeping an Eye on You" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:00 - WARN: Failed to fetch Deck Verified data for "Totally Accurate Battle Simulator" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:00 - WARN: Failed to fetch Deck Verified data for "Slain: Back From Hell" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:00 - WARN: Failed to fetch Deck Verified data for "The Dungeon of Naheulbeuk: The Amulet of Chaos" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:00 - WARN: Failed to fetch Deck Verified data for "MythForce" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:00 - WARN: Failed to fetch Deck Verified data for "Call of Juarez" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:01 - WARN: Failed to fetch Deck Verified data for "The Witcher 3 REDkit" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:01 - WARN: Failed to fetch Deck Verified data for "Grand Theft Auto V" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:01 - WARN: Failed to fetch Deck Verified data for "Kult: Heretic Kingdoms" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:01 - WARN: Failed to fetch Deck Verified data for "Endless Space 2: Deluxe Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:01 - WARN: Failed to fetch Deck Verified data for "Amnesia: The Dark Descent" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:01 - WARN: Failed to fetch Deck Verified data for "Red Gate" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:01 - WARN: Failed to fetch Deck Verified data for "One Bit Arena" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:02 - WARN: Failed to fetch Deck Verified data for "SLUDGE LIFE" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:02 - WARN: Failed to fetch Deck Verified data for "Yakuza 0" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:02 - WARN: Failed to fetch Deck Verified data for "Magrunner: Dark Pulse" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:02 - WARN: Failed to fetch Deck Verified data for "Mighty Fight Federation" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:02 - WARN: Failed to fetch Deck Verified data for "Ticket to Ride: First Journey" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:02 - WARN: Failed to fetch Deck Verified data for "Zero Hour" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:02 - WARN: Failed to fetch Deck Verified data for "Torment: Tides of Numenera" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:03 - WARN: Failed to fetch Deck Verified data for "Barro GT" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:03 - WARN: Failed to fetch Deck Verified data for "Unreal Tournament GOTY" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:03 - WARN: Failed to fetch Deck Verified data for "Unravel" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:03 - WARN: Failed to fetch Deck Verified data for "Mordheim: City of the Damned" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:03 - WARN: Failed to fetch Deck Verified data for "Concrete Jungle" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:03 - WARN: Failed to fetch Deck Verified data for "Aurion: Legacy of the Kori-Odan" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:03 - WARN: Failed to fetch Deck Verified data for "Relic Hunters Legend" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:04 - WARN: Failed to fetch Deck Verified data for "Retro Classics" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:04 - WARN: Failed to fetch Deck Verified data for "Google Earth VR" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:04 - WARN: Failed to fetch Deck Verified data for "Children of Morta" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:04 - WARN: Failed to fetch Deck Verified data for "Odysseus Kosmos and his Robot Quest: Adventure Game" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:04 - WARN: Failed to fetch Deck Verified data for "Farming Simulator 19" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:04 - WARN: Failed to fetch Deck Verified data for "Golf With Your Friends" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:04 - WARN: Failed to fetch Deck Verified data for "To The Rescue" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:05 - WARN: Failed to fetch Deck Verified data for "Gravity Circuit" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:05 - WARN: Failed to fetch Deck Verified data for "Max Payne 3" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:05 - WARN: Failed to fetch Deck Verified data for "Jalopy" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:05 - WARN: Failed to fetch Deck Verified data for "Redout 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:05 - WARN: Failed to fetch Deck Verified data for "Spelljammer: Pirates of Realmspace" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:05 - WARN: Failed to fetch Deck Verified data for "Figment" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:05 - WARN: Failed to fetch Deck Verified data for "NAVYFIELD" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:06 - WARN: Failed to fetch Deck Verified data for "Judgment: Apocalypse Survival Simulation" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:06 - WARN: Failed to fetch Deck Verified data for "The Dig" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:06 - WARN: Failed to fetch Deck Verified data for "Total War: EMPIRE - Definitive Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:06 - WARN: Failed to fetch Deck Verified data for "Wargroove" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:06 - WARN: Failed to fetch Deck Verified data for "Plebby Quest: The Crusades" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:06 - WARN: Failed to fetch Deck Verified data for "Dishonored 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:07 - WARN: Failed to fetch Deck Verified data for "Sid Meier's Civilization III: Complete" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:07 - WARN: Failed to fetch Deck Verified data for "Carcassonne" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:07 - WARN: Failed to fetch Deck Verified data for "Camp Sunshine" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:07 - WARN: Failed to fetch Deck Verified data for "Sleeping Dogs: Definitive Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:07 - WARN: Failed to fetch Deck Verified data for "DEFCON" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:07 - WARN: Failed to fetch Deck Verified data for "Little Big Workshop" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:07 - WARN: Failed to fetch Deck Verified data for "Indiana Jones and the Fate of Atlantis" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:07 - WARN: Failed to fetch Deck Verified data for ">observer_" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:08 - WARN: Failed to fetch Deck Verified data for "Fez" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:08 - WARN: Failed to fetch Deck Verified data for "Uurnog Uurnlimited" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:08 - WARN: Failed to fetch Deck Verified data for "Thimbleweed Park" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:08 - WARN: Failed to fetch Deck Verified data for "Steep" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:08 - WARN: Failed to fetch Deck Verified data for "C-RUSH" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:08 - WARN: Failed to fetch Deck Verified data for "DREDGE" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:09 - WARN: Failed to fetch Deck Verified data for "Superball" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:09 - WARN: Failed to fetch Deck Verified data for "Cities Skylines" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:09 - WARN: Failed to fetch Deck Verified data for "Amnesia:  The Dark Descent" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:09 - WARN: Failed to fetch Deck Verified data for "Mirror's Edge" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:09 - WARN: Failed to fetch Deck Verified data for "Warpips" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:09 - WARN: Failed to fetch Deck Verified data for "Factorio" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:09 - WARN: Failed to fetch Deck Verified data for "Stellaris" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:10 - WARN: Failed to fetch Deck Verified data for "Dead In Vinland" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:10 - WARN: Failed to fetch Deck Verified data for "Sam & Max: Devil’s Playhouse" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:10 - WARN: Failed to fetch Deck Verified data for "Space Hulk: Tactics" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:10 - WARN: Failed to fetch Deck Verified data for "Syberia" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:10 - WARN: Failed to fetch Deck Verified data for "Knights of Honor II - Goodie Pack" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:10 - WARN: Failed to fetch Deck Verified data for "Fortified" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:10 - WARN: Failed to fetch Deck Verified data for "Skull Rogue" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:11 - WARN: Failed to fetch Deck Verified data for "Assassin's Creed III" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:11 - WARN: Failed to fetch Deck Verified data for "The Gardens Between" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:11 - WARN: Failed to fetch Deck Verified data for "Call of Duty: WWII" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:11 - WARN: Failed to fetch Deck Verified data for "FORCED" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:11 - WARN: Failed to fetch Deck Verified data for "Voidtrain" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:11 - WARN: Failed to fetch Deck Verified data for "Torchlight II" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:11 - WARN: Failed to fetch Deck Verified data for "Kane & Lynch: Dead Men" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:12 - WARN: Failed to fetch Deck Verified data for "Butcher" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:12 - WARN: Failed to fetch Deck Verified data for "Wolfenstein 3D" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:12 - WARN: Failed to fetch Deck Verified data for "Cricket 24: The Official Game Of The Ashes" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:12 - WARN: Failed to fetch Deck Verified data for "Total War: NAPOLEON - Definitive Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:12 - WARN: Failed to fetch Deck Verified data for "The Incredible Adventures of Van Helsing II" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:12 - WARN: Failed to fetch Deck Verified data for "In Sound Mind" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:12 - WARN: Failed to fetch Deck Verified data for "Kombinera" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:13 - WARN: Failed to fetch Deck Verified data for "Rampage Knights" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:13 - WARN: Failed to fetch Deck Verified data for "Ghostrunner" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:13 - WARN: Failed to fetch Deck Verified data for "Mark of the Ninja" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:13 - WARN: Failed to fetch Deck Verified data for "Creature in the Well" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:13 - WARN: Failed to fetch Deck Verified data for "Worms Revolution Gold Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:13 - WARN: Failed to fetch Deck Verified data for "The Walking Dead: A New Frontier" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:13 - WARN: Failed to fetch Deck Verified data for "Mad Tracks" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:14 - WARN: Failed to fetch Deck Verified data for "Behind the Frame: The Finest Scenery" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:14 - WARN: Failed to fetch Deck Verified data for "Mirror's Edge" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:14 - WARN: Failed to fetch Deck Verified data for "[REDACTED]" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:14 - WARN: Failed to fetch Deck Verified data for "SteamWorld Heist II" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:14 - WARN: Failed to fetch Deck Verified data for "Hurtworld" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:14 - WARN: Failed to fetch Deck Verified data for "Lone Survivor: The Director's Cut" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:14 - WARN: Failed to fetch Deck Verified data for "Pro Evolution Soccer 2015" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:15 - WARN: Failed to fetch Deck Verified data for "Dungeon Siege" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:15 - WARN: Failed to fetch Deck Verified data for "Ozymandias" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:15 - WARN: Failed to fetch Deck Verified data for "Faraway 3: Arctic Escape" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:15 - WARN: Failed to fetch Deck Verified data for "Dungeonland" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:15 - WARN: Failed to fetch Deck Verified data for "Foretales" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:15 - WARN: Failed to fetch Deck Verified data for "Thirty Flights of Loving" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:15 - WARN: Failed to fetch Deck Verified data for "Puzzle Agent" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:16 - WARN: Failed to fetch Deck Verified data for "Diablo IV" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:16 - WARN: Failed to fetch Deck Verified data for "Rochard" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:16 - WARN: Failed to fetch Deck Verified data for "STAR WARS: Squadrons" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:16 - WARN: Failed to fetch Deck Verified data for "The World Next Door" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:16 - WARN: Failed to fetch Deck Verified data for "Dust: An Elysian Tail" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:16 - WARN: Failed to fetch Deck Verified data for "Halo Wars: Definitive Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:16 - WARN: Failed to fetch Deck Verified data for "Seven" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:17 - WARN: Failed to fetch Deck Verified data for "Proteus" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:17 - WARN: Failed to fetch Deck Verified data for "The Alters" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:17 - WARN: Failed to fetch Deck Verified data for "Halo: Spartan Assault" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:17 - WARN: Failed to fetch Deck Verified data for "Speed Brawl" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:17 - WARN: Failed to fetch Deck Verified data for "Frostpunk" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:17 - WARN: Failed to fetch Deck Verified data for "Omno" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:17 - WARN: Failed to fetch Deck Verified data for "DARK SOULS II" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:18 - WARN: Failed to fetch Deck Verified data for "Police Stories" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:18 - WARN: Failed to fetch Deck Verified data for "GigaBash" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:18 - WARN: Failed to fetch Deck Verified data for "STAR WARS Battlefront II" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:18 - WARN: Failed to fetch Deck Verified data for "Hood Outlaws and Legends" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:18 - WARN: Failed to fetch Deck Verified data for "The Fall" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:18 - WARN: Failed to fetch Deck Verified data for "Forza Horizon 5" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:18 - WARN: Failed to fetch Deck Verified data for "Albion Online" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:19 - WARN: Failed to fetch Deck Verified data for "Nioh: The Complete Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:19 - WARN: Failed to fetch Deck Verified data for "Toonstruck" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:19 - WARN: Failed to fetch Deck Verified data for "Injustice 2 - Standard Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:19 - WARN: Failed to fetch Deck Verified data for "Dungeon Siege III" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:19 - WARN: Failed to fetch Deck Verified data for "Closure" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:19 - WARN: Failed to fetch Deck Verified data for "ANCIENT EVIL" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:19 - WARN: Failed to fetch Deck Verified data for "Avernum 3: Ruined World" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:20 - WARN: Failed to fetch Deck Verified data for "Bus Simulator 21 Next Stop" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:20 - WARN: Failed to fetch Deck Verified data for "Return of the Phantom" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:20 - WARN: Failed to fetch Deck Verified data for "Dungeon Rats" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:20 - WARN: Failed to fetch Deck Verified data for "Wildermyth" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:20 - WARN: Failed to fetch Deck Verified data for "Moonlighter" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:20 - WARN: Failed to fetch Deck Verified data for "Xotic" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:20 - WARN: Failed to fetch Deck Verified data for "The Sims 3" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:21 - WARN: Failed to fetch Deck Verified data for "Warcraft I: Remastered" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:21 - WARN: Failed to fetch Deck Verified data for "Herdling" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:21 - WARN: Failed to fetch Deck Verified data for "Farthest Frontier" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:21 - WARN: Failed to fetch Deck Verified data for "Theatre of War 2 - Battle for Caen" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:21 - WARN: Failed to fetch Deck Verified data for "Distant Space" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:21 - WARN: Failed to fetch Deck Verified data for "Battlestations: Pacific" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:21 - WARN: Failed to fetch Deck Verified data for "Turmoil" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:22 - WARN: Failed to fetch Deck Verified data for "Ghost Pilots" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:22 - WARN: Failed to fetch Deck Verified data for "Little Misfortune" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:22 - WARN: Failed to fetch Deck Verified data for "Hero's Hour" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:22 - WARN: Failed to fetch Deck Verified data for "Galactic Civilizations III (Test branch)" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:22 - WARN: Failed to fetch Deck Verified data for "Geneforge 1: Mutagen" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:22 - WARN: Failed to fetch Deck Verified data for "Celeste" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:22 - WARN: Failed to fetch Deck Verified data for "Warhammer 40,000: Gladius - Relics of War" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:23 - WARN: Failed to fetch Deck Verified data for "Castle on the Coast" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:23 - WARN: Failed to fetch Deck Verified data for "Commander Lilith DLC" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:23 - WARN: Failed to fetch Deck Verified data for "Uurnog" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:23 - WARN: Failed to fetch Deck Verified data for "Norland" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:23 - WARN: Failed to fetch Deck Verified data for "FIFA 22" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:23 - WARN: Failed to fetch Deck Verified data for "Pandemic: The Board Game" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:24 - WARN: Failed to fetch Deck Verified data for "Green Hell" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:24 - WARN: Failed to fetch Deck Verified data for "Wasteland Remastered" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:24 - WARN: Failed to fetch Deck Verified data for "Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:24 - WARN: Failed to fetch Deck Verified data for "Cyberpunk 2077 Digital Goodies" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:24 - WARN: Failed to fetch Deck Verified data for "The Dungeon Of Naheulbeuk: The Amulet Of Chaos" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:24 - WARN: Failed to fetch Deck Verified data for "Wolfenstein: The Old Blood" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:24 - WARN: Failed to fetch Deck Verified data for "DARK SOULS III" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:25 - WARN: Failed to fetch Deck Verified data for "Assassin’s Creed Mirage" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:25 - WARN: Failed to fetch Deck Verified data for "Call of the Sea" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:25 - WARN: Failed to fetch Deck Verified data for "Revita" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:25 - WARN: Failed to fetch Deck Verified data for "Assassin's Creed Valhalla" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:25 - WARN: Failed to fetch Deck Verified data for "Corpse Keeper" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:25 - WARN: Failed to fetch Deck Verified data for "Hardspace: Shipbreaker" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:25 - WARN: Failed to fetch Deck Verified data for "Persona 5 Royal" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:26 - WARN: Failed to fetch Deck Verified data for "Assassin's Creed III" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:26 - WARN: Failed to fetch Deck Verified data for "Othercide" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:26 - WARN: Failed to fetch Deck Verified data for "Blood Bowl: Legendary Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:26 - WARN: Failed to fetch Deck Verified data for "Call of Duty: Modern Warfare 2 (2009)" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:26 - WARN: Failed to fetch Deck Verified data for "Aztez" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:26 - WARN: Failed to fetch Deck Verified data for "The Collage Atlas" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:26 - WARN: Failed to fetch Deck Verified data for "Broken Age" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:27 - WARN: Failed to fetch Deck Verified data for "Kick Ass Commandos" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:27 - WARN: Failed to fetch Deck Verified data for "The Emptiness Deluxe Edition" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:27 - WARN: Failed to fetch Deck Verified data for "Defend the Rook" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:27 - WARN: Failed to fetch Deck Verified data for "Cakey's Twisted Bakery" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:27 - WARN: Failed to fetch Deck Verified data for "Dota 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:27 - WARN: Failed to fetch Deck Verified data for "Paquerette Down the Bunburrows" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:27 - WARN: Failed to fetch Deck Verified data for "Against the Storm" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:28 - WARN: Failed to fetch Deck Verified data for "Downwell" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:28 - WARN: Failed to fetch Deck Verified data for "Overcooked! 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:28 - WARN: Failed to fetch Deck Verified data for "Unreal Gold" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:28 - WARN: Failed to fetch Deck Verified data for "Neko Ghost, Jump!" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:28 - WARN: Failed to fetch Deck Verified data for "Grey Goo" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:28 - WARN: Failed to fetch Deck Verified data for "Lightmatter" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:28 - WARN: Failed to fetch Deck Verified data for "Confrontation" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:29 - WARN: Failed to fetch Deck Verified data for "Alder's Blood Prologue" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:29 - WARN: Failed to fetch Deck Verified data for "Twinkle Star Sprites" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:29 - WARN: Failed to fetch Deck Verified data for "Before I Forget" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:29 - WARN: Failed to fetch Deck Verified data for "Zombie Shooter 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:29 - WARN: Failed to fetch Deck Verified data for "Kunai" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:29 - WARN: Failed to fetch Deck Verified data for "Evoland 2" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:29 - WARN: Failed to fetch Deck Verified data for "Free to Play" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:30 - WARN: Failed to fetch Deck Verified data for "Garden Story" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:30 - WARN: Failed to fetch Deck Verified data for "Serious Sam 3: BFE" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:30 - WARN: Failed to fetch Deck Verified data for "Sherlock Holmes: The Awakened (2008)" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:30 - WARN: Failed to fetch Deck Verified data for "EXAPUNKS" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:30 - WARN: Failed to fetch Deck Verified data for "Lost Civilization" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:30 - WARN: Failed to fetch Deck Verified data for "Spelunky" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:30 - WARN: Failed to fetch Deck Verified data for "Ominous Tales: The Forsaken Isle" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:31 - WARN: Failed to fetch Deck Verified data for "Tropico 6" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:31 - WARN: Failed to fetch Deck Verified data for "BATTLETECH" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:31 - WARN: Failed to fetch Deck Verified data for "Where The Water Tastes Like Wine" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:31 - WARN: Failed to fetch Deck Verified data for "Nuclear Throne" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:31 - WARN: Failed to fetch Deck Verified data for "Hammerting" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:31 - WARN: Failed to fetch Deck Verified data for "Living Legends: Fallen Sky" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:31 - WARN: Failed to fetch Deck Verified data for "Doodle Devil" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:32 - WARN: Failed to fetch Deck Verified data for "Gears of War: Reloaded" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:32 - WARN: Failed to fetch Deck Verified data for "shapez" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:32 - WARN: Failed to fetch Deck Verified data for "Garshasp: The Monster Slayer" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:32 - WARN: Failed to fetch Deck Verified data for "Opus Magnum" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:32 - WARN: Failed to fetch Deck Verified data for "Descenders" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:32 - WARN: Failed to fetch Deck Verified data for "Wytchwood" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:32 - WARN: Failed to fetch Deck Verified data for "Garfield Kart" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:33 - WARN: Failed to fetch Deck Verified data for "Deus Ex: Mankind Divided" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:33 - WARN: Failed to fetch Deck Verified data for "Faraway 2: Jungle Escape" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:33 - WARN: Failed to fetch Deck Verified data for "Legends of Runeterra" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:33 - WARN: Failed to fetch Deck Verified data for "The Elder Scrolls V: Skyrim" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:33 - WARN: Failed to fetch Deck Verified data for "Railway Empire" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:33 - WARN: Failed to fetch Deck Verified data for "Gems of Destiny: Homeless Dwarf" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:33 - WARN: Failed to fetch Deck Verified data for "Obduction" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:34 - WARN: Failed to fetch Deck Verified data for "Torment: Tides of Numenera" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:34 - WARN: Failed to fetch Deck Verified data for "Mages of Mystralia" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:34 - WARN: Failed to fetch Deck Verified data for "Warhammer 40,000: Space Marine" (SteamID: ) - HTTP BadRequest
+2025-11-21 14:18:34 - WARN: Failed to fetch Deck Verified data for "Opus Magnum" (SteamID: ) - HTTP 429
+2025-11-21 14:18:34 - WARN: Failed to fetch Deck Verified data for "The Messenger" (SteamID: ) - HTTP 429
+2025-11-21 14:18:35 - WARN: Failed to fetch Deck Verified data for "Tiny Robots Recharged" (SteamID: ) - HTTP 429
+2025-11-21 14:18:35 - WARN: Failed to fetch Deck Verified data for "Kaptain Brawe: A Brawe New World" (SteamID: ) - HTTP 429
+2025-11-21 14:18:35 - WARN: Failed to fetch Deck Verified data for "Troublemaker" (SteamID: ) - HTTP 429
+2025-11-21 14:18:35 - WARN: Failed to fetch Deck Verified data for "DEFCON Beta Demo" (SteamID: ) - HTTP 429
+2025-11-21 14:18:35 - WARN: Failed to fetch Deck Verified data for "Prince of Persia: The Sands of Time" (SteamID: ) - HTTP 429
+2025-11-21 14:18:35 - WARN: Failed to fetch Deck Verified data for "Just Cause 3" (SteamID: ) - HTTP 429
+2025-11-21 14:18:35 - WARN: Failed to fetch Deck Verified data for "Assassin's Creed Rogue" (SteamID: ) - HTTP 429
+2025-11-21 14:18:35 - WARN: Failed to fetch Deck Verified data for "Train Valley 2 - DRM-free build" (SteamID: ) - HTTP 429
+2025-11-21 14:18:35 - WARN: Failed to fetch Deck Verified data for "Antichamber" (SteamID: ) - HTTP 429
+2025-11-21 14:18:36 - WARN: Failed to fetch Deck Verified data for "Botany Manor" (SteamID: ) - HTTP 429
+2025-11-21 14:18:36 - WARN: Failed to fetch Deck Verified data for "Batman Arkham City" (SteamID: ) - HTTP 429
+2025-11-21 14:18:36 - WARN: Failed to fetch Deck Verified data for "Heretic + Hexen" (SteamID: ) - HTTP 429
+2025-11-21 14:18:36 - WARN: Failed to fetch Deck Verified data for "Darkside Detective" (SteamID: ) - HTTP 429
+2025-11-21 14:18:36 - WARN: Failed to fetch Deck Verified data for "RPG in a Box" (SteamID: ) - HTTP 429
+2025-11-21 14:18:36 - WARN: Failed to fetch Deck Verified data for "Giana Sisters: Twisted Dreams" (SteamID: ) - HTTP 429
+2025-11-21 14:18:37 - WARN: Failed to fetch Deck Verified data for "The Elder Scrolls: Legends" (SteamID: ) - HTTP 429
+2025-11-21 14:18:37 - WARN: Failed to fetch Deck Verified data for "Half-Life 2: Lost Coast" (SteamID: ) - HTTP 429
+2025-11-21 14:18:37 - WARN: Failed to fetch Deck Verified data for "The Little Acre" (SteamID: ) - HTTP 429
+2025-11-21 14:18:37 - WARN: Failed to fetch Deck Verified data for "The Falconeer" (SteamID: ) - HTTP 429
+2025-11-21 14:18:37 - WARN: Failed to fetch Deck Verified data for "Football Manager 2022 Resource Archiver" (SteamID: ) - HTTP 429
+2025-11-21 14:18:37 - WARN: Failed to fetch Deck Verified data for "Deus Ex: Invisible War" (SteamID: ) - HTTP 429
+2025-11-21 14:18:37 - WARN: Failed to fetch Deck Verified data for "Age of Mythology: Retold Standard Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:18:37 - WARN: Failed to fetch Deck Verified data for "Islands of Insight" (SteamID: ) - HTTP 429
+2025-11-21 14:18:38 - WARN: Failed to fetch Deck Verified data for "Before I Forget" (SteamID: ) - HTTP 429
+2025-11-21 14:18:38 - WARN: Failed to fetch Deck Verified data for "Superbrothers: Sword & Sworcery EP" (SteamID: ) - HTTP 429
+2025-11-21 14:18:38 - WARN: Failed to fetch Deck Verified data for "Calico" (SteamID: ) - HTTP 429
+2025-11-21 14:18:38 - WARN: Failed to fetch Deck Verified data for "State of Mind" (SteamID: ) - HTTP 429
+2025-11-21 14:18:38 - WARN: Failed to fetch Deck Verified data for "Expeditions: Rome" (SteamID: ) - HTTP 429
+2025-11-21 14:18:38 - WARN: Failed to fetch Deck Verified data for "Undying" (SteamID: ) - HTTP 429
+2025-11-21 14:18:39 - WARN: Failed to fetch Deck Verified data for "Grim Fandango Remastered" (SteamID: ) - HTTP 429
+2025-11-21 14:18:39 - WARN: Failed to fetch Deck Verified data for "Unreal Tournament 2004" (SteamID: ) - HTTP 429
+2025-11-21 14:18:39 - WARN: Failed to fetch Deck Verified data for "Where's My Helmet?" (SteamID: ) - HTTP 429
+2025-11-21 14:18:39 - WARN: Failed to fetch Deck Verified data for "Fortnite" (SteamID: ) - HTTP 429
+2025-11-21 14:18:39 - WARN: Failed to fetch Deck Verified data for "Fashion Police Squad" (SteamID: ) - HTTP 429
+2025-11-21 14:18:39 - WARN: Failed to fetch Deck Verified data for "SteamWorld Dig" (SteamID: ) - HTTP 429
+2025-11-21 14:18:40 - WARN: Failed to fetch Deck Verified data for "DOOM" (SteamID: ) - HTTP 429
+2025-11-21 14:18:40 - WARN: Failed to fetch Deck Verified data for "Black Mesa" (SteamID: ) - HTTP 429
+2025-11-21 14:18:40 - WARN: Failed to fetch Deck Verified data for "Fallout 2" (SteamID: ) - HTTP 429
+2025-11-21 14:18:40 - WARN: Failed to fetch Deck Verified data for "3 out of 10: Season Two" (SteamID: ) - HTTP 429
+2025-11-21 14:18:40 - WARN: Failed to fetch Deck Verified data for "BioShock Infinite" (SteamID: ) - HTTP 429
+2025-11-21 14:18:40 - WARN: Failed to fetch Deck Verified data for "A Story About My Uncle" (SteamID: ) - HTTP 429
+2025-11-21 14:18:40 - WARN: Failed to fetch Deck Verified data for "The Smurfs 2 - The Prisoner of the Green Stone" (SteamID: ) - HTTP 429
+2025-11-21 14:18:40 - WARN: Failed to fetch Deck Verified data for "DOOM: The Dark Ages" (SteamID: ) - HTTP 429
+2025-11-21 14:18:41 - WARN: Failed to fetch Deck Verified data for "100% Orange Juice" (SteamID: ) - HTTP 429
+2025-11-21 14:18:41 - WARN: Failed to fetch Deck Verified data for "Blades of Time" (SteamID: ) - HTTP 429
+2025-11-21 14:18:41 - WARN: Failed to fetch Deck Verified data for "Maneater" (SteamID: ) - HTTP 429
+2025-11-21 14:18:41 - WARN: Failed to fetch Deck Verified data for "FTL: Faster Than Light" (SteamID: ) - HTTP 429
+2025-11-21 14:18:41 - WARN: Failed to fetch Deck Verified data for "Knockout City" (SteamID: ) - HTTP 429
+2025-11-21 14:18:41 - WARN: Failed to fetch Deck Verified data for "Dungeon of the ENDLESS" (SteamID: ) - HTTP 429
+2025-11-21 14:18:42 - WARN: Failed to fetch Deck Verified data for "Sanctum 2" (SteamID: ) - HTTP 429
+2025-11-21 14:18:42 - WARN: Failed to fetch Deck Verified data for "Brothers - A Tale of Two Sons" (SteamID: ) - HTTP 429
+2025-11-21 14:18:42 - WARN: Failed to fetch Deck Verified data for "Assassin's Creed Revelations" (SteamID: ) - HTTP 429
+2025-11-21 14:18:42 - WARN: Failed to fetch Deck Verified data for "Just King" (SteamID: ) - HTTP 429
+2025-11-21 14:18:42 - WARN: Failed to fetch Deck Verified data for "Stoneshard" (SteamID: ) - HTTP 429
+2025-11-21 14:18:42 - WARN: Failed to fetch Deck Verified data for "Hob" (SteamID: ) - HTTP 429
+2025-11-21 14:18:42 - WARN: Failed to fetch Deck Verified data for "Lost Lands: Sand Captivity Collector's Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:18:42 - WARN: Failed to fetch Deck Verified data for "Warhammer 40,000: Dawn of War II" (SteamID: ) - HTTP 429
+2025-11-21 14:18:43 - WARN: Failed to fetch Deck Verified data for "Commandos 2: Men of Courage" (SteamID: ) - HTTP 429
+2025-11-21 14:18:43 - WARN: Failed to fetch Deck Verified data for "Wildfrost" (SteamID: ) - HTTP 429
+2025-11-21 14:18:43 - WARN: Failed to fetch Deck Verified data for "Blackwell Unbound" (SteamID: ) - HTTP 429
+2025-11-21 14:18:43 - WARN: Failed to fetch Deck Verified data for "SUPERHOT: MIND CONTROL DELETE" (SteamID: ) - HTTP 429
+2025-11-21 14:18:43 - WARN: Failed to fetch Deck Verified data for "Aerial_Knight's Never Yield" (SteamID: ) - HTTP 429
+2025-11-21 14:18:43 - WARN: Failed to fetch Deck Verified data for "Batman: Arkham Knight" (SteamID: ) - HTTP 429
+2025-11-21 14:18:43 - WARN: Failed to fetch Deck Verified data for "One Step from Eden Exclusive Sneak Peek" (SteamID: ) - HTTP 429
+2025-11-21 14:18:44 - WARN: Failed to fetch Deck Verified data for "Tempopo" (SteamID: ) - HTTP 429
+2025-11-21 14:18:44 - WARN: Failed to fetch Deck Verified data for "Wordle 2" (SteamID: ) - HTTP 429
+2025-11-21 14:18:44 - WARN: Failed to fetch Deck Verified data for "Shadowrun: Dragonfall - Director's Cut" (SteamID: ) - HTTP 429
+2025-11-21 14:18:44 - WARN: Failed to fetch Deck Verified data for "The Raven - Legacy of a Master Thief" (SteamID: ) - HTTP 429
+2025-11-21 14:18:44 - WARN: Failed to fetch Deck Verified data for "Giana Sisters: Twisted Dreams" (SteamID: ) - HTTP 429
+2025-11-21 14:18:44 - WARN: Failed to fetch Deck Verified data for "SAMURAI SHODOWN NEOGEO COLLECTION" (SteamID: ) - HTTP 429
+2025-11-21 14:18:44 - WARN: Failed to fetch Deck Verified data for "Kraken Academy!!" (SteamID: ) - HTTP 429
+2025-11-21 14:18:45 - WARN: Failed to fetch Deck Verified data for "Eye of the Beholder II: The Legend of Darkmoon" (SteamID: ) - HTTP 429
+2025-11-21 14:18:45 - WARN: Failed to fetch Deck Verified data for "Beat Hazard 2" (SteamID: ) - HTTP 429
+2025-11-21 14:18:45 - WARN: Failed to fetch Deck Verified data for "Guns of Icarus Alliance" (SteamID: ) - HTTP 429
+2025-11-21 14:18:45 - WARN: Failed to fetch Deck Verified data for "Poker Night at the Inventory" (SteamID: ) - HTTP 429
+2025-11-21 14:18:45 - WARN: Failed to fetch Deck Verified data for "Warhammer 40,000: Dawn of War II" (SteamID: ) - HTTP 429
+2025-11-21 14:18:45 - WARN: Failed to fetch Deck Verified data for "Boneraiser Minions" (SteamID: ) - HTTP 429
+2025-11-21 14:18:45 - WARN: Failed to fetch Deck Verified data for "Football Manager 2020" (SteamID: ) - HTTP 429
+2025-11-21 14:18:46 - WARN: Failed to fetch Deck Verified data for "Marvel's Guardians of the Galaxy" (SteamID: ) - HTTP 429
+2025-11-21 14:18:46 - WARN: Failed to fetch Deck Verified data for "THIEF" (SteamID: ) - HTTP 429
+2025-11-21 14:18:46 - WARN: Failed to fetch Deck Verified data for "Sonic Generations" (SteamID: ) - HTTP 429
+2025-11-21 14:18:46 - WARN: Failed to fetch Deck Verified data for "For Honor" (SteamID: ) - HTTP 429
+2025-11-21 14:18:46 - WARN: Failed to fetch Deck Verified data for "Crypt Custodian" (SteamID: ) - HTTP 429
+2025-11-21 14:18:46 - WARN: Failed to fetch Deck Verified data for "Limbo" (SteamID: ) - HTTP 429
+2025-11-21 14:18:46 - WARN: Failed to fetch Deck Verified data for "Slay the Spire" (SteamID: ) - HTTP 429
+2025-11-21 14:18:47 - WARN: Failed to fetch Deck Verified data for "Enter The Gungeon" (SteamID: ) - HTTP 429
+2025-11-21 14:18:47 - WARN: Failed to fetch Deck Verified data for "ReCore" (SteamID: ) - HTTP 429
+2025-11-21 14:18:47 - WARN: Failed to fetch Deck Verified data for "Go Mecha Ball" (SteamID: ) - HTTP 429
+2025-11-21 14:18:47 - WARN: Failed to fetch Deck Verified data for "Secret World Legends" (SteamID: ) - HTTP 429
+2025-11-21 14:18:47 - WARN: Failed to fetch Deck Verified data for "11-11 Memories Retold" (SteamID: ) - HTTP 429
+2025-11-21 14:18:47 - WARN: Failed to fetch Deck Verified data for "Lorelai" (SteamID: ) - HTTP 429
+2025-11-21 14:18:47 - WARN: Failed to fetch Deck Verified data for "Heroes of Might and Magic II" (SteamID: ) - HTTP 429
+2025-11-21 14:18:48 - WARN: Failed to fetch Deck Verified data for "Still Life 2" (SteamID: ) - HTTP 429
+2025-11-21 14:18:48 - WARN: Failed to fetch Deck Verified data for "REMATCH" (SteamID: ) - HTTP 429
+2025-11-21 14:18:48 - WARN: Failed to fetch Deck Verified data for "BATS: Bloodsucker Anti-Terror Squad" (SteamID: ) - HTTP 429
+2025-11-21 14:18:48 - WARN: Failed to fetch Deck Verified data for "Celeste" (SteamID: ) - HTTP 429
+2025-11-21 14:18:48 - WARN: Failed to fetch Deck Verified data for "BIOMUTANT" (SteamID: ) - HTTP 429
+2025-11-21 14:18:48 - WARN: Failed to fetch Deck Verified data for "Fearless Fantasy" (SteamID: ) - HTTP 429
+2025-11-21 14:18:48 - WARN: Failed to fetch Deck Verified data for "Dear Esther" (SteamID: ) - HTTP 429
+2025-11-21 14:18:49 - WARN: Failed to fetch Deck Verified data for "Hunt: Showdown 1896" (SteamID: ) - HTTP 429
+2025-11-21 14:18:49 - WARN: Failed to fetch Deck Verified data for "Thea 2: The Shattering" (SteamID: ) - HTTP 429
+2025-11-21 14:18:49 - WARN: Failed to fetch Deck Verified data for "Torchlight II" (SteamID: ) - HTTP 429
+2025-11-21 14:18:49 - WARN: Failed to fetch Deck Verified data for "Peaky Blinders: Mastermind" (SteamID: ) - HTTP 429
+2025-11-21 14:18:49 - WARN: Failed to fetch Deck Verified data for "BIT.TRIP Runner" (SteamID: ) - HTTP 429
+2025-11-21 14:18:49 - WARN: Failed to fetch Deck Verified data for "Time Gentlemen, Please!" (SteamID: ) - HTTP 429
+2025-11-21 14:18:49 - WARN: Failed to fetch Deck Verified data for "Your Doodles Are Bugged!" (SteamID: ) - HTTP 429
+2025-11-21 14:18:50 - WARN: Failed to fetch Deck Verified data for "Creo God Simulator" (SteamID: ) - HTTP 429
+2025-11-21 14:18:50 - WARN: Failed to fetch Deck Verified data for "Subnautica" (SteamID: ) - HTTP 429
+2025-11-21 14:18:50 - WARN: Failed to fetch Deck Verified data for "Far Cry 3" (SteamID: ) - HTTP 429
+2025-11-21 14:18:50 - WARN: Failed to fetch Deck Verified data for "Tomb Raider" (SteamID: ) - HTTP 429
+2025-11-21 14:18:50 - WARN: Failed to fetch Deck Verified data for "DARK SOULS: Prepare To Die Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:18:50 - WARN: Failed to fetch Deck Verified data for "Wargame: Red Dragon" (SteamID: ) - HTTP 429
+2025-11-21 14:18:50 - WARN: Failed to fetch Deck Verified data for "Aliens: Fireteam Elite" (SteamID: ) - HTTP 429
+2025-11-21 14:18:51 - WARN: Failed to fetch Deck Verified data for "DreadOut 2" (SteamID: ) - HTTP 429
+2025-11-21 14:18:51 - WARN: Failed to fetch Deck Verified data for "Survivor Squad" (SteamID: ) - HTTP 429
+2025-11-21 14:18:51 - WARN: Failed to fetch Deck Verified data for "Sniper Elite: Resistance" (SteamID: ) - HTTP 429
+2025-11-21 14:18:51 - WARN: Failed to fetch Deck Verified data for "Riders Republic" (SteamID: ) - HTTP 429
+2025-11-21 14:18:51 - WARN: Failed to fetch Deck Verified data for "The Grinch: Christmas Adventures - Merry & Mischievous Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:18:51 - WARN: Failed to fetch Deck Verified data for "RIOT - Civil Unrest" (SteamID: ) - HTTP 429
+2025-11-21 14:18:52 - WARN: Failed to fetch Deck Verified data for "A Game Of Thrones: The Board Game Digital Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:18:52 - WARN: Failed to fetch Deck Verified data for "Resident Evil 3" (SteamID: ) - HTTP 429
+2025-11-21 14:18:52 - WARN: Failed to fetch Deck Verified data for "Darkest Dungeon" (SteamID: ) - HTTP 429
+2025-11-21 14:18:52 - WARN: Failed to fetch Deck Verified data for "Broken Sword 5 - the Serpent's Curse" (SteamID: ) - HTTP 429
+2025-11-21 14:18:52 - WARN: Failed to fetch Deck Verified data for "Colt Canyon" (SteamID: ) - HTTP 429
+2025-11-21 14:18:52 - WARN: Failed to fetch Deck Verified data for "Braid" (SteamID: ) - HTTP 429
+2025-11-21 14:18:52 - WARN: Failed to fetch Deck Verified data for "Dragon Age: Inquisition - Game of the Year Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:18:53 - WARN: Failed to fetch Deck Verified data for "Sid Meier's Civilization IV: Warlords" (SteamID: ) - HTTP 429
+2025-11-21 14:18:53 - WARN: Failed to fetch Deck Verified data for "Robin Hood - Sherwood Builders - Bandit's Trail" (SteamID: ) - HTTP 429
+2025-11-21 14:18:53 - WARN: Failed to fetch Deck Verified data for "Child of Light" (SteamID: ) - HTTP 429
+2025-11-21 14:18:53 - WARN: Failed to fetch Deck Verified data for "Tiny Troopers Joint Ops" (SteamID: ) - HTTP 429
+2025-11-21 14:18:53 - WARN: Failed to fetch Deck Verified data for "Balatro" (SteamID: ) - HTTP 429
+2025-11-21 14:18:53 - WARN: Failed to fetch Deck Verified data for "City of Gangsters" (SteamID: ) - HTTP 429
+2025-11-21 14:18:53 - WARN: Failed to fetch Deck Verified data for "Apex Legends" (SteamID: ) - HTTP 429
+2025-11-21 14:18:54 - WARN: Failed to fetch Deck Verified data for "Dying Light The Bozak" (SteamID: ) - HTTP 429
+2025-11-21 14:18:54 - WARN: Failed to fetch Deck Verified data for "Bomber Crew" (SteamID: ) - HTTP 429
+2025-11-21 14:18:54 - WARN: Failed to fetch Deck Verified data for "Vampire Survivors" (SteamID: ) - HTTP 429
+2025-11-21 14:18:54 - WARN: Failed to fetch Deck Verified data for "GRIME" (SteamID: ) - HTTP 429
+2025-11-21 14:18:54 - WARN: Failed to fetch Deck Verified data for "Gibbous - A Cthulhu Adventure" (SteamID: ) - HTTP 429
+2025-11-21 14:18:54 - WARN: Failed to fetch Deck Verified data for "Dungeon Rushers" (SteamID: ) - HTTP 429
+2025-11-21 14:18:54 - WARN: Failed to fetch Deck Verified data for "Q.U.B.E: Director's Cut" (SteamID: ) - HTTP 429
+2025-11-21 14:18:55 - WARN: Failed to fetch Deck Verified data for "Insurgency" (SteamID: ) - HTTP 429
+2025-11-21 14:18:55 - WARN: Failed to fetch Deck Verified data for "Costume Quest 2" (SteamID: ) - HTTP 429
+2025-11-21 14:18:55 - WARN: Failed to fetch Deck Verified data for "Sunless Skies" (SteamID: ) - HTTP 429
+2025-11-21 14:18:55 - WARN: Failed to fetch Deck Verified data for "Scott Pilgrim vs the World: The Game" (SteamID: ) - HTTP 429
+2025-11-21 14:18:55 - WARN: Failed to fetch Deck Verified data for "Vampire Survivors" (SteamID: ) - HTTP 429
+2025-11-21 14:18:55 - WARN: Failed to fetch Deck Verified data for "Assassin's Creed Freedom Cry" (SteamID: ) - HTTP 429
+2025-11-21 14:18:55 - WARN: Failed to fetch Deck Verified data for "Heave Ho" (SteamID: ) - HTTP 429
+2025-11-21 14:18:56 - WARN: Failed to fetch Deck Verified data for "Aegis Defenders" (SteamID: ) - HTTP 429
+2025-11-21 14:18:56 - WARN: Failed to fetch Deck Verified data for "Chasm: The Rift" (SteamID: ) - HTTP 429
+2025-11-21 14:18:56 - WARN: Failed to fetch Deck Verified data for "Super Meat Boy Forever" (SteamID: ) - HTTP 429
+2025-11-21 14:18:56 - WARN: Failed to fetch Deck Verified data for "The Evil Within 2" (SteamID: ) - HTTP 429
+2025-11-21 14:18:56 - WARN: Failed to fetch Deck Verified data for "Islets" (SteamID: ) - HTTP 429
+2025-11-21 14:18:56 - WARN: Failed to fetch Deck Verified data for "Blasphemous" (SteamID: ) - HTTP 429
+2025-11-21 14:18:56 - WARN: Failed to fetch Deck Verified data for "Chroma Squad" (SteamID: ) - HTTP 429
+2025-11-21 14:18:57 - WARN: Failed to fetch Deck Verified data for "Giana Sisters: Twisted Dreams - Rise of the Owlverlord" (SteamID: ) - HTTP 429
+2025-11-21 14:18:57 - WARN: Failed to fetch Deck Verified data for "The Shapeshifting Detective" (SteamID: ) - HTTP 429
+2025-11-21 14:18:57 - WARN: Failed to fetch Deck Verified data for "Tom Clancy’s Ghost Recon Wildlands" (SteamID: ) - HTTP 429
+2025-11-21 14:18:57 - WARN: Failed to fetch Deck Verified data for "Paradigm" (SteamID: ) - HTTP 429
+2025-11-21 14:18:57 - WARN: Failed to fetch Deck Verified data for "Stacking" (SteamID: ) - HTTP 429
+2025-11-21 14:18:57 - WARN: Failed to fetch Deck Verified data for "UNI" (SteamID: ) - HTTP 429
+2025-11-21 14:18:57 - WARN: Failed to fetch Deck Verified data for "The Vanishing of Ethan Carter" (SteamID: ) - HTTP 429
+2025-11-21 14:18:58 - WARN: Failed to fetch Deck Verified data for "Rocketbirds: Hardboiled Chicken" (SteamID: ) - HTTP 429
+2025-11-21 14:18:58 - WARN: Failed to fetch Deck Verified data for "Serious Sam Double D XXL" (SteamID: ) - HTTP 429
+2025-11-21 14:18:58 - WARN: Failed to fetch Deck Verified data for "Guacamelee! Gold Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:18:58 - WARN: Failed to fetch Deck Verified data for "Fractal: Make Blooms Not War" (SteamID: ) - HTTP 429
+2025-11-21 14:18:58 - WARN: Failed to fetch Deck Verified data for "Costume Quest" (SteamID: ) - HTTP 429
+2025-11-21 14:18:58 - WARN: Failed to fetch Deck Verified data for "Stray Gods: The Roleplaying Musical" (SteamID: ) - HTTP 429
+2025-11-21 14:18:58 - WARN: Failed to fetch Deck Verified data for "Harold Halibut" (SteamID: ) - HTTP 429
+2025-11-21 14:18:59 - WARN: Failed to fetch Deck Verified data for "Tunche" (SteamID: ) - HTTP 429
+2025-11-21 14:18:59 - WARN: Failed to fetch Deck Verified data for "SteamWorld Dig 2" (SteamID: ) - HTTP 429
+2025-11-21 14:18:59 - WARN: Failed to fetch Deck Verified data for "V Rising" (SteamID: ) - HTTP 429
+2025-11-21 14:18:59 - WARN: Failed to fetch Deck Verified data for "Papers, Please" (SteamID: ) - HTTP 429
+2025-11-21 14:18:59 - WARN: Failed to fetch Deck Verified data for "Gothic 3 Forsaken Gods" (SteamID: ) - HTTP 429
+2025-11-21 14:18:59 - WARN: Failed to fetch Deck Verified data for "Alex Kidd in Miracle World DX" (SteamID: ) - HTTP 429
+2025-11-21 14:18:59 - WARN: Failed to fetch Deck Verified data for "Counter-Strike: Global Offensive" (SteamID: ) - HTTP 429
+2025-11-21 14:19:00 - WARN: Failed to fetch Deck Verified data for "On the Rain-Slick Precipice of Darkness, Episode One" (SteamID: ) - HTTP 429
+2025-11-21 14:19:00 - WARN: Failed to fetch Deck Verified data for "A Short Hike" (SteamID: ) - HTTP 429
+2025-11-21 14:19:00 - WARN: Failed to fetch Deck Verified data for "Machinarium" (SteamID: ) - HTTP 429
+2025-11-21 14:19:00 - WARN: Failed to fetch Deck Verified data for "Freespace 2" (SteamID: ) - HTTP 429
+2025-11-21 14:19:00 - WARN: Failed to fetch Deck Verified data for "Ziggurat" (SteamID: ) - HTTP 429
+2025-11-21 14:19:00 - WARN: Failed to fetch Deck Verified data for "Intravenous" (SteamID: ) - HTTP 429
+2025-11-21 14:19:00 - WARN: Failed to fetch Deck Verified data for "Sigma Theory: Global Cold War" (SteamID: ) - HTTP 429
+2025-11-21 14:19:01 - WARN: Failed to fetch Deck Verified data for "Saints Row IV Re-Elected" (SteamID: ) - HTTP 429
+2025-11-21 14:19:01 - WARN: Failed to fetch Deck Verified data for "Moonlighter 2: The Endless Vault (Game Preview)" (SteamID: ) - HTTP 429
+2025-11-21 14:19:01 - WARN: Failed to fetch Deck Verified data for "Syndicate Plus" (SteamID: ) - HTTP 429
+2025-11-21 14:19:01 - WARN: Failed to fetch Deck Verified data for "Shadowrun Returns" (SteamID: ) - HTTP 429
+2025-11-21 14:19:01 - WARN: Failed to fetch Deck Verified data for "Subnautica" (SteamID: ) - HTTP 429
+2025-11-21 14:19:01 - WARN: Failed to fetch Deck Verified data for "Assassin's Creed Unity" (SteamID: ) - HTTP 429
+2025-11-21 14:19:01 - WARN: Failed to fetch Deck Verified data for "Orcs Must Die! Deathtrap" (SteamID: ) - HTTP 429
+2025-11-21 14:19:02 - WARN: Failed to fetch Deck Verified data for "Titan Souls" (SteamID: ) - HTTP 429
+2025-11-21 14:19:02 - WARN: Failed to fetch Deck Verified data for "Hundred Days - Winemaking Simulator" (SteamID: ) - HTTP 429
+2025-11-21 14:19:02 - WARN: Failed to fetch Deck Verified data for "HD Voice Pack - English" (SteamID: ) - HTTP 429
+2025-11-21 14:19:02 - WARN: Failed to fetch Deck Verified data for "The Long Dark" (SteamID: ) - HTTP 429
+2025-11-21 14:19:02 - WARN: Failed to fetch Deck Verified data for "Project: Snowblind" (SteamID: ) - HTTP 429
+2025-11-21 14:19:02 - WARN: Failed to fetch Deck Verified data for "Tales of Maj'Eyal" (SteamID: ) - HTTP 429
+2025-11-21 14:19:02 - WARN: Failed to fetch Deck Verified data for "Serial Cleaner" (SteamID: ) - HTTP 429
+2025-11-21 14:19:03 - WARN: Failed to fetch Deck Verified data for "Dragon Age II" (SteamID: ) - HTTP 429
+2025-11-21 14:19:03 - WARN: Failed to fetch Deck Verified data for "Beatbuddy: Tale of the Guardians" (SteamID: ) - HTTP 429
+2025-11-21 14:19:03 - WARN: Failed to fetch Deck Verified data for "Dark Arcana: The Carnival" (SteamID: ) - HTTP 429
+2025-11-21 14:19:03 - WARN: Failed to fetch Deck Verified data for "The Red Solstice" (SteamID: ) - HTTP 429
+2025-11-21 14:19:03 - WARN: Failed to fetch Deck Verified data for "Diablo III: Reaper of Souls" (SteamID: ) - HTTP 429
+2025-11-21 14:19:03 - WARN: Failed to fetch Deck Verified data for "Gargoyles Remastered" (SteamID: ) - HTTP 429
+2025-11-21 14:19:03 - WARN: Failed to fetch Deck Verified data for "9 Kings (Game Preview)" (SteamID: ) - HTTP 429
+2025-11-21 14:19:04 - WARN: Failed to fetch Deck Verified data for "Total War: SHOGUN 2" (SteamID: ) - HTTP 429
+2025-11-21 14:19:04 - WARN: Failed to fetch Deck Verified data for "SpongeBob SquarePants: The Patrick Star Game" (SteamID: ) - HTTP 429
+2025-11-21 14:19:04 - WARN: Failed to fetch Deck Verified data for "Samurai Shodown V Special" (SteamID: ) - HTTP 429
+2025-11-21 14:19:04 - WARN: Failed to fetch Deck Verified data for "Nickelodeon All-Star Brawl 2" (SteamID: ) - HTTP 429
+2025-11-21 14:19:04 - WARN: Failed to fetch Deck Verified data for "Age of Wonders III" (SteamID: ) - HTTP 429
+2025-11-21 14:19:04 - WARN: Failed to fetch Deck Verified data for "Carto Sneak Peek" (SteamID: ) - HTTP 429
+2025-11-21 14:19:04 - WARN: Failed to fetch Deck Verified data for "The Stanley Parable" (SteamID: ) - HTTP 429
+2025-11-21 14:19:05 - WARN: Failed to fetch Deck Verified data for "Shattered Planet" (SteamID: ) - HTTP 429
+2025-11-21 14:19:05 - WARN: Failed to fetch Deck Verified data for "Jack Claw" (SteamID: ) - HTTP 429
+2025-11-21 14:19:05 - WARN: Failed to fetch Deck Verified data for "Killer is Dead" (SteamID: ) - HTTP 429
+2025-11-21 14:19:05 - WARN: Failed to fetch Deck Verified data for "Lovely Planet" (SteamID: ) - HTTP 429
+2025-11-21 14:19:05 - WARN: Failed to fetch Deck Verified data for "The Lords of Midnight" (SteamID: ) - HTTP 429
+2025-11-21 14:19:05 - WARN: Failed to fetch Deck Verified data for "Firewatch" (SteamID: ) - HTTP 429
+2025-11-21 14:19:05 - WARN: Failed to fetch Deck Verified data for "Twelve Minutes" (SteamID: ) - HTTP 429
+2025-11-21 14:19:06 - WARN: Failed to fetch Deck Verified data for "Fallout 2" (SteamID: ) - HTTP 429
+2025-11-21 14:19:06 - WARN: Failed to fetch Deck Verified data for "FINAL FANTASY XV WINDOWS EDITION" (SteamID: ) - HTTP 429
+2025-11-21 14:19:06 - WARN: Failed to fetch Deck Verified data for "Beholder 3" (SteamID: ) - HTTP 429
+2025-11-21 14:19:06 - WARN: Failed to fetch Deck Verified data for "The Ascent" (SteamID: ) - HTTP 429
+2025-11-21 14:19:06 - WARN: Failed to fetch Deck Verified data for "Dreamfall Chapters" (SteamID: ) - HTTP 429
+2025-11-21 14:19:06 - WARN: Failed to fetch Deck Verified data for "King’s Bounty: Legions" (SteamID: ) - HTTP 429
+2025-11-21 14:19:06 - WARN: Failed to fetch Deck Verified data for "Wallace & Gromit’s Grand Adventures" (SteamID: ) - HTTP 429
+2025-11-21 14:19:07 - WARN: Failed to fetch Deck Verified data for "Assassin's Creed Brotherhood" (SteamID: ) - HTTP 429
+2025-11-21 14:19:07 - WARN: Failed to fetch Deck Verified data for "Hell Yeah!" (SteamID: ) - HTTP 429
+2025-11-21 14:19:07 - WARN: Failed to fetch Deck Verified data for "Costume Quest" (SteamID: ) - HTTP 429
+2025-11-21 14:19:07 - WARN: Failed to fetch Deck Verified data for "The Spiral Scouts" (SteamID: ) - HTTP 429
+2025-11-21 14:19:07 - WARN: Failed to fetch Deck Verified data for "Tom Clancy's Rainbow Six Extraction" (SteamID: ) - HTTP 429
+2025-11-21 14:19:07 - WARN: Failed to fetch Deck Verified data for "Runaway: The Dream of the Turtle" (SteamID: ) - HTTP 429
+2025-11-21 14:19:07 - WARN: Failed to fetch Deck Verified data for "Faeria" (SteamID: ) - HTTP 429
+2025-11-21 14:19:08 - WARN: Failed to fetch Deck Verified data for "Sifu" (SteamID: ) - HTTP 429
+2025-11-21 14:19:08 - WARN: Failed to fetch Deck Verified data for "DIRT 5" (SteamID: ) - HTTP 429
+2025-11-21 14:19:08 - WARN: Failed to fetch Deck Verified data for "Visions of Mana" (SteamID: ) - HTTP 429
+2025-11-21 14:19:08 - WARN: Failed to fetch Deck Verified data for "Wizard of Legend" (SteamID: ) - HTTP 429
+2025-11-21 14:19:08 - WARN: Failed to fetch Deck Verified data for "Rebel Galaxy" (SteamID: ) - HTTP 429
+2025-11-21 14:19:08 - WARN: Failed to fetch Deck Verified data for "The Academy: The First Riddle" (SteamID: ) - HTTP 429
+2025-11-21 14:19:08 - WARN: Failed to fetch Deck Verified data for "METAL GEAR SOLID V: THE PHANTOM PAIN" (SteamID: ) - HTTP 429
+2025-11-21 14:19:09 - WARN: Failed to fetch Deck Verified data for "WRC 8 FIA World Rally Championship" (SteamID: ) - HTTP 429
+2025-11-21 14:19:09 - WARN: Failed to fetch Deck Verified data for "Banner Saga" (SteamID: ) - HTTP 429
+2025-11-21 14:19:09 - WARN: Failed to fetch Deck Verified data for "Leisure Suit Larry 2 - Looking For Love (In Several Wrong Places)" (SteamID: ) - HTTP 429
+2025-11-21 14:19:09 - WARN: Failed to fetch Deck Verified data for "Scott Pilgrim vs. The World: The Game – Complete Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:19:09 - WARN: Failed to fetch Deck Verified data for "Cave Story+" (SteamID: ) - HTTP 429
+2025-11-21 14:19:09 - WARN: Failed to fetch Deck Verified data for "Trine Enchanted Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:19:10 - WARN: Failed to fetch Deck Verified data for "STAR WARS Jedi: Fallen Order " (SteamID: ) - HTTP 429
+2025-11-21 14:19:10 - WARN: Failed to fetch Deck Verified data for "Syberia" (SteamID: ) - HTTP 429
+2025-11-21 14:19:10 - WARN: Failed to fetch Deck Verified data for "Crime Boss: Rockay City" (SteamID: ) - HTTP 429
+2025-11-21 14:19:10 - WARN: Failed to fetch Deck Verified data for "And Yet It Moves" (SteamID: ) - HTTP 429
+2025-11-21 14:19:10 - WARN: Failed to fetch Deck Verified data for "Leisure Suit Larry - Wet Dreams Don't Dry" (SteamID: ) - HTTP 429
+2025-11-21 14:19:10 - WARN: Failed to fetch Deck Verified data for "Project Warlock" (SteamID: ) - HTTP 429
+2025-11-21 14:19:10 - WARN: Failed to fetch Deck Verified data for "Fantasy Empires" (SteamID: ) - HTTP 429
+2025-11-21 14:19:10 - WARN: Failed to fetch Deck Verified data for "Walking Survival" (SteamID: ) - HTTP 429
+2025-11-21 14:19:11 - WARN: Failed to fetch Deck Verified data for "BioShock 2 Remastered" (SteamID: ) - HTTP 429
+2025-11-21 14:19:11 - WARN: Failed to fetch Deck Verified data for "Gothic 1 Classic" (SteamID: ) - HTTP 429
+2025-11-21 14:19:11 - WARN: Failed to fetch Deck Verified data for "Fort Triumph" (SteamID: ) - HTTP 429
+2025-11-21 14:19:11 - WARN: Failed to fetch Deck Verified data for "Snapshot" (SteamID: ) - HTTP 429
+2025-11-21 14:19:11 - WARN: Failed to fetch Deck Verified data for "EDGE" (SteamID: ) - HTTP 429
+2025-11-21 14:19:11 - WARN: Failed to fetch Deck Verified data for "Hell Let Loose" (SteamID: ) - HTTP 429
+2025-11-21 14:19:12 - WARN: Failed to fetch Deck Verified data for "Train Valley 2" (SteamID: ) - HTTP 429
+2025-11-21 14:19:12 - WARN: Failed to fetch Deck Verified data for "Monkey Island 2: Special Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:19:12 - WARN: Failed to fetch Deck Verified data for "Medal of Honor" (SteamID: ) - HTTP 429
+2025-11-21 14:19:12 - WARN: Failed to fetch Deck Verified data for "The King of Fighters 2002" (SteamID: ) - HTTP 429
+2025-11-21 14:19:12 - WARN: Failed to fetch Deck Verified data for "Tropico 5" (SteamID: ) - HTTP 429
+2025-11-21 14:19:12 - WARN: Failed to fetch Deck Verified data for "Salammbo: Battle for Carthage" (SteamID: ) - HTTP 429
+2025-11-21 14:19:12 - WARN: Failed to fetch Deck Verified data for "Atlas Fallen: Reign of Sand" (SteamID: ) - HTTP 429
+2025-11-21 14:19:12 - WARN: Failed to fetch Deck Verified data for "Rise of the Tomb Raider" (SteamID: ) - HTTP 429
+2025-11-21 14:19:13 - WARN: Failed to fetch Deck Verified data for "Revenge of the Savage Planet" (SteamID: ) - HTTP 429
+2025-11-21 14:19:13 - WARN: Failed to fetch Deck Verified data for "Witch It" (SteamID: ) - HTTP 429
+2025-11-21 14:19:13 - WARN: Failed to fetch Deck Verified data for "Death Knights of Krynn" (SteamID: ) - HTTP 429
+2025-11-21 14:19:13 - WARN: Failed to fetch Deck Verified data for "The Escapists" (SteamID: ) - HTTP 429
+2025-11-21 14:19:13 - WARN: Failed to fetch Deck Verified data for "Let's School" (SteamID: ) - HTTP 429
+2025-11-21 14:19:13 - WARN: Failed to fetch Deck Verified data for "Ratchet & Clank: Rift Apart" (SteamID: ) - HTTP 429
+2025-11-21 14:19:14 - WARN: Failed to fetch Deck Verified data for "Vampire: The Masquerade - Reckoning of New York" (SteamID: ) - HTTP 429
+2025-11-21 14:19:14 - WARN: Failed to fetch Deck Verified data for "UBOAT" (SteamID: ) - HTTP 429
+2025-11-21 14:19:14 - WARN: Failed to fetch Deck Verified data for "Bad North: Jotunn Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:19:14 - WARN: Failed to fetch Deck Verified data for "Enter the Gungeon" (SteamID: ) - HTTP 429
+2025-11-21 14:19:14 - WARN: Failed to fetch Deck Verified data for "Ball laB" (SteamID: ) - HTTP 429
+2025-11-21 14:19:14 - WARN: Failed to fetch Deck Verified data for "Bad North Jotunn Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:19:14 - WARN: Failed to fetch Deck Verified data for "Scars Above" (SteamID: ) - HTTP 429
+2025-11-21 14:19:15 - WARN: Failed to fetch Deck Verified data for "XCOM 2" (SteamID: ) - HTTP 429
+2025-11-21 14:19:15 - WARN: Failed to fetch Deck Verified data for "FAR CRY 3 BLOOD DRAGON" (SteamID: ) - HTTP 429
+2025-11-21 14:19:15 - WARN: Failed to fetch Deck Verified data for "Metro: Last Light Redux" (SteamID: ) - HTTP 429
+2025-11-21 14:19:15 - WARN: Failed to fetch Deck Verified data for "BIT.TRIP RUNNER" (SteamID: ) - HTTP 429
+2025-11-21 14:19:15 - WARN: Failed to fetch Deck Verified data for "Baldur's Gate 3" (SteamID: ) - HTTP 429
+2025-11-21 14:19:15 - WARN: Failed to fetch Deck Verified data for "Mutazione" (SteamID: ) - HTTP 429
+2025-11-21 14:19:15 - WARN: Failed to fetch Deck Verified data for "Blair Witch" (SteamID: ) - HTTP 429
+2025-11-21 14:19:16 - WARN: Failed to fetch Deck Verified data for "Godzilla Voxel Wars" (SteamID: ) - HTTP 429
+2025-11-21 14:19:16 - WARN: Failed to fetch Deck Verified data for "Fortix 2" (SteamID: ) - HTTP 429
+2025-11-21 14:19:16 - WARN: Failed to fetch Deck Verified data for "Guardians of Middle-earth" (SteamID: ) - HTTP 429
+2025-11-21 14:19:16 - WARN: Failed to fetch Deck Verified data for "Cybarian: The Time Travelling Warrior" (SteamID: ) - HTTP 429
+2025-11-21 14:19:16 - WARN: Failed to fetch Deck Verified data for "Caverns of Mars Recharged" (SteamID: ) - HTTP 429
+2025-11-21 14:19:16 - WARN: Failed to fetch Deck Verified data for "Magicka 2: Spell Balance Beta" (SteamID: ) - HTTP 429
+2025-11-21 14:19:16 - WARN: Failed to fetch Deck Verified data for "Serious Sam HD: The Second Encounter" (SteamID: ) - HTTP 429
+2025-11-21 14:19:17 - WARN: Failed to fetch Deck Verified data for "MudRunner" (SteamID: ) - HTTP 429
+2025-11-21 14:19:17 - WARN: Failed to fetch Deck Verified data for "The Sims 4" (SteamID: ) - HTTP 429
+2025-11-21 14:19:17 - WARN: Failed to fetch Deck Verified data for "Furi Demake" (SteamID: ) - HTTP 429
+2025-11-21 14:19:17 - WARN: Failed to fetch Deck Verified data for "No Time To Explain Remastered" (SteamID: ) - HTTP 429
+2025-11-21 14:19:17 - WARN: Failed to fetch Deck Verified data for "Spirit of the North" (SteamID: ) - HTTP 429
+2025-11-21 14:19:17 - WARN: Failed to fetch Deck Verified data for "To The Moon" (SteamID: ) - HTTP 429
+2025-11-21 14:19:17 - WARN: Failed to fetch Deck Verified data for "LEGO Star Wars - The Complete Saga" (SteamID: ) - HTTP 429
+2025-11-21 14:19:18 - WARN: Failed to fetch Deck Verified data for "Detention" (SteamID: ) - HTTP 429
+2025-11-21 14:19:18 - WARN: Failed to fetch Deck Verified data for "Puzzle Chambers" (SteamID: ) - HTTP 429
+2025-11-21 14:19:18 - WARN: Failed to fetch Deck Verified data for "Alien: Isolation" (SteamID: ) - HTTP 429
+2025-11-21 14:19:18 - WARN: Failed to fetch Deck Verified data for "Conarium" (SteamID: ) - HTTP 429
+2025-11-21 14:19:18 - WARN: Failed to fetch Deck Verified data for "Puzzle Agent 2" (SteamID: ) - HTTP 429
+2025-11-21 14:19:18 - WARN: Failed to fetch Deck Verified data for "Sins of a Solar Empire: Rebellion" (SteamID: ) - HTTP 429
+2025-11-21 14:19:18 - WARN: Failed to fetch Deck Verified data for "Spells & Secrets" (SteamID: ) - HTTP 429
+2025-11-21 14:19:19 - WARN: Failed to fetch Deck Verified data for "The Night of the Rabbit" (SteamID: ) - HTTP 429
+2025-11-21 14:19:19 - WARN: Failed to fetch Deck Verified data for "Assassin's Creed Syndicate" (SteamID: ) - HTTP 429
+2025-11-21 14:19:19 - WARN: Failed to fetch Deck Verified data for "F1 2012" (SteamID: ) - HTTP 429
+2025-11-21 14:19:19 - WARN: Failed to fetch Deck Verified data for "Chaos on Deponia" (SteamID: ) - HTTP 429
+2025-11-21 14:19:19 - WARN: Failed to fetch Deck Verified data for "The Excavation of Hob's Barrow" (SteamID: ) - HTTP 429
+2025-11-21 14:19:19 - WARN: Failed to fetch Deck Verified data for "For The King II" (SteamID: ) - HTTP 429
+2025-11-21 14:19:19 - WARN: Failed to fetch Deck Verified data for "The Age of Decadence" (SteamID: ) - HTTP 429
+2025-11-21 14:19:20 - WARN: Failed to fetch Deck Verified data for "Dungeon of the ENDLESS" (SteamID: ) - HTTP 429
+2025-11-21 14:19:20 - WARN: Failed to fetch Deck Verified data for "DEATHLOOP" (SteamID: ) - HTTP 429
+2025-11-21 14:19:20 - WARN: Failed to fetch Deck Verified data for "Jupiter Hell" (SteamID: ) - HTTP 429
+2025-11-21 14:19:20 - WARN: Failed to fetch Deck Verified data for "MOLEK-SYNTEZ" (SteamID: ) - HTTP 429
+2025-11-21 14:19:20 - WARN: Failed to fetch Deck Verified data for "LEGO MARVEL Super Heroes" (SteamID: ) - HTTP 429
+2025-11-21 14:19:20 - WARN: Failed to fetch Deck Verified data for "Rage 2" (SteamID: ) - HTTP 429
+2025-11-21 14:19:20 - WARN: Failed to fetch Deck Verified data for "Dead Island 2" (SteamID: ) - HTTP 429
+2025-11-21 14:19:21 - WARN: Failed to fetch Deck Verified data for "X-Morph: Defense" (SteamID: ) - HTTP 429
+2025-11-21 14:19:21 - WARN: Failed to fetch Deck Verified data for "Dwarf Fortress" (SteamID: ) - HTTP 429
+2025-11-21 14:19:21 - WARN: Failed to fetch Deck Verified data for "Warhammer Underworlds: Online" (SteamID: ) - HTTP 429
+2025-11-21 14:19:21 - WARN: Failed to fetch Deck Verified data for "Galactic Civilizations II: Ultimate Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:19:21 - WARN: Failed to fetch Deck Verified data for "Cities XL Platinum" (SteamID: ) - HTTP 429
+2025-11-21 14:19:21 - WARN: Failed to fetch Deck Verified data for "Death Track: Resurrection" (SteamID: ) - HTTP 429
+2025-11-21 14:19:21 - WARN: Failed to fetch Deck Verified data for "Cookie Cutter" (SteamID: ) - HTTP 429
+2025-11-21 14:19:22 - WARN: Failed to fetch Deck Verified data for "Moving Out" (SteamID: ) - HTTP 429
+2025-11-21 14:19:22 - WARN: Failed to fetch Deck Verified data for "Hades" (SteamID: ) - HTTP 429
+2025-11-21 14:19:22 - WARN: Failed to fetch Deck Verified data for "Little Nightmares II" (SteamID: ) - HTTP 429
+2025-11-21 14:19:22 - WARN: Failed to fetch Deck Verified data for "Raiden V: Director's Cut" (SteamID: ) - HTTP 429
+2025-11-21 14:19:22 - WARN: Failed to fetch Deck Verified data for "Beyond The Edge Of Owlsgard" (SteamID: ) - HTTP 429
+2025-11-21 14:19:22 - WARN: Failed to fetch Deck Verified data for "One Lonely Outpost" (SteamID: ) - HTTP 429
+2025-11-21 14:19:22 - WARN: Failed to fetch Deck Verified data for "Teleglitch: Die More Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:19:23 - WARN: Failed to fetch Deck Verified data for "Mirage: Arcane Warfare" (SteamID: ) - HTTP 429
+2025-11-21 14:19:23 - WARN: Failed to fetch Deck Verified data for "State of Decay" (SteamID: ) - HTTP 429
+2025-11-21 14:19:23 - WARN: Failed to fetch Deck Verified data for "Tyranny" (SteamID: ) - HTTP 429
+2025-11-21 14:19:23 - WARN: Failed to fetch Deck Verified data for "Arma 2: Private Military Company" (SteamID: ) - HTTP 429
+2025-11-21 14:19:23 - WARN: Failed to fetch Deck Verified data for "AER Memories of Old" (SteamID: ) - HTTP 429
+2025-11-21 14:19:23 - WARN: Failed to fetch Deck Verified data for "Stick it to the Man" (SteamID: ) - HTTP 429
+2025-11-21 14:19:23 - WARN: Failed to fetch Deck Verified data for "Kabounce" (SteamID: ) - HTTP 429
+2025-11-21 14:19:24 - WARN: Failed to fetch Deck Verified data for "Dorfromantik" (SteamID: ) - HTTP 429
+2025-11-21 14:19:24 - WARN: Failed to fetch Deck Verified data for "Neon Drive DRM-free" (SteamID: ) - HTTP 429
+2025-11-21 14:19:24 - WARN: Failed to fetch Deck Verified data for "Loria" (SteamID: ) - HTTP 429
+2025-11-21 14:19:24 - WARN: Failed to fetch Deck Verified data for "Pony Island" (SteamID: ) - HTTP 429
+2025-11-21 14:19:24 - WARN: Failed to fetch Deck Verified data for "Warsaw" (SteamID: ) - HTTP 429
+2025-11-21 14:19:24 - WARN: Failed to fetch Deck Verified data for "Metro Exodus" (SteamID: ) - HTTP 429
+2025-11-21 14:19:25 - WARN: Failed to fetch Deck Verified data for "Planet of Lana" (SteamID: ) - HTTP 429
+2025-11-21 14:19:25 - WARN: Failed to fetch Deck Verified data for "Mass Effect 2 (2010) Edition" (SteamID: ) - HTTP 429
+2025-11-21 14:19:25 - WARN: Failed to fetch Deck Verified data for "GNOG" (SteamID: ) - HTTP 429
+2025-11-21 14:19:25 - WARN: Failed to fetch Deck Verified data for "LIMBO" (SteamID: ) - HTTP 429
+2025-11-21 14:19:25 - WARN: Failed to fetch Deck Verified data for "Far Cry New Dawn" (SteamID: ) - HTTP 429
+2025-11-21 14:19:25 - WARN: Failed to fetch Deck Verified data for "Braveland Pirate" (SteamID: ) - HTTP 429
+2025-11-21 14:19:25 - WARN: Failed to fetch Deck Verified data for "Assassin's Creed Chronicles – Russia" (SteamID: ) - HTTP 429
+2025-11-21 14:19:25 - WARN: Failed to fetch Deck Verified data for "Resident Evil 2" (SteamID: ) - HTTP 429
+2025-11-21 14:32:52 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-21 14:32:53 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-21 14:32:53 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-21 14:32:53 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
