@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html style="background-color: #181a1b;  height: 100%; width: 100%; overflow: hidden; margin:0px">
+
+<head>
+    <title></title>
+    <link href="https://kendo.cdn.telerik.com/themes/8.0.1/default/default-main.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+
+    <script src="kendo/js/kendo.all.min.js"></script>
+
+    <script src="games.json.js"></script>
+
+</head>
+
+<body style="background-color: #181a1b; height: 100%; width: 100%; overflow: hidden; display: flex; flex-direction: column; margin:0px">
+
+    <div id="toolbar"></div>
+    <div id="filter"></div>
+    <div id="listView" style="background-color: #181a1b; flex: 1"></div>
+
+    <!-- <script type="text/x-kendo-template" id="template">
+        <div class="product">
+            <img style="height: 200px" src="files/#= CoverImage #" alt="#: Name #" />
+        </div>
+    </script> -->
+    <script type="text/x-kendo-template" id="template">
+        <div class="k-listview-item">
+            <h4 class="k-group-title">#= data.value #</h4>
+            <div class="cards">
+                # for (var i = 0; i < data.items.length; i++) { #
+                <div class="k-card" style="width: 12em; margin: 10px">
+                    <img class="k-card-media" src="files/#=data.items[i].CoverImage#"  loading="lazy"/>
+                </div>
+                # } #
+            </div>
+        </div>
+    </script>
+    <script>
+        // $(function () {
+        var dataSource = new kendo.data.DataSource({
+                data: games,
+                pageSize: 500,
+                group: {
+                    field: 'CriticScoreGroup',
+                    dir: 'desc'
+                },
+                schema: {
+                    model: {
+                        fields: {
+                            Name: { type: "string" },
+                            CoverImage: { type: "string" },
+                            ReleaseYear: { type: "number" }
+                        }
+                    }
+                }
+            });
+        $("#filter").kendoFilter({
+                dataSource: dataSource,
+                expressionPreview: true,
+                applyButton: true,
+                fields: [
+                    { name: "Name", type: "string", label: "Name" },
+                    { name: "ReleaseYear", type: "number", label: "ReleaseYear" },
+                    { name: "CoverImage", type: "string", label: "CoverImage" }
+                ]
+            }).data("kendoFilter");
+        console.log(games.length);
+        for (let game of games) {
+            if (game.CriticScore == null) {
+                game.CriticScoreGroup = null;
+            }
+            if (game.CommunityScore == null) {
+                game.CommunityScoreGroup = null;
+            }
+            if (game.ReleaseDate != null && game.ReleaseDate != "") {
+                game.ReleaseMonth = game.ReleaseDate.split('/')[2] + '-' + game.ReleaseDate.split('/')[1].padStart(2, '0');
+            }
+            if (game.Added != null) {
+                game.AddedMonth = new Date(parseInt(game.Added.replace('/Date(', '').replace(')/', ''))).getFullYear() + '-' + (new Date(parseInt(game.Added.replace('/Date(', '').replace(')/', ''))).getMonth() + 1);
+            }
+        }
+        var listview = $("#listView").kendoListView({
+            dataSource: dataSource,
+            // scrollable: "endless",
+            template: kendo.template($("#template").html()),
+            pageable: true
+        }).data('kendoListView');
+        console.log(listview);
+        window['listview'] = listview;
+        let buttons = [
+            { text: "All", togglable: true, group: "GameFilter", toggle: buttonToggleHandler },
+            { text: "Installed", togglable: true, group: "GameFilter", toggle: buttonToggleHandler },
+            { text: "Completed", togglable: true, group: "GameFilter", toggle: buttonToggleHandler },
+            { text: "Not Completed", togglable: true, group: "GameFilter", toggle: buttonToggleHandler },
+            { text: "Borrowed", togglable: true, group: "GameFilter", toggle: buttonToggleHandler },
+            { text: "Top", togglable: true, group: "GameFilter", toggle: buttonToggleHandler },
+            { text: "Local", togglable: true, group: "GameFilter", toggle: buttonToggleHandler },
+            { text: "4x", togglable: true, group: "GameFilter", toggle: buttonToggleHandler },
+            { text: "Colony", togglable: true, group: "GameFilter", toggle: buttonToggleHandler },
+            { text: "Game Pass", togglable: true, group: "GameFilter", toggle: buttonToggleHandler },
+            { text: "Deck", togglable: true, group: "GameFilter", toggle: buttonToggleHandler }
+        ];
+        for (let i = 2012; i <= 2024; i++) {
+            buttons.push(
+                { text: i.toString(), togglable: true, group: "GameFilter", toggle: buttonToggleHandler },
+            );
+        }
+        var toolbar = $("#toolbar").kendoToolBar({ items: [{ type: "buttonGroup", buttons: buttons }] });
+        function buttonToggleHandler(e) {
+            if (e.target.text() == 'All') {
+                listview.dataSource.data(games);
+            } else if (e.target.text() == 'Installed') {
+                listview.dataSource.data(games.filter(p => p.IsInstalled && !p.Hidden));
+                listview.dataSource.group({ field: 'Source', dir: 'desc' });
+            } else if (e.target.text() == 'Completed') {
+                listview.dataSource.data(games.filter(p => !p.Hidden && ['⭐', '⭐⭐', '⭐⭐⭐', '⭐⭐⭐⭐', '⭐⭐⭐⭐⭐', 'Abandoned', 'Beaten', 'Completed'].indexOf(p.CompletionStatus) > -1));
+                listview.dataSource.group({ field: 'Categories', dir: 'desc' });
+            } else if (e.target.text() == 'Not Completed') {
+                listview.dataSource.data(games.filter(p => !p.Hidden && p.ReleaseYear >= 2007
+                    && p.Features != null && p.Features.indexOf('Single Player') > -1
+                    && [null, 'Not Played', 'Played'].indexOf(p.CompletionStatus) > -1
+                    && p.CriticScore || 100 >= 80
+                ));
+                listview.dataSource.group({ field: 'CriticScoreGroup', dir: 'desc' });
+            } else if (e.target.text() == 'Borrowed') {
+                listview.dataSource.data(games.filter(p => p.Features != null && p.Features.indexOf('Borrowed') > -1
+                    && [null, 'Not Played', 'Played'].indexOf(p.CompletionStatus) > -1
+                ));
+                listview.dataSource.group({ field: 'AddedMonth', dir: 'desc' });
+            } else if (e.target.text() == 'Top') {
+                listview.dataSource.data(games.filter(p => !p.Hidden && [null, 'Not Played', 'Played'].indexOf(p.CompletionStatus) > -1
+                    && p.CriticScore || 100 >= 80
+                    && p.CommunityScore || 100 >= 80
+                ));
+                listview.dataSource.group({ field: 'CriticScoreGroup', dir: 'desc' });
+            } else if (e.target.text() == 'Local') {
+                listview.dataSource.data(games.filter(p => !p.Hidden && (p.Tags?.indexOf('Local Co-Op') > -1 || p.Tags?.indexOf('Local Multiplayer') > -1)
+                    && [null, 'Not Played', 'Played'].indexOf(p.CompletionStatus) > -1
+                ));
+                listview.dataSource.group({ field: 'CommunityScoreGroup', dir: 'desc' });
+            } else if (e.target.text() == '4x') {
+                listview.dataSource.data(games.filter(p => p.Tags?.indexOf('4X') > -1
+                ));
+                listview.dataSource.group({ field: 'AddedMonth', dir: 'desc' });
+            } else if (e.target.text() == 'Colony') {
+                listview.dataSource.data(games.filter(p => p.Tags?.indexOf('Colony Sim') > -1
+                ));
+                listview.dataSource.group({ field: 'AddedMonth', dir: 'desc' });
+            } else if (e.target.text() == 'Game Pass') {
+                listview.dataSource.data(games.filter(p => ['Xbox Game Pass', 'Xbox', 'EA Pass'].indexOf(p.Source) > -1));
+                listview.dataSource.group({ field: 'AddedMonth', dir: 'desc' });
+            } else if (e.target.text() == 'Deck') {
+                listview.dataSource.data(games.filter(p => !p.Hidden && p.Categories?.indexOf('Deck') > -1));
+                listview.dataSource.group({ field: 'CriticScoreGroup', dir: 'desc' })
+            }
+            for (let i = 2007; i <= 2024; i++) {
+                if (e.target.text() == i.toString()) {
+                    listview.dataSource.group({ field: 'CompletionStatus', dir: 'desc' });
+                    listview.dataSource.data(games.filter(p => !p.Hidden && p.Categories?.indexOf(i.toString()) > -1));
+                }
+            }
+            console.log(e.target.text() + " 'toggle' event is fired.");
+        }
+        // });
+
+    </script>
+
+    <style>
+        #listView .k-listview-content {
+            height: 65em;
+        }
+
+        #listView .k-listview-content .k-listview-item {
+            padding: 10px 0px 0px 10px;
+        }
+
+        #listView .k-listview-content .k-listview-item:after {
+            content: '';
+            height: 100%;
+            height: 2px;
+            background: #F4F4F4;
+            position: absolute;
+        }
+
+
+        #listView .k-listview-content .k-listview-item .cards {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        #listView .k-group-title {
+            font-family: inherit;
+            font-size: 20px;
+            line-height: normal;
+            font-weight: 400;
+            text-transform: uppercase;
+            font-weight: 600;
+            margin: 0px;
+        }
+
+        #listView .k-group-footer {
+            font-family: inherit;
+            font-size: 17px;
+            line-height: normal;
+            font-weight: 400;
+            font-style: italic;
+            margin: 0px;
+        }
+
+        .k-card {
+            border-width: 0px;
+        }
+        .cards {
+            margin-left: 20px;
+        }
+    </style>
+
+
+
+</body>
+
+</html>
