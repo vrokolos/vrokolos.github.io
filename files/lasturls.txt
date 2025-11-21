@@ -1,33 +1,4 @@
-﻿2025-11-21 14:55:51 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 14:55:52 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 14:55:52 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 14:55:52 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 14:55:56 - INFO: Created game file for Forager at c:\Output\playnite\files\decksettings\a4c3f646-f55a-474b-bd65-ac995e4c430a.json
-2025-11-21 14:55:56 - INFO: Created game file for Four Kings One War at c:\Output\playnite\files\decksettings\2138a0b7-92db-454e-ba6c-38f33f6a646e.json
-2025-11-21 14:55:57 - INFO: Created game file for Evoland at c:\Output\playnite\files\decksettings\bad3c355-ff22-4cea-9836-3f081d35bf22.json
-2025-11-21 14:55:57 - INFO: Created game file for South Park: The Stick of Truth at c:\Output\playnite\files\decksettings\e3dae44e-7b38-421f-8699-b310f309c526.json
-2025-11-21 14:55:57 - INFO: Created game file for Batman: Arkham City at c:\Output\playnite\files\decksettings\43458fc1-7263-4bbc-ae17-adbcfe0a6e83.json
-2025-11-21 14:55:57 - INFO: Created game file for SKALD: Against the Black Priory at c:\Output\playnite\files\decksettings\e228f314-18fe-41f9-87fa-f6b8e5ec2a6a.json
-2025-11-21 14:55:57 - INFO: Created game file for The Last Door - Collector's Edition at c:\Output\playnite\files\decksettings\7681402d-178b-4572-b565-9385f2105acf.json
-2025-11-21 14:55:57 - INFO: Created game file for Half-Life 2: Episode One at c:\Output\playnite\files\decksettings\49da8525-5b79-42af-b447-75740aad3c11.json
-2025-11-21 14:55:58 - INFO: Created game file for Resident Evil 5 at c:\Output\playnite\files\decksettings\b154551a-97bc-4540-9be7-ae9a0d4d9334.json
-2025-11-21 14:55:58 - INFO: Created game file for Spec Ops: The Line at c:\Output\playnite\files\decksettings\4bf2c3b5-fd09-4d56-95ce-c4129850d45d.json
-2025-11-21 14:55:58 - INFO: Created game file for Interkosmos at c:\Output\playnite\files\decksettings\5618e63b-2297-449d-bdda-e002136fb981.json
-2025-11-21 14:55:59 - INFO: Created game file for Return to Mysterious Island 2 at c:\Output\playnite\files\decksettings\c5ff3246-6134-4b0f-9ad7-03fbca58c22f.json
-2025-11-21 14:55:59 - INFO: Created game file for Kingdom Two Crowns at c:\Output\playnite\files\decksettings\a1834e0a-2333-4942-afcb-7983295bf6f6.json
-2025-11-21 14:55:59 - INFO: Created game file for 198X at c:\Output\playnite\files\decksettings\53a8bd04-2518-4e80-a0b6-76a1b99ae95d.json
-2025-11-21 14:55:59 - INFO: Created game file for Astronarch at c:\Output\playnite\files\decksettings\94224696-ff12-4c83-a938-c9b1f2630d31.json
-2025-11-21 14:57:40 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 14:57:41 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 14:57:41 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 14:57:41 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 15:04:01 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 15:04:02 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 15:04:02 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 15:04:03 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 15:04:33 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 15:04:53 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 15:07:07 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 15:07:08 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 15:07:08 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
-2025-11-21 15:07:09 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+﻿2025-11-21 15:11:25 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-21 15:11:26 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-21 15:11:26 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-21 15:11:27 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
