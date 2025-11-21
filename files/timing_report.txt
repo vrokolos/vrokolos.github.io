@@ -1,10 +1,10 @@
 ﻿=== PERFORMANCE TIMING REPORT ===
 Process All Games: 1 ms
-Steam Friends & Playtime: 2.467 ms
-Process HowLongToBeat Data: 3 ms
-Parallel API Processing (6 tasks): 3.222 ms
-Export Game Data: 20 ms
-Git Operations: 5.239 ms
-Save Errors: 1 ms
+Steam Friends & Playtime: 2.402 ms
+Process HowLongToBeat Data: 4 ms
+Parallel API Processing (7 tasks): 3.225 ms
+Export Game Data: 24 ms
+Git Operations: 3.274 ms
+Save Errors: 0 ms
 
-=== TOTAL EXECUTION TIME: 10.954 ms (11,0 seconds) ===
+=== TOTAL EXECUTION TIME: 8.938 ms (8,9 seconds) ===
