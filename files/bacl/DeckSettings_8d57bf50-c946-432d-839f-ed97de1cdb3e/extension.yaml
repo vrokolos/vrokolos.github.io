@@ -1,0 +1,7 @@
+﻿Id: DeckSettings_8d57bf50-c946-432d-839f-ed97de1cdb3e
+Name: Steam Deck Settings
+Author: Iosif Karaioannoglou
+Version: 1.0
+Module: DeckSettingsPlugin.dll
+Type: GenericPlugin
+Icon: icon.png
