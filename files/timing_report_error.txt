@@ -1,6 +1,5 @@
 ﻿=== PERFORMANCE TIMING REPORT ===
-Process All Games: 3 ms
-Steam Friends & Playtime: 2.032 ms
-Parallel API Processing (8 tasks): 494.380 ms
+Process All Games: 17 ms
+Steam Friends & Playtime: 1.938 ms
 
-=== ERROR OCCURRED AT: 498.661 ms ===
+=== ERROR OCCURRED AT: 19.249 ms ===

@@ -492,3 +492,553 @@
 2025-11-25 09:38:25 - Refreshing reviews for recent game: Sid Meier's Civilization IV: Beyond the Sword (Added: 2025-09-07)
 2025-11-25 09:38:25 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
 2025-11-25 09:38:26 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 10:05:11 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:05:12 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:05:12 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:05:12 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:05:19 - INFO: Created game file for Strange Horticulture at c:\Output\playnite\files\decksettings\5fd15758-a247-4880-b33e-ec7f6aa5624c.json
+2025-11-25 10:05:19 - INFO: Created game file for Evan's Remains at c:\Output\playnite\files\decksettings\98847cb3-fb13-49b1-ba5a-f70d376f5094.json
+2025-11-25 10:05:19 - INFO: Created game file for PowerWash Simulator 2 at c:\Output\playnite\files\decksettings\e187b022-cffd-435b-af6e-6f7534deb530.json
+2025-11-25 10:05:20 - INFO: Created game file for Doors - Paradox at c:\Output\playnite\files\decksettings\601f652c-4c4e-417a-aeb0-2fbe2657df10.json
+2025-11-25 10:05:20 - INFO: Created game file for Looking for Aliens Collector's Edition at c:\Output\playnite\files\decksettings\22420fbb-44d0-4323-bffe-4230e1500ffb.json
+2025-11-25 10:05:21 - INFO: Created game file for Star Stuff at c:\Output\playnite\files\decksettings\98cc298c-19ad-4731-924e-75ba8dfba872.json
+2025-11-25 10:05:21 - INFO: Created game file for Dungeons Of Hinterberg at c:\Output\playnite\files\decksettings\e1950a72-612f-4511-8021-20fda96b30aa.json
+2025-11-25 10:05:21 - INFO: Created game file for Inkulinati at c:\Output\playnite\files\decksettings\22557df7-e456-4d50-8fdc-a6aaf1a2f162.json
+2025-11-25 10:05:21 - INFO: Created game file for Roomvas at c:\Output\playnite\files\decksettings\60334a2d-b9f5-40df-8b62-7238dd59960f.json
+2025-11-25 10:05:21 - INFO: Created game file for The Forgotten City at c:\Output\playnite\files\decksettings\e20f7241-e33e-4120-bf09-2a210922ed9c.json
+2025-11-25 10:05:22 - INFO: Created game file for RPG Maker XP at c:\Output\playnite\files\decksettings\98f2e9ae-5947-4219-a4cb-3bd4c8312280.json
+2025-11-25 10:05:22 - INFO: Created game file for Fetish Locator Week One at c:\Output\playnite\files\decksettings\6041e4d8-e5a6-4b41-b781-318ac461e176.json
+2025-11-25 10:05:22 - INFO: Created game file for Hollow Knight: Silksong at c:\Output\playnite\files\decksettings\e2633f30-340e-4653-8c26-ce977211398c.json
+2025-11-25 10:05:22 - INFO: Created game file for Leap of Faith + Official Walkthrough at c:\Output\playnite\files\decksettings\22703875-c9d3-4777-baec-c33fbfb8ee86.json
+2025-11-25 10:05:56 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:05:57 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:05:57 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:05:58 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:06:02 - INFO: Created game file for Legion TD 2 at c:\Output\playnite\files\decksettings\990359fb-eea6-462f-9309-cd15c172f07c.json
+2025-11-25 10:06:02 - INFO: Created game file for Samorost 3 at c:\Output\playnite\files\decksettings\6074de10-b1c0-4e9b-8e20-19de68a48ab3.json
+2025-11-25 10:06:02 - INFO: Created game file for OneShift at c:\Output\playnite\files\decksettings\22794923-abf0-441b-b9f2-9da8281af8e0.json
+2025-11-25 10:06:03 - INFO: Created game file for Hard West 2 at c:\Output\playnite\files\decksettings\e2d26c0d-f10e-4203-afc6-b45cda3444f2.json
+2025-11-25 10:06:03 - INFO: Created game file for Command & Conquer: Red Alert 2 and Yuri’s Revenge at c:\Output\playnite\files\decksettings\998b72a6-ddc2-417c-a786-e5f2cd6453a1.json
+2025-11-25 10:06:04 - INFO: Created game file for THE FINALS at c:\Output\playnite\files\decksettings\60813c29-9f1f-4651-9d22-f8d0c7e11af3.json
+2025-11-25 10:06:04 - INFO: Created game file for True Fear: Forsaken Souls Part 1 at c:\Output\playnite\files\decksettings\228f3df3-b6bf-4c1b-9cd3-efc53e18d45c.json
+2025-11-25 10:06:04 - INFO: Created game file for All Walls Must Fall at c:\Output\playnite\files\decksettings\e30c6023-f7de-462b-a416-86c6b033eb7d.json
+2025-11-25 10:06:05 - INFO: Created game file for Ultimate Zombie Defense at c:\Output\playnite\files\decksettings\99b01b34-1c3a-43b3-8217-e8c8066d826d.json
+2025-11-25 10:06:05 - INFO: Created game file for Sands of Aura at c:\Output\playnite\files\decksettings\60cf205b-6074-4d2e-9b63-27be2e07042f.json
+2025-11-25 10:06:06 - INFO: Created game file for Sniper Ghost Warrior Contracts at c:\Output\playnite\files\decksettings\229a5ef8-81a0-49b8-ac09-ea98986b6f30.json
+2025-11-25 10:06:07 - INFO: Created game file for Down the Rabbit Hole Flattened at c:\Output\playnite\files\decksettings\99bec5cc-09ff-4a65-a70e-d9283b33d34a.json
+2025-11-25 10:06:07 - INFO: Created game file for FATE: The Cursed King at c:\Output\playnite\files\decksettings\e39b2c6d-2b93-4ad7-aecb-640b1f50c18d.json
+2025-11-25 10:06:08 - INFO: Created game file for Dark Sun: Shattered Lands at c:\Output\playnite\files\decksettings\22c2edd8-dff6-44e5-9761-68541b7b2ede.json
+2025-11-25 10:06:08 - INFO: Created game file for Ultros at c:\Output\playnite\files\decksettings\617956e9-6bf1-44c0-bf28-5536b58d6c9a.json
+2025-11-25 10:06:08 - INFO: Created game file for Figment 2: Creed Valley at c:\Output\playnite\files\decksettings\e3d27c25-8e5f-465a-9a50-74baf171a30e.json
+2025-11-25 10:06:09 - INFO: Created game file for Gigantic: Rampage Edition at c:\Output\playnite\files\decksettings\99bf7d3e-7697-416d-9d3a-185fc93bfcf0.json
+2025-11-25 10:06:09 - INFO: Created game file for 9 Years of Shadows at c:\Output\playnite\files\decksettings\232fe711-22f9-4a46-a20a-09c6e7056765.json
+2025-11-25 10:06:09 - INFO: Created game file for Orten was the Case at c:\Output\playnite\files\decksettings\61a25993-52c0-4e2f-ab90-9d5982b50519.json
+2025-11-25 10:06:10 - INFO: Created game file for Spitlings at c:\Output\playnite\files\decksettings\e3d9211c-8f7f-4e1e-b055-45d4da71cff6.json
+2025-11-25 10:06:10 - INFO: Created game file for DragonStrike at c:\Output\playnite\files\decksettings\99d6dd74-59eb-4378-9059-d623b7685766.json
+2025-11-25 10:06:11 - INFO: Created game file for Wild Card Football at c:\Output\playnite\files\decksettings\23652ffe-da17-4f8b-99a1-f651de728642.json
+2025-11-25 10:06:11 - INFO: Created game file for Agony at c:\Output\playnite\files\decksettings\62354fc1-d128-4b58-891c-e5bf48ed4f57.json
+2025-11-25 10:06:12 - INFO: Created game file for Happy Game at c:\Output\playnite\files\decksettings\9a1c22eb-c650-4d38-9e4e-0950c13a6d5e.json
+2025-11-25 10:06:12 - INFO: Created game file for Flora's Fruit Farm at c:\Output\playnite\files\decksettings\e4768866-ef5a-452f-83d4-c00a9157327d.json
+2025-11-25 10:06:12 - INFO: Created game file for Space Hulk: Deathwing at c:\Output\playnite\files\decksettings\237d9574-a87d-4598-88b7-2bff7fdad9e2.json
+2025-11-25 10:06:13 - INFO: Created game file for Goat Simulator 3 at c:\Output\playnite\files\decksettings\628cd596-640b-4e19-b835-b018f1c55049.json
+2025-11-25 10:06:13 - INFO: Created game file for Tom Clancy's Ghost Recon Breakpoint at c:\Output\playnite\files\decksettings\e4e7c8f3-864c-445c-911a-4c3a78779bfb.json
+2025-11-25 10:06:13 - INFO: Created game file for MONOPOLY at c:\Output\playnite\files\decksettings\9aca87bb-4993-4982-bf9c-4c5bb0ccb563.json
+2025-11-25 10:06:14 - INFO: Created game file for Lightyear Frontier (Game Preview) at c:\Output\playnite\files\decksettings\238a6eed-3223-47cf-a7ba-af960f5e91f6.json
+2025-11-25 10:06:14 - INFO: Created game file for Galacticare at c:\Output\playnite\files\decksettings\62a8741b-36e3-40d1-9f75-e41f8eaa8473.json
+2025-11-25 10:06:14 - INFO: Created game file for Against the Storm at c:\Output\playnite\files\decksettings\e4ff40fb-9dfb-47e1-9a8d-5e71b75268d2.json
+2025-11-25 10:06:15 - INFO: Created game file for LumbearJack at c:\Output\playnite\files\decksettings\62aaa725-c8ab-4891-9453-b357f2806c72.json
+2025-11-25 10:06:15 - INFO: Created game file for What the Fog at c:\Output\playnite\files\decksettings\9ae82330-9e8e-4cd9-882d-24f31a78df47.json
+2025-11-25 10:06:16 - INFO: Created game file for The Last Spell at c:\Output\playnite\files\decksettings\23a8298e-a614-4f72-b5a3-c4ee21b1cc37.json
+2025-11-25 10:06:16 - INFO: Created game file for Spirit Mancer at c:\Output\playnite\files\decksettings\e5c6857d-2ec5-4a7c-9c2a-982f3ee26717.json
+2025-11-25 10:06:16 - INFO: Created game file for Far Cry 6 at c:\Output\playnite\files\decksettings\62ced38b-69d4-4686-8e49-a4a9fe548ef3.json
+2025-11-25 10:06:17 - INFO: Created game file for Sea of Solitude at c:\Output\playnite\files\decksettings\9b747411-2de9-4ccb-8a07-a48f8a59b9f6.json
+2025-11-25 10:06:17 - INFO: Created game file for Nobodies at c:\Output\playnite\files\decksettings\e63d4ddf-2331-4ad1-b134-b375083a7e40.json
+2025-11-25 10:06:18 - INFO: Created game file for Spyro Reignited Trilogy at c:\Output\playnite\files\decksettings\6324bcae-c57e-4c0b-be34-ddafb299b584.json
+2025-11-25 10:06:18 - INFO: Created game file for Viridi at c:\Output\playnite\files\decksettings\23aa48c8-2ca9-405f-a77c-8535eb7a93f6.json
+2025-11-25 10:06:18 - INFO: Created game file for Endling: Extinction is Forever at c:\Output\playnite\files\decksettings\e660a88a-a1dc-42d3-abd5-6e00afd76fd4.json
+2025-11-25 10:06:19 - INFO: Created game file for Sine Mora EX at c:\Output\playnite\files\decksettings\9b9fd257-e1a0-49f0-a084-1d58a5d7f1f4.json
+2025-11-25 10:06:19 - INFO: Created game file for En Garde! at c:\Output\playnite\files\decksettings\23abc8d5-625b-4c3c-8072-428b075703d1.json
+2025-11-25 10:06:19 - INFO: Created game file for PlateUp! at c:\Output\playnite\files\decksettings\632c007e-322c-41fa-839c-ac7ded2e65b7.json
+2025-11-25 10:06:19 - INFO: Created game file for Sid Meier's Civilization IV: Beyond the Sword at c:\Output\playnite\files\decksettings\9c092069-8550-49b2-b35e-aa95073dc6c2.json
+2025-11-25 10:06:20 - INFO: Created game file for Old World at c:\Output\playnite\files\decksettings\e6b52af8-3d86-4d86-8584-a94519e88e7d.json
+2025-11-25 10:06:20 - INFO: Created game file for Empyrion - Galactic Survival at c:\Output\playnite\files\decksettings\244bb603-087e-40f1-ac42-307fe4c38be8.json
+2025-11-25 10:06:20 - INFO: Created game file for The Will of Arthur Flabbington at c:\Output\playnite\files\decksettings\633304e5-f373-47b7-a4fe-1c100be3e659.json
+2025-11-25 10:06:21 - INFO: Created game file for As Dusk Falls at c:\Output\playnite\files\decksettings\9ca95109-d4f9-4aca-990e-16d0ab814e5c.json
+2025-11-25 10:06:21 - INFO: Created game file for Little Rocket Lab at c:\Output\playnite\files\decksettings\e779e51b-a449-4d48-a211-1b0d9e897160.json
+2025-11-25 10:06:22 - INFO: Created game file for Dragon Age: The Veilguard at c:\Output\playnite\files\decksettings\6353803d-a65a-44a2-804f-fd49f9ae155a.json
+2025-11-25 10:06:22 - INFO: Created game file for Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work at c:\Output\playnite\files\decksettings\250d6dd3-55af-43a8-9d1f-132a69377230.json
+2025-11-25 10:06:22 - INFO: Created game file for Humanity at c:\Output\playnite\files\decksettings\9d9c891c-33da-45e9-aa79-a6b95122ea4e.json
+2025-11-25 10:06:22 - INFO: Created game file for Backpack Hero at c:\Output\playnite\files\decksettings\2513f3f4-bf86-4c9b-8d01-1da084a7915b.json
+2025-11-25 10:06:23 - INFO: Created game file for Summertime Madness at c:\Output\playnite\files\decksettings\e8492c15-ea31-42e8-85d3-51626d55547b.json
+2025-11-25 10:06:23 - INFO: Created game file for The Coma 2: Vicious Sisters at c:\Output\playnite\files\decksettings\641948e2-0dd0-4d44-b880-ecf4e3cd9d5f.json
+2025-11-25 10:06:23 - INFO: Created game file for The Eternal Cylinder at c:\Output\playnite\files\decksettings\9dc0702d-a455-4228-a387-b66ca12db5a1.json
+2025-11-25 10:06:24 - INFO: Created game file for Dark Sky at c:\Output\playnite\files\decksettings\e868a71f-ad5e-4987-a84e-10ec5f12f87f.json
+2025-11-25 10:06:24 - INFO: Created game file for Call of Duty: Modern Warfare II at c:\Output\playnite\files\decksettings\253ced39-3678-45db-a19f-784c82f70c16.json
+2025-11-25 10:06:25 - INFO: Created game file for The Gunk at c:\Output\playnite\files\decksettings\9dc147b5-90eb-4640-be63-fc4222b2332f.json
+2025-11-25 10:06:25 - INFO: Created game file for MechWarrior 5: Clans at c:\Output\playnite\files\decksettings\645c7bbe-b20c-4bdd-b26f-e743b08db0e3.json
+2025-11-25 10:06:26 - INFO: Created game file for GRIP at c:\Output\playnite\files\decksettings\25514f3b-5764-43f3-aab7-e753db6328a9.json
+2025-11-25 10:06:26 - INFO: Created game file for Phoenix Wright: Ace Attorney Trilogy at c:\Output\playnite\files\decksettings\9dd13230-d0e2-4f79-8a2e-73486d53ad1b.json
+2025-11-25 10:06:26 - INFO: Created game file for Scorn at c:\Output\playnite\files\decksettings\e8cdefd0-8ebd-497a-be8f-14caffdae8d1.json
+2025-11-25 10:06:26 - INFO: Created game file for Fallout 4 at c:\Output\playnite\files\decksettings\257db94a-1940-4bca-b485-3fd8729643f2.json
+2025-11-25 10:06:27 - INFO: Created game file for CYGNI - All Guns Blazing at c:\Output\playnite\files\decksettings\9defe40a-8c98-4f5f-bad3-407b450cc78a.json
+2025-11-25 10:06:27 - INFO: Created game file for House of Golf 2 at c:\Output\playnite\files\decksettings\6490ca55-8638-46c9-af94-bc9f8f4a6c94.json
+2025-11-25 10:06:28 - INFO: Created game file for ENDLESS Dungeon at c:\Output\playnite\files\decksettings\25bbe4df-35bc-48d6-b5b5-bf3cad684ffc.json
+2025-11-25 10:06:28 - INFO: Created game file for Fort Solis at c:\Output\playnite\files\decksettings\e8e4664f-1904-46b6-b292-d95be409def5.json
+2025-11-25 10:06:28 - INFO: Created game file for Commandos: Origins (Win) at c:\Output\playnite\files\decksettings\64d11df9-bdbd-42f6-8e69-56beea73ce00.json
+2025-11-25 10:06:28 - INFO: Created game file for Timberborn at c:\Output\playnite\files\decksettings\9e1f8d28-dad5-49b1-8b3b-fc6474636bee.json
+2025-11-25 10:06:29 - INFO: Created game file for ELDEN RING at c:\Output\playnite\files\decksettings\25f6b78a-efc4-4a95-9a95-aa4cd16348c0.json
+2025-11-25 10:06:29 - INFO: Created game file for UNLOVED at c:\Output\playnite\files\decksettings\e9eb63e8-a5ec-4e24-bdaa-18b96c10eb0c.json
+2025-11-25 10:06:29 - INFO: Created game file for The Last Stand: Aftermath at c:\Output\playnite\files\decksettings\9ea1da2f-c52a-475b-945c-bfea9214c12c.json
+2025-11-25 10:06:30 - INFO: Created game file for Samurai Bringer at c:\Output\playnite\files\decksettings\64e871fa-a154-4cb4-8591-eedfceee158a.json
+2025-11-25 10:06:30 - INFO: Created game file for Deus Ex: Human Revolution - Director’s Cut at c:\Output\playnite\files\decksettings\2611ef75-487e-4ca3-b377-00f6364db82b.json
+2025-11-25 10:06:30 - INFO: Created game file for Lost in Random: The Eternal Die at c:\Output\playnite\files\decksettings\ea29af5b-d519-4d15-8b58-2b309f0443e4.json
+2025-11-25 10:06:30 - INFO: Created game file for Saints Row at c:\Output\playnite\files\decksettings\650fb106-1a93-4049-9475-24e6fa2ebe82.json
+2025-11-25 10:06:30 - INFO: Created game file for Dakar Desert Rally at c:\Output\playnite\files\decksettings\9f0c9452-bd06-4b34-a449-afc6768c592b.json
+2025-11-25 10:06:31 - INFO: Created game file for Cat Quest II at c:\Output\playnite\files\decksettings\ea6987d4-8433-4ae2-8f3f-12859ccb9a50.json
+2025-11-25 10:06:32 - INFO: Created game file for Republic of Jungle at c:\Output\playnite\files\decksettings\658b3b68-c479-421c-bfdf-a853c247e59a.json
+2025-11-25 10:06:32 - INFO: Created game file for Super Space Club at c:\Output\playnite\files\decksettings\26419072-8d54-49f7-bbd9-75d74f2161d0.json
+2025-11-25 10:06:32 - INFO: Created game file for Gigapocalypse at c:\Output\playnite\files\decksettings\9f2cf95b-c806-41af-8c4e-fc2b27472e44.json
+2025-11-25 10:06:32 - INFO: Created game file for Pumpkin Jack at c:\Output\playnite\files\decksettings\ea9d2870-56ae-4ecc-9ba3-fe83037f14df.json
+2025-11-25 10:06:32 - INFO: Created game file for Saints Row: Gat out of Hell at c:\Output\playnite\files\decksettings\659b3a80-2fc5-42d1-9979-ce647e9fd685.json
+2025-11-25 10:06:33 - INFO: Created game file for Ghostrunner 2 at c:\Output\playnite\files\decksettings\26a93d3e-083b-4932-92d9-60ac12ad5652.json
+2025-11-25 10:06:33 - INFO: Created game file for Far Cry 4 at c:\Output\playnite\files\decksettings\eb1a4ec1-bdcd-4c45-ab67-453a4b2699f2.json
+2025-11-25 10:06:33 - INFO: Created game file for Marvel's Guardians of the Galaxy at c:\Output\playnite\files\decksettings\9f61e9e6-785a-4f50-9a18-080eb8dd2843.json
+2025-11-25 10:06:33 - INFO: Created game file for INDUSTRIA at c:\Output\playnite\files\decksettings\26ad026f-801e-48e9-b901-05bdfd0ea0aa.json
+2025-11-25 10:06:33 - INFO: Created game file for Warhammer 40,000: Chaos Gate - Daemonhunters at c:\Output\playnite\files\decksettings\9f8685de-4cac-463b-8f5f-2960e8aba894.json
+2025-11-25 10:06:34 - INFO: Created game file for Close to the Sun at c:\Output\playnite\files\decksettings\65e7ba22-ea94-46b0-b14f-225ed8504596.json
+2025-11-25 10:06:34 - INFO: Created game file for Abiotic Factor at c:\Output\playnite\files\decksettings\eb88c554-f585-4ba6-9261-4543879a55dc.json
+2025-11-25 10:06:34 - INFO: Created game file for Marvel's Midnight Suns at c:\Output\playnite\files\decksettings\6605c1c8-6c59-419a-a8c3-1cf746ad52de.json
+2025-11-25 10:06:34 - INFO: Created game file for HUMANKIND at c:\Output\playnite\files\decksettings\27b6d888-19c5-46ee-8cfc-de36d0c85d05.json
+2025-11-25 10:06:35 - INFO: Created game file for Strange Horticulture at c:\Output\playnite\files\decksettings\9fcc6474-51b5-4e7b-8a81-2cc40f09423f.json
+2025-11-25 10:06:35 - INFO: Created game file for Hellslave at c:\Output\playnite\files\decksettings\27be6aeb-e6be-4374-99b2-93f72c4e2eb2.json
+2025-11-25 10:06:35 - INFO: Created game file for Unplagued at c:\Output\playnite\files\decksettings\ebbff774-c8e5-4449-979b-556ad9fff940.json
+2025-11-25 10:06:36 - INFO: Created game file for Orcs Must Die! 3 at c:\Output\playnite\files\decksettings\a019cbc7-da96-48d9-83d4-6369bf6566a6.json
+2025-11-25 10:06:36 - INFO: Created game file for Akka Arrh at c:\Output\playnite\files\decksettings\665feb28-9240-4fee-8b34-06421852cd44.json
+2025-11-25 10:06:37 - INFO: Created game file for LEGO The Lord of the Rings at c:\Output\playnite\files\decksettings\ec84501d-0cf9-409b-ab2c-a09859ae295d.json
+2025-11-25 10:06:37 - INFO: Created game file for Machinika Museum at c:\Output\playnite\files\decksettings\27ed9b4b-dd01-4c4c-a63e-0c7abbc24168.json
+2025-11-25 10:06:37 - INFO: Created game file for Hades II at c:\Output\playnite\files\decksettings\a08bb89f-acd6-45b4-9e64-f76cbeb08d04.json
+2025-11-25 10:06:37 - INFO: Created game file for Moonscars at c:\Output\playnite\files\decksettings\6731d954-8c40-48e9-877a-2c4650aefcf1.json
+2025-11-25 10:06:38 - INFO: Created game file for Electrician Simulator at c:\Output\playnite\files\decksettings\ecb8dea9-29be-4a4d-838c-4aea998618fe.json
+2025-11-25 10:06:38 - INFO: Created game file for House Party at c:\Output\playnite\files\decksettings\2823b34b-3902-44e9-92cb-bbef94117d0a.json
+2025-11-25 10:06:39 - INFO: Created game file for Children of Morta at c:\Output\playnite\files\decksettings\68268df3-2619-467d-9719-6aaae37b31a3.json
+2025-11-25 10:06:39 - INFO: Created game file for Tales from the Borderlands at c:\Output\playnite\files\decksettings\a09f8583-01e6-4875-a465-d1afffff5b6e.json
+2025-11-25 10:06:40 - INFO: Created game file for The Battle of Polytopia at c:\Output\playnite\files\decksettings\ed1f30f5-c8fe-43f7-9e0a-8fe0217b37af.json
+2025-11-25 10:06:40 - INFO: Created game file for Mini Thief at c:\Output\playnite\files\decksettings\28268c09-558a-466e-b99c-68740819b59d.json
+2025-11-25 10:06:40 - INFO: Created game file for The Thaumaturge at c:\Output\playnite\files\decksettings\684ed616-9186-4dbc-acad-8f81159b6595.json
+2025-11-25 10:06:41 - INFO: Created game file for Warhammer 40,000: Rogue Trader at c:\Output\playnite\files\decksettings\ed2768dc-b43c-48f5-a927-3f9947ca7459.json
+2025-11-25 10:06:41 - INFO: Created game file for Mind Over Magic at c:\Output\playnite\files\decksettings\68d4d619-01a5-4e0f-84c6-03d4b1c519e3.json
+2025-11-25 10:06:41 - INFO: Created game file for Berserk Boy at c:\Output\playnite\files\decksettings\a13de5d7-5cf1-47b1-8df0-b52983c2294f.json
+2025-11-25 10:06:42 - INFO: Created game file for Pillars of Eternity at c:\Output\playnite\files\decksettings\2871daa0-ec27-45fc-8585-1017cd27e389.json
+2025-11-25 10:06:42 - INFO: Created game file for Castlevania Anniversary Collection at c:\Output\playnite\files\decksettings\ed53487f-0591-432a-9bfe-c37edeb38bfe.json
+2025-11-25 10:06:43 - INFO: Created game file for Ynglet at c:\Output\playnite\files\decksettings\a144934f-666f-4815-bf44-ad12ba2431f1.json
+2025-11-25 10:06:43 - INFO: Created game file for War of the Lance at c:\Output\playnite\files\decksettings\69639771-f377-4112-ad5c-4f742b4b193f.json
+2025-11-25 10:06:44 - INFO: Created game file for Genesis Noir at c:\Output\playnite\files\decksettings\288d8d86-00da-4dc9-8cbe-88c666407387.json
+2025-11-25 10:06:44 - INFO: Created game file for The Last Show of Mr. Chardish at c:\Output\playnite\files\decksettings\ed6a95c7-2533-41f7-abcd-50e225f46b85.json
+2025-11-25 10:06:45 - INFO: Created game file for Vlad Circus: Descend Into Madness at c:\Output\playnite\files\decksettings\a170a641-8384-478d-b485-97697f169ee3.json
+2025-11-25 10:06:45 - INFO: Created game file for Golden Light at c:\Output\playnite\files\decksettings\6982c989-946d-443c-bb9e-e37a967c191d.json
+2025-11-25 10:06:45 - INFO: Created game file for Ghost Song at c:\Output\playnite\files\decksettings\edc7db77-2719-42f9-9020-a9b96e8e3a57.json
+2025-11-25 10:06:46 - INFO: Created game file for KeyWe at c:\Output\playnite\files\decksettings\28b03f03-764a-4e0b-b67e-b1cc45eee6e5.json
+2025-11-25 10:06:46 - INFO: Created game file for art of rally at c:\Output\playnite\files\decksettings\69da4d2e-cad2-4294-818c-808fb91bc557.json
+2025-11-25 10:06:47 - INFO: Created game file for SpellForce 3: Soul Harvest at c:\Output\playnite\files\decksettings\a23b8780-8697-4620-abec-f39ff9903253.json
+2025-11-25 10:06:47 - INFO: Created game file for DNF Duel at c:\Output\playnite\files\decksettings\ee20d755-c9f0-438a-9908-cb736c9a9262.json
+2025-11-25 10:06:47 - INFO: Created game file for Oddballers at c:\Output\playnite\files\decksettings\28c6b50e-2290-4dfa-bcb0-7c2bf20cc0fc.json
+2025-11-25 10:06:47 - INFO: Created game file for EMPTY SHELL at c:\Output\playnite\files\decksettings\69db49c1-d919-4bf7-b908-ee3aa5a0d3c4.json
+2025-11-25 10:06:47 - INFO: Created game file for Jusant at c:\Output\playnite\files\decksettings\a2600242-0057-4d8c-acac-af48ea880f3e.json
+2025-11-25 10:06:48 - INFO: Created game file for Trackmania Turbo at c:\Output\playnite\files\decksettings\28f9c309-7436-4859-a268-1ec30d7eb1f1.json
+2025-11-25 10:06:48 - INFO: Created game file for Asterix & Obelix XXL at c:\Output\playnite\files\decksettings\a26f29fc-e847-471a-b5db-3bac2c08182e.json
+2025-11-25 10:06:49 - INFO: Created game file for Barbie Project Friendship at c:\Output\playnite\files\decksettings\ee8070cb-c4ba-4e40-9fe1-cb4525fffeed.json
+2025-11-25 10:06:49 - INFO: Created game file for Poco at c:\Output\playnite\files\decksettings\292d3b23-82ca-491f-a3b7-5d2501f4a065.json
+2025-11-25 10:06:50 - INFO: Created game file for SUPER CRAZY RHYTHM CASTLE at c:\Output\playnite\files\decksettings\6a2e3893-3d07-41af-a0c2-ad3bda2e4f25.json
+2025-11-25 10:06:50 - INFO: Created game file for Are You Smarter Than A 5th Grader at c:\Output\playnite\files\decksettings\a29d711b-5a97-4b73-9ba4-16bd0d009ede.json
+2025-11-25 10:06:50 - INFO: Created game file for Manor Lords at c:\Output\playnite\files\decksettings\ee9ee443-22fe-4772-9eef-ab339ad1cbaf.json
+2025-11-25 10:06:50 - INFO: Created game file for SteamWorld Dig 2 at c:\Output\playnite\files\decksettings\295df905-1f7d-40a2-bc4a-9626f3a9aca7.json
+2025-11-25 10:06:51 - INFO: Created game file for Arcadegeddon at c:\Output\playnite\files\decksettings\6b553f4d-e67b-462c-b5be-cc2287d64952.json
+2025-11-25 10:06:51 - INFO: Created game file for Call of the Wild: The Angler at c:\Output\playnite\files\decksettings\a2b146c4-06cc-4024-b350-01a99f4581e5.json
+2025-11-25 10:06:51 - INFO: Created game file for Lovecraft's Untold Stories at c:\Output\playnite\files\decksettings\eebc1007-191c-4447-9bef-74137fbd6f50.json
+2025-11-25 10:06:52 - INFO: Created game file for Being a DIK - Season 1 at c:\Output\playnite\files\decksettings\6ba6a997-9e41-48d7-9b0d-1524afa402f6.json
+2025-11-25 10:06:52 - INFO: Created game file for LEGO 2K Drive at c:\Output\playnite\files\decksettings\297a21f8-f831-4cc7-91a7-525ec83e01fe.json
+2025-11-25 10:06:53 - INFO: Created game file for F1 Manager 2024 at c:\Output\playnite\files\decksettings\ef064f35-6bf2-49ce-851e-05ab6f9b4493.json
+2025-11-25 10:06:53 - INFO: Created game file for Minami Lane at c:\Output\playnite\files\decksettings\a3098930-1ccd-46e8-80c2-020dc9f5b912.json
+2025-11-25 10:06:53 - INFO: Created game file for Clair Obscur: Expedition 33 at c:\Output\playnite\files\decksettings\2a2d4488-afe8-4259-b6b3-32597691cd78.json
+2025-11-25 10:06:53 - INFO: Created game file for Pilgrims at c:\Output\playnite\files\decksettings\6bc8d9cd-f119-4a0c-8856-461768db68b9.json
+2025-11-25 10:06:54 - INFO: Created game file for Wheel World at c:\Output\playnite\files\decksettings\efd601cd-93ab-450c-8be0-7c3c86a6e465.json
+2025-11-25 10:06:54 - INFO: Created game file for Deadfall at c:\Output\playnite\files\decksettings\a32c07ef-92df-445d-b5e5-e973c1a2c498.json
+2025-11-25 10:06:55 - INFO: Created game file for Styx: Master of Shadows at c:\Output\playnite\files\decksettings\2a669add-1ed2-4550-ab8f-09d245d59674.json
+2025-11-25 10:06:55 - INFO: Created game file for Weapon of Choice at c:\Output\playnite\files\decksettings\6c17d989-970a-4f3a-b472-9d9e00ca4ebc.json
+2025-11-25 10:06:55 - INFO: Created game file for Winter Burrow at c:\Output\playnite\files\decksettings\f0170748-7ad6-4776-ab18-afe27bd9763c.json
+2025-11-25 10:06:56 - INFO: Created game file for SCARF at c:\Output\playnite\files\decksettings\a3ed9e29-8f75-42dd-ba4e-8ed12e851150.json
+2025-11-25 10:06:56 - INFO: Created game file for Yakuza: Like a Dragon at c:\Output\playnite\files\decksettings\2abc50f8-6b71-4690-916b-85609565a0e5.json
+2025-11-25 10:06:56 - INFO: Created game file for Slots & Daggers at c:\Output\playnite\files\decksettings\a3f441e8-ed3d-4bf8-8da3-af3083c658d3.json
+2025-11-25 10:06:56 - INFO: Created game file for Amerzone: The Explorer’s Legacy (1999) at c:\Output\playnite\files\decksettings\6c730740-ef1d-451e-a5b5-70a209c49ab9.json
+2025-11-25 10:06:57 - INFO: Created game file for STASIS : BONE TOTEM at c:\Output\playnite\files\decksettings\2acbfd4d-8b87-4813-b563-ee00c0a72a29.json
+2025-11-25 10:06:57 - INFO: Created game file for Touch Type Tale at c:\Output\playnite\files\decksettings\f0448f7f-0f84-4369-9a60-7f6d87be67b3.json
+2025-11-25 10:06:58 - INFO: Created game file for Descenders Next (Game Preview) at c:\Output\playnite\files\decksettings\a401421e-b0c6-42bb-b12d-16ebd4d3f376.json
+2025-11-25 10:06:58 - INFO: Created game file for The Textorcist: The Story of Ray Bibbia at c:\Output\playnite\files\decksettings\6c94dd83-b0ca-4977-8557-5548b90b7701.json
+2025-11-25 10:06:59 - INFO: Created game file for Fallout 2 at c:\Output\playnite\files\decksettings\2ad55501-ed58-40ce-aa78-93b7c4e0c054.json
+2025-11-25 10:06:59 - INFO: Created game file for Phoenix Wright: Ace Attorney Trilogy at c:\Output\playnite\files\decksettings\a44f300b-1d46-4d8f-8a1a-beb4df9daf2f.json
+2025-11-25 10:06:59 - INFO: Created game file for Summer in Mara at c:\Output\playnite\files\decksettings\f092c8dd-c5e9-4a87-a507-6122e17462ae.json
+2025-11-25 10:06:59 - INFO: Created game file for The Crew 2 at c:\Output\playnite\files\decksettings\2b5309c4-b7f8-43e6-b008-61d13f56a443.json
+2025-11-25 10:07:00 - INFO: Created game file for Death's Door at c:\Output\playnite\files\decksettings\6ce83deb-cee6-4eb6-93cd-e051cc84447b.json
+2025-11-25 10:07:00 - INFO: Created game file for Fantasy General II at c:\Output\playnite\files\decksettings\a4ae9f4c-31a1-4420-8a99-74eb4bce4945.json
+2025-11-25 10:07:00 - INFO: Created game file for Football Manager 2024 at c:\Output\playnite\files\decksettings\f0af650f-786c-4a21-b9de-4a792125968c.json
+2025-11-25 10:07:01 - INFO: Created game file for GreedFall at c:\Output\playnite\files\decksettings\2ba388a2-ec21-408d-b7d0-48ede22916ff.json
+2025-11-25 10:07:01 - INFO: Created game file for Saints Row: The Third Remastered at c:\Output\playnite\files\decksettings\a4e57db4-b240-48f9-85d9-e9049bf168c6.json
+2025-11-25 10:07:01 - INFO: Created game file for True Fear: Forsaken Souls Part 2 at c:\Output\playnite\files\decksettings\6d959de0-cead-4293-9945-6849c7e98d05.json
+2025-11-25 10:07:01 - INFO: Created game file for Mafia II at c:\Output\playnite\files\decksettings\f0bc088a-bd32-4c21-b8ab-a11da5d9b584.json
+2025-11-25 10:07:02 - INFO: Created game file for Session: Skate Sim at c:\Output\playnite\files\decksettings\2beed91b-e8f5-4a51-bfa8-4edc40ee3332.json
+2025-11-25 10:07:02 - INFO: Created game file for Command & Conquer Tiberian Sun and Firestorm at c:\Output\playnite\files\decksettings\6de4fb74-b2cf-457e-a9f9-93ac9212d630.json
+2025-11-25 10:07:02 - INFO: Created game file for Bioprototype at c:\Output\playnite\files\decksettings\a51cb0a0-80f4-4d71-aa67-9243a979d46e.json
+2025-11-25 10:07:03 - INFO: Created game file for NEXT JUMP: Shmup Tactics at c:\Output\playnite\files\decksettings\f14fd43d-5606-40a8-8053-7793dd2d45b6.json
+2025-11-25 10:07:03 - INFO: Created game file for Mythwrecked: Ambrosia Island at c:\Output\playnite\files\decksettings\2bf28864-8701-4073-a38c-d97ff26069bb.json
+2025-11-25 10:07:03 - INFO: Created game file for Close To The Sun at c:\Output\playnite\files\decksettings\6e04a4fe-dac1-4b74-8f52-4a5058cfa514.json
+2025-11-25 10:07:03 - INFO: Created game file for Wall World at c:\Output\playnite\files\decksettings\f1947e61-3557-4591-b837-48c5ef4b99c2.json
+2025-11-25 10:07:04 - INFO: Created game file for Shadows: Awakening at c:\Output\playnite\files\decksettings\a5abc2f3-809e-4961-ab86-76c9e3f2ebbd.json
+2025-11-25 10:07:04 - INFO: Created game file for Bravery and Greed at c:\Output\playnite\files\decksettings\6e06a726-d01b-484a-8a3f-00e71f9b7d4e.json
+2025-11-25 10:07:04 - INFO: Created game file for MONOPOLY at c:\Output\playnite\files\decksettings\f1a0499f-6e2b-4163-8e4f-101db08687c2.json
+2025-11-25 10:07:05 - INFO: Created game file for Monster Train 2 at c:\Output\playnite\files\decksettings\6e19926d-2bb0-4369-8e98-219b953b7cee.json
+2025-11-25 10:07:05 - INFO: Created game file for The Abandoned Planet at c:\Output\playnite\files\decksettings\2bfddec1-9d46-4230-a811-c55687130e5e.json
+2025-11-25 10:07:05 - INFO: Created game file for TRIALS OF THE BLOOD DRAGON at c:\Output\playnite\files\decksettings\f1d70166-e525-43f5-9dd6-e01f1a61caa3.json
+2025-11-25 10:07:05 - INFO: Created game file for Monster Prom 2: Monster Camp at c:\Output\playnite\files\decksettings\a5f9c9e3-0133-4683-8c4d-6b49eb9f7016.json
+2025-11-25 10:07:06 - INFO: Created game file for Pixel Cafe at c:\Output\playnite\files\decksettings\6eac2f3c-e339-4acf-997b-4b9f9d7ff714.json
+2025-11-25 10:07:06 - INFO: Created game file for Monster Train at c:\Output\playnite\files\decksettings\f227dbab-8cad-4001-9a4d-066af3f7336e.json
+2025-11-25 10:07:06 - INFO: Created game file for Doki Doki Literature Club Plus! at c:\Output\playnite\files\decksettings\2c36cb87-48b9-4f95-91dd-62321922ba9f.json
+2025-11-25 10:07:07 - INFO: Created game file for Super Fantasy Kingdom (Game Preview) at c:\Output\playnite\files\decksettings\a639539b-26d0-45a6-8418-39981ae2d9d1.json
+2025-11-25 10:07:07 - INFO: Created game file for The Coma: Recut at c:\Output\playnite\files\decksettings\6ef434fe-3153-409e-a58d-59f98ff60641.json
+2025-11-25 10:07:07 - INFO: Created game file for Assassin's Creed Mirage at c:\Output\playnite\files\decksettings\2c4e8ac3-4903-4332-9f86-d63a8db8c50b.json
+2025-11-25 10:07:07 - INFO: Created game file for HuniePop at c:\Output\playnite\files\decksettings\f2732637-03e6-4bce-bb0a-f64893c003f9.json
+2025-11-25 10:07:07 - INFO: Created game file for Avowed at c:\Output\playnite\files\decksettings\a66662c7-edf9-4c1f-bbb8-36c548167527.json
+2025-11-25 10:07:07 - INFO: Created game file for Hell Let Loose at c:\Output\playnite\files\decksettings\6fceff0e-41e9-4d9d-a96c-d3918451fd8f.json
+2025-11-25 10:07:08 - INFO: Created game file for Dark and Darker at c:\Output\playnite\files\decksettings\2c8ab3dd-d4c7-4fe6-afa9-2cf9b0920978.json
+2025-11-25 10:07:08 - INFO: Created game file for PAW Patrol World at c:\Output\playnite\files\decksettings\f334973e-2dc1-4041-b202-52468807457b.json
+2025-11-25 10:07:09 - INFO: Created game file for Scarf at c:\Output\playnite\files\decksettings\703cd95c-cb66-494a-a46c-3e0bb932b9f5.json
+2025-11-25 10:07:09 - INFO: Created game file for Sail Forth at c:\Output\playnite\files\decksettings\a78c437c-c01c-48c6-9ea1-a1e3e73a6f88.json
+2025-11-25 10:07:10 - INFO: Created game file for KILL KNIGHT at c:\Output\playnite\files\decksettings\f36b4135-394a-477e-9eb5-e1f66b32b25c.json
+2025-11-25 10:07:10 - INFO: Created game file for Dragons of Flame at c:\Output\playnite\files\decksettings\2d03a6fd-73f4-48e4-bd71-f69945cb8f6f.json
+2025-11-25 10:07:10 - INFO: Created game file for Barotrauma at c:\Output\playnite\files\decksettings\70549a34-e502-459a-aff6-cfddfe450d64.json
+2025-11-25 10:07:11 - INFO: Created game file for Returnal at c:\Output\playnite\files\decksettings\f4048ece-57fe-40c6-adec-4476a476bc71.json
+2025-11-25 10:07:11 - INFO: Created game file for ENDLESS Space - Definitive Edition at c:\Output\playnite\files\decksettings\a8552d9a-0181-4417-938a-928569e18dc5.json
+2025-11-25 10:07:11 - INFO: Created game file for Monopoly Madness at c:\Output\playnite\files\decksettings\707630dc-49d3-4b8c-a2b0-42698ca65cff.json
+2025-11-25 10:07:11 - INFO: Created game file for Fallout at c:\Output\playnite\files\decksettings\f4437256-9c4d-40eb-93f3-0e8324d0a294.json
+2025-11-25 10:07:11 - INFO: Created game file for Bounty Star at c:\Output\playnite\files\decksettings\2d25a802-d6ef-4a74-9220-8061d9b4ce17.json
+2025-11-25 10:07:12 - INFO: Created game file for Treasure of Nadia at c:\Output\playnite\files\decksettings\a8c5e558-d57c-46da-b1d4-99ad394a866c.json
+2025-11-25 10:07:12 - INFO: Created game file for The Outer Worlds at c:\Output\playnite\files\decksettings\70bd8ae7-86eb-4cb3-abdd-c6f2840f79cf.json
+2025-11-25 10:07:12 - INFO: Created game file for Expeditions: A MudRunner Game at c:\Output\playnite\files\decksettings\f4d7292b-a8cd-40c8-9862-0a3330328523.json
+2025-11-25 10:07:13 - INFO: Created game file for Faraway: Director's Cut at c:\Output\playnite\files\decksettings\2d3f536f-115e-4522-99fc-1d6392e7fc0c.json
+2025-11-25 10:07:13 - INFO: Created game file for Valiant Hearts at c:\Output\playnite\files\decksettings\718a500f-bbfa-4f88-bc2a-d56a7c1c051d.json
+2025-11-25 10:07:13 - INFO: Created game file for Planet of Lana at c:\Output\playnite\files\decksettings\a8cad8b2-642a-426e-8d45-6a1a9ceef970.json
+2025-11-25 10:07:14 - INFO: Created game file for Floppy Knights at c:\Output\playnite\files\decksettings\f4e875cc-6356-4519-b93d-731bc6ff02c8.json
+2025-11-25 10:07:14 - INFO: Created game file for Nubs! at c:\Output\playnite\files\decksettings\2d52a3f1-ea00-446b-928d-cb9d05cffd63.json
+2025-11-25 10:07:15 - INFO: Created game file for Halls of Torment at c:\Output\playnite\files\decksettings\a8e238f1-2068-4e1e-aa73-e1893d7df02b.json
+2025-11-25 10:07:15 - INFO: Created game file for The Last Blade 2 at c:\Output\playnite\files\decksettings\7195e9ee-12ed-4134-8e48-d63c8be3a2ea.json
+2025-11-25 10:07:15 - INFO: Created game file for The Gap at c:\Output\playnite\files\decksettings\2dec8a7a-0ea3-45b1-b52c-9f05b4148650.json
+2025-11-25 10:07:16 - INFO: Created game file for My Friendly Neighborhood at c:\Output\playnite\files\decksettings\a97ac5bb-e7d2-4024-96b6-b996ffa3cf58.json
+2025-11-25 10:07:16 - INFO: Created game file for Golfie at c:\Output\playnite\files\decksettings\f598a12f-ddcf-4b76-81f0-e56aca26bd80.json
+2025-11-25 10:07:17 - INFO: Created game file for Little Kitty, Big City at c:\Output\playnite\files\decksettings\2e623748-de03-4dba-b29d-013565a3838b.json
+2025-11-25 10:07:17 - INFO: Created game file for Terra Invicta (Game Preview) at c:\Output\playnite\files\decksettings\72113f9e-f0d3-4787-906a-ac63db31b161.json
+2025-11-25 10:07:17 - INFO: Created game file for WUCHANG: Fallen Feathers at c:\Output\playnite\files\decksettings\a9903fb1-3616-4421-8326-1fc326d50653.json
+2025-11-25 10:07:18 - INFO: Created game file for Chicken Assassin: Reloaded at c:\Output\playnite\files\decksettings\f598f761-8ec5-4b4d-81f9-780e06a669c9.json
+2025-11-25 10:07:18 - INFO: Created game file for Warhammer 40,000: Gladius - Relics of War at c:\Output\playnite\files\decksettings\2e834e6e-7589-42b8-a886-01bdea195ce6.json
+2025-11-25 10:07:18 - INFO: Created game file for He is Coming (Game Preview) at c:\Output\playnite\files\decksettings\a9929188-0aca-474a-8dbf-76478ecb3493.json
+2025-11-25 10:07:19 - INFO: Created game file for Blast Brigade vs. the Evil Legion of Dr. Cread at c:\Output\playnite\files\decksettings\7235e020-9132-4fb3-abf1-59dc4129414c.json
+2025-11-25 10:07:19 - INFO: Created game file for Human Resource Machine at c:\Output\playnite\files\decksettings\2f4ddf46-6e88-497a-9970-45e4cfd31ea6.json
+2025-11-25 10:07:19 - INFO: Created game file for Egging On at c:\Output\playnite\files\decksettings\a9a96bd3-f5f2-4457-9708-16c8807fe587.json
+2025-11-25 10:07:19 - INFO: Created game file for Warhammer 40,000: Dawn of War at c:\Output\playnite\files\decksettings\f5efc944-2597-4774-8413-660990ae34c2.json
+2025-11-25 10:07:20 - INFO: Created game file for The Town of Light at c:\Output\playnite\files\decksettings\746253d7-ff7c-42f6-936d-354f406adbb8.json
+2025-11-25 10:07:20 - INFO: Created game file for El Hijo at c:\Output\playnite\files\decksettings\2f7b249b-d6b5-4dff-bc74-8a4800fb7b2f.json
+2025-11-25 10:07:21 - INFO: Created game file for South Park - The Stick of Truth at c:\Output\playnite\files\decksettings\a9c892be-f60e-4a63-9a40-68a298ccd831.json
+2025-11-25 10:07:21 - INFO: Created game file for Scourgebringer at c:\Output\playnite\files\decksettings\f6780221-a66d-4fe8-919a-3e3e723b06e8.json
+2025-11-25 10:07:22 - INFO: Created game file for Coromon at c:\Output\playnite\files\decksettings\74a2bad1-e763-4f48-aef3-62da827f3676.json
+2025-11-25 10:07:22 - INFO: Created game file for Heroes of Loot 2 at c:\Output\playnite\files\decksettings\300e390d-e50e-4397-bc4a-5d819de10f19.json
+2025-11-25 10:07:23 - INFO: Created game file for Yes, Your Grace at c:\Output\playnite\files\decksettings\f6c6592b-0336-4a0e-91b4-660b6c8fdc02.json
+2025-11-25 10:07:23 - INFO: Created game file for Assassin's Creed Freedom Cry at c:\Output\playnite\files\decksettings\a9e85852-17f7-497c-87a1-8f423259fec3.json
+2025-11-25 10:07:23 - INFO: Created game file for Core Keeper at c:\Output\playnite\files\decksettings\3033dec1-d9da-4ea1-9038-1c16c7214ce2.json
+2025-11-25 10:07:23 - INFO: Created game file for High On Life at c:\Output\playnite\files\decksettings\aa590138-029b-4375-9156-0efc86d38be0.json
+2025-11-25 10:07:24 - INFO: Created game file for FATE: The Traitor Soul at c:\Output\playnite\files\decksettings\74c9d1a1-44fe-4838-b430-9cca7703cd67.json
+2025-11-25 10:07:24 - INFO: Created game file for Deep Rock Galactic: Survivor at c:\Output\playnite\files\decksettings\310e1ac0-f6f7-4069-bc27-15fc409b54f1.json
+2025-11-25 10:07:24 - INFO: Created game file for SteamWorld Build at c:\Output\playnite\files\decksettings\f72dc579-7787-4817-bd43-95ab8b3d3c2e.json
+2025-11-25 10:07:25 - INFO: Created game file for Super Panda Adventures at c:\Output\playnite\files\decksettings\aa8d2812-b802-418e-a94c-a0a79df374f0.json
+2025-11-25 10:07:25 - INFO: Created game file for Keylocker | Turn Based Cyberpunk Action at c:\Output\playnite\files\decksettings\31365974-0cc1-43c9-8262-2ad571970e26.json
+2025-11-25 10:07:25 - INFO: Created game file for The Casting of Frank Stone at c:\Output\playnite\files\decksettings\74f72803-badb-46d8-8a44-7144411fc2a2.json
+2025-11-25 10:07:26 - INFO: Created game file for The First Berserker: Khazan Demo at c:\Output\playnite\files\decksettings\aaff1043-8145-42bd-af23-0d72da7bbf59.json
+2025-11-25 10:07:26 - INFO: Created game file for Arcade Paradise at c:\Output\playnite\files\decksettings\3150465b-0d6e-4e08-9089-583af9158ce7.json
+2025-11-25 10:07:26 - INFO: Created game file for LEGO Star Wars III - The Clone Wars at c:\Output\playnite\files\decksettings\f7d89e95-67dc-45ef-b152-de7e416cf52e.json
+2025-11-25 10:07:27 - INFO: Created game file for Fallout at c:\Output\playnite\files\decksettings\74ff9689-e1e9-4d39-b718-04bda2ee0934.json
+2025-11-25 10:07:27 - INFO: Created game file for Inscryption at c:\Output\playnite\files\decksettings\f7e67a98-142c-40c3-831c-aaf2951cd31e.json
+2025-11-25 10:07:27 - INFO: Created game file for Murders on the Yangtze River at c:\Output\playnite\files\decksettings\ab45e194-7691-44d3-8a5c-5ac766391eca.json
+2025-11-25 10:07:28 - INFO: Created game file for The Dark Queen of Krynn at c:\Output\playnite\files\decksettings\31565828-4b66-4153-996e-b6bf62c11116.json
+2025-11-25 10:07:28 - INFO: Created game file for Hell Pie at c:\Output\playnite\files\decksettings\75aa1de2-9da0-44bc-b711-f462f1c4600d.json
+2025-11-25 10:07:28 - INFO: Created game file for Cat Quest at c:\Output\playnite\files\decksettings\f804750a-feba-4f12-9882-3164fb1e2204.json
+2025-11-25 10:07:28 - INFO: Created game file for Distant Worlds 2 at c:\Output\playnite\files\decksettings\ab644ce4-9b0a-489f-b178-255f4076e7d0.json
+2025-11-25 10:07:29 - INFO: Created game file for Assassin's Creed III at c:\Output\playnite\files\decksettings\761d8dd7-2e8b-49da-9f2b-44bde89278d9.json
+2025-11-25 10:07:29 - INFO: Created game file for Tomb Raider (VI): The Angel of Darkness at c:\Output\playnite\files\decksettings\315d6f49-7b9c-4685-926a-bedf09950cd8.json
+2025-11-25 10:07:30 - INFO: Created game file for Venba at c:\Output\playnite\files\decksettings\f9141e78-f56d-4a47-b741-86d6d1a3ddfb.json
+2025-11-25 10:07:30 - INFO: Created game file for Cast & Spell at c:\Output\playnite\files\decksettings\abaea89c-c8da-465e-9825-4530cbb23d62.json
+2025-11-25 10:07:31 - INFO: Created game file for Fear the Spotlight at c:\Output\playnite\files\decksettings\765c8501-806a-4967-b1bd-47715c37ced7.json
+2025-11-25 10:07:32 - INFO: Created game file for A Guidebook Of Babel at c:\Output\playnite\files\decksettings\318cb0d5-5709-468c-9bc4-58f1ad61640b.json
+2025-11-25 10:07:32 - INFO: Created game file for STAR WARS Galactic Battlegrounds Saga at c:\Output\playnite\files\decksettings\f91b4afa-36f7-4498-b47a-d3dc43c521b2.json
+2025-11-25 10:07:33 - INFO: Created game file for Kardboard Kings at c:\Output\playnite\files\decksettings\ac21b23b-92b4-49e9-9b57-d13c463b0732.json
+2025-11-25 10:07:33 - INFO: Created game file for FATE: Undiscovered Realms at c:\Output\playnite\files\decksettings\76f6b223-cf7c-497e-b31b-031f89737c52.json
+2025-11-25 10:07:33 - INFO: Created game file for ENDER LILIES: Quietus of the Knights at c:\Output\playnite\files\decksettings\31b4d487-088d-44e7-a73c-c4ba006d2689.json
+2025-11-25 10:07:33 - INFO: Created game file for Terminull Brigade at c:\Output\playnite\files\decksettings\faa0a934-242d-496a-a9a8-230118ff558a.json
+2025-11-25 10:07:34 - INFO: Created game file for Dust & Neon at c:\Output\playnite\files\decksettings\ac6bf749-e552-4fbe-9dd0-34d1d2c9ce62.json
+2025-11-25 10:07:34 - INFO: Created game file for AtmaSphere at c:\Output\playnite\files\decksettings\7706e4cf-f06c-4f79-ad2f-5a155e13cb0c.json
+2025-11-25 10:07:35 - INFO: Created game file for Bulb Boy at c:\Output\playnite\files\decksettings\31ed8fb7-1c45-4bc3-9265-eadbc5c9bea2.json
+2025-11-25 10:07:35 - INFO: Created game file for Star Trucker at c:\Output\playnite\files\decksettings\fae30cbe-dcdb-48d7-aafa-48ef5942fd6a.json
+2025-11-25 10:07:36 - INFO: Created game file for Deadtime Defenders at c:\Output\playnite\files\decksettings\acd48978-1195-4c49-b0ea-58d06d08998c.json
+2025-11-25 10:07:36 - INFO: Created game file for BioShock 2 Remastered at c:\Output\playnite\files\decksettings\3228f06d-78dc-45f1-a0bb-2d5e803e8dc3.json
+2025-11-25 10:07:36 - INFO: Created game file for Bear and Breakfast at c:\Output\playnite\files\decksettings\772b8522-1b86-46c1-91f0-b52e1cc6e484.json
+2025-11-25 10:07:37 - INFO: Created game file for SeaOrama: World of Shipping at c:\Output\playnite\files\decksettings\fb39bc26-88be-4067-b7d2-8011ea504cad.json
+2025-11-25 10:07:38 - INFO: Created game file for Melvor Idle at c:\Output\playnite\files\decksettings\ad1fca2a-fb0e-4901-a2a2-7ba4e4d4be9f.json
+2025-11-25 10:07:38 - INFO: Created game file for Enlisted at c:\Output\playnite\files\decksettings\32447e10-886f-4222-8032-57342f5c2bc1.json
+2025-11-25 10:07:38 - INFO: Created game file for Halloween Stories: Horror Movie at c:\Output\playnite\files\decksettings\773ef780-a08b-4724-a479-6ba185cc85f6.json
+2025-11-25 10:07:39 - INFO: Created game file for Escape Academy at c:\Output\playnite\files\decksettings\adc93ea7-0c3d-4475-96fb-921dd10ec6bf.json
+2025-11-25 10:07:39 - INFO: Created game file for Goat Simulator: Remastered (Windows Edition) at c:\Output\playnite\files\decksettings\fc1ed3be-0cd4-43d4-a669-881a945806d3.json
+2025-11-25 10:07:40 - INFO: Created game file for Ara: History Untold at c:\Output\playnite\files\decksettings\32b00c17-2493-46f5-a05b-a221db0b593c.json
+2025-11-25 10:07:40 - INFO: Created game file for Astro Duel 2 at c:\Output\playnite\files\decksettings\7774e945-060d-41fc-b3a6-441d5fd52aa9.json
+2025-11-25 10:07:40 - INFO: Created game file for Road Redemption at c:\Output\playnite\files\decksettings\adefddc5-1059-4ac0-9042-5088167f9589.json
+2025-11-25 10:07:41 - INFO: Created game file for BALL x PIT at c:\Output\playnite\files\decksettings\fc48d6fd-c210-4804-be67-a7995d210099.json
+2025-11-25 10:07:41 - INFO: Created game file for Midnight Fight Express at c:\Output\playnite\files\decksettings\333262b0-5e96-4bde-8ded-75a837c63ed0.json
+2025-11-25 10:07:41 - INFO: Created game file for Command & Conquer: Generals at c:\Output\playnite\files\decksettings\77ce512c-2d23-4fa3-9a9a-100f1b1bf01a.json
+2025-11-25 10:07:41 - INFO: Created game file for Dark City: Kyiv Collector's Edition at c:\Output\playnite\files\decksettings\ae20514a-bade-499d-90a9-ef8e7756a442.json
+2025-11-25 10:07:42 - INFO: Created game file for Lust Theory - Season 1 at c:\Output\playnite\files\decksettings\fcb7184f-5ff6-4250-ad1b-d96192a27879.json
+2025-11-25 10:07:42 - INFO: Created game file for Zombies Ate My Neighbors and Ghoul Patrol at c:\Output\playnite\files\decksettings\335c13c5-e6e1-4160-ac53-8ffcd00992e1.json
+2025-11-25 10:07:42 - INFO: Created game file for Half-Life 2 RTX at c:\Output\playnite\files\decksettings\7818fbc9-e839-4e2e-bba3-9116ae1811af.json
+2025-11-25 10:07:43 - INFO: Created game file for LEGO Indiana Jones: The Original Adventures at c:\Output\playnite\files\decksettings\fcc0d3ee-507d-4739-bafb-3662ae0299ee.json
+2025-11-25 10:07:43 - INFO: Created game file for Sky Racket at c:\Output\playnite\files\decksettings\ae552c9c-968b-4563-acce-f68d6b6a1ca9.json
+2025-11-25 10:07:44 - INFO: Created game file for Command & Conquer: Renegade at c:\Output\playnite\files\decksettings\33e76ee0-9d08-428e-9f33-89a26e11b681.json
+2025-11-25 10:07:44 - INFO: Created game file for Necromunda: Hired Gun at c:\Output\playnite\files\decksettings\787fe3d9-1dd2-4853-b2a6-6c8c6f8b63db.json
+2025-11-25 10:07:44 - INFO: Created game file for Hellslave at c:\Output\playnite\files\decksettings\ae6eaa6e-7a1f-4283-8ebb-9d6b1286ab96.json
+2025-11-25 10:07:44 - INFO: Created game file for Overcooked at c:\Output\playnite\files\decksettings\fd94d941-6a6f-453d-b1d7-a5eefe4974ca.json
+2025-11-25 10:07:44 - INFO: Created game file for Football Manager 26 at c:\Output\playnite\files\decksettings\34a53cc5-9a02-4f45-921a-c00602b28bdb.json
+2025-11-25 10:07:44 - INFO: Created game file for Diplomacy is Not an Option at c:\Output\playnite\files\decksettings\78a7bc76-4ac0-4960-8403-c259773760f2.json
+2025-11-25 10:07:44 - INFO: Created game file for UNO at c:\Output\playnite\files\decksettings\ae85f874-1c61-4bb2-8096-b0b45fde7fc0.json
+2025-11-25 10:07:45 - INFO: Created game file for Worms Armageddon at c:\Output\playnite\files\decksettings\fdccf2f1-aef9-4231-9e24-f7161f46e829.json
+2025-11-25 10:07:45 - INFO: Created game file for Mansions of Madness at c:\Output\playnite\files\decksettings\355fc10f-8cad-4504-bf26-7c2db5d96e7c.json
+2025-11-25 10:07:46 - INFO: Created game file for Blade of Darkness at c:\Output\playnite\files\decksettings\7a07ca91-6083-4959-920a-bf05a4a90a20.json
+2025-11-25 10:07:46 - INFO: Created game file for Monster Hunter Wilds Benchmark at c:\Output\playnite\files\decksettings\fde3142a-545e-4f97-8cfc-98a00fd106b3.json
+2025-11-25 10:07:46 - INFO: Created game file for Neon White at c:\Output\playnite\files\decksettings\aecbbe27-d06b-4e89-a1e3-054ae9d20c66.json
+2025-11-25 10:07:46 - INFO: Created game file for Crime Scene Cleaner at c:\Output\playnite\files\decksettings\7a27cf38-2888-4aec-844f-66a878b1b747.json
+2025-11-25 10:07:47 - INFO: Created game file for Thief 2: The Metal Age at c:\Output\playnite\files\decksettings\356c6608-e684-4124-8e4e-5cd628350c2b.json
+2025-11-25 10:07:47 - INFO: Created game file for Cursed to Golf at c:\Output\playnite\files\decksettings\fe543acc-0d8d-4a0f-a0d5-81aa49eaa3b3.json
+2025-11-25 10:07:48 - INFO: Created game file for STAR WARS Jedi Knight: Dark Forces II at c:\Output\playnite\files\decksettings\aef96947-d5f4-4495-9e1a-05dd7f3f3952.json
+2025-11-25 10:07:48 - INFO: Created game file for Wild Country at c:\Output\playnite\files\decksettings\7a65f2c2-cdf7-441d-8991-cd0a081a9ffd.json
+2025-11-25 10:07:48 - INFO: Created game file for FBC: Firebreak at c:\Output\playnite\files\decksettings\35993604-c847-4947-a3b3-1a1fa42a2077.json
+2025-11-25 10:07:49 - INFO: Created game file for Command & Conquer Generals Zero Hour at c:\Output\playnite\files\decksettings\fe5bef60-dd6b-413a-ad40-64787bbc2af3.json
+2025-11-25 10:07:49 - INFO: Created game file for Star Wars Squadrons at c:\Output\playnite\files\decksettings\7a7000ab-8608-496e-aecf-fce6580cf38c.json
+2025-11-25 10:07:49 - INFO: Created game file for Warhammer 40,000: Space Marine at c:\Output\playnite\files\decksettings\af8e3ccd-b0a7-451e-a961-af034ff44e0c.json
+2025-11-25 10:07:50 - INFO: Created game file for A Plague Tale: Innocence at c:\Output\playnite\files\decksettings\35b6e761-e78e-4af2-9daa-e2b09b7d79e6.json
+2025-11-25 10:07:50 - INFO: Created game file for Another World: 20th Anniversary Edition at c:\Output\playnite\files\decksettings\fe94df8d-c03c-4ac1-83c6-1a7b0add1cd1.json
+2025-11-25 10:07:51 - INFO: Created game file for Anno 1800 at c:\Output\playnite\files\decksettings\b02b47df-22b3-40bf-a4a2-aae2b3496e7d.json
+2025-11-25 10:07:51 - INFO: Created game file for Projection: First Light at c:\Output\playnite\files\decksettings\7b29475f-4bda-4bdb-a96f-4f33e478eea3.json
+2025-11-25 10:07:51 - INFO: Created game file for Eiyuden Chronicle: Hundred Heroes at c:\Output\playnite\files\decksettings\3608858c-81fd-40db-86b1-8ef4e3f4d7db.json
+2025-11-25 10:07:52 - INFO: Created game file for Thief Gold at c:\Output\playnite\files\decksettings\fec8bfcf-476b-4dad-82ee-9857c66061e9.json
+2025-11-25 10:07:52 - INFO: Created game file for Ms Holmes: The Case of the Dancing Men Collector's Edition at c:\Output\playnite\files\decksettings\b02ff720-d19a-4de8-ab6c-c9f1dbddb91e.json
+2025-11-25 10:07:52 - INFO: Created game file for Assassin's Creed III - Remastered at c:\Output\playnite\files\decksettings\362e8b34-fa21-4493-9856-4b2cab482457.json
+2025-11-25 10:07:52 - INFO: Created game file for ScourgeBringer at c:\Output\playnite\files\decksettings\b09039c8-1ed2-4dd1-8481-10508665a676.json
+2025-11-25 10:07:53 - INFO: Created game file for South of Midnight at c:\Output\playnite\files\decksettings\7bbbf807-b269-42ce-a583-4ab8745a9058.json
+2025-11-25 10:07:53 - INFO: Created game file for Lysfanga: The Time Shift Warrior at c:\Output\playnite\files\decksettings\fecaeed8-8534-40d2-9189-522953854fc2.json
+2025-11-25 10:07:53 - INFO: Created game file for Carrion at c:\Output\playnite\files\decksettings\3634f803-ea2f-4741-b242-6bf0178c8377.json
+2025-11-25 10:07:54 - INFO: Created game file for Wild Hearts at c:\Output\playnite\files\decksettings\7bc58f08-d5e2-4812-b5e0-73d0904529f0.json
+2025-11-25 10:07:54 - INFO: Created game file for Simulakros at c:\Output\playnite\files\decksettings\b0abbf0a-fe72-4c6f-ae63-7fda279a6ade.json
+2025-11-25 10:07:54 - INFO: Created game file for Eriksholm: The Stolen Dream at c:\Output\playnite\files\decksettings\ffa45804-cb3b-4c33-993e-96176b90e3df.json
+2025-11-25 10:07:55 - INFO: Created game file for Stunt Kite Party at c:\Output\playnite\files\decksettings\3687e499-8f4d-4d7f-8d54-7a1affd1448b.json
+2025-11-25 10:07:55 - INFO: Created game file for Dark City: International Intrigue at c:\Output\playnite\files\decksettings\7bc7edf6-f05e-4a17-b820-73170d814fc0.json
+2025-11-25 10:07:55 - INFO: Created game file for Monsters are Coming! Rock & Road at c:\Output\playnite\files\decksettings\b0b40724-0f7c-436d-a623-2d0edddf3214.json
+2025-11-25 10:07:56 - INFO: Created game file for Nightingale at c:\Output\playnite\files\decksettings\ffa4ba10-3e75-4e9f-8708-6a1bbc38792f.json
+2025-11-25 10:07:56 - INFO: Created game file for Technobabylon at c:\Output\playnite\files\decksettings\370bff80-dc0d-4af0-9199-546a81e01986.json
+2025-11-25 10:07:57 - INFO: Created game file for The Operator at c:\Output\playnite\files\decksettings\b0ce8e62-6cd7-4c23-9b4c-bf83614997a4.json
+2025-11-25 10:07:57 - INFO: Created game file for LISA: The Joyful - Definitive Edition at c:\Output\playnite\files\decksettings\7bdd7757-cc61-44ed-9a8f-c1dc53e029de.json
+2025-11-25 10:07:57 - INFO: Created game file for The Crew 2 at c:\Output\playnite\files\decksettings\ffdd44d6-9a79-42ec-b4fd-bf2b14e7ac76.json
+2025-11-25 10:07:58 - INFO: Created game file for 911 Operator at c:\Output\playnite\files\decksettings\3725a67d-e8e0-4d85-ba29-c6c8da9ef4d9.json
+2025-11-25 10:07:58 - INFO: Created game file for Assassin's Creed Liberation HD at c:\Output\playnite\files\decksettings\7c4981dc-a242-4968-888c-2d0ac1f0c469.json
+2025-11-25 10:07:59 - INFO: Created game file for Leisure Suit Larry - Wet Dreams Dry Twice at c:\Output\playnite\files\decksettings\b16caf3b-13c3-4ea8-ba13-566438d75163.json
+2025-11-25 10:07:59 - INFO: Created game file for Word Of The Law: Death Mask Collector's Edition at c:\Output\playnite\files\decksettings\ffdfa5f1-c01e-4186-a7c8-8acd8dd5f990.json
+2025-11-25 10:07:59 - INFO: Created game file for King Of The Castle at c:\Output\playnite\files\decksettings\7c535606-ffcd-4f7d-af76-dcd57003359e.json
+2025-11-25 10:08:00 - INFO: Created game file for Circus Electrique at c:\Output\playnite\files\decksettings\377838ea-62d3-4d28-a58d-8279d0888cdb.json
+2025-11-25 10:08:00 - INFO: Created game file for Lonely Mountains: Snow Riders at c:\Output\playnite\files\decksettings\7cb8da4b-b724-474c-83b6-ec9cd932b3de.json
+2025-11-25 10:08:01 - INFO: Created game file for Gear of Glass: Eolarn's war at c:\Output\playnite\files\decksettings\b174a338-a2e1-4623-975a-74e716031241.json
+2025-11-25 10:08:01 - INFO: Created game file for Fallout Tactics at c:\Output\playnite\files\decksettings\7d0ddc56-562b-4345-8a58-684121b0502d.json
+2025-11-25 10:08:01 - INFO: Created game file for Zombie Army 4 Dead War at c:\Output\playnite\files\decksettings\38b477b7-4a43-41b0-9b89-3332ef7e031e.json
+2025-11-25 10:08:02 - INFO: Created game file for Halo: Spartan Strike at c:\Output\playnite\files\decksettings\7db1e83d-cbfd-48d4-be84-d3b2ac538514.json
+2025-11-25 10:08:02 - INFO: Created game file for Station to Station at c:\Output\playnite\files\decksettings\b1dc2e1f-ef5c-4567-af76-28ee109945d5.json
+2025-11-25 10:08:03 - INFO: Created game file for Trek to Yomi at c:\Output\playnite\files\decksettings\7dc23abb-55a9-462a-a05b-97c2fbecf6e4.json
+2025-11-25 10:08:03 - INFO: Created game file for Shade Silver at c:\Output\playnite\files\decksettings\3998694c-b4f7-4852-97e4-5df8172546b8.json
+2025-11-25 10:08:04 - INFO: Created game file for Necroking at c:\Output\playnite\files\decksettings\7dd229a0-e27f-4dce-9230-c6eda06ae9bf.json
+2025-11-25 10:08:04 - INFO: Created game file for Bluey: The Videogame at c:\Output\playnite\files\decksettings\b22b16d1-9761-4741-82e4-9e83dc55f700.json
+2025-11-25 10:08:04 - INFO: Created game file for Pigeon Simulator at c:\Output\playnite\files\decksettings\7dda39b4-c096-4292-b00a-754357e34635.json
+2025-11-25 10:08:05 - INFO: Created game file for Kerbal Space Program at c:\Output\playnite\files\decksettings\7df45ee4-445b-404b-8e78-a1e42d9b1a5f.json
+2025-11-25 10:08:05 - INFO: Created game file for Dark Sun: Wake of the Ravager at c:\Output\playnite\files\decksettings\3a039642-7ae2-4f49-81f6-99214451c9ce.json
+2025-11-25 10:08:06 - INFO: Created game file for Freshly Frosted at c:\Output\playnite\files\decksettings\b2c8f203-dd65-4c2a-9f74-045b520683d2.json
+2025-11-25 10:08:06 - INFO: Created game file for FATE at c:\Output\playnite\files\decksettings\7df5b898-ddd0-4359-b85c-c21b067c07fe.json
+2025-11-25 10:08:07 - INFO: Created game file for OCTOPATH TRAVELER at c:\Output\playnite\files\decksettings\3a651848-c6e3-424b-8dde-ea62e939b6b1.json
+2025-11-25 10:08:07 - INFO: Created game file for Farming Simulator 25 at c:\Output\playnite\files\decksettings\7dfa5b81-57b6-4c12-8d56-cf9ad0a28b5a.json
+2025-11-25 10:08:07 - INFO: Created game file for The Whispered World: Special Edition at c:\Output\playnite\files\decksettings\b347ff50-3e01-4d5b-84be-9901e43397cf.json
+2025-11-25 10:08:08 - INFO: Created game file for Away at c:\Output\playnite\files\decksettings\7e4df51f-41fd-4864-be2c-1934bdc26881.json
+2025-11-25 10:08:08 - INFO: Created game file for Ravenswatch at c:\Output\playnite\files\decksettings\3a6a519e-7e5e-4562-a2c7-34aae94e9bdd.json
+2025-11-25 10:08:09 - INFO: Created game file for Family Mysteries: Poisonous Promises at c:\Output\playnite\files\decksettings\7e4e2832-9a93-4c1c-a878-08b62947253b.json
+2025-11-25 10:08:09 - INFO: Created game file for Botanicula at c:\Output\playnite\files\decksettings\b36cccb4-6a99-4335-9a5c-d75e315cf722.json
+2025-11-25 10:08:09 - INFO: Created game file for Still Wakes the Deep at c:\Output\playnite\files\decksettings\7e8d0bfb-dc6e-45ca-96b6-99b6fd3d89ae.json
+2025-11-25 10:08:09 - INFO: Created game file for Jitsu Squad at c:\Output\playnite\files\decksettings\3a786c30-f89c-4d75-9450-11d012707a6c.json
+2025-11-25 10:08:10 - INFO: Created game file for Workers & Resources: Soviet Republic at c:\Output\playnite\files\decksettings\b3803e0a-a853-4168-b58a-ce6801e0ab3e.json
+2025-11-25 10:08:10 - INFO: Created game file for Sea Power at c:\Output\playnite\files\decksettings\7e97d29c-ee1e-4b0b-9ba0-c45c0af4d843.json
+2025-11-25 10:08:11 - INFO: Created game file for Jurassic World Evolution 2 at c:\Output\playnite\files\decksettings\3a7eb0d9-a01f-46ec-b168-8148e611a48e.json
+2025-11-25 10:08:11 - INFO: Created game file for Gas Station Simulator at c:\Output\playnite\files\decksettings\7f4b4943-c1d5-412f-b569-f1730d0d917e.json
+2025-11-25 10:08:12 - INFO: Created game file for Strayed Lights at c:\Output\playnite\files\decksettings\b3d23de6-1f42-429b-b826-d98ef2a307d6.json
+2025-11-25 10:08:12 - INFO: Created game file for Outliver: Tribulation at c:\Output\playnite\files\decksettings\7fa9c988-22fb-4feb-851e-ecce72420324.json
+2025-11-25 10:08:13 - INFO: Created game file for Death Squared at c:\Output\playnite\files\decksettings\3a8489d7-82d5-4501-80ef-039ed039e29f.json
+2025-11-25 10:08:13 - INFO: Created game file for ZOMBI at c:\Output\playnite\files\decksettings\b4052bea-cf44-4dd8-a5db-118e11c21852.json
+2025-11-25 10:08:13 - INFO: Created game file for Project Winter at c:\Output\playnite\files\decksettings\807c2f2a-0989-4b19-9dc5-80b640b9ed90.json
+2025-11-25 10:08:13 - INFO: Created game file for Grounded 2 at c:\Output\playnite\files\decksettings\3cb0c36e-489f-43c4-8ede-43d634297a19.json
+2025-11-25 10:08:14 - INFO: Created game file for Atomfall at c:\Output\playnite\files\decksettings\80c4f1d9-bf4b-4e6b-a910-86a2edb40017.json
+2025-11-25 10:08:14 - INFO: Created game file for Albion Online at c:\Output\playnite\files\decksettings\b42bc9da-2ff0-4db9-8e20-7ce9a97a7073.json
+2025-11-25 10:08:15 - INFO: Created game file for STAR WARS: Bounty Hunter at c:\Output\playnite\files\decksettings\811db446-0c28-4d6f-a06c-237b95035948.json
+2025-11-25 10:08:15 - INFO: Created game file for Partisans 1941 at c:\Output\playnite\files\decksettings\3d2e5042-94ef-4aeb-8232-75ce804832f3.json
+2025-11-25 10:08:15 - INFO: Created game file for Stray Gods: The Roleplaying Musical at c:\Output\playnite\files\decksettings\3f207a56-4179-4910-ada1-c32400439c7b.json
+2025-11-25 10:08:16 - INFO: Created game file for DRACOMATON at c:\Output\playnite\files\decksettings\b444c956-0c15-4ff3-9180-24c305c38b62.json
+2025-11-25 10:08:16 - INFO: Created game file for Chants of Sennaar at c:\Output\playnite\files\decksettings\b474ad1e-dc3b-4aa8-94da-c9ad5e5ca011.json
+2025-11-25 10:08:16 - INFO: Created game file for Packed Train at c:\Output\playnite\files\decksettings\3f8fd63d-5bee-4cfb-90b1-7b3a871a82ed.json
+2025-11-25 10:08:16 - INFO: Created game file for Far Cry Primal at c:\Output\playnite\files\decksettings\b4836847-543e-4321-bc2a-001742365b46.json
+2025-11-25 10:08:17 - INFO: Created game file for SNK 40th Anniversary Collection at c:\Output\playnite\files\decksettings\3f95729d-f497-4bf6-a340-539612f6274a.json
+2025-11-25 10:08:17 - INFO: Created game file for Paleo Pines at c:\Output\playnite\files\decksettings\b48816b4-9cf8-4d56-981a-9bf3c9a0bfd0.json
+2025-11-25 10:08:17 - INFO: Created game file for Another Crab's Treasure at c:\Output\playnite\files\decksettings\3fc63f4c-c5ca-457b-ab4a-3a93ee2ac0ce.json
+2025-11-25 10:08:18 - INFO: Created game file for Hypnospace Outlaw at c:\Output\playnite\files\decksettings\b4bc3fb5-6798-47ad-9eee-958304bc1500.json
+2025-11-25 10:08:18 - INFO: Created game file for Infinifactory at c:\Output\playnite\files\decksettings\4033d671-b18d-41c1-8929-a44ce58534cb.json
+2025-11-25 10:08:19 - INFO: Created game file for Command & Conquer 3: Kane's Wrath at c:\Output\playnite\files\decksettings\b4cdea70-0c77-44bf-b9b8-86e5d3f45be8.json
+2025-11-25 10:08:19 - INFO: Created game file for Songs of Silence at c:\Output\playnite\files\decksettings\b4e1ff42-1294-4df6-b654-5ef98fc18fb1.json
+2025-11-25 10:08:19 - INFO: Created game file for NINJA GAIDEN 2 Black at c:\Output\playnite\files\decksettings\b53bbb9c-ec48-4018-bd07-9e15d3bf896b.json
+2025-11-25 10:08:19 - INFO: Created game file for Skull and Bones at c:\Output\playnite\files\decksettings\4075c8b1-dbcf-4698-b95b-a1bfc5e18965.json
+2025-11-25 10:08:20 - INFO: Created game file for PlateUp! at c:\Output\playnite\files\decksettings\b550bf0e-79f2-4a51-94e4-b69901840fb3.json
+2025-11-25 10:08:20 - INFO: Created game file for Palworld (Game Preview) at c:\Output\playnite\files\decksettings\b5bb1dfa-ed86-41a3-b149-3c2ec364b77d.json
+2025-11-25 10:08:20 - INFO: Created game file for SpellForce 3 Reforced at c:\Output\playnite\files\decksettings\407ec127-7821-46b5-b653-878744d91f56.json
+2025-11-25 10:08:21 - INFO: Created game file for Tomb Raider I-III Remastered Starring Lara Croft at c:\Output\playnite\files\decksettings\409b1102-ba96-4a77-adb0-437d5bc164a5.json
+2025-11-25 10:08:21 - INFO: Created game file for Field of Glory II: Medieval at c:\Output\playnite\files\decksettings\b5ddd246-e662-40c4-9b68-35ca6f4674e6.json
+2025-11-25 10:08:21 - INFO: Created game file for Make Way at c:\Output\playnite\files\decksettings\40a865dc-009b-4342-a6b8-e885466f4e9e.json
+2025-11-25 10:08:21 - INFO: Created game file for APICO at c:\Output\playnite\files\decksettings\b70255c2-290f-4470-a871-ce1c77cb49d6.json
+2025-11-25 10:08:22 - INFO: Created game file for Aaero at c:\Output\playnite\files\decksettings\4111fcb6-fc8e-46e2-9551-9e180e0e6a22.json
+2025-11-25 10:08:22 - INFO: Created game file for Call of Juarez: Bound in Blood at c:\Output\playnite\files\decksettings\41207baa-c30f-4297-b197-1505f5672690.json
+2025-11-25 10:08:22 - INFO: Created game file for The Rewinder at c:\Output\playnite\files\decksettings\b7670ca1-d523-4c34-b7a7-72b02a78c774.json
+2025-11-25 10:08:23 - INFO: Created game file for Labyrinth City: Pierre the Maze Detective at c:\Output\playnite\files\decksettings\414396e6-0122-4abb-95f6-19432a96ba8c.json
+2025-11-25 10:08:23 - INFO: Created game file for Space Crew: Legendary Edition at c:\Output\playnite\files\decksettings\b774d7f0-4a40-4c1b-9462-dbbe85b85ba4.json
+2025-11-25 10:08:24 - INFO: Created game file for Kitchen Wars at c:\Output\playnite\files\decksettings\41496de0-3924-4839-ae29-faaa1babadb9.json
+2025-11-25 10:08:24 - INFO: Created game file for Pankapu at c:\Output\playnite\files\decksettings\b7da9f47-39b6-4405-a7d5-fb6be98d7d2d.json
+2025-11-25 10:08:25 - INFO: Created game file for Spirit of the North at c:\Output\playnite\files\decksettings\416ae081-3fb2-4067-87e4-22594825d657.json
+2025-11-25 10:08:25 - INFO: Created game file for 20 Minutes Till Dawn at c:\Output\playnite\files\decksettings\b7f04a03-e0a3-43c4-98dd-2ba18f563361.json
+2025-11-25 10:08:25 - INFO: Created game file for The Rogue Prince of Persia at c:\Output\playnite\files\decksettings\417742b0-acd3-4113-a990-3ddc58073e75.json
+2025-11-25 10:08:26 - INFO: Created game file for Song of Farca at c:\Output\playnite\files\decksettings\b7f937eb-6034-48b8-b281-08dd6e4e2209.json
+2025-11-25 10:08:26 - INFO: Created game file for Inverta at c:\Output\playnite\files\decksettings\41bc6c68-1130-4fff-8a97-3216d87b44e6.json
+2025-11-25 10:08:27 - INFO: Created game file for Heroes of Loot at c:\Output\playnite\files\decksettings\b81e7d73-6a08-41e8-a9ca-20a00c4ea648.json
+2025-11-25 10:08:27 - INFO: Created game file for Morbid: The Seven Acolytes at c:\Output\playnite\files\decksettings\41c0ab20-680c-4e06-bfac-288120cce897.json
+2025-11-25 10:08:27 - INFO: Created game file for TOEM at c:\Output\playnite\files\decksettings\b871a58f-2380-4365-b890-738aea26578f.json
+2025-11-25 10:08:27 - INFO: Created game file for Jagged Alliance 3 at c:\Output\playnite\files\decksettings\4224ee90-e528-4598-8089-72c064e401b0.json
+2025-11-25 10:08:28 - INFO: Created game file for Cursed to Golf at c:\Output\playnite\files\decksettings\42678f2f-4eaa-47bc-9f3b-b32e0673fa42.json
+2025-11-25 10:08:28 - INFO: Created game file for Tom Clancy's Rainbow Six Siege X at c:\Output\playnite\files\decksettings\b8d60d65-b762-425a-8a11-ce85cf9e1d53.json
+2025-11-25 10:08:29 - INFO: Created game file for Ultimate Chicken Horse at c:\Output\playnite\files\decksettings\42747183-ac3d-4c05-811c-edbd1ab92583.json
+2025-11-25 10:08:29 - INFO: Created game file for Suicide Squad: Kill the Justice League at c:\Output\playnite\files\decksettings\b8eeec0b-8764-4867-96d0-83141c7d7a0a.json
+2025-11-25 10:08:30 - INFO: Created game file for Cryptmaster at c:\Output\playnite\files\decksettings\42d359d2-7337-4088-97f0-c7acfd414967.json
+2025-11-25 10:08:30 - INFO: Created game file for Eternal Strands at c:\Output\playnite\files\decksettings\b90965d4-7bda-4045-b56a-47ab009e0879.json
+2025-11-25 10:08:31 - INFO: Created game file for Assassin’s Creed IV Black Flag at c:\Output\playnite\files\decksettings\b9625792-c9b3-48c9-81ee-38a52e59c8dc.json
+2025-11-25 10:08:31 - INFO: Created game file for Skull and Bones at c:\Output\playnite\files\decksettings\b98a473d-4c83-4909-b731-6b146bc3d621.json
+2025-11-25 10:08:31 - INFO: Created game file for Boxes: Lost Fragments at c:\Output\playnite\files\decksettings\42dac406-ff59-4398-bd56-5a3679178dd2.json
+2025-11-25 10:08:31 - INFO: Created game file for Champions of Krynn at c:\Output\playnite\files\decksettings\bad7ce2e-a645-4ab7-9a5c-899f5a9757e2.json
+2025-11-25 10:08:32 - INFO: Created game file for Tomb Raider - The Last Revelation at c:\Output\playnite\files\decksettings\42f09e2e-16a3-4f9d-ade7-d7b4475e33ee.json
+2025-11-25 10:08:32 - INFO: Created game file for Youtubers Life 2 at c:\Output\playnite\files\decksettings\bb3588eb-61a0-41a3-937f-003de7025020.json
+2025-11-25 10:08:32 - INFO: Created game file for MULLET MADJACK at c:\Output\playnite\files\decksettings\bb3826f7-52a8-4296-8a47-f65a20c796ef.json
+2025-11-25 10:08:33 - INFO: Created game file for Weird West: Definitive Edition at c:\Output\playnite\files\decksettings\42fe4ba4-5516-42ac-8e42-f1fdec05ee3b.json
+2025-11-25 10:08:33 - INFO: Created game file for Towaga: Among Shadows at c:\Output\playnite\files\decksettings\bbb2363d-aed4-4848-9448-65dca9ed222c.json
+2025-11-25 10:08:34 - INFO: Created game file for Zoeti at c:\Output\playnite\files\decksettings\bbdaf1cb-abb2-4d16-831c-a25288bbcd97.json
+2025-11-25 10:08:35 - INFO: Created game file for Age of Empires II: Definitive Edition at c:\Output\playnite\files\decksettings\bc36bbfb-5f1a-419a-b34a-5112e7cbfe4c.json
+2025-11-25 10:08:35 - INFO: Created game file for The Crew Motorfest at c:\Output\playnite\files\decksettings\bc3f7505-1319-40f5-a9d6-4d3df681f462.json
+2025-11-25 10:08:36 - INFO: Created game file for Farming Simulator 22 at c:\Output\playnite\files\decksettings\bc511cee-99ec-4061-9ffa-0d83e6bd8803.json
+2025-11-25 10:08:36 - INFO: Created game file for Wednesdays at c:\Output\playnite\files\decksettings\bc630878-2b4c-4150-914a-65976f131728.json
+2025-11-25 10:08:37 - INFO: Created game file for Command & Conquer 4 Tiberian Twilight at c:\Output\playnite\files\decksettings\bc9e4d1e-1ece-43a0-91ff-eab9361e267d.json
+2025-11-25 10:08:38 - INFO: Created game file for South of the Circle at c:\Output\playnite\files\decksettings\bcb92c61-71db-455a-b44d-8d4f08d868b5.json
+2025-11-25 10:08:38 - INFO: Created game file for RESIDENT EVIL 2 at c:\Output\playnite\files\decksettings\bcc23f71-36b1-4959-8366-15579ea34e75.json
+2025-11-25 10:08:38 - INFO: Created game file for FragPunk at c:\Output\playnite\files\decksettings\bcff46df-f48d-429b-92fc-bd72a545964f.json
+2025-11-25 10:08:39 - INFO: Created game file for Shadow Sorcerer at c:\Output\playnite\files\decksettings\bdba548a-2966-4889-9a01-9c9ed730b31f.json
+2025-11-25 10:08:41 - INFO: Created game file for Astrea Six Sided Oracles at c:\Output\playnite\files\decksettings\bde78c74-c01e-419d-8acc-5fe4a48d6726.json
+2025-11-25 10:08:42 - INFO: Created game file for Ampersat at c:\Output\playnite\files\decksettings\bdeda405-86ec-402d-9ae7-c7b8805b30fd.json
+2025-11-25 10:08:42 - INFO: Created game file for The Ramp at c:\Output\playnite\files\decksettings\bdfcf60b-aca7-4242-bcb8-fff4e12e6625.json
+2025-11-25 10:08:43 - INFO: Created game file for Vambrace: Cold Soul at c:\Output\playnite\files\decksettings\be966202-e64d-4dc6-88a4-5da049c95977.json
+2025-11-25 10:08:44 - INFO: Created game file for Just a To the Moon Series Beach Episode at c:\Output\playnite\files\decksettings\bed735c4-0406-4d6e-b51d-bbd5b0f59b92.json
+2025-11-25 10:08:44 - Refreshing reviews for recent game: Fallout: New Vegas (Added: 2025-10-17)
+2025-11-25 10:08:44 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
+2025-11-25 10:08:45 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 10:08:45 - Refreshing reviews for recent game: Sid Meier's Civilization IV: Beyond the Sword (Added: 2025-09-07)
+2025-11-25 10:08:45 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
+2025-11-25 10:08:45 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 10:08:53 - ERROR in main processing: String was not recognized as a valid DateTime. | StackTrace:    at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at DeckSettings.GameProcessor.ExportPlayniteStats() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 51
+   at DeckSettings.GameProcessor.<>c.<GoAsync>b__10_1() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 388
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at DeckSettings.GameProcessor.<LogTaskCompletion>d__31.MoveNext() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 1146
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at DeckSettings.GameProcessor.<GoAsync>d__10.MoveNext() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 390
+2025-11-25 10:12:14 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:12:15 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:12:15 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:12:15 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:12:19 - Refreshing reviews for recent game: Fallout: New Vegas (Added: 2025-10-17)
+2025-11-25 10:12:19 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
+2025-11-25 10:12:19 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 10:12:19 - Refreshing reviews for recent game: Sid Meier's Civilization IV: Beyond the Sword (Added: 2025-09-07)
+2025-11-25 10:12:19 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
+2025-11-25 10:12:19 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 10:12:27 - ERROR in main processing: String was not recognized as a valid DateTime. | StackTrace:    at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at DeckSettings.GameProcessor.ExportPlayniteStats() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 51
+   at DeckSettings.GameProcessor.<>c.<GoAsync>b__10_1() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 388
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at DeckSettings.GameProcessor.<LogTaskCompletion>d__31.MoveNext() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 1146
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at DeckSettings.GameProcessor.<GoAsync>d__10.MoveNext() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 390
+2025-11-25 10:13:32 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:13:33 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:13:33 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:13:33 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:13:37 - Refreshing reviews for recent game: Fallout: New Vegas (Added: 2025-10-17)
+2025-11-25 10:13:37 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
+2025-11-25 10:13:37 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 10:13:37 - Refreshing reviews for recent game: Sid Meier's Civilization IV: Beyond the Sword (Added: 2025-09-07)
+2025-11-25 10:13:37 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
+2025-11-25 10:13:37 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 10:13:51 - ERROR in main processing: Index was outside the bounds of the array. | StackTrace:    at DeckSettings.GameProcessor.ExportPlayniteStats() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 199
+   at DeckSettings.GameProcessor.<>c.<GoAsync>b__10_1() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 398
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at DeckSettings.GameProcessor.<LogTaskCompletion>d__31.MoveNext() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 1156
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at DeckSettings.GameProcessor.<GoAsync>d__10.MoveNext() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 400
+2025-11-25 10:27:13 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:27:14 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:27:14 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:27:15 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:27:18 - Refreshing reviews for recent game: Fallout: New Vegas (Added: 2025-10-17)
+2025-11-25 10:27:18 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
+2025-11-25 10:27:19 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 10:27:19 - Refreshing reviews for recent game: Sid Meier's Civilization IV: Beyond the Sword (Added: 2025-09-07)
+2025-11-25 10:27:19 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
+2025-11-25 10:27:19 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
