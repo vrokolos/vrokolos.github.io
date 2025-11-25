@@ -1173,3 +1173,66 @@
 2025-11-25 11:36:43 - Refreshing reviews for recent game: Sid Meier's Civilization IV: Beyond the Sword (Added: 2025-09-07)
 2025-11-25 11:36:43 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
 2025-11-25 11:36:44 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 11:37:08 - TIMING: Total execution completed in 30.278 ms
+2025-11-25 12:22:49 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 12:22:50 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 12:22:51 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 12:22:51 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 12:22:55 - Refreshing reviews for recent game: Fallout: New Vegas (Added: 2025-10-17)
+2025-11-25 12:22:55 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
+2025-11-25 12:22:55 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 12:22:55 - Refreshing reviews for recent game: Sid Meier's Civilization IV: Beyond the Sword (Added: 2025-09-07)
+2025-11-25 12:22:55 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
+2025-11-25 12:22:55 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'Tomb Raider GAME OF THE YEAR EDITION': https: : d6264d56f5ba434e91d4b0a0b056c83a
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'Tomb Raider GOTY': https: : 1724969043
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'Dishonored Definitive Edition': https: : BethesdaSoftworks.DishonoredDE-PC_3275kfvn8vcwc
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'Fallout: New Vegas Ultimate Edition': https: : BethesdaSoftworks.FalloutNewVegas_3275kfvn8vcwc
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'Frog Detective: The Entire Mystery': https: : WormClub.FrogDetectiveTheEntireMystery_hzrgypq6k14cc
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'Dishonored - Definitive Edition': https: : d2da64bd4c4e422da4b1a88041492a3a
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'Dishonored - Definitive Edition': https: : 1701063787
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'The Grinch: Christmas Adventures - Merry & Mischievous Edition': https: : OutrightGames.TheGrinchChristmasAdventures-MerryMi_bnrbc155f0j86
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'Tyranny': https: : 36b0e40890f147fbb1e3965f87369156
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'Fallout: New Vegas': https: : 1454587428
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'Victor Vran Overkill Edition': https: : da7d2f0c-fd75-4b14-81dc-346d109220e7
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'Sid Meier's Civilization IV: Beyond the Sword': https: : 1760534591
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'Shadow of the Tomb Raider: Definitive Edition': https: : 890d9cf396d04922a1559333df419fed
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'MULLET MADJACK': https: : EpopeiaGames.MULLETMADJACK_esfbg40jx361j
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'Pillars of Eternity - Definitive Edition': https: : bcc75c246fe04e45b0c1f1c3fd52503a
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'ARK: Survival Evolved': https: : StudioWildcard.4558480580BB9_1w2mm55455e38
+2025-11-25 12:29:02 - Invalid SteamId URL found for game 'Overcooked': https: : 1223053864
+2025-11-25 12:29:03 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 12:29:04 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 12:29:04 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 12:29:04 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 12:29:08 - Refreshing reviews for recent game: Fallout: New Vegas (Added: 2025-10-17)
+2025-11-25 12:29:08 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
+2025-11-25 12:29:08 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 12:29:08 - Refreshing reviews for recent game: Sid Meier's Civilization IV: Beyond the Sword (Added: 2025-09-07)
+2025-11-25 12:29:08 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
+2025-11-25 12:29:09 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'Tomb Raider GAME OF THE YEAR EDITION': https: : d6264d56f5ba434e91d4b0a0b056c83a : https://store.steampowered.com/bundle/15037/Tomb_Raider_GOTY
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'Tomb Raider GOTY': https: : 1724969043 : https://store.steampowered.com/bundle/15037/Tomb_Raider_GOTY
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'Dishonored Definitive Edition': https: : BethesdaSoftworks.DishonoredDE-PC_3275kfvn8vcwc : https://store.steampowered.com/sub/31292
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'Fallout: New Vegas Ultimate Edition': https: : BethesdaSoftworks.FalloutNewVegas_3275kfvn8vcwc : https://store.steampowered.com/sub/13435/
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'Frog Detective: The Entire Mystery': https: : WormClub.FrogDetectiveTheEntireMystery_hzrgypq6k14cc : https://store.steampowered.com/franchise/frogdetective
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'Dishonored - Definitive Edition': https: : d2da64bd4c4e422da4b1a88041492a3a : https://store.steampowered.com/sub/31292
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'Dishonored - Definitive Edition': https: : 1701063787 : https://store.steampowered.com/sub/31292
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'The Grinch: Christmas Adventures - Merry & Mischievous Edition': https: : OutrightGames.TheGrinchChristmasAdventures-MerryMi_bnrbc155f0j86 : https://store.steampowered.com/bundle/57132/The_Grinch_Christmas_Adventures__Merry__Mischievous_Edition
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'Tyranny': https: : 36b0e40890f147fbb1e3965f87369156 : https://store.steampowered.com/bundle/5879
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'Fallout: New Vegas': https: : 1454587428 : https://store.steampowered.com/sub/13435/
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'Victor Vran Overkill Edition': https: : da7d2f0c-fd75-4b14-81dc-346d109220e7 : https://store.steampowered.com/bundle/3288/Victor_Vran_Overkill_Edition
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'Sid Meier's Civilization IV: Beyond the Sword': https: : 1760534591 : https://store.steampowered.com/sub/4323/
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'Shadow of the Tomb Raider: Definitive Edition': https: : 890d9cf396d04922a1559333df419fed : https://store.steampowered.com/bundle/12231/Shadow_of_the_Tomb_Raider_Definitive_Edition
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'MULLET MADJACK': https: : EpopeiaGames.MULLETMADJACK_esfbg40jx361j : https://store.steampowered.com/bundle/41372/MULLET_MAD_JACK__DELUXE_EDITION
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'Pillars of Eternity - Definitive Edition': https: : bcc75c246fe04e45b0c1f1c3fd52503a : https://store.steampowered.com/sub/220633/
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'ARK: Survival Evolved': https: : StudioWildcard.4558480580BB9_1w2mm55455e38 : https://store.steampowered.com/bundle/4462/ARK_Survival_Evolved_Explorers_Edition
+2025-11-25 12:30:10 - Invalid SteamId URL found for game 'Overcooked': https: : 1223053864 : https://store.steampowered.com/bundle/1788/Overcooked_Gourmet_Edition
+2025-11-25 12:30:10 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 12:30:11 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 12:30:11 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 12:30:12 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 12:32:12 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 12:32:13 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 12:32:13 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 12:32:14 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
