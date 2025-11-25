@@ -3065,3 +3065,69 @@
 2025-11-25 21:32:18 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-11-25 21:32:19 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-11-25 21:32:19 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 21:32:45 - TIMING: Total execution completed in 27.156 ms
+2025-11-25 21:37:50 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 21:37:51 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 21:37:52 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 21:37:52 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 21:37:57 - INFO: Created game file for 1000xRESIST at c:\Output\playnite\files\decksettings\8218e8e9-cf6e-4c27-9053-e7a9cc2b0195.json
+2025-11-25 21:37:57 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1675830&include_external=true
+2025-11-25 21:37:57 - INFO: Created game file for KILL IT WITH FIRE! 2 at c:\Output\playnite\files\decksettings\0379c6c6-f52c-4914-a76d-19f03f02aaa0.json
+2025-11-25 21:37:57 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2357000&include_external=true
+2025-11-25 21:37:58 - INFO: Created game file for Halo: The Master Chief Collection at c:\Output\playnite\files\decksettings\48d471f1-cfc5-4323-9e42-9876ae1e0827.json
+2025-11-25 21:37:58 - https://deckverified.games/deck-verified/api/v1/game_details?appid=976730&include_external=true
+2025-11-25 21:37:59 - INFO: Created game file for Young Suns at c:\Output\playnite\files\decksettings\2a76053c-5da3-4a3f-9692-ddb7fd5bbbfe.json
+2025-11-25 21:37:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=4149610&include_external=true
+2025-11-25 21:37:59 - INFO: Created game file for Legend of Mana at c:\Output\playnite\files\decksettings\ba37b8a9-c05c-4cba-ae74-74084c157254.json
+2025-11-25 21:37:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1175830&include_external=true
+2025-11-25 21:37:59 - INFO: Created game file for Maneater at c:\Output\playnite\files\decksettings\542b8768-879d-42b3-8b08-2bdcdd269a63.json
+2025-11-25 21:37:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=629820&include_external=true
+2025-11-25 21:37:59 - INFO: Created game file for Starlink: Battle for Atlas at c:\Output\playnite\files\decksettings\35357fc5-19a7-4928-9f0b-24817f178492.json
+2025-11-25 21:37:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=950050&include_external=true
+2025-11-25 21:37:59 - INFO: Created game file for Hades at c:\Output\playnite\files\decksettings\590b5a62-0e28-432c-bca1-df5fa04787fc.json
+2025-11-25 21:37:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1145360&include_external=true
+2025-11-25 21:38:00 - INFO: Created game file for Dragon Age: Origins - Ultimate Edition at c:\Output\playnite\files\decksettings\702e8e33-54da-4fa2-8661-014f600acbc0.json
+2025-11-25 21:38:00 - https://deckverified.games/deck-verified/api/v1/game_details?appid=47810&include_external=true
+2025-11-25 21:38:00 - INFO: Created game file for LIMBO at c:\Output\playnite\files\decksettings\792fce33-bbe6-4b6a-baa3-d64addf51dc7.json
+2025-11-25 21:38:00 - https://deckverified.games/deck-verified/api/v1/game_details?appid=48000&include_external=true
+2025-11-25 21:38:00 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=2357000,4149610,976730,629820,1145360,1175830
+2025-11-25 21:38:00 - Refreshing reviews for recent game: KILL IT WITH FIRE! 2 (Added: 2025-11-25)
+2025-11-25 21:38:00 - https://store.steampowered.com/appreviews/2357000?json=1&language=all&num_per_page=0
+2025-11-25 21:38:00 - Refreshing reviews for recent game: NARAKA: BLADEPOINT (Added: 2025-03-26)
+2025-11-25 21:38:00 - https://store.steampowered.com/appreviews/1203220?json=1&language=all&num_per_page=0
+2025-11-25 21:38:01 - Refreshing reviews for recent game: Young Suns (Added: 2025-11-25)
+2025-11-25 21:38:01 - https://store.steampowered.com/appreviews/4149610?json=1&language=all&num_per_page=0
+2025-11-25 21:38:01 - Refreshing reviews for recent game: Firefighting Simulator - The Squad (Added: 2025-05-20)
+2025-11-25 21:38:01 - https://store.steampowered.com/appreviews/420560?json=1&language=all&num_per_page=0
+2025-11-25 21:38:01 - Refreshing reviews for recent game: Halo: The Master Chief Collection (Added: 2025-01-14)
+2025-11-25 21:38:01 - https://store.steampowered.com/appreviews/976730?json=1&language=all&num_per_page=0
+2025-11-25 21:38:02 - https://store.steampowered.com/appreviews/629820?json=1&language=all&num_per_page=0
+2025-11-25 21:38:02 - Refreshing reviews for recent game: Scott Pilgrim vs. The World: The Game – Complete Edition (Added: 2025-10-02)
+2025-11-25 21:38:02 - https://store.steampowered.com/appreviews/2215260?json=1&language=all&num_per_page=0
+2025-11-25 21:38:02 - Refreshing reviews for recent game: Persona 4 Golden (Added: 2025-08-20)
+2025-11-25 21:38:02 - https://store.steampowered.com/appreviews/1113000?json=1&language=all&num_per_page=0
+2025-11-25 21:38:03 - Refreshing reviews for recent game: Citizen Sleeper 2: Starward Vector (Added: 2025-02-01)
+2025-11-25 21:38:03 - https://store.steampowered.com/appreviews/2442460?json=1&language=all&num_per_page=0
+2025-11-25 21:38:03 - Refreshing reviews for recent game: [REDACTED] (Added: 2025-01-01)
+2025-11-25 21:38:03 - https://store.steampowered.com/appreviews/2229940?json=1&language=all&num_per_page=0
+2025-11-25 21:38:03 - Refreshing reviews for recent game: Bus Simulator 21 Next Stop (Added: 2024-12-06)
+2025-11-25 21:38:03 - https://store.steampowered.com/appreviews/976590?json=1&language=all&num_per_page=0
+2025-11-25 21:38:04 - Refreshing reviews for recent game: Wildfrost (Added: 2024-12-11)
+2025-11-25 21:38:04 - https://store.steampowered.com/appreviews/1811990?json=1&language=all&num_per_page=0
+2025-11-25 21:38:04 - Refreshing reviews for recent game: Filthy Animals | Heist Simulator (Added: 2025-08-16)
+2025-11-25 21:38:04 - https://store.steampowered.com/appreviews/1195420?json=1&language=all&num_per_page=0
+2025-11-25 21:38:04 - Refreshing reviews for recent game: AK-xolotl: Together (Added: 2025-02-07)
+2025-11-25 21:38:04 - https://store.steampowered.com/appreviews/1479140?json=1&language=all&num_per_page=0
+2025-11-25 21:38:05 - Refreshing reviews for recent game: I Am Your Beast (Added: 2025-09-03)
+2025-11-25 21:38:05 - https://store.steampowered.com/appreviews/1876590?json=1&language=all&num_per_page=0
+2025-11-25 21:38:05 - Refreshing reviews for recent game: Grand Theft Auto V (Added: 2025-03-04)
+2025-11-25 21:38:05 - https://store.steampowered.com/appreviews/3240220?json=1&language=all&num_per_page=0
+2025-11-25 21:38:05 - https://store.steampowered.com/appreviews/1175830?json=1&language=all&num_per_page=0
+2025-11-25 21:38:05 - Refreshing reviews for recent game: Disney•Pixar WALL-E (Added: 2024-12-08)
+2025-11-25 21:38:05 - https://store.steampowered.com/appreviews/331750?json=1&language=all&num_per_page=0
+2025-11-25 21:38:06 - Refreshing reviews for recent game: Helping the Hotties (Added: 2025-08-03)
+2025-11-25 21:38:06 - https://store.steampowered.com/appreviews/1590730?json=1&language=all&num_per_page=0
+2025-11-25 21:38:06 - Refreshing reviews for recent game: Heretic + Hexen (Added: 2025-08-07)
+2025-11-25 21:38:06 - https://store.steampowered.com/appreviews/3286930?json=1&language=all&num_per_page=0
+2025-11-25 21:38:06 - Refreshing reviews for recent game: VOID/BREAKER (Game Preview) (Added: 2025-08-20)
+2025-11-25 21:38:06 - https://store.steampowered.com/appreviews/2615540?json=1&language=all&num_per_page=0
