@@ -1042,3 +1042,124 @@
 2025-11-25 10:27:19 - Refreshing reviews for recent game: Sid Meier's Civilization IV: Beyond the Sword (Added: 2025-09-07)
 2025-11-25 10:27:19 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
 2025-11-25 10:27:19 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 10:28:07 - TIMING: Total execution completed in 54.517 ms
+2025-11-25 10:34:01 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:34:02 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:34:03 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:34:03 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 10:34:09 - INFO: Created game file for Banishers: Ghosts of New Eden at c:\Output\playnite\files\decksettings\04bb2d01-45cc-497b-9654-7d19cffbda9c.json
+2025-11-25 10:34:09 - INFO: Created game file for Warhammer 40,000: Rogue Trader at c:\Output\playnite\files\decksettings\6944ede6-63bf-4e23-8edf-9449d0aa9a77.json
+2025-11-25 10:34:09 - INFO: Created game file for Lara Croft and the Temple of Osiris at c:\Output\playnite\files\decksettings\df81e9e0-1fcb-43d3-ad04-44025136ddc1.json
+2025-11-25 10:34:09 - INFO: Created game file for Fallout: New Vegas at c:\Output\playnite\files\decksettings\b0ac0cf6-cc58-4e74-94c4-09eb130009a4.json
+2025-11-25 10:34:10 - INFO: Created game file for War Thunder at c:\Output\playnite\files\decksettings\e3007b91-7616-45ef-919b-910aeb081ce4.json
+2025-11-25 10:34:10 - INFO: Created game file for Shadowrun: Hong Kong - Extended Edition at c:\Output\playnite\files\decksettings\22fab328-bd66-4c25-a818-4d7c4d523115.json
+2025-11-25 10:34:11 - INFO: Created game file for Whispered Secrets: Everburning Candle - CE at c:\Output\playnite\files\decksettings\b0f107b5-75c4-4ec8-ab10-38faf29d49fd.json
+2025-11-25 10:34:11 - INFO: Created game file for Trials Rising at c:\Output\playnite\files\decksettings\e3432375-0651-49e9-8e35-18822b292101.json
+2025-11-25 10:34:11 - INFO: Created game file for Turnip Boy Commits Tax Evasion at c:\Output\playnite\files\decksettings\6a76be62-bee0-4f7b-8c9e-86c5e702e483.json
+2025-11-25 10:34:11 - INFO: Created game file for Brotato at c:\Output\playnite\files\decksettings\b1f936f2-69a8-4794-b46a-cdfbd4eec3b6.json
+2025-11-25 10:34:11 - INFO: Created game file for Lara Croft and the Guardian of Light at c:\Output\playnite\files\decksettings\26b34f53-b99d-44c5-8dab-ab57335a77c5.json
+2025-11-25 10:34:12 - INFO: Created game file for South Park: The Fractured but Whole at c:\Output\playnite\files\decksettings\ead1825d-6565-478a-bb5c-42f13b3bdfee.json
+2025-11-25 10:34:12 - INFO: Created game file for Assassin's Creed Valhalla at c:\Output\playnite\files\decksettings\b533fb8a-b576-419f-8eeb-11205c9e1aed.json
+2025-11-25 10:34:12 - INFO: Created game file for Autonauts at c:\Output\playnite\files\decksettings\6b10a71a-a862-487e-8049-596af05941b9.json
+2025-11-25 10:34:13 - INFO: Created game file for WATCH_DOGS at c:\Output\playnite\files\decksettings\275ea1be-25fd-4bb2-b20f-3d8268bff53c.json
+2025-11-25 10:34:13 - INFO: Created game file for Shady Part of Me at c:\Output\playnite\files\decksettings\eda2b655-7c30-4973-9365-3d0325bd4472.json
+2025-11-25 10:34:13 - INFO: Created game file for Thief at c:\Output\playnite\files\decksettings\b75d1915-510e-4667-bd67-eb5cab56ec8c.json
+2025-11-25 10:34:13 - INFO: Created game file for Kingdom Two Crowns at c:\Output\playnite\files\decksettings\f0353ba0-46fd-4e93-b9b2-02279e754408.json
+2025-11-25 10:34:14 - INFO: Created game file for Tandem: A Tale of Shadows at c:\Output\playnite\files\decksettings\6bc68caa-13ba-4a5e-9e2f-8e0ab44df74e.json
+2025-11-25 10:34:14 - INFO: Created game file for Anno 1800 at c:\Output\playnite\files\decksettings\ba523de9-cac2-4726-9e11-3ab6a95c8668.json
+2025-11-25 10:34:14 - INFO: Created game file for Far Cry 6 at c:\Output\playnite\files\decksettings\276d2e0a-f488-4e56-934f-6a04804506ae.json
+2025-11-25 10:34:14 - INFO: Created game file for Pillars of Eternity II: Deadfire at c:\Output\playnite\files\decksettings\f0cd776a-f1e6-4740-b8ae-090dd0f1487c.json
+2025-11-25 10:34:15 - INFO: Created game file for Rise of the Tomb Raider at c:\Output\playnite\files\decksettings\6fe7b047-abd3-4055-bccd-f0667a37e546.json
+2025-11-25 10:34:15 - INFO: Created game file for Watch_Dogs 2 at c:\Output\playnite\files\decksettings\bc095f00-a29c-40b4-9c49-de3131fa1dc0.json
+2025-11-25 10:34:15 - INFO: Created game file for Assassin's Creed Odyssey at c:\Output\playnite\files\decksettings\2813bd2d-f51d-4b75-a90e-f59afc5aa703.json
+2025-11-25 10:34:15 - INFO: Created game file for The Rogue Prince of Persia at c:\Output\playnite\files\decksettings\f2c372ff-1520-4e2d-b0a6-6ffa3773f8d1.json
+2025-11-25 10:34:15 - INFO: Created game file for Tom Clancy's The Division at c:\Output\playnite\files\decksettings\72884ce5-a018-44b9-a5fd-eaaf4fcafe48.json
+2025-11-25 10:34:15 - INFO: Created game file for Prey at c:\Output\playnite\files\decksettings\f4945a9a-65a3-4089-9618-f0550bc428f0.json
+2025-11-25 10:34:16 - INFO: Created game file for For Honor at c:\Output\playnite\files\decksettings\f817351e-b21a-4b2b-8990-61012db42d2e.json
+2025-11-25 10:34:16 - INFO: Created game file for Far Cry 5 at c:\Output\playnite\files\decksettings\2888a417-ba78-4f97-acce-ea0b389db482.json
+2025-11-25 10:34:17 - INFO: Created game file for Monster Train at c:\Output\playnite\files\decksettings\7315fd8b-4649-401f-bd6e-43b2b49cd73b.json
+2025-11-25 10:34:17 - INFO: Created game file for Trials Fusion at c:\Output\playnite\files\decksettings\f964c0b0-65dc-4d72-abfd-3741f7367041.json
+2025-11-25 10:34:17 - INFO: Created game file for DREDGE at c:\Output\playnite\files\decksettings\29dc87d7-4500-4441-b3ce-170f9e135c65.json
+2025-11-25 10:34:17 - INFO: Created game file for Evil West at c:\Output\playnite\files\decksettings\74c7c101-ae4b-4215-915f-b641bef68a3a.json
+2025-11-25 10:34:17 - INFO: Created game file for FAR CRY 4 at c:\Output\playnite\files\decksettings\2bfe6fc4-8182-4d2d-a265-92ea0bae75ff.json
+2025-11-25 10:34:18 - INFO: Created game file for Fallout 3: Game of the Year Edition at c:\Output\playnite\files\decksettings\2f882149-1e32-42d0-b59f-1f59d6e2fb9b.json
+2025-11-25 10:34:18 - INFO: Created game file for Overwatch 2 at c:\Output\playnite\files\decksettings\75e28081-4496-4f78-96f6-eb452fb72cc0.json
+2025-11-25 10:34:18 - INFO: Created game file for Hollow Knight: Silksong at c:\Output\playnite\files\decksettings\3076868b-1943-4c9c-bda2-6edda7677209.json
+2025-11-25 10:34:18 - INFO: Created game file for FAR CRY 3 at c:\Output\playnite\files\decksettings\7b16ec83-5371-41bc-bdaf-78bd3ebb0914.json
+2025-11-25 10:34:19 - INFO: Created game file for Tom Clancy’s Rainbow Six Extraction at c:\Output\playnite\files\decksettings\314e5c2c-24c7-4928-950a-e1772cf61f03.json
+2025-11-25 10:34:19 - INFO: Created game file for shapez at c:\Output\playnite\files\decksettings\7bf9eb43-7d4a-4e25-9ea7-27a8681f22d7.json
+2025-11-25 10:34:19 - INFO: Created game file for The Settlers: New Allies at c:\Output\playnite\files\decksettings\32de3a0c-71f7-4e6b-afd6-cba24026b704.json
+2025-11-25 10:34:19 - INFO: Created game file for King's Bounty: The Legend at c:\Output\playnite\files\decksettings\804dd421-d925-4a7a-b70c-149137c34d1c.json
+2025-11-25 10:34:20 - INFO: Created game file for Q.U.B.E.: Director's Cut at c:\Output\playnite\files\decksettings\34b49c62-6aa7-4037-b537-436a759cb1c6.json
+2025-11-25 10:34:20 - INFO: Created game file for Assassin's Creed Origins at c:\Output\playnite\files\decksettings\390d9cf8-80ba-48b5-8bd9-1c5786ac1572.json
+2025-11-25 10:34:21 - INFO: Created game file for South Park: The Stick of Truth at c:\Output\playnite\files\decksettings\3b7122e2-add4-4b15-80a3-47c2cb6b69fa.json
+2025-11-25 10:34:21 - INFO: Created game file for Tom Clancy's The Division 2 at c:\Output\playnite\files\decksettings\3bca0224-2cc2-4756-89d8-7151a0223283.json
+2025-11-25 10:34:21 - INFO: Created game file for Grime at c:\Output\playnite\files\decksettings\3db1108e-e87e-4da3-80cf-48baa35bdaa1.json
+2025-11-25 10:34:22 - INFO: Created game file for BIT.TRIP RUNNER at c:\Output\playnite\files\decksettings\3fa1c89f-62bb-4cc5-83fe-d290da317bb4.json
+2025-11-25 10:34:22 - INFO: Created game file for STEEP at c:\Output\playnite\files\decksettings\4190f69a-0890-4ba9-aad2-581af72ea39e.json
+2025-11-25 10:34:23 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1493640,1549970,823990,1030300,2379390,1681430,750920,1065310,2357570,1318690,1175460,990080,860510,3934870,2208920,1196400,1116580,701160,480490
+2025-11-25 10:34:23 - Refreshing reviews for recent game: Rain World (Added: 2025-08-07)
+2025-11-25 10:34:23 - https://store.steampowered.com/appreviews/312520?json=1&language=all&num_per_page=0
+2025-11-25 10:34:23 - Refreshing reviews for recent game: Assassin's Creed Chronicles : China (Added: 2025-10-02)
+2025-11-25 10:34:23 - https://store.steampowered.com/appreviews/354380?json=1&language=all&num_per_page=0
+2025-11-25 10:34:23 - Refreshing reviews for recent game: Child of Light (Added: 2025-10-02)
+2025-11-25 10:34:23 - https://store.steampowered.com/appreviews/256290?json=1&language=all&num_per_page=0
+2025-11-25 10:34:24 - Refreshing reviews for recent game: Tom Clancy’s Ghost Recon Wildlands (Added: 2025-10-02)
+2025-11-25 10:34:24 - https://store.steampowered.com/appreviews/460930?json=1&language=all&num_per_page=0
+2025-11-25 10:34:24 - Refreshing reviews for recent game: FAR CRY 3 BLOOD DRAGON (Added: 2025-10-02)
+2025-11-25 10:34:24 - https://store.steampowered.com/appreviews/233270?json=1&language=all&num_per_page=0
+2025-11-25 10:34:24 - Refreshing reviews for recent game: Immortals Fenyx Rising (Added: 2025-10-02)
+2025-11-25 10:34:24 - https://store.steampowered.com/appreviews/2221920?json=1&language=all&num_per_page=0
+2025-11-25 10:34:24 - Refreshing reviews for recent game: Lara Croft and the Guardian of Light (Added: 2025-10-02)
+2025-11-25 10:34:24 - https://store.steampowered.com/appreviews/35130?json=1&language=all&num_per_page=0
+2025-11-25 10:34:25 - Refreshing reviews for recent game: WATCH_DOGS (Added: 2025-10-02)
+2025-11-25 10:34:25 - https://store.steampowered.com/appreviews/243470?json=1&language=all&num_per_page=0
+2025-11-25 10:34:25 - Refreshing reviews for recent game: Assassin's Creed Odyssey (Added: 2025-10-02)
+2025-11-25 10:34:25 - https://store.steampowered.com/appreviews/812140?json=1&language=all&num_per_page=0
+2025-11-25 10:34:25 - Refreshing reviews for recent game: Far Cry 5 (Added: 2025-10-02)
+2025-11-25 10:34:25 - https://store.steampowered.com/appreviews/823990?json=1&language=all&num_per_page=0
+2025-11-25 10:34:26 - Refreshing reviews for recent game: Tom Clancy’s Rainbow Six Extraction (Added: 2025-10-02)
+2025-11-25 10:34:26 - https://store.steampowered.com/appreviews/2379390?json=1&language=all&num_per_page=0
+2025-11-25 10:34:26 - Refreshing reviews for recent game: Assassin’s Creed Chronicles: India (Added: 2025-10-02)
+2025-11-25 10:34:26 - https://store.steampowered.com/appreviews/359610?json=1&language=all&num_per_page=0
+2025-11-25 10:34:26 - Refreshing reviews for recent game: Call of Duty: WWII (Added: 2025-08-28)
+2025-11-25 10:34:26 - https://store.steampowered.com/appreviews/476600?json=1&language=all&num_per_page=0
+2025-11-25 10:34:27 - Refreshing reviews for recent game: RoboCop: Rogue City (Added: 2025-07-17)
+2025-11-25 10:34:27 - https://store.steampowered.com/appreviews/1681430?json=1&language=all&num_per_page=0
+2025-11-25 10:34:27 - Refreshing reviews for recent game: Enter The Gungeon (Added: 2025-03-20)
+2025-11-25 10:34:27 - https://store.steampowered.com/appreviews/311690?json=1&language=all&num_per_page=0
+2025-11-25 10:34:27 - Refreshing reviews for recent game: Rocket League (Added: 2025-11-20)
+2025-11-25 10:34:27 - https://store.steampowered.com/appreviews/252950?json=1&language=all&num_per_page=0
+2025-11-25 10:34:28 - Refreshing reviews for recent game: Tom Clancy's The Division (Added: 2025-10-02)
+2025-11-25 10:34:28 - https://store.steampowered.com/appreviews/365590?json=1&language=all&num_per_page=0
+2025-11-25 10:34:28 - Refreshing reviews for recent game: Overwatch 2 (Added: 2025-10-31)
+2025-11-25 10:34:28 - https://store.steampowered.com/appreviews/2357570?json=1&language=all&num_per_page=0
+2025-11-25 10:34:28 - Refreshing reviews for recent game: FAR CRY 3 (Added: 2025-10-02)
+2025-11-25 10:34:28 - https://store.steampowered.com/appreviews/220240?json=1&language=all&num_per_page=0
+2025-11-25 10:34:28 - Refreshing reviews for recent game: Fallout: New Vegas (Added: 2025-10-17)
+2025-11-25 10:34:28 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
+2025-11-25 10:34:29 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 10:34:29 - Refreshing reviews for recent game: Diablo IV (Added: 2025-10-31)
+2025-11-25 10:34:29 - https://store.steampowered.com/appreviews/2344520?json=1&language=all&num_per_page=0
+2025-11-25 10:34:29 - Refreshing reviews for recent game: Sid Meier's Civilization IV: Beyond the Sword (Added: 2025-09-07)
+2025-11-25 10:34:29 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
+2025-11-25 10:34:29 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 10:34:29 - https://store.steampowered.com/appreviews/3934870?json=1&language=all&num_per_page=0
+2025-11-25 10:34:30 - Refreshing reviews for recent game: Assassin's Creed Valhalla (Added: 2025-10-02)
+2025-11-25 10:34:30 - https://store.steampowered.com/appreviews/2208920?json=1&language=all&num_per_page=0
+2025-11-25 10:34:30 - https://store.steampowered.com/appreviews/1196400?json=1&language=all&num_per_page=0
+2025-11-25 10:34:30 - Refreshing reviews for recent game: Assassin's Creed Revelations (Added: 2025-10-02)
+2025-11-25 10:34:30 - https://store.steampowered.com/appreviews/201870?json=1&language=all&num_per_page=0
+2025-11-25 10:34:30 - Refreshing reviews for recent game: Warhammer 40,000: Dawn of War II (Added: 2024-12-18)
+2025-11-25 10:34:30 - https://store.steampowered.com/appreviews/15620?json=1&language=all&num_per_page=0
+2025-11-25 10:34:31 - Refreshing reviews for recent game: Lara Croft and the Temple of Osiris (Added: 2025-11-12)
+2025-11-25 10:34:31 - https://store.steampowered.com/appreviews/289690?json=1&language=all&num_per_page=0
+2025-11-25 10:34:31 - Refreshing reviews for recent game: War Thunder (Added: 2025-08-16)
+2025-11-25 10:34:31 - https://store.steampowered.com/appreviews/236390?json=1&language=all&num_per_page=0
+2025-11-25 10:34:31 - Refreshing reviews for recent game: Pillars of Eternity II: Deadfire (Added: 2025-10-24)
+2025-11-25 10:34:31 - https://store.steampowered.com/appreviews/560130?json=1&language=all&num_per_page=0
+2025-11-25 10:34:32 - https://store.steampowered.com/appreviews/480490?json=1&language=all&num_per_page=0
+2025-11-25 10:34:32 - Refreshing reviews for recent game: For Honor (Added: 2025-10-02)
+2025-11-25 10:34:32 - https://store.steampowered.com/appreviews/304390?json=1&language=all&num_per_page=0
+2025-11-25 10:34:32 - Refreshing reviews for recent game: Trials Fusion (Added: 2025-10-02)
+2025-11-25 10:34:32 - https://store.steampowered.com/appreviews/245490?json=1&language=all&num_per_page=0
