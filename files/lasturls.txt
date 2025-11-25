@@ -1163,3 +1163,13 @@
 2025-11-25 10:34:32 - https://store.steampowered.com/appreviews/304390?json=1&language=all&num_per_page=0
 2025-11-25 10:34:32 - Refreshing reviews for recent game: Trials Fusion (Added: 2025-10-02)
 2025-11-25 10:34:32 - https://store.steampowered.com/appreviews/245490?json=1&language=all&num_per_page=0
+2025-11-25 11:36:38 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 11:36:39 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 11:36:39 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 11:36:39 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-25 11:36:43 - Refreshing reviews for recent game: Fallout: New Vegas (Added: 2025-10-17)
+2025-11-25 11:36:43 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
+2025-11-25 11:36:43 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
+2025-11-25 11:36:43 - Refreshing reviews for recent game: Sid Meier's Civilization IV: Beyond the Sword (Added: 2025-09-07)
+2025-11-25 11:36:43 - https://store.steampowered.com/appreviews/https:?json=1&language=all&num_per_page=0
+2025-11-25 11:36:44 - Warning: Failed to update review timestamp for https:: The given path's format is not supported.
