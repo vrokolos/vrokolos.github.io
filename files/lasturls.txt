@@ -3131,3 +3131,58 @@
 2025-11-25 21:38:06 - https://store.steampowered.com/appreviews/3286930?json=1&language=all&num_per_page=0
 2025-11-25 21:38:06 - Refreshing reviews for recent game: VOID/BREAKER (Game Preview) (Added: 2025-08-20)
 2025-11-25 21:38:06 - https://store.steampowered.com/appreviews/2615540?json=1&language=all&num_per_page=0
+2025-11-25 21:38:17 - TIMING: Total execution completed in 27.348 ms
+2025-11-26 09:04:05 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-26 09:04:06 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-26 09:04:06 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-26 09:04:07 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-26 09:04:13 - INFO: Created game file for Besiege + The Splintered Sea DLC at c:\Output\playnite\files\decksettings\c1ea572a-c01a-4d8d-acc1-0b812c42a093.json
+2025-11-26 09:04:13 - https://deckverified.games/deck-verified/api/v1/game_details?appid=346010&include_external=true
+2025-11-26 09:04:13 - INFO: Created game file for Minabo - A walk through life at c:\Output\playnite\files\decksettings\8877f569-8647-428b-ae98-4c876049fbb6.json
+2025-11-26 09:04:13 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1822560&include_external=true
+2025-11-26 09:04:14 - INFO: Created game file for Bridge to Another World: Secrets of the Nutcracker Collector's Edition at c:\Output\playnite\files\decksettings\1db16a57-e434-470a-856b-b2da8b251da8.json
+2025-11-26 09:04:14 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1498460&include_external=true
+2025-11-26 09:04:14 - INFO: Created game file for Move or Die at c:\Output\playnite\files\decksettings\6087c221-f7f9-4768-89ce-e646c54d8614.json
+2025-11-26 09:04:14 - https://deckverified.games/deck-verified/api/v1/game_details?appid=323850&include_external=true
+2025-11-26 09:04:15 - INFO: Created game file for DREAM TIME at c:\Output\playnite\files\decksettings\61ef52aa-afad-4b94-8b80-1ee18e500d3f.json
+2025-11-26 09:04:15 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1360700&include_external=true
+2025-11-26 09:04:16 - INFO: Created game file for ReDrawn: The Painted Tower Collector's Edition at c:\Output\playnite\files\decksettings\c3cbb516-8ce4-40c6-b105-1a32d720d82c.json
+2025-11-26 09:04:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1789560&include_external=true
+2025-11-26 09:04:16 - INFO: Created game file for MythForce PTR at c:\Output\playnite\files\decksettings\35129c83-5530-4620-84b4-c47e17c19b87.json
+2025-11-26 09:04:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=363860&include_external=true
+2025-11-26 09:04:16 - INFO: Created game file for Scott Pilgrim vs The World at c:\Output\playnite\files\decksettings\d2aa07db-9eb3-4013-8475-d08a9933a056.json
+2025-11-26 09:04:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2215260&include_external=true
+2025-11-26 09:04:16 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1498460,323850,1360700,2350513,1822560,3817900,346010,1789560
+2025-11-26 09:04:16 - https://store.steampowered.com/appreviews/1498460?json=1&language=all&num_per_page=0
+2025-11-26 09:04:16 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
+2025-11-26 09:04:17 - https://store.steampowered.com/appreviews/323850?json=1&language=all&num_per_page=0
+2025-11-26 09:04:18 - https://store.steampowered.com/appreviews/1360700?json=1&language=all&num_per_page=0
+2025-11-26 09:04:18 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
+2025-11-26 09:04:18 - Refreshing reviews for recent game: War of the Lance (Added: 2025-08-28)
+2025-11-26 09:04:18 - https://store.steampowered.com/appreviews/2350513?json=1&language=all&num_per_page=0
+2025-11-26 09:04:18 - https://store.steampowered.com/appreviews/1822560?json=1&language=all&num_per_page=0
+2025-11-26 09:04:19 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
+2025-11-26 09:04:19 - https://store.steampowered.com/appreviews/3817900?json=1&language=all&num_per_page=0
+2025-11-26 09:04:20 - Refreshing reviews for recent game: Besiege + The Splintered Sea DLC (Added: 2025-07-17)
+2025-11-26 09:04:20 - https://store.steampowered.com/appreviews/346010?json=1&language=all&num_per_page=0
+2025-11-26 09:04:20 - Refreshing reviews for recent game: ReDrawn: The Painted Tower Collector's Edition (Added: 2024-12-18)
+2025-11-26 09:04:20 - https://store.steampowered.com/appreviews/1789560?json=1&language=all&num_per_page=0
+2025-11-26 09:04:20 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
+2025-11-26 09:04:22 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
+2025-11-26 09:04:23 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
+2025-11-26 09:04:24 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
+2025-11-26 09:05:21 - ERROR in main processing: Gift is not a valid value for Double. | StackTrace:    at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   at System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeInternal(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   at System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeMain(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   at System.Web.Script.Serialization.ObjectConverter.ConvertDictionaryToObject(IDictionary`2 dictionary, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   at System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeInternal(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   at System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeMain(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at DeckSettings.Utils.Deserialize[T](String json) in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\Utils.cs:line 81
+   at DeckSettings.GameProcessor.GetBoughtPrices(List`1 ngames) in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 558
+   at DeckSettings.GameProcessor.<GoAsync>d__11.MoveNext() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 449
+2025-11-26 09:06:40 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-26 09:06:41 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-26 09:06:41 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-26 09:06:41 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
