@@ -3191,3 +3191,20 @@
 2025-11-26 17:41:21 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-11-26 17:41:22 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-11-26 17:41:22 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-26 23:07:53 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-26 23:07:54 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-26 23:07:54 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-26 23:07:54 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-26 23:08:00 - INFO: Created game file for Injustice 2 at c:\Output\playnite\files\decksettings\515c7dc2-c629-4f98-97df-1d0cff6b9c57.json
+2025-11-26 23:08:00 - https://deckverified.games/deck-verified/api/v1/game_details?appid=627270&include_external=true
+2025-11-26 23:08:00 - INFO: Created game file for Gears Tactics at c:\Output\playnite\files\decksettings\c4fbc9c3-e61c-4523-b66c-cc040cde8c72.json
+2025-11-26 23:08:00 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1184050&include_external=true
+2025-11-26 23:08:00 - INFO: Created game file for Age of Mythology: Retold at c:\Output\playnite\files\decksettings\53c82b4d-1ac3-49f2-ac56-c23e01101d94.json
+2025-11-26 23:08:00 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1934680&include_external=true
+2025-11-26 23:08:01 - INFO: Created game file for Mystery Case Files: Moths to a Flame - Collector's Edition at c:\Output\playnite\files\decksettings\a1e7deff-4a82-4129-b5ed-e35c21711786.json
+2025-11-26 23:08:01 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1145450&include_external=true
+2025-11-26 23:08:01 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=627270,1934680,1145450,1184050
+2025-11-26 23:08:02 - https://store.steampowered.com/appreviews/627270?json=1&language=all&num_per_page=0
+2025-11-26 23:08:02 - https://store.steampowered.com/appreviews/1934680?json=1&language=all&num_per_page=0
+2025-11-26 23:08:03 - https://store.steampowered.com/appreviews/1145450?json=1&language=all&num_per_page=0
+2025-11-26 23:08:04 - https://store.steampowered.com/appreviews/1184050?json=1&language=all&num_per_page=0
