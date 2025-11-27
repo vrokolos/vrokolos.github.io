@@ -3287,3 +3287,62 @@
 2025-11-27 13:49:50 - https://store.steampowered.com/appreviews/2589340?json=1&language=all&num_per_page=0
 2025-11-27 13:49:50 - Refreshing reviews for recent game: Gloomy Tales: One Way Ticket Collector's Edition (Added: 2025-11-27)
 2025-11-27 13:49:50 - https://store.steampowered.com/appreviews/2625480?json=1&language=all&num_per_page=0
+2025-11-27 13:51:08 - TIMING: Total execution completed in 101.689 ms
+2025-11-27 16:47:35 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-27 16:47:36 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-27 16:47:36 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-27 16:47:36 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-27 16:47:42 - INFO: Created game file for ANCIENT EVIL at c:\Output\playnite\files\decksettings\11299ca9-0bdd-45f9-99f8-c682db1292cb.json
+2025-11-27 16:47:42 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1341620&include_external=true
+2025-11-27 16:47:43 - INFO: Created game file for Symphonia at c:\Output\playnite\files\decksettings\c968bd3e-3c49-428a-8844-4fff08b0b1a8.json
+2025-11-27 16:47:43 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1865960&include_external=true
+2025-11-27 16:47:43 - INFO: Created game file for DOOM 3 at c:\Output\playnite\files\decksettings\742f0e91-2f16-444f-bcc7-cb00ea7ff161.json
+2025-11-27 16:47:43 - https://deckverified.games/deck-verified/api/v1/game_details?appid=208200&include_external=true
+2025-11-27 16:47:43 - INFO: Created game file for Tom Clancy’s Rainbow Six Extraction at c:\Output\playnite\files\decksettings\1770a851-fb7b-493f-b590-85499cdbc273.json
+2025-11-27 16:47:43 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2379390&include_external=true
+2025-11-27 16:47:44 - INFO: Created game file for No Straight Roads at c:\Output\playnite\files\decksettings\9c0b50af-6871-4530-b37c-008e5f3f46aa.json
+2025-11-27 16:47:44 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1726190&include_external=true
+2025-11-27 16:47:44 - INFO: Created game file for Zoo Tycoon: Ultimate Animal Collection at c:\Output\playnite\files\decksettings\7600bf6e-4a95-4f62-9cc2-945298006be3.json
+2025-11-27 16:47:44 - https://deckverified.games/deck-verified/api/v1/game_details?appid=613880&include_external=true
+2025-11-27 16:47:44 - INFO: Created game file for Ni no Kuni II: Revenant Kingdom at c:\Output\playnite\files\decksettings\d969718e-c765-49de-88c8-2acefeb9c632.json
+2025-11-27 16:47:44 - https://deckverified.games/deck-verified/api/v1/game_details?appid=589360&include_external=true
+2025-11-27 16:47:44 - INFO: Created game file for Star Wars: The Force Unleashed at c:\Output\playnite\files\decksettings\1b7330a3-e71a-4c50-8312-97ccef19e807.json
+2025-11-27 16:47:44 - https://deckverified.games/deck-verified/api/v1/game_details?appid=32430&include_external=true
+2025-11-27 16:47:45 - INFO: Created game file for OCTOPATH TRAVELER II at c:\Output\playnite\files\decksettings\ab4cf319-0d28-4b50-8cd7-ab07e5982e32.json
+2025-11-27 16:47:45 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1971650&include_external=true
+2025-11-27 16:47:45 - INFO: Created game file for Minecraft Legends at c:\Output\playnite\files\decksettings\da1a11a8-a891-4cb1-8fb4-8517bba8c965.json
+2025-11-27 16:47:45 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1928870&include_external=true
+2025-11-27 16:47:45 - INFO: Created game file for Lifeless Planet at c:\Output\playnite\files\decksettings\24171468-6dc0-4358-b04d-f72cf76239a3.json
+2025-11-27 16:47:45 - https://deckverified.games/deck-verified/api/v1/game_details?appid=261530&include_external=true
+2025-11-27 16:47:46 - INFO: Created game file for Fall of the New Age Premium Edition at c:\Output\playnite\files\decksettings\ad5f08aa-e818-4b76-9742-9623726d96fd.json
+2025-11-27 16:47:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=314510&include_external=true
+2025-11-27 16:47:47 - INFO: Created game file for Mass Effect 3 at c:\Output\playnite\files\decksettings\e7491a27-eda3-4ce1-9bfe-47719beff590.json
+2025-11-27 16:47:47 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1238020&include_external=true
+2025-11-27 16:47:47 - INFO: Created game file for The Bard's Tale at c:\Output\playnite\files\decksettings\be85c3f4-f8c7-45cc-b4bb-5fe32bfbe16b.json
+2025-11-27 16:47:47 - https://deckverified.games/deck-verified/api/v1/game_details?appid=41900&include_external=true
+2025-11-27 16:47:48 - INFO: Created game file for The Alto Collection at c:\Output\playnite\files\decksettings\e920efd0-e04d-4ecf-9c1e-fcf82b195a7c.json
+2025-11-27 16:47:48 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2837600&include_external=true
+2025-11-27 16:47:49 - INFO: Created game file for World War Z at c:\Output\playnite\files\decksettings\ec4e8ad2-ef04-4406-8a2d-fe089a4cc67b.json
+2025-11-27 16:47:49 - https://deckverified.games/deck-verified/api/v1/game_details?appid=699130&include_external=true
+2025-11-27 16:47:49 - INFO: Created game file for Absolute Drift at c:\Output\playnite\files\decksettings\f662420a-c774-4f9c-8bf9-8afdbdbfe34d.json
+2025-11-27 16:47:49 - https://deckverified.games/deck-verified/api/v1/game_details?appid=320140&include_external=true
+2025-11-27 16:47:50 - INFO: Created game file for Godfall at c:\Output\playnite\files\decksettings\f6e98ec5-f6fb-41f2-a732-d3e4847fa7ae.json
+2025-11-27 16:47:50 - https://deckverified.games/deck-verified/api/v1/game_details?appid=928960&include_external=true
+2025-11-27 16:47:50 - INFO: Created game file for PREY at c:\Output\playnite\files\decksettings\f7d28048-0803-4dc8-9e62-8585ef38faeb.json
+2025-11-27 16:47:50 - https://deckverified.games/deck-verified/api/v1/game_details?appid=480490&include_external=true
+2025-11-27 16:47:50 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1341620,32430,261530,613880,1726190,1971650,314510,41900,1865960,589360,2837600,699130,320140,928960
+2025-11-27 16:47:50 - Refreshing reviews for recent game: ANCIENT EVIL (Added: 2025-10-30)
+2025-11-27 16:47:50 - https://store.steampowered.com/appreviews/1341620?json=1&language=all&num_per_page=0
+2025-11-27 16:47:51 - https://store.steampowered.com/appreviews/32430?json=1&language=all&num_per_page=0
+2025-11-27 16:47:51 - https://store.steampowered.com/appreviews/261530?json=1&language=all&num_per_page=0
+2025-11-27 16:47:51 - https://store.steampowered.com/appreviews/613880?json=1&language=all&num_per_page=0
+2025-11-27 16:47:52 - https://store.steampowered.com/appreviews/1726190?json=1&language=all&num_per_page=0
+2025-11-27 16:47:52 - https://store.steampowered.com/appreviews/1971650?json=1&language=all&num_per_page=0
+2025-11-27 16:47:52 - https://store.steampowered.com/appreviews/314510?json=1&language=all&num_per_page=0
+2025-11-27 16:47:53 - https://store.steampowered.com/appreviews/41900?json=1&language=all&num_per_page=0
+2025-11-27 16:47:53 - https://store.steampowered.com/appreviews/1865960?json=1&language=all&num_per_page=0
+2025-11-27 16:47:53 - https://store.steampowered.com/appreviews/589360?json=1&language=all&num_per_page=0
+2025-11-27 16:47:54 - https://store.steampowered.com/appreviews/2837600?json=1&language=all&num_per_page=0
+2025-11-27 16:47:54 - https://store.steampowered.com/appreviews/699130?json=1&language=all&num_per_page=0
+2025-11-27 16:47:55 - https://store.steampowered.com/appreviews/320140?json=1&language=all&num_per_page=0
+2025-11-27 16:47:55 - https://store.steampowered.com/appreviews/928960?json=1&language=all&num_per_page=0
