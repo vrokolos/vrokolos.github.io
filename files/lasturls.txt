@@ -3213,3 +3213,77 @@
 2025-11-27 00:04:05 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-11-27 00:04:05 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-11-27 00:04:06 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-27 00:04:31 - TIMING: Total execution completed in 27.089 ms
+2025-11-27 13:49:26 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-27 13:49:27 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-27 13:49:28 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-27 13:49:28 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-27 13:49:35 - INFO: Created game file for 100 Doors Game: Escape from School at c:\Output\playnite\files\decksettings\03bd9939-d05e-42fb-b263-885ee97b0a6b.json
+2025-11-27 13:49:35 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1238280&include_external=true
+2025-11-27 13:49:35 - INFO: Created game file for Christmas Fables: The Magic Snowflake Collector's Edition at c:\Output\playnite\files\decksettings\8806f32f-c64a-4b2f-8ff6-0df5cd351a50.json
+2025-11-27 13:49:35 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2718140&include_external=true
+2025-11-27 13:49:36 - INFO: Created game file for City Legends: The Ghost of Misty Hill Collector's Edition at c:\Output\playnite\files\decksettings\caca6429-6d7c-4a02-b8ee-3eb4d9156b67.json
+2025-11-27 13:49:36 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2432030&include_external=true
+2025-11-27 13:49:37 - INFO: Created game file for New York Mysteries: Power of Art Collector's Edition at c:\Output\playnite\files\decksettings\04512efe-f2f0-4ff2-afd2-4be9602aebc0.json
+2025-11-27 13:49:37 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2380090&include_external=true
+2025-11-27 13:49:37 - INFO: Created game file for I Love Finding Cats and Pups at c:\Output\playnite\files\decksettings\6aa44e8b-8f97-4f3e-81a2-ede210c422ff.json
+2025-11-27 13:49:37 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2463710&include_external=true
+2025-11-27 13:49:38 - INFO: Created game file for Lost and Found Agency Collector's Edition at c:\Output\playnite\files\decksettings\a4b570b2-8b0f-4f14-80fa-c3438e045cf8.json
+2025-11-27 13:49:38 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2562610&include_external=true
+2025-11-27 13:49:38 - INFO: Created game file for Tearstone: Thieves of the Heart at c:\Output\playnite\files\decksettings\cf869ff7-3d85-462c-92d3-c47ccd162b8b.json
+2025-11-27 13:49:38 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1945750&include_external=true
+2025-11-27 13:49:38 - INFO: Created game file for Mystical Riddles Ghostly Park Collector's Edition at c:\Output\playnite\files\decksettings\6ed88000-5338-4338-88ab-8289c7952924.json
+2025-11-27 13:49:38 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2936590&include_external=true
+2025-11-27 13:49:39 - INFO: Created game file for The Lost Ashford Ring at c:\Output\playnite\files\decksettings\0cba2e6d-b40c-4b9b-bdc3-a972905da0ca.json
+2025-11-27 13:49:39 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2223300&include_external=true
+2025-11-27 13:49:39 - INFO: Created game file for Gallery of Things: Reveries at c:\Output\playnite\files\decksettings\b89ae7e5-c903-4865-92e6-1a17d0453735.json
+2025-11-27 13:49:39 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2694520&include_external=true
+2025-11-27 13:49:40 - INFO: Created game file for Royal Romances: Cursed Hearts Collector's Edition at c:\Output\playnite\files\decksettings\d7314a22-acfc-4518-bb00-cc15750b2eaf.json
+2025-11-27 13:49:40 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2676970&include_external=true
+2025-11-27 13:49:40 - INFO: Created game file for Mystery Box: Hidden Secrets at c:\Output\playnite\files\decksettings\701c3ea0-e6f9-403b-8af6-0f5a9cf942b8.json
+2025-11-27 13:49:40 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1735790&include_external=true
+2025-11-27 13:49:41 - INFO: Created game file for Gunslugs at c:\Output\playnite\files\decksettings\3f4c952e-33f6-4953-b55a-9cd6e526abc4.json
+2025-11-27 13:49:41 - https://deckverified.games/deck-verified/api/v1/game_details?appid=371890&include_external=true
+2025-11-27 13:49:41 - INFO: Created game file for Big Adventure: Trip To Europe 6 Collector's Edition at c:\Output\playnite\files\decksettings\b90ee847-7edc-4759-b276-1d4e12d2055e.json
+2025-11-27 13:49:41 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2746330&include_external=true
+2025-11-27 13:49:42 - INFO: Created game file for I Love Finding Wild Friends at c:\Output\playnite\files\decksettings\f9516978-7652-4925-a092-7fe6b0694970.json
+2025-11-27 13:49:42 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2589340&include_external=true
+2025-11-27 13:49:42 - INFO: Created game file for Wisbey Mystery at c:\Output\playnite\files\decksettings\bd8e9e45-cd4a-447b-b2e0-7fe7ec6ae101.json
+2025-11-27 13:49:42 - https://deckverified.games/deck-verified/api/v1/game_details?appid=575960&include_external=true
+2025-11-27 13:49:43 - INFO: Created game file for Gloomy Tales: One Way Ticket Collector's Edition at c:\Output\playnite\files\decksettings\fe79b1a1-c47e-4c9d-84b8-595ac98a0378.json
+2025-11-27 13:49:43 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2625480&include_external=true
+2025-11-27 13:49:43 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1238280,2380090,2223300,371890,2463710,2936590,1735790,2718140,2562610,2694520,2746330,575960,2432030,1945750,2676970,2589340,2625480
+2025-11-27 13:49:43 - Refreshing reviews for recent game: 100 Doors Game: Escape from School (Added: 2025-11-27)
+2025-11-27 13:49:43 - https://store.steampowered.com/appreviews/1238280?json=1&language=all&num_per_page=0
+2025-11-27 13:49:43 - Refreshing reviews for recent game: New York Mysteries: Power of Art Collector's Edition (Added: 2025-11-27)
+2025-11-27 13:49:43 - https://store.steampowered.com/appreviews/2380090?json=1&language=all&num_per_page=0
+2025-11-27 13:49:44 - Refreshing reviews for recent game: The Lost Ashford Ring (Added: 2025-11-27)
+2025-11-27 13:49:44 - https://store.steampowered.com/appreviews/2223300?json=1&language=all&num_per_page=0
+2025-11-27 13:49:45 - Refreshing reviews for recent game: Gunslugs (Added: 2025-11-27)
+2025-11-27 13:49:45 - https://store.steampowered.com/appreviews/371890?json=1&language=all&num_per_page=0
+2025-11-27 13:49:45 - Refreshing reviews for recent game: I Love Finding Cats and Pups (Added: 2025-11-27)
+2025-11-27 13:49:45 - https://store.steampowered.com/appreviews/2463710?json=1&language=all&num_per_page=0
+2025-11-27 13:49:46 - Refreshing reviews for recent game: Mystical Riddles Ghostly Park Collector's Edition (Added: 2025-11-27)
+2025-11-27 13:49:46 - https://store.steampowered.com/appreviews/2936590?json=1&language=all&num_per_page=0
+2025-11-27 13:49:46 - Refreshing reviews for recent game: Mystery Box: Hidden Secrets (Added: 2025-11-27)
+2025-11-27 13:49:46 - https://store.steampowered.com/appreviews/1735790?json=1&language=all&num_per_page=0
+2025-11-27 13:49:47 - Refreshing reviews for recent game: Christmas Fables: The Magic Snowflake Collector's Edition (Added: 2025-11-27)
+2025-11-27 13:49:47 - https://store.steampowered.com/appreviews/2718140?json=1&language=all&num_per_page=0
+2025-11-27 13:49:47 - Refreshing reviews for recent game: Lost and Found Agency Collector's Edition (Added: 2025-11-27)
+2025-11-27 13:49:47 - https://store.steampowered.com/appreviews/2562610?json=1&language=all&num_per_page=0
+2025-11-27 13:49:48 - Refreshing reviews for recent game: Gallery of Things: Reveries (Added: 2025-11-27)
+2025-11-27 13:49:48 - https://store.steampowered.com/appreviews/2694520?json=1&language=all&num_per_page=0
+2025-11-27 13:49:48 - Refreshing reviews for recent game: Big Adventure: Trip To Europe 6 Collector's Edition (Added: 2025-11-27)
+2025-11-27 13:49:48 - https://store.steampowered.com/appreviews/2746330?json=1&language=all&num_per_page=0
+2025-11-27 13:49:48 - Refreshing reviews for recent game: Wisbey Mystery (Added: 2025-11-27)
+2025-11-27 13:49:48 - https://store.steampowered.com/appreviews/575960?json=1&language=all&num_per_page=0
+2025-11-27 13:49:49 - Refreshing reviews for recent game: City Legends: The Ghost of Misty Hill Collector's Edition (Added: 2025-11-27)
+2025-11-27 13:49:49 - https://store.steampowered.com/appreviews/2432030?json=1&language=all&num_per_page=0
+2025-11-27 13:49:49 - Refreshing reviews for recent game: Tearstone: Thieves of the Heart (Added: 2025-11-27)
+2025-11-27 13:49:49 - https://store.steampowered.com/appreviews/1945750?json=1&language=all&num_per_page=0
+2025-11-27 13:49:50 - Refreshing reviews for recent game: Royal Romances: Cursed Hearts Collector's Edition (Added: 2025-11-27)
+2025-11-27 13:49:50 - https://store.steampowered.com/appreviews/2676970?json=1&language=all&num_per_page=0
+2025-11-27 13:49:50 - Refreshing reviews for recent game: I Love Finding Wild Friends (Added: 2025-11-27)
+2025-11-27 13:49:50 - https://store.steampowered.com/appreviews/2589340?json=1&language=all&num_per_page=0
+2025-11-27 13:49:50 - Refreshing reviews for recent game: Gloomy Tales: One Way Ticket Collector's Edition (Added: 2025-11-27)
+2025-11-27 13:49:50 - https://store.steampowered.com/appreviews/2625480?json=1&language=all&num_per_page=0
