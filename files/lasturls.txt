@@ -3456,3 +3456,58 @@
 2025-11-28 18:37:40 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-11-28 18:37:41 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-11-28 18:38:10 - TIMING: Total execution completed in 31.269 ms
+2025-11-28 23:18:10 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-28 23:18:12 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-28 23:18:12 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-28 23:18:13 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-28 23:18:37 - TIMING: Total execution completed in 27.386 ms
+2025-11-28 23:20:16 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-28 23:20:17 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-28 23:20:17 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-28 23:20:18 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-28 23:20:25 - INFO: Created game file for Dodo Peak at c:\Output\playnite\files\decksettings\c00a7c95-a87a-4279-b219-5635f780d05d.json
+2025-11-28 23:20:25 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2845610&include_external=true
+2025-11-28 23:20:25 - INFO: Created game file for To The Rescue at c:\Output\playnite\files\decksettings\4fbd2298-e9fe-4552-a3b4-3ba62c7cac3a.json
+2025-11-28 23:20:25 - https://deckverified.games/deck-verified/api/v1/game_details?appid=946720&include_external=true
+2025-11-28 23:20:25 - INFO: Created game file for Gamedec - Definitive Edition at c:\Output\playnite\files\decksettings\24218590-e638-4886-b7c7-b6048d461150.json
+2025-11-28 23:20:25 - https://deckverified.games/deck-verified/api/v1/game_details?appid=917720&include_external=true
+2025-11-28 23:20:26 - INFO: Created game file for ReCore at c:\Output\playnite\files\decksettings\946f5023-173a-4237-89ec-5f0ffd31a522.json
+2025-11-28 23:20:26 - https://deckverified.games/deck-verified/api/v1/game_details?appid=537450&include_external=true
+2025-11-28 23:20:26 - INFO: Created game file for Mystery Case Files: The Dalimar Legacy Collector's Edition at c:\Output\playnite\files\decksettings\f8bf4ab2-f47f-4ba9-b30e-9da241bc97ee.json
+2025-11-28 23:20:26 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2333590&include_external=true
+2025-11-28 23:20:27 - INFO: Created game file for Tiny Troopers Joint Ops at c:\Output\playnite\files\decksettings\5594b99f-8d3b-4e1e-9d69-84657427a5c3.json
+2025-11-28 23:20:27 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2225750&include_external=true
+2025-11-28 23:20:27 - INFO: Created game file for Saturnalia at c:\Output\playnite\files\decksettings\2acd80a2-20f6-4a7b-ac69-a5a6155a7e95.json
+2025-11-28 23:20:27 - https://deckverified.games/deck-verified/api/v1/game_details?appid=916350&include_external=true
+2025-11-28 23:20:28 - INFO: Created game file for Rush: A DisneyPixar Adventure at c:\Output\playnite\files\decksettings\a68babd3-685f-4337-a303-b9ef3cf28dda.json
+2025-11-28 23:20:28 - https://deckverified.games/deck-verified/api/v1/game_details?appid=579490&include_external=true
+2025-11-28 23:20:28 - INFO: Created game file for Fluffy Creatures VS The World at c:\Output\playnite\files\decksettings\327633f9-c5fe-4bac-be44-615227adbeb3.json
+2025-11-28 23:20:28 - https://deckverified.games/deck-verified/api/v1/game_details?appid=619400&include_external=true
+2025-11-28 23:20:29 - INFO: Created game file for Filament at c:\Output\playnite\files\decksettings\608451dc-bcf0-452d-a644-4ead9032a37c.json
+2025-11-28 23:20:29 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1137350&include_external=true
+2025-11-28 23:20:29 - INFO: Created game file for Anno 1701 - History Edition at c:\Output\playnite\files\decksettings\35022561-c146-46cc-b785-cd12b21337bf.json
+2025-11-28 23:20:29 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2820140&include_external=true
+2025-11-28 23:20:29 - INFO: Created game file for MULLET MADJACK at c:\Output\playnite\files\decksettings\bb3826f7-52a8-4296-8a47-f65a20c796ef.json
+2025-11-28 23:20:29 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2111190&include_external=true
+2025-11-28 23:20:30 - INFO: Created game file for Halt at c:\Output\playnite\files\decksettings\bbc3780a-d586-4b30-907a-05f274d2e4c7.json
+2025-11-28 23:20:30 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2206680&include_external=true
+2025-11-28 23:20:31 - INFO: Created game file for Rugrats: Adventures in Gameland at c:\Output\playnite\files\decksettings\bce8587f-be7e-4daf-b959-f50c9cd353d7.json
+2025-11-28 23:20:31 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2633950&include_external=true
+2025-11-28 23:20:31 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=916350,619400,2820140,946720,2225750,1137350,537450,579490,2111190,2206680,2633950,2845610,2333590
+2025-11-28 23:20:31 - https://store.steampowered.com/appreviews/916350?json=1&language=all&num_per_page=0
+2025-11-28 23:20:32 - https://store.steampowered.com/appreviews/619400?json=1&language=all&num_per_page=0
+2025-11-28 23:20:32 - https://store.steampowered.com/appreviews/2820140?json=1&language=all&num_per_page=0
+2025-11-28 23:20:33 - Refreshing reviews for recent game: To The Rescue (Added: 2025-01-31)
+2025-11-28 23:20:33 - https://store.steampowered.com/appreviews/946720?json=1&language=all&num_per_page=0
+2025-11-28 23:20:33 - https://store.steampowered.com/appreviews/2225750?json=1&language=all&num_per_page=0
+2025-11-28 23:20:33 - https://store.steampowered.com/appreviews/1137350?json=1&language=all&num_per_page=0
+2025-11-28 23:20:34 - Refreshing reviews for recent game: ReCore (Added: 2025-09-21)
+2025-11-28 23:20:34 - https://store.steampowered.com/appreviews/537450?json=1&language=all&num_per_page=0
+2025-11-28 23:20:34 - https://store.steampowered.com/appreviews/579490?json=1&language=all&num_per_page=0
+2025-11-28 23:20:34 - Refreshing reviews for recent game: MULLET MADJACK (Added: 2025-03-20)
+2025-11-28 23:20:34 - https://store.steampowered.com/appreviews/2111190?json=1&language=all&num_per_page=0
+2025-11-28 23:20:35 - Refreshing reviews for recent game: Halt (Added: 2025-11-08)
+2025-11-28 23:20:35 - https://store.steampowered.com/appreviews/2206680?json=1&language=all&num_per_page=0
+2025-11-28 23:20:35 - https://store.steampowered.com/appreviews/2633950?json=1&language=all&num_per_page=0
+2025-11-28 23:20:35 - https://store.steampowered.com/appreviews/2845610?json=1&language=all&num_per_page=0
+2025-11-28 23:20:36 - https://store.steampowered.com/appreviews/2333590?json=1&language=all&num_per_page=0
