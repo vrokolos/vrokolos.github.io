@@ -3346,3 +3346,22 @@
 2025-11-27 16:47:54 - https://store.steampowered.com/appreviews/699130?json=1&language=all&num_per_page=0
 2025-11-27 16:47:55 - https://store.steampowered.com/appreviews/320140?json=1&language=all&num_per_page=0
 2025-11-27 16:47:55 - https://store.steampowered.com/appreviews/928960?json=1&language=all&num_per_page=0
+2025-11-27 16:48:13 - TIMING: Total execution completed in 38.583 ms
+2025-11-28 08:56:03 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-28 08:56:04 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-28 08:56:05 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-28 08:56:05 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-11-28 08:56:11 - INFO: Created game file for Universe for Sale at c:\Output\playnite\files\decksettings\8b045ae4-3b37-485f-9305-b4505cbe5aaa.json
+2025-11-28 08:56:11 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1627840&include_external=true
+2025-11-28 08:56:11 - INFO: Created game file for The Lord of the Rings: Adventure Card Game - Definitive Edition at c:\Output\playnite\files\decksettings\67b72346-9e61-4d2c-9dd5-f5126d79def4.json
+2025-11-28 08:56:11 - https://deckverified.games/deck-verified/api/v1/game_details?appid=509580&include_external=true
+2025-11-28 08:56:12 - INFO: Created game file for Ghostbusters: Spirits Unleashed at c:\Output\playnite\files\decksettings\74752e51-5b96-4a55-b2e8-bd6e8f1f8f75.json
+2025-11-28 08:56:12 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2383990&include_external=true
+2025-11-28 08:56:13 - INFO: Created game file for Snakebird at c:\Output\playnite\files\decksettings\98985788-893d-4ce4-93bd-9b0b6fddc4e2.json
+2025-11-28 08:56:13 - https://deckverified.games/deck-verified/api/v1/game_details?appid=357300&include_external=true
+2025-11-28 08:56:13 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=509580,2383990,1627840,357300
+2025-11-28 08:56:13 - https://store.steampowered.com/appreviews/509580?json=1&language=all&num_per_page=0
+2025-11-28 08:56:13 - https://store.steampowered.com/appreviews/2383990?json=1&language=all&num_per_page=0
+2025-11-28 08:56:14 - Refreshing reviews for recent game: Universe for Sale (Added: 2025-11-28)
+2025-11-28 08:56:14 - https://store.steampowered.com/appreviews/1627840?json=1&language=all&num_per_page=0
+2025-11-28 08:56:14 - https://store.steampowered.com/appreviews/357300?json=1&language=all&num_per_page=0
