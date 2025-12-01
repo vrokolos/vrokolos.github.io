@@ -3570,3 +3570,27 @@
 2025-12-01 15:01:30 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
 2025-12-01 15:01:32 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
 2025-12-01 15:01:33 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
+2025-12-01 15:02:38 - TIMING: Total execution completed in 84.336 ms
+2025-12-01 16:50:17 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-01 16:50:18 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-01 16:50:19 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-01 16:50:19 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-01 16:51:37 - TIMING: Total execution completed in 80.022 ms
+2025-12-01 17:51:41 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-01 17:51:42 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-01 17:51:42 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-01 17:51:43 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-01 17:52:11 - TIMING: Total execution completed in 30.403 ms
+2025-12-01 20:19:22 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-01 20:19:23 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-01 20:19:23 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-01 20:19:23 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-01 20:19:28 - INFO: Created game file for MARVEL Cosmic Invasion at c:\Output\playnite\files\decksettings\1916c8fc-297c-487f-9b0a-4a248f98082e.json
+2025-12-01 20:19:28 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2753970&include_external=true
+2025-12-01 20:19:30 - INFO: Created game file for Era of Miracles at c:\Output\playnite\files\decksettings\525f124b-7182-4abf-94f6-5f1d9f6258bf.json
+2025-12-01 20:19:30 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1037930&include_external=true
+2025-12-01 20:19:30 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=2753970,1037930
+2025-12-01 20:19:30 - Refreshing reviews for recent game: MARVEL Cosmic Invasion (Added: 2025-12-01)
+2025-12-01 20:19:30 - https://store.steampowered.com/appreviews/2753970?json=1&language=all&num_per_page=0
+2025-12-01 20:19:30 - Refreshing reviews for recent game: Era of Miracles (Added: 2025-12-01)
+2025-12-01 20:19:30 - https://store.steampowered.com/appreviews/1037930?json=1&language=all&num_per_page=0
