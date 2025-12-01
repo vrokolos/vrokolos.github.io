@@ -3546,3 +3546,27 @@
 2025-11-30 09:29:42 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-11-30 09:29:42 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-11-30 09:30:08 - TIMING: Total execution completed in 27.567 ms
+2025-12-01 15:01:14 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-01 15:01:15 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-01 15:01:15 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-01 15:01:16 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-01 15:01:21 - INFO: Created game file for Simon the Sorcerer Origins at c:\Output\playnite\files\decksettings\f9004213-b2ac-4ea6-9d45-0a06b30724f1.json
+2025-12-01 15:01:21 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1939890&include_external=true
+2025-12-01 15:01:21 - INFO: Created game file for Bye Sweet Carole at c:\Output\playnite\files\decksettings\4535d5cb-fb9c-4ee7-9499-edec465d93e6.json
+2025-12-01 15:01:21 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2428980&include_external=true
+2025-12-01 15:01:23 - INFO: Created game file for Crowns and Pawns: Kingdom of Deceit at c:\Output\playnite\files\decksettings\7fb2be11-26b2-4f60-8d4d-9b0a0aec50e8.json
+2025-12-01 15:01:23 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1125910&include_external=true
+2025-12-01 15:01:23 - https://api.gg.deals/v1/prices/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=2428980,1125910,1939890
+2025-12-01 15:01:24 - Refreshing reviews for recent game: Bye Sweet Carole (Added: 2025-12-01)
+2025-12-01 15:01:24 - https://store.steampowered.com/appreviews/2428980?json=1&language=all&num_per_page=0
+2025-12-01 15:01:24 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
+2025-12-01 15:01:25 - Refreshing reviews for recent game: Crowns and Pawns: Kingdom of Deceit (Added: 2025-12-01)
+2025-12-01 15:01:25 - https://store.steampowered.com/appreviews/1125910?json=1&language=all&num_per_page=0
+2025-12-01 15:01:25 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
+2025-12-01 15:01:26 - Refreshing reviews for recent game: Simon the Sorcerer Origins (Added: 2025-12-01)
+2025-12-01 15:01:26 - https://store.steampowered.com/appreviews/1939890?json=1&language=all&num_per_page=0
+2025-12-01 15:01:27 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
+2025-12-01 15:01:29 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
+2025-12-01 15:01:30 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
+2025-12-01 15:01:32 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
+2025-12-01 15:01:33 - https://api-prod.nvidia.com/services/gfngames/v1/gameList
