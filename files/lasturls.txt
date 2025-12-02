@@ -3610,3 +3610,12 @@
 2025-12-02 10:15:04 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-02 10:15:05 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-02 10:15:30 - TIMING: Total execution completed in 27.498 ms
+2025-12-03 00:15:58 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-03 00:15:59 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-03 00:15:59 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-03 00:16:00 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-03 00:16:06 - INFO: Created game file for Lost Records: Bloom & Rage at c:\Output\playnite\files\decksettings\a9d952b9-1c5c-4a30-b28b-5cfd63fc03fe.json
+2025-12-03 00:16:06 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1902960&include_external=true
+2025-12-03 00:16:06 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1902960
+2025-12-03 00:16:08 - Refreshing reviews for recent game: Lost Records: Bloom & Rage (Added: 2025-12-02)
+2025-12-03 00:16:08 - https://store.steampowered.com/appreviews/1902960?json=1&language=all&num_per_page=0
