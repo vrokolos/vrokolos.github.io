@@ -1,10 +1,10 @@
 ﻿=== PERFORMANCE TIMING REPORT ===
-Process All Games: 5 ms
-Steam Friends & Playtime: 2.396 ms
-Parallel API Processing (9 tasks): 66.499 ms
-Export Game Data: 3.947 ms
-Save Media Cache: 80 ms
-Git Operations: 6.387 ms
+Process All Games: 7 ms
+Steam Friends & Playtime: 2.632 ms
+Parallel API Processing (9 tasks): 83.535 ms
+Export Game Data: 4.302 ms
+Save Media Cache: 117 ms
+Git Operations: 6.167 ms
 Save Errors: 1 ms
 
-=== TOTAL EXECUTION TIME: 79.483 ms (79,5 seconds) ===
+=== TOTAL EXECUTION TIME: 96.977 ms (97,0 seconds) ===
