@@ -2633,3 +2633,501 @@
 2025-12-09 00:46:14 - https://store.steampowered.com/api/appdetails?appids=949480&cc=us&l=en
 2025-12-09 00:46:15 - https://store.steampowered.com/api/appdetails?appids=638970&cc=us&l=en
 2025-12-09 00:46:15 - https://store.steampowered.com/api/appdetails?appids=1225560&cc=us&l=en
+2025-12-09 00:46:28 - TIMING: Total execution completed in 88.579 ms
+2025-12-09 00:51:51 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 00:51:52 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 00:51:52 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 00:51:53 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 00:52:08 - https://store.steampowered.com/api/appdetails?appids=1225560&cc=us&l=en
+2025-12-09 00:52:08 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Super Sidekicks","ReleaseYear":1992,"GameId":"amzn1.adg.product.5752cc6f-88c1-4e96-9a1c-04eaedb34ddf"}
+2025-12-09 00:52:08 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Aces of the Luftwaffe - Squadron Extended Edition","ReleaseYear":2018,"GameId":"amzn1.adg.product.42611da8-7064-4bf0-83a7-9147add5b6d9"}
+2025-12-09 00:52:08 - https://store.steampowered.com/api/appdetails?appids=645820&cc=us&l=en
+2025-12-09 00:52:08 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fallout New Vegas: Gun Runners’ Arsenal","ReleaseYear":null,"GameId":"7dcfb9cd9d134728b2646466c34c7b3b"}
+2025-12-09 00:52:08 - https://store.steampowered.com/api/appdetails?appids=403640&cc=us&l=en
+2025-12-09 00:52:08 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"ARK Ragnarok","ReleaseYear":2017,"GameId":"40404abd974443de81c875af6323f329"}
+2025-12-09 00:52:09 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tomb Raider GAME OF THE YEAR EDITION","ReleaseYear":2014,"GameId":"d6264d56f5ba434e91d4b0a0b056c83a"}
+2025-12-09 00:52:09 - https://store.steampowered.com/api/appdetails?appids=307690&cc=us&l=en
+2025-12-09 00:52:09 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Assassin\u0027s Creed Revelations","ReleaseYear":2016,"GameId":"40"}
+2025-12-09 00:52:09 - https://store.steampowered.com/api/appdetails?appids=427520&cc=us&l=en
+2025-12-09 00:52:09 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Samurai Shodown II","ReleaseYear":1994,"GameId":"05996bea-0bdf-42a9-970b-02c76b663ca9"}
+2025-12-09 00:52:09 - https://store.steampowered.com/api/appdetails?appids=492230&cc=us&l=en
+2025-12-09 00:52:09 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tomb Raider GOTY","ReleaseYear":2014,"GameId":"1724969043"}
+2025-12-09 00:52:09 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rabbids: Party of Legends","ReleaseYear":2021,"GameId":"Ubisoft.PCRabbidsPartyofLegends_ngz4m417e0mpw"}
+2025-12-09 00:52:10 - https://store.steampowered.com/api/appdetails?appids=1210700&cc=us&l=en
+2025-12-09 00:52:10 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Frostpunk Expansions Original Soundtrack","ReleaseYear":null,"GameId":"35b180fb40924f2687b5d4ac1f60a711"}
+2025-12-09 00:52:10 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"King of the Monsters","ReleaseYear":1991,"GameId":"8f4bf0e4-4bda-42ca-851c-8523badc979c"}
+2025-12-09 00:52:10 - https://store.steampowered.com/api/appdetails?appids=249990&cc=us&l=en
+2025-12-09 00:52:10 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Battle Breakers","ReleaseYear":2019,"GameId":"WorldExplorersLive"}
+2025-12-09 00:52:10 - https://store.steampowered.com/api/appdetails?appids=474210&cc=us&l=en
+2025-12-09 00:52:10 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Monument Valley 2","ReleaseYear":2017,"GameId":"a327fdb31e934dc2984c3b7b45b1ef0b"}
+2025-12-09 00:52:10 - https://store.steampowered.com/api/appdetails?appids=272470&cc=us&l=en
+2025-12-09 00:52:10 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dishonored Definitive Edition","ReleaseYear":2021,"GameId":"BethesdaSoftworks.DishonoredDE-PC_3275kfvn8vcwc"}
+2025-12-09 00:52:11 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Splot Beta","ReleaseYear":null,"GameId":"splot_Splot Beta"}
+2025-12-09 00:52:11 - https://store.steampowered.com/api/appdetails?appids=536220&cc=us&l=en
+2025-12-09 00:52:11 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Neverwinter Nights","ReleaseYear":2005,"GameId":"1207658890"}
+2025-12-09 00:52:11 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Knights of Honor II - Goodie Pack","ReleaseYear":null,"GameId":"2025338183"}
+2025-12-09 00:52:11 - https://store.steampowered.com/api/appdetails?appids=287680&cc=us&l=en
+2025-12-09 00:52:11 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ghost Pilots","ReleaseYear":1991,"GameId":"amzn1.adg.product.f15e417d-89fe-4b0c-b15d-6516e6b7003d"}
+2025-12-09 00:52:11 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Commander Lilith DLC","ReleaseYear":null,"GameId":"DodoDLC1Anemone"}
+2025-12-09 00:52:11 - https://store.steampowered.com/api/appdetails?appids=1601570&cc=us&l=en
+2025-12-09 00:52:11 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Cyberpunk 2077 Digital Goodies","ReleaseYear":null,"GameId":"1548764757"}
+2025-12-09 00:52:11 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fortnite","ReleaseYear":2017,"GameId":"436609B6.FortniteClient_9ncxwbgmmv7m8"}
+2025-12-09 00:52:11 - https://store.steampowered.com/api/appdetails?appids=969760&cc=us&l=en
+2025-12-09 00:52:12 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dungeon of the ENDLESS","ReleaseYear":2014,"GameId":"amzn1.adg.product.e9b762cd-e130-4c5b-aaf5-070d785d1cd2"}
+2025-12-09 00:52:12 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Syndicate Plus","ReleaseYear":1994,"GameId":"1207658992"}
+2025-12-09 00:52:12 - https://store.steampowered.com/api/appdetails?appids=39160&cc=us&l=en
+2025-12-09 00:52:12 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Diablo III: Reaper of Souls","ReleaseYear":2014,"GameId":"BlizzardEntertainmentInc.47488DB7AC22D_kdg5n7x41qwkg"}
+2025-12-09 00:52:12 - https://store.steampowered.com/api/appdetails?appids=3047750&cc=us&l=en
+2025-12-09 00:52:12 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Carto Sneak Peek","ReleaseYear":null,"GameId":"carto_sneakpeek_Carto Sneak Peek"}
+2025-12-09 00:52:12 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Assassin\u0027s Creed Brotherhood","ReleaseYear":2016,"GameId":"26"}
+2025-12-09 00:52:12 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Stick it to the Man","ReleaseYear":2021,"GameId":"ad9998ac-f86d-488e-8d63-727b2d781429"}
+2025-12-09 00:52:12 - https://store.steampowered.com/api/appdetails?appids=8170&cc=us&l=en
+2025-12-09 00:52:12 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fallout: New Vegas Ultimate Edition","ReleaseYear":2021,"GameId":"BethesdaSoftworks.FalloutNewVegas_3275kfvn8vcwc"}
+2025-12-09 00:52:13 - https://store.steampowered.com/api/appdetails?appids=350080&cc=us&l=en
+2025-12-09 00:52:13 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The King of Fighters 2000","ReleaseYear":2000,"GameId":"82d8ca92-26ed-4d0a-9ed8-b990c67727d6"}
+2025-12-09 00:52:13 - https://store.steampowered.com/api/appdetails?appids=1687950&cc=us&l=en
+2025-12-09 00:52:13 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Trine Enhanced Edition","ReleaseYear":null,"GameId":"trine_enhanced_Trine Enhanced Edition"}
+2025-12-09 00:52:13 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Death Stranding Content","ReleaseYear":null,"GameId":"5bf67f3153364181b54cb9e40ca7fa82"}
+2025-12-09 00:52:13 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fallout New Vegas: Honest Hearts","ReleaseYear":null,"GameId":"562d4a2c1b3147b089a7c453e3ddbcbe"}
+2025-12-09 00:52:13 - https://store.steampowered.com/api/appdetails?appids=10180&cc=us&l=en
+2025-12-09 00:52:13 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tiny \u0026 Big in Grandpa\u0027s Leftovers","ReleaseYear":null,"GameId":"tinybigingrandpasleftovers_Tiny \u0026 Big in Grandpa\u0027s Leftovers"}
+2025-12-09 00:52:13 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Robo Army","ReleaseYear":1991,"GameId":"amzn1.adg.product.77076ad7-ba33-4d36-9641-00503834dc67"}
+2025-12-09 00:52:13 - https://store.steampowered.com/api/appdetails?appids=492720&cc=us&l=en
+2025-12-09 00:52:14 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Medal of Honor","ReleaseYear":1999,"GameId":"DR:215619100"}
+2025-12-09 00:52:14 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Samurai Shodown IV: Amakusa\u0027s Revenge","ReleaseYear":1996,"GameId":"amzn1.adg.product.3196f501-ccdc-4b53-ae36-0051aca1611d"}
+2025-12-09 00:52:14 - https://store.steampowered.com/api/appdetails?appids=760650&cc=us&l=en
+2025-12-09 00:52:14 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Jazz Jackrabbit 2: The Christmas Chronicles","ReleaseYear":1999,"GameId":"1597842603"}
+2025-12-09 00:52:14 - https://store.steampowered.com/api/appdetails?appids=729000&cc=us&l=en
+2025-12-09 00:52:14 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Penumbra Collection","ReleaseYear":2009,"GameId":"penumbraoverture_Penumbra Collection"}
+2025-12-09 00:52:14 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"ARK Lost Island","ReleaseYear":null,"GameId":"deaeb7a174e74a10b1caa9a5dc1d7697"}
+2025-12-09 00:52:14 - https://store.steampowered.com/api/appdetails?appids=1498740&cc=us&l=en
+2025-12-09 00:52:14 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hungry Shark World","ReleaseYear":2015,"GameId":"5870"}
+2025-12-09 00:52:15 - https://store.steampowered.com/api/appdetails?appids=437630&cc=us&l=en
+2025-12-09 00:52:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Diablo III","ReleaseYear":2012,"GameId":"D3"}
+2025-12-09 00:52:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Crossed Swords","ReleaseYear":1991,"GameId":"amzn1.adg.product.0ff21527-18e6-4837-b1a4-612da3d2872e"}
+2025-12-09 00:52:15 - https://store.steampowered.com/api/appdetails?appids=13230&cc=us&l=en
+2025-12-09 00:52:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Popup Dungeon Sneak Peek","ReleaseYear":null,"GameId":"popupdungeon_sneakpeek_Popup Dungeon Sneak Peek"}
+2025-12-09 00:52:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Cities: Skylines II - PC Edition","ReleaseYear":2023,"GameId":"ParadoxInteractive.CitiesSkylinesII-PCEdition_zfnrdv2de78ny"}
+2025-12-09 00:52:15 - https://store.steampowered.com/api/appdetails?appids=3017860&cc=us&l=en
+2025-12-09 00:52:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"FTL: Advanced Edition","ReleaseYear":2014,"GameId":"1207659102"}
+2025-12-09 00:52:16 - https://store.steampowered.com/api/appdetails?appids=404680&cc=us&l=en
+2025-12-09 00:52:16 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Warhammer 40,000: Rites of War","ReleaseYear":1999,"GameId":"1443606025"}
+2025-12-09 00:52:16 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Heroes of the Storm","ReleaseYear":2015,"GameId":"Hero"}
+2025-12-09 00:52:16 - https://store.steampowered.com/api/appdetails?appids=1811990&cc=us&l=en
+2025-12-09 00:52:16 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ring of Pain Exclusive Sneak Peek","ReleaseYear":null,"GameId":"ringofpain_exclusivedemo_Ring of Pain Exclusive Sneak Peek"}
+2025-12-09 00:52:16 - https://store.steampowered.com/api/appdetails?appids=1158220&cc=us&l=en
+2025-12-09 00:52:16 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Football Manager 2023 Resource Archiver","ReleaseYear":null,"GameId":"fa708b5eb31f469784ff8a06c22b81bc"}
+2025-12-09 00:52:16 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tyranny - Gold Edition Pack","ReleaseYear":null,"GameId":"4d374e0805dc42bfb78c0ceb24bd1085"}
+2025-12-09 00:52:16 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Metal Slug 3","ReleaseYear":2000,"GameId":"amzn1.adg.product.f6ba026c-693e-4833-9c83-318b569ef454"}
+2025-12-09 00:52:16 - https://store.steampowered.com/api/appdetails?appids=2394650&cc=us&l=en
+2025-12-09 00:52:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Killing Floor 2 Beta","ReleaseYear":2022,"GameId":"3223ccf6ac9b4189bd4e144c047d33fb"}
+2025-12-09 00:52:17 - https://store.steampowered.com/api/appdetails?appids=1642110&cc=us&l=en
+2025-12-09 00:52:17 - https://store.steampowered.com/api/appdetails?appids=1013310&cc=us&l=en
+2025-12-09 00:52:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"HD Texture Pack","ReleaseYear":null,"GameId":"EelTexturePack"}
+2025-12-09 00:52:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Frog Detective: The Entire Mystery","ReleaseYear":2022,"GameId":"WormClub.FrogDetectiveTheEntireMystery_hzrgypq6k14cc"}
+2025-12-09 00:52:17 - https://store.steampowered.com/api/appdetails?appids=211420&cc=us&l=en
+2025-12-09 00:52:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dishonored - Definitive Edition","ReleaseYear":2013,"GameId":"d2da64bd4c4e422da4b1a88041492a3a"}
+2025-12-09 00:52:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Flight of the Amazon Queen","ReleaseYear":1995,"GameId":"1207659723"}
+2025-12-09 00:52:18 - https://store.steampowered.com/api/appdetails?appids=342310&cc=us&l=en
+2025-12-09 00:52:18 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Lawless Lands Unrest","ReleaseYear":null,"GameId":"e52d58bb-66dc-45f7-8f38-99ea89ca30a4"}
+2025-12-09 00:52:18 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Magician Lord","ReleaseYear":1990,"GameId":"amzn1.adg.product.9dd36368-4002-4772-a680-96af41405383"}
+2025-12-09 00:52:18 - https://store.steampowered.com/api/appdetails?appids=262940&cc=us&l=en
+2025-12-09 00:52:18 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Prey","ReleaseYear":2019,"GameId":"BethesdaSoftworks.LiluDallas-Multipass_3275kfvn8vcwc"}
+2025-12-09 00:52:18 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Teenagent","ReleaseYear":1994,"GameId":"1207658753"}
+2025-12-09 00:52:18 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Pulstar","ReleaseYear":1995,"GameId":"dcece97c-dedf-4090-affd-58f3f0ae839a"}
+2025-12-09 00:52:18 - https://store.steampowered.com/api/appdetails?appids=429620&cc=us&l=en
+2025-12-09 00:52:18 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Baldur\u0027s Gate and Baldur\u0027s Gate II: Enhanced Editions","ReleaseYear":2019,"GameId":"Beamdog.BaldursGateTheCompleteSaga_p0m6mzmtzz774"}
+2025-12-09 00:52:18 - https://store.steampowered.com/api/appdetails?appids=1604030&cc=us&l=en
+2025-12-09 00:52:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hector: Badge of Carnage","ReleaseYear":null,"GameId":"hectorbadgeofcarnage_Hector: Badge of Carnage"}
+2025-12-09 00:52:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Microsoft Solitaire Collection","ReleaseYear":2012,"GameId":"Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe"}
+2025-12-09 00:52:19 - https://store.steampowered.com/api/appdetails?appids=730&cc=us&l=en
+2025-12-09 00:52:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Monument Valley","ReleaseYear":2014,"GameId":"cd03160de3bf4f2789d32a3798501564"}
+2025-12-09 00:52:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"League of Legends","ReleaseYear":2009,"GameId":"league_of_legends"}
+2025-12-09 00:52:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"World of Warcraft","ReleaseYear":2004,"GameId":"WoW"}
+2025-12-09 00:52:19 - https://store.steampowered.com/api/appdetails?appids=284730&cc=us&l=en
+2025-12-09 00:52:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"DEATH STRANDING DIGITAL SOUNDTRACK","ReleaseYear":null,"GameId":"84067e3ec8f149b2bbf2342d7a136065"}
+2025-12-09 00:52:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Art of Fighting 3: The Path of The Warrior","ReleaseYear":1996,"GameId":"amzn1.adg.product.c9a6bf1e-5927-4c37-a2f9-d86cfd760367"}
+2025-12-09 00:52:19 - https://store.steampowered.com/api/appdetails?appids=2017080&cc=us&l=en
+2025-12-09 00:52:20 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"3 Count Bout","ReleaseYear":1993,"GameId":"amzn1.adg.product.6463784a-5716-481d-b006-e19c26e9214c"}
+2025-12-09 00:52:20 - https://store.steampowered.com/api/appdetails?appids=637650&cc=us&l=en
+2025-12-09 00:52:20 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Empire Earth Gold Edition","ReleaseYear":2003,"GameId":"1207658777"}
+2025-12-09 00:52:20 - https://store.steampowered.com/api/appdetails?appids=1004750&cc=us&l=en
+2025-12-09 00:52:20 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tyrian 2000","ReleaseYear":1999,"GameId":"1207658901"}
+2025-12-09 00:52:20 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Jill of the Jungle: The Complete Trilogy","ReleaseYear":1993,"GameId":"1129701343"}
+2025-12-09 00:52:20 - https://store.steampowered.com/api/appdetails?appids=2933080&cc=us&l=en
+2025-12-09 00:52:20 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fatal Fury Special","ReleaseYear":1993,"GameId":"67b7a89f-69e8-4b4d-a0a6-80a5bb6f1f75"}
+2025-12-09 00:52:21 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Beholder","ReleaseYear":2018,"GameId":"6fa12837a99e4b16bc21d7719b3c401e"}
+2025-12-09 00:52:21 - https://store.steampowered.com/api/appdetails?appids=245620&cc=us&l=en
+2025-12-09 00:52:21 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Prince of Persia: The Lost Crown","ReleaseYear":2025,"GameId":"6145"}
+2025-12-09 00:52:21 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The King of Fighters 2003","ReleaseYear":2003,"GameId":"amzn1.adg.product.256e229f-071e-4cd4-a459-a48cd0abfb36"}
+2025-12-09 00:52:21 - https://store.steampowered.com/api/appdetails?appids=2787320&cc=us&l=en
+2025-12-09 00:52:21 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Legends of Runeterra","ReleaseYear":2022,"GameId":"RiotGames.LegendsofRuneterra_htdcg2kgmrmva"}
+2025-12-09 00:52:21 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Map Pack","ReleaseYear":null,"GameId":"8b5f1c51be3844bab51e2ee1089839f5"}
+2025-12-09 00:52:21 - https://store.steampowered.com/api/appdetails?appids=1937500&cc=us&l=en
+2025-12-09 00:52:21 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Wallace \u0026 Gromit: Fright of the Bumblebees","ReleaseYear":null,"GameId":"amzn1.adg.product.cc25ccb6-449e-4d2c-a435-af2a6e6297c4"}
+2025-12-09 00:52:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"SELECTIONS OF TITAN ART BOOK","ReleaseYear":null,"GameId":"c311b22f878749449886949eeb588999"}
+2025-12-09 00:52:22 - https://store.steampowered.com/api/appdetails?appids=1196090&cc=us&l=en
+2025-12-09 00:52:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Axiom Verge Randomizer Beta","ReleaseYear":null,"GameId":"3017c57256b640519e6b84b44a4ac940"}
+2025-12-09 00:52:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dishonored - Definitive Edition","ReleaseYear":2013,"GameId":"1701063787"}
+2025-12-09 00:52:22 - https://store.steampowered.com/api/appdetails?appids=2439780&cc=us&l=en
+2025-12-09 00:52:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sengoku 3","ReleaseYear":2001,"GameId":"cfe75f9c-4583-4efd-842a-a927958ae86e"}
+2025-12-09 00:52:22 - https://store.steampowered.com/api/appdetails?appids=2213980&cc=us&l=en
+2025-12-09 00:52:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Minecraft","ReleaseYear":2021,"GameId":"Microsoft.4297127D64EC6_8wekyb3d8bbwe"}
+2025-12-09 00:52:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fallout: London","ReleaseYear":2024,"GameId":"1491728574"}
+2025-12-09 00:52:22 - https://store.steampowered.com/api/appdetails?appids=1518220&cc=us&l=en
+2025-12-09 00:52:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Leisure Suit Larry 1 - In the Land of the Lounge Lizards","ReleaseYear":1991,"GameId":"b0864ffc-10a1-4b75-bc96-f218f01314f8"}
+2025-12-09 00:52:23 - https://store.steampowered.com/api/appdetails?appids=249050&cc=us&l=en
+2025-12-09 00:52:23 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Eye of the Beholder","ReleaseYear":1991,"GameId":"1432575012"}
+2025-12-09 00:52:23 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Endless Space 2: Deluxe Edition","ReleaseYear":2020,"GameId":"AmplitudeSTUDIOS.EndlessSpace2_sm4da3szdwjfr"}
+2025-12-09 00:52:23 - https://store.steampowered.com/api/appdetails?appids=249130&cc=us&l=en
+2025-12-09 00:52:23 - https://store.steampowered.com/api/appdetails?appids=7840&cc=us&l=en
+2025-12-09 00:52:23 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sam \u0026 Max: Devil’s Playhouse","ReleaseYear":null,"GameId":"samandmaxdevilsplayhouse_Sam \u0026 Max: Devil’s Playhouse"}
+2025-12-09 00:52:23 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Mirror\u0027s Edge","ReleaseYear":2009,"GameId":"DR:106999100"}
+2025-12-09 00:52:23 - https://store.steampowered.com/api/appdetails?appids=65720&cc=us&l=en
+2025-12-09 00:52:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Warcraft I: Remastered","ReleaseYear":2024,"GameId":"BlizzardEntertainmentInc.WarcraftIRemastered_kdg5n7x41qwkg"}
+2025-12-09 00:52:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Uurnog","ReleaseYear":2017,"GameId":"uurnog_Uurnog"}
+2025-12-09 00:52:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Grinch: Christmas Adventures - Merry \u0026 Mischievous Edition","ReleaseYear":2025,"GameId":"OutrightGames.TheGrinchChristmasAdventures-MerryMi_bnrbc155f0j86"}
+2025-12-09 00:52:24 - https://store.steampowered.com/api/appdetails?appids=1455840&cc=us&l=en
+2025-12-09 00:52:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dying Light The Bozak","ReleaseYear":null,"GameId":"71816b992ef04030b1c58af6b9845fe5"}
+2025-12-09 00:52:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The King of Fighters 2002","ReleaseYear":2002,"GameId":"e9144f0f-a84c-43fd-9280-02b572609706"}
+2025-12-09 00:52:24 - https://store.steampowered.com/api/appdetails?appids=1026420&cc=us&l=en
+2025-12-09 00:52:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tyranny","ReleaseYear":2018,"GameId":"36b0e40890f147fbb1e3965f87369156"}
+2025-12-09 00:52:24 - https://store.steampowered.com/api/appdetails?appids=290510&cc=us&l=en
+2025-12-09 00:52:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sifu","ReleaseYear":2022,"GameId":"SLOCLAP.Sifu_cse8z5zpmcvkt"}
+2025-12-09 00:52:25 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Blood Omen: Legacy of Kain","ReleaseYear":1996,"GameId":"1837805079"}
+2025-12-09 00:52:25 - https://store.steampowered.com/api/appdetails?appids=1292010&cc=us&l=en
+2025-12-09 00:52:25 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"King of the Monsters 2","ReleaseYear":1992,"GameId":"amzn1.adg.product.42316c09-6463-4624-97fa-e338a5f0cd20"}
+2025-12-09 00:52:25 - https://store.steampowered.com/api/appdetails?appids=357300&cc=us&l=en
+2025-12-09 00:52:25 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ikenfell Sneak Peek","ReleaseYear":null,"GameId":"ikenfell_sneakpeek_Ikenfell Sneak Peek"}
+2025-12-09 00:52:25 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"PAYDAY 2","ReleaseYear":2013,"GameId":"7d6b8784bab94d6cac5fea5ab7bb07a4"}
+2025-12-09 00:52:25 - https://store.steampowered.com/api/appdetails?appids=675260&cc=us&l=en
+2025-12-09 00:52:26 - https://store.steampowered.com/api/appdetails?appids=1282100&cc=us&l=en
+2025-12-09 00:52:26 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Heroes of the Storm","ReleaseYear":2015,"GameId":"BlizzardEntertainmentInc.HeroesoftheStorm_kdg5n7x41qwkg"}
+2025-12-09 00:52:26 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Cook, Serve, Delicious! 3?!","ReleaseYear":2020,"GameId":"amzn1.adg.product.532703ea-5b40-42c1-85ce-bb5748d46761"}
+2025-12-09 00:52:26 - https://store.steampowered.com/api/appdetails?appids=839870&cc=us&l=en
+2025-12-09 00:52:26 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"GoNNER WIN10","ReleaseYear":2019,"GameId":"RawFury.GoNNERWIN10_9s0pnehqffj7t"}
+2025-12-09 00:52:26 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Wallace \u0026 Gromit: The Bogey Man","ReleaseYear":null,"GameId":"amzn1.adg.product.1ca2ce77-12c9-418c-9171-fea597bdfe54"}
+2025-12-09 00:52:26 - https://store.steampowered.com/api/appdetails?appids=368340&cc=us&l=en
+2025-12-09 00:52:26 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Spirits of Mystery: Whisper of the Past","ReleaseYear":2018,"GameId":"amzn1.adg.product.0c985fbe-dace-49f6-b006-a9d016f51b2d"}
+2025-12-09 00:52:26 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Skullgirls + All Characters and Color Palette Bundle","ReleaseYear":null,"GameId":"skullgirls_alldlc_Skullgirls + All Characters and Color Palette Bundle"}
+2025-12-09 00:52:26 - https://store.steampowered.com/api/appdetails?appids=481510&cc=us&l=en
+2025-12-09 00:52:26 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ninja Commando","ReleaseYear":2008,"GameId":"amzn1.adg.product.588ce979-f6b0-44cc-9ff3-7ce8905c3f64"}
+2025-12-09 00:52:27 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"StarCraft Remastered","ReleaseYear":2017,"GameId":"BlizzardEntertainmentInc.StarCraftRemastered_kdg5n7x41qwkg"}
+2025-12-09 00:52:27 - https://store.steampowered.com/api/appdetails?appids=33600&cc=us&l=en
+2025-12-09 00:52:27 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"World War Z","ReleaseYear":2020,"GameId":"MadDogGamesLLC.WWZBaseGamePC_6wkgvezv94m76"}
+2025-12-09 00:52:27 - https://store.steampowered.com/api/appdetails?appids=201830&cc=us&l=en
+2025-12-09 00:52:27 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"FM21 Editor","ReleaseYear":null,"GameId":"5d69d0ab27814455ae0ddce0fcfbb86a"}
+2025-12-09 00:52:27 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Super Spy","ReleaseYear":1990,"GameId":"amzn1.adg.product.f2b75952-ef43-43c0-9b93-2ad29cf96506"}
+2025-12-09 00:52:27 - https://store.steampowered.com/api/appdetails?appids=329430&cc=us&l=en
+2025-12-09 00:52:27 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"3 out of 10, EP 1: \"Welcome To Shovelworks\"","ReleaseYear":2020,"GameId":"Flounder"}
+2025-12-09 00:52:28 - https://store.steampowered.com/api/appdetails?appids=2229850&cc=us&l=en
+2025-12-09 00:52:28 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Art of Fighting 2","ReleaseYear":1994,"GameId":"a9670805-c3fc-4c06-a949-afc0b410756c"}
+2025-12-09 00:52:28 - https://store.steampowered.com/api/appdetails?appids=1924490&cc=us&l=en
+2025-12-09 00:52:28 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Minecraft Preview","ReleaseYear":2022,"GameId":"Microsoft.MinecraftWindowsBeta_8wekyb3d8bbwe"}
+2025-12-09 00:52:28 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"RAYMAN LEGENDS","ReleaseYear":2017,"GameId":"410"}
+2025-12-09 00:52:28 - https://store.steampowered.com/api/appdetails?appids=40950&cc=us&l=en
+2025-12-09 00:52:28 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ultra HD Texture Pack","ReleaseYear":null,"GameId":"DodoDLC2Mancana"}
+2025-12-09 00:52:28 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"StarCraft","ReleaseYear":1998,"GameId":"S1"}
+2025-12-09 00:52:28 - https://store.steampowered.com/api/appdetails?appids=1206060&cc=us&l=en
+2025-12-09 00:52:28 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"FAR CRY PRIMAL","ReleaseYear":2016,"GameId":"Ubisoft.PCFarCryPrimal_ngz4m417e0mpw"}
+2025-12-09 00:52:29 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Roman Sands","ReleaseYear":2019,"GameId":"romansands_Roman Sands"}
+2025-12-09 00:52:29 - https://store.steampowered.com/api/appdetails?appids=1229240&cc=us&l=en
+2025-12-09 00:52:29 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Minecraft","ReleaseYear":2011,"GameId":"Microsoft.MinecraftJavaEdition_8wekyb3d8bbwe"}
+2025-12-09 00:52:29 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Quake II (Original)","ReleaseYear":1998,"GameId":"1441704824"}
+2025-12-09 00:52:29 - https://store.steampowered.com/api/appdetails?appids=1137300&cc=us&l=en
+2025-12-09 00:52:29 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Frostpunk Content","ReleaseYear":null,"GameId":"1a5396eb5614462a9dfeff81b8c21335"}
+2025-12-09 00:52:29 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Genshin Impact","ReleaseYear":2020,"GameId":"41869934302e4b8cafac2d3c0e7c293d"}
+2025-12-09 00:52:29 - https://store.steampowered.com/api/appdetails?appids=209000&cc=us&l=en
+2025-12-09 00:52:29 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Nightingale - 0.3.2","ReleaseYear":null,"GameId":"9c8e0edadc16468ea690b3f97a77d9c2"}
+2025-12-09 00:52:29 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"ENDLESS Legend","ReleaseYear":2014,"GameId":"amzn1.adg.product.6d93b0e4-54dd-4046-9363-d72d877ef6fd"}
+2025-12-09 00:52:30 - https://store.steampowered.com/api/appdetails?appids=2060130&cc=us&l=en
+2025-12-09 00:52:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Unparallel","ReleaseYear":2020,"GameId":"unparallel_Unparallel"}
+2025-12-09 00:52:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Europa Universalis II","ReleaseYear":2001,"GameId":"1428922775"}
+2025-12-09 00:52:30 - https://store.steampowered.com/api/appdetails?appids=22200&cc=us&l=en
+2025-12-09 00:52:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Top Hunter: Roddy \u0026 Cathy","ReleaseYear":1994,"GameId":"amzn1.adg.product.12af4304-0d87-407f-ac10-ca8d2ddaed3c"}
+2025-12-09 00:52:30 - https://store.steampowered.com/api/appdetails?appids=366240&cc=us&l=en
+2025-12-09 00:52:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Warcraft III: Reforged","ReleaseYear":2020,"GameId":"BlizzardEntertainmentInc.WarcraftIIIReforged_kdg5n7x41qwkg"}
+2025-12-09 00:52:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"StarCraft II","ReleaseYear":2010,"GameId":"BlizzardEntertainmentInc.StarCraftIICampaignCollec_kdg5n7x41qwkg"}
+2025-12-09 00:52:30 - https://store.steampowered.com/api/appdetails?appids=13500&cc=us&l=en
+2025-12-09 00:52:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Co-open","ReleaseYear":2021,"GameId":"coopen_Co-open"}
+2025-12-09 00:52:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Teamfight Tactics","ReleaseYear":2022,"GameId":"RiotGames.TeamfightTactics_htdcg2kgmrmva"}
+2025-12-09 00:52:31 - https://store.steampowered.com/api/appdetails?appids=322110&cc=us&l=en
+2025-12-09 00:52:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Shadow Warrior Classic Complete","ReleaseYear":1997,"GameId":"1207659142"}
+2025-12-09 00:52:31 - https://store.steampowered.com/api/appdetails?appids=441380&cc=us&l=en
+2025-12-09 00:52:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"33 Immortals","ReleaseYear":2025,"GameId":"44905ThunderLotusGames.33Immortals_hbhkcnqstm4gr"}
+2025-12-09 00:52:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Glove Skin","ReleaseYear":null,"GameId":"AukGlove"}
+2025-12-09 00:52:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Heroes of Might and Magic 3","ReleaseYear":1999,"GameId":"Ubisoft.PCHeroesofMightandMagic3_ngz4m417e0mpw"}
+2025-12-09 00:52:31 - https://store.steampowered.com/api/appdetails?appids=606730&cc=us&l=en
+2025-12-09 00:52:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Binding of Isaac + Wrath of the Lamb DLC","ReleaseYear":null,"GameId":"bindingofisaac_dlc_The Binding of Isaac + Wrath of the Lamb DLC"}
+2025-12-09 00:52:32 - https://store.steampowered.com/api/appdetails?appids=1928870&cc=us&l=en
+2025-12-09 00:52:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Stick it to the Man","ReleaseYear":2021,"GameId":"Goldfish"}
+2025-12-09 00:52:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Crackdown 3: Wrecking Zone","ReleaseYear":2019,"GameId":"Microsoft.Crackdown3MODA_8wekyb3d8bbwe"}
+2025-12-09 00:52:32 - https://store.steampowered.com/api/appdetails?appids=1726190&cc=us&l=en
+2025-12-09 00:52:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Pillars of Eternity - Definitive Edition Pack","ReleaseYear":null,"GameId":"8e975c15166a4a1ca28d65fdfa411248"}
+2025-12-09 00:52:32 - https://store.steampowered.com/api/appdetails?appids=1414850&cc=us&l=en
+2025-12-09 00:52:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fallout: New Vegas","ReleaseYear":2012,"GameId":"1454587428"}
+2025-12-09 00:52:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"FM21 Resource Archiver","ReleaseYear":null,"GameId":"75c4c59461b946028448dd1bf17b64c6"}
+2025-12-09 00:52:32 - https://store.steampowered.com/api/appdetails?appids=617480&cc=us&l=en
+2025-12-09 00:52:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Lure of the Temptress","ReleaseYear":1992,"GameId":"1207658694"}
+2025-12-09 00:52:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"RAYMAN LEGENDS","ReleaseYear":2013,"GameId":"Ubisoft.PCRaymanLegends_ngz4m417e0mpw"}
+2025-12-09 00:52:33 - https://store.steampowered.com/api/appdetails?appids=1341820&cc=us&l=en
+2025-12-09 00:52:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Real Bout Fatal Fury 2: The Newcomers","ReleaseYear":1998,"GameId":"amzn1.adg.product.b854dff2-49fd-4e55-8fde-9cd28c187492"}
+2025-12-09 00:52:33 - https://store.steampowered.com/api/appdetails?appids=251470&cc=us&l=en
+2025-12-09 00:52:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Alpha Mission II","ReleaseYear":1991,"GameId":"amzn1.adg.product.ae430ca0-5cb7-4379-875d-e87bfce70bcb"}
+2025-12-09 00:52:33 - https://store.steampowered.com/api/appdetails?appids=1581480&cc=us&l=en
+2025-12-09 00:52:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"KID A MNESIA EXHIBITION","ReleaseYear":2021,"GameId":"33411619626243f1859d0b7fb5cc5405"}
+2025-12-09 00:52:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Frostpunk Original Soundtrack\t","ReleaseYear":null,"GameId":"c052fb362cb94cad9ce23dc206026640"}
+2025-12-09 00:52:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Jazz Jackrabbit 2: The Secret Files","ReleaseYear":1999,"GameId":"1351891846"}
+2025-12-09 00:52:34 - https://store.steampowered.com/api/appdetails?appids=865680&cc=us&l=en
+2025-12-09 00:52:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Biing!: Sex, Intrigue and Scalpels","ReleaseYear":1995,"GameId":"1959845271"}
+2025-12-09 00:52:34 - https://store.steampowered.com/api/appdetails?appids=559100&cc=us&l=en
+2025-12-09 00:52:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ultima  Underworld II","ReleaseYear":1993,"GameId":"1207662473"}
+2025-12-09 00:52:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Lossless Scaling","ReleaseYear":null,"GameId":"losslessscaling_SGOFO_Lossless Scaling"}
+2025-12-09 00:52:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Doomdark\u0027s Revenge","ReleaseYear":1985,"GameId":"1207660693"}
+2025-12-09 00:52:34 - https://store.steampowered.com/api/appdetails?appids=1248080&cc=us&l=en
+2025-12-09 00:52:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Puzzle Pack 2","ReleaseYear":null,"GameId":"AukPuzzle2"}
+2025-12-09 00:52:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Witcher 3 REDkit","ReleaseYear":null,"GameId":"1441199941"}
+2025-12-09 00:52:35 - https://store.steampowered.com/api/appdetails?appids=1062090&cc=us&l=en
+2025-12-09 00:52:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"\u003eobserver_","ReleaseYear":null,"GameId":"69008e07-590b-4ea1-9aa4-f033ef8b9d2c"}
+2025-12-09 00:52:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Legends of Runeterra","ReleaseYear":2020,"GameId":"bacon"}
+2025-12-09 00:52:35 - https://store.steampowered.com/api/appdetails?appids=537520&cc=us&l=en
+2025-12-09 00:52:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"3 out of 10: Season Two","ReleaseYear":2021,"GameId":"9a1aae61129247fb971ce96ab6a959da"}
+2025-12-09 00:52:35 - https://store.steampowered.com/api/appdetails?appids=893180&cc=us&l=en
+2025-12-09 00:52:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Lords of Midnight","ReleaseYear":1984,"GameId":"1207659333"}
+2025-12-09 00:52:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Assassin\u0027s Creed Chronicles – Russia","ReleaseYear":2016,"GameId":"Ubisoft.PCAssassinsCreedChroniclesRussia_ngz4m417e0mpw"}
+2025-12-09 00:52:35 - https://store.steampowered.com/api/appdetails?appids=1266840&cc=us&l=en
+2025-12-09 00:52:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Project Spark","ReleaseYear":2013,"GameId":"Microsoft.Dakota_8wekyb3d8bbwe"}
+2025-12-09 00:52:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Victor Vran Overkill Edition","ReleaseYear":2015,"GameId":"da7d2f0c-fd75-4b14-81dc-346d109220e7"}
+2025-12-09 00:52:36 - https://store.steampowered.com/api/appdetails?appids=200510&cc=us&l=en
+2025-12-09 00:52:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"X-Morph: Defense","ReleaseYear":2017,"GameId":"1135975449"}
+2025-12-09 00:52:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sid Meier\u0027s Civilization IV: Beyond the Sword","ReleaseYear":2009,"GameId":"1760534591"}
+2025-12-09 00:52:36 - https://store.steampowered.com/api/appdetails?appids=17460&cc=us&l=en
+2025-12-09 00:52:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Heroes of Might and Magic 3","ReleaseYear":1999,"GameId":"353"}
+2025-12-09 00:52:36 - https://store.steampowered.com/api/appdetails?appids=1839940&cc=us&l=en
+2025-12-09 00:52:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rabbids Party of Legends","ReleaseYear":2021,"GameId":"61578"}
+2025-12-09 00:52:37 - https://store.steampowered.com/api/appdetails?appids=3590&cc=us&l=en
+2025-12-09 00:52:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Unreal Gold","ReleaseYear":1999,"GameId":"1207658679"}
+2025-12-09 00:52:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Microsoft Treasure Hunt","ReleaseYear":2014,"GameId":"Microsoft.MicrosoftTreasureHunt_8wekyb3d8bbwe"}
+2025-12-09 00:52:37 - https://store.steampowered.com/api/appdetails?appids=443860&cc=us&l=en
+2025-12-09 00:52:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fae Tactics Sneak Peek","ReleaseYear":null,"GameId":"faetactics_sneakpeek_Fae Tactics Sneak Peek"}
+2025-12-09 00:52:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Machinarium","ReleaseYear":2009,"GameId":"ce3fb6fe8fdf4c9ba649abc3e407debf"}
+2025-12-09 00:52:37 - https://store.steampowered.com/api/appdetails?appids=414160&cc=us&l=en
+2025-12-09 00:52:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Gears of War: Ultimate Edition","ReleaseYear":2015,"GameId":"Microsoft.DeltaPC_8wekyb3d8bbwe"}
+2025-12-09 00:52:37 - https://store.steampowered.com/api/appdetails?appids=1611910&cc=us&l=en
+2025-12-09 00:52:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Witcher Goodies Collection","ReleaseYear":null,"GameId":"1980301910"}
+2025-12-09 00:52:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hungry Shark World","ReleaseYear":2015,"GameId":"Ubisoft.PCHungrySharkWorld_ngz4m417e0mpw"}
+2025-12-09 00:52:38 - https://store.steampowered.com/api/appdetails?appids=914800&cc=us&l=en
+2025-12-09 00:52:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Operator","ReleaseYear":2019,"GameId":"operator_Operator"}
+2025-12-09 00:52:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Cyberpunk 2077 Goodies Collection","ReleaseYear":null,"GameId":"1486144755"}
+2025-12-09 00:52:38 - https://store.steampowered.com/api/appdetails?appids=289200&cc=us&l=en
+2025-12-09 00:52:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Microsoft Minesweeper","ReleaseYear":2012,"GameId":"Microsoft.MicrosoftMinesweeper_8wekyb3d8bbwe"}
+2025-12-09 00:52:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Heroes of Might and Magic II","ReleaseYear":1996,"GameId":"Ubisoft.PCHeroesofMightandMagic2_ngz4m417e0mpw"}
+2025-12-09 00:52:38 - https://store.steampowered.com/api/appdetails?appids=618950&cc=us&l=en
+2025-12-09 00:52:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"For Honor","ReleaseYear":2018,"GameId":"Sundrop"}
+2025-12-09 00:52:38 - https://store.steampowered.com/api/appdetails?appids=1313140&cc=us&l=en
+2025-12-09 00:52:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Space Crew: Legendary Edition","ReleaseYear":2020,"GameId":"amzn1.adg.product.2eadae75-aef2-408a-bb98-259aca76e0cd"}
+2025-12-09 00:52:39 - https://store.steampowered.com/api/appdetails?appids=108800&cc=us&l=en
+2025-12-09 00:52:39 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fortnite Zero Build: No-Build Battle Royale","ReleaseYear":null,"GameId":"afdb5a85efcc45d8ae8e406e2121d81c"}
+2025-12-09 00:52:39 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Shadow of the Tomb Raider: Definitive Edition","ReleaseYear":2019,"GameId":"890d9cf396d04922a1559333df419fed"}
+2025-12-09 00:52:39 - https://store.steampowered.com/api/appdetails?appids=21100&cc=us&l=en
+2025-12-09 00:52:39 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Gears of War 4","ReleaseYear":2016,"GameId":"Microsoft.SpartaUWP_8wekyb3d8bbwe"}
+2025-12-09 00:52:39 - https://store.steampowered.com/api/appdetails?appids=331600&cc=us&l=en
+2025-12-09 00:52:39 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Waste Walkers Subsistence","ReleaseYear":null,"GameId":"19b39553-e8c5-44af-a38d-b47f43c8d173"}
+2025-12-09 00:52:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"HD Wallpaper","ReleaseYear":null,"GameId":"f8bf1e29bbef480a9b28115ad0d644a0"}
+2025-12-09 00:52:40 - https://store.steampowered.com/api/appdetails?appids=1522820&cc=us&l=en
+2025-12-09 00:52:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Syndicate Wars","ReleaseYear":1996,"GameId":"1207659193"}
+2025-12-09 00:52:40 - https://store.steampowered.com/api/appdetails?appids=1145350&cc=us&l=en
+2025-12-09 00:52:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sengoku 2","ReleaseYear":1993,"GameId":"amzn1.adg.product.499494ac-67ba-456c-a0c2-39f1bed9eeb6"}
+2025-12-09 00:52:40 - https://store.steampowered.com/api/appdetails?appids=635200&cc=us&l=en
+2025-12-09 00:52:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fallout New Vegas: Lonesome Road","ReleaseYear":null,"GameId":"4fa3d8d9b2cb4714a19a38d1a598be8f"}
+2025-12-09 00:52:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Q.U.B.E. 2 Soundtrack","ReleaseYear":null,"GameId":"AukSoundtrack"}
+2025-12-09 00:52:40 - https://store.steampowered.com/api/appdetails?appids=1284950&cc=us&l=en
+2025-12-09 00:52:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Blazing Star","ReleaseYear":1998,"GameId":"30af9c0e-6dfa-457a-a8af-eab5f243ea80"}
+2025-12-09 00:52:41 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The King of Fighters \u002798 Ultimate Match","ReleaseYear":2008,"GameId":"756758e1-80ec-4564-a100-b9417d1aed0a"}
+2025-12-09 00:52:41 - https://store.steampowered.com/api/appdetails?appids=201280&cc=us&l=en
+2025-12-09 00:52:41 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Among Us","ReleaseYear":2021,"GameId":"963137e4c29d4c79a81323b8fab03a40"}
+2025-12-09 00:52:41 - https://store.steampowered.com/api/appdetails?appids=1144030&cc=us&l=en
+2025-12-09 00:52:41 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Valorant","ReleaseYear":2020,"GameId":"valorant"}
+2025-12-09 00:52:41 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tempest","ReleaseYear":1997,"GameId":"864eddfc-f0ae-4aa2-a64a-9007bef4abb4"}
+2025-12-09 00:52:41 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Metal Slug","ReleaseYear":1996,"GameId":"amzn1.adg.product.a9660e7a-8760-4d78-888d-226e4ad04ecf"}
+2025-12-09 00:52:41 - https://store.steampowered.com/api/appdetails?appids=1561340&cc=us&l=en
+2025-12-09 00:52:41 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Train Sim World 5: Free Starter Pack","ReleaseYear":2024,"GameId":"DovetailGames.TrainSimWorld5_8zrtwt33k1hxt"}
+2025-12-09 00:52:42 - https://store.steampowered.com/api/appdetails?appids=1015920&cc=us&l=en
+2025-12-09 00:52:42 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Human: Fall Flat Legacy","ReleaseYear":2019,"GameId":"CurveDigital.HumanFallFlatPC_1ezqdnbhnc70m"}
+2025-12-09 00:52:42 - https://store.steampowered.com/api/appdetails?appids=1702430&cc=us&l=en
+2025-12-09 00:52:42 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Felix The Reaper PC","ReleaseYear":2019,"GameId":"DaedalicEntertainment.FelixTheReaperPC_9w6n57xt7hhbc"}
+2025-12-09 00:52:42 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ninja Master\u0027s","ReleaseYear":1996,"GameId":"amzn1.adg.product.b32d0377-579e-4d1e-8658-4e962b1b6364"}
+2025-12-09 00:52:42 - https://store.steampowered.com/api/appdetails?appids=322500&cc=us&l=en
+2025-12-09 00:52:42 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"BioShock Infinite Complete Edition","ReleaseYear":2014,"GameId":"1752654506"}
+2025-12-09 00:52:42 - https://store.steampowered.com/api/appdetails?appids=798460&cc=us&l=en
+2025-12-09 00:52:42 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Puzzle Pack 1","ReleaseYear":null,"GameId":"AukPuzzle1"}
+2025-12-09 00:52:43 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Marvel\u0027s Guardians of the Galaxy: Social-Lord Outfit","ReleaseYear":null,"GameId":"9596620d263b40c083ddf1f0c662c8ff"}
+2025-12-09 00:52:43 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Akalabeth: World of Doom","ReleaseYear":1998,"GameId":"1207666073"}
+2025-12-09 00:52:43 - https://store.steampowered.com/api/appdetails?appids=1374840&cc=us&l=en
+2025-12-09 00:52:43 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Teamfight Tactics","ReleaseYear":2019,"GameId":"league_of_legends_game"}
+2025-12-09 00:52:43 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kizuna Encounter: Super Tag Battle","ReleaseYear":1996,"GameId":"amzn1.adg.product.9ed3e5d8-6c6c-464f-9541-ea745d071f0d"}
+2025-12-09 00:52:43 - https://store.steampowered.com/api/appdetails?appids=322330&cc=us&l=en
+2025-12-09 00:52:43 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Dungeon Of Naheulbeuk: The Amulet Of Chaos","ReleaseYear":2021,"GameId":"PlugInDigital.TheDungeonOfNaheulbeukTheAmuletOfCha_9e3ank8rmgj0t"}
+2025-12-09 00:52:43 - https://store.steampowered.com/api/appdetails?appids=867210&cc=us&l=en
+2025-12-09 00:52:43 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dark Deity","ReleaseYear":2021,"GameId":"1084829247"}
+2025-12-09 00:52:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Over Top","ReleaseYear":1996,"GameId":"amzn1.adg.product.af0eafa2-22d5-4a60-af27-1062908c7708"}
+2025-12-09 00:52:44 - https://store.steampowered.com/api/appdetails?appids=817540&cc=us&l=en
+2025-12-09 00:52:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"ARK Editor","ReleaseYear":null,"GameId":"ARKDevKit"}
+2025-12-09 00:52:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ultima 4: Quest of the Avatar","ReleaseYear":1985,"GameId":"1207658962"}
+2025-12-09 00:52:44 - https://store.steampowered.com/api/appdetails?appids=1977170&cc=us&l=en
+2025-12-09 00:52:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Assassin\u0027s Creed Brotherhood","ReleaseYear":2011,"GameId":"Ubisoft.PCAssassinsCreedBrotherhood_ngz4m417e0mpw"}
+2025-12-09 00:52:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ironclad","ReleaseYear":1996,"GameId":"fa610758-0d0f-4af2-a17c-caf61177cfe7"}
+2025-12-09 00:52:44 - https://store.steampowered.com/api/appdetails?appids=1261520&cc=us&l=en
+2025-12-09 00:52:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"ENDLESS Space 2","ReleaseYear":2017,"GameId":"amzn1.adg.product.7799093d-36ad-4766-9eba-bb3fce5a1ba5"}
+2025-12-09 00:52:44 - https://store.steampowered.com/api/appdetails?appids=33320&cc=us&l=en
+2025-12-09 00:52:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"ARK Fjordur","ReleaseYear":null,"GameId":"c8100452cf954e2292152d17182386ff"}
+2025-12-09 00:52:45 - https://store.steampowered.com/api/appdetails?appids=361400&cc=us&l=en
+2025-12-09 00:52:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Aces of the Luftwaffe – Squadron","ReleaseYear":2018,"GameId":"8c5a6e9c-c20b-4942-9013-26b4926ce37a"}
+2025-12-09 00:52:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Cities: Skylines  Edition","ReleaseYear":2017,"GameId":"ParadoxInteractive.81845321AE_zfnrdv2de78ny"}
+2025-12-09 00:52:45 - https://store.steampowered.com/api/appdetails?appids=2678990&cc=us&l=en
+2025-12-09 00:52:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Prince of Persia The Lost Crown","ReleaseYear":2025,"GameId":"Ubisoft.PCPrinceofPersiaTheLostCrown_ngz4m417e0mpw"}
+2025-12-09 00:52:45 - https://store.steampowered.com/api/appdetails?appids=33910&cc=us&l=en
+2025-12-09 00:52:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Among Us","ReleaseYear":2021,"GameId":"Innersloth.AmongUs_fw5x688tam7rm"}
+2025-12-09 00:52:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Brawlhalla","ReleaseYear":2025,"GameId":"Ubisoft.PCBrawlhalla_ngz4m417e0mpw"}
+2025-12-09 00:52:45 - https://store.steampowered.com/api/appdetails?appids=40300&cc=us&l=en
+2025-12-09 00:52:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hearthstone","ReleaseYear":2014,"GameId":"WTCG"}
+2025-12-09 00:52:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Warcraft II: Remastered","ReleaseYear":2024,"GameId":"BlizzardEntertainmentInc.WarcraftIIRemastered_kdg5n7x41qwkg"}
+2025-12-09 00:52:46 - https://store.steampowered.com/api/appdetails?appids=631570&cc=us&l=en
+2025-12-09 00:52:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"League of Legends","ReleaseYear":2022,"GameId":"RiotGames.LeagueofLegends_htdcg2kgmrmva"}
+2025-12-09 00:52:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"World In Conflict","ReleaseYear":2007,"GameId":"90"}
+2025-12-09 00:52:46 - https://store.steampowered.com/api/appdetails?appids=242700&cc=us&l=en
+2025-12-09 00:52:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Soccer Brawl","ReleaseYear":1992,"GameId":"amzn1.adg.product.a1d15fb4-f3d0-4372-a917-5a95a9aa7dbf"}
+2025-12-09 00:52:46 - https://store.steampowered.com/api/appdetails?appids=578080&cc=us&l=en
+2025-12-09 00:52:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fallout New Vegas: Courier\u0027s Stash","ReleaseYear":null,"GameId":"ee9a44b4530942499ef1c8c390731fce"}
+2025-12-09 00:52:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hydro Thunder Hurricane","ReleaseYear":2010,"GameId":"Microsoft.Studios.HydroThunderHurricane_8wekyb3d8bbwe"}
+2025-12-09 00:52:47 - https://store.steampowered.com/api/appdetails?appids=258910&cc=us&l=en
+2025-12-09 00:52:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Retro Classics","ReleaseYear":2025,"GameId":"Microsoft.Pleasantville_8wekyb3d8bbwe"}
+2025-12-09 00:52:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Galactic Civilizations III (Test branch)","ReleaseYear":2014,"GameId":"8931f79300d04c5889799bffc8ef70bd"}
+2025-12-09 00:52:47 - https://store.steampowered.com/api/appdetails?appids=228300&cc=us&l=en
+2025-12-09 00:52:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Living Legends: Fallen Sky","ReleaseYear":2018,"GameId":"amzn1.adg.product.61fb5109-87ca-4b39-85fa-ef9b2dd785dc"}
+2025-12-09 00:52:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Train Valley 2 - DRM-free build","ReleaseYear":null,"GameId":"trainvalley2_drm_freebuild_ObHto_Train Valley 2 - DRM-free build"}
+2025-12-09 00:52:47 - https://store.steampowered.com/api/appdetails?appids=73210&cc=us&l=en
+2025-12-09 00:52:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Football Manager 2022 Resource Archiver","ReleaseYear":null,"GameId":"678fd78b68e7432b82d6cbc2928d33fb"}
+2025-12-09 00:52:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"One Step from Eden Exclusive Sneak Peek","ReleaseYear":null,"GameId":"onestepfromeden_exclusivedemo_One Step from Eden Exclusive Sneak Peek"}
+2025-12-09 00:52:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Heroes of Might and Magic II","ReleaseYear":1996,"GameId":"352"}
+2025-12-09 00:52:47 - https://store.steampowered.com/api/appdetails?appids=405820&cc=us&l=en
+2025-12-09 00:52:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"HD Voice Pack - English","ReleaseYear":null,"GameId":"EelVoiceEnglish"}
+2025-12-09 00:52:48 - https://store.steampowered.com/api/appdetails?appids=34010&cc=us&l=en
+2025-12-09 00:52:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Jack Claw","ReleaseYear":2011,"GameId":"jackclaw_Jack Claw"}
+2025-12-09 00:52:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Neon Drive DRM-free","ReleaseYear":null,"GameId":"neon_drive_drmfree_PD39k_Neon Drive DRM-free"}
+2025-12-09 00:52:48 - https://store.steampowered.com/api/appdetails?appids=254000&cc=us&l=en
+2025-12-09 00:52:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"GOG GALAXY","ReleaseYear":null,"GameId":"aabbfd8f324543be8b8a58c368326315"}
+2025-12-09 00:52:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Mutation Nation","ReleaseYear":1992,"GameId":"amzn1.adg.product.5acfd492-d51c-4cb4-8041-68a8cdf9ce04"}
+2025-12-09 00:52:48 - https://store.steampowered.com/api/appdetails?appids=210390&cc=us&l=en
+2025-12-09 00:52:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dauntless","ReleaseYear":2019,"GameId":"Jackal"}
+2025-12-09 00:52:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fallout New Vegas: Old World Blues","ReleaseYear":null,"GameId":"c8dae1ab0570475a8b38a9041e614840"}
+2025-12-09 00:52:48 - https://store.steampowered.com/api/appdetails?appids=1240590&cc=us&l=en
+2025-12-09 00:52:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ultima  Underworld I","ReleaseYear":1992,"GameId":"1207662463"}
+2025-12-09 00:52:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"SUPERHOT WINDOWS 10","ReleaseYear":2019,"GameId":"SUPERHOTTeam.SHPLACEHOLDER_hj98apedv0ctt"}
+2025-12-09 00:52:49 - https://store.steampowered.com/api/appdetails?appids=1025440&cc=us&l=en
+2025-12-09 00:52:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"League of Legends","ReleaseYear":2009,"GameId":"64b0c77d07f644e6a2326a1fd7ab9926"}
+2025-12-09 00:52:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Symphonia","ReleaseYear":2024,"GameId":"HeadupGames.Symphonia_zedvb25zy7eke"}
+2025-12-09 00:52:49 - https://store.steampowered.com/api/appdetails?appids=281640&cc=us&l=en
+2025-12-09 00:52:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fallout New Vegas: Dead Money","ReleaseYear":null,"GameId":"b290229eb58045cbab9501640f3278f3"}
+2025-12-09 00:52:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"ARK Crystal Isles","ReleaseYear":null,"GameId":"59e7d1f8e717413586341e227a12aa58"}
+2025-12-09 00:52:49 - https://store.steampowered.com/api/appdetails?appids=328600&cc=us&l=en
+2025-12-09 00:52:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"ARK Valguero","ReleaseYear":null,"GameId":"e25eb863aafb4453b9f9fd17af3ae6d2"}
+2025-12-09 00:52:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Glass Masquerade: Origins","ReleaseYear":2022,"GameId":"76eb33b8-790a-4813-9cd5-e1097469bcb7"}
+2025-12-09 00:52:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Blizzard Arcade Collection","ReleaseYear":2021,"GameId":"BlizzardEntertainmentInc.BlizzardArcadeCollectionP_kdg5n7x41qwkg"}
+2025-12-09 00:52:50 - https://store.steampowered.com/api/appdetails?appids=307590&cc=us&l=en
+2025-12-09 00:52:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"A Knight\u0027s Quest","ReleaseYear":2019,"GameId":"782d4c40-a964-436b-9d4c-a86d5f1b5787"}
+2025-12-09 00:52:50 - https://store.steampowered.com/api/appdetails?appids=207140&cc=us&l=en
+2025-12-09 00:52:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Diablo","ReleaseYear":1997,"GameId":"BlizzardEntertainmentInc.Diablo_kdg5n7x41qwkg"}
+2025-12-09 00:52:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Mafia II","ReleaseYear":2011,"GameId":"1816059595"}
+2025-12-09 00:52:50 - https://store.steampowered.com/api/appdetails?appids=607080&cc=us&l=en
+2025-12-09 00:52:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Wallace \u0026 Gromit: Muzzled!","ReleaseYear":null,"GameId":"amzn1.adg.product.2ff3bc13-075b-42a0-bd4b-5d434848fb30"}
+2025-12-09 00:52:50 - https://store.steampowered.com/api/appdetails?appids=284870&cc=us&l=en
+2025-12-09 00:52:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Overwatch 2","ReleaseYear":2022,"GameId":"Pro"}
+2025-12-09 00:52:51 - https://store.steampowered.com/api/appdetails?appids=2457220&cc=us&l=en
+2025-12-09 00:52:51 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Football Manager 26 Console","ReleaseYear":2025,"GameId":"SportsInteractive.FootballManager26Console_5w3tn6tb6stnm"}
+2025-12-09 00:52:51 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hollow Knight: Voidheart Edition","ReleaseYear":2018,"GameId":"TeamCherry.15373CD61C66B_y4jvztpgccj42"}
+2025-12-09 00:52:51 - https://store.steampowered.com/api/appdetails?appids=96000&cc=us&l=en
+2025-12-09 00:52:51 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"A.D. 2044","ReleaseYear":1996,"GameId":"2075976504"}
+2025-12-09 00:52:51 - https://store.steampowered.com/api/appdetails?appids=279940&cc=us&l=en
+2025-12-09 00:52:51 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Crackdown 3","ReleaseYear":2019,"GameId":"Microsoft.48248D2C77101_8wekyb3d8bbwe"}
+2025-12-09 00:52:51 - https://store.steampowered.com/api/appdetails?appids=1007830&cc=us&l=en
+2025-12-09 00:52:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Football Manager 2022 Editor","ReleaseYear":null,"GameId":"06e53aec2b194423af417babe92050db"}
+2025-12-09 00:52:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ultra HD Texture Pack","ReleaseYear":null,"GameId":"TurkeyDLCAilanthus"}
+2025-12-09 00:52:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Absolute Drift","ReleaseYear":2016,"GameId":"1136126792"}
+2025-12-09 00:52:52 - https://store.steampowered.com/api/appdetails?appids=1116770&cc=us&l=en
+2025-12-09 00:52:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Halo Wars 2","ReleaseYear":2017,"GameId":"Microsoft.HoganThreshold_8wekyb3d8bbwe"}
+2025-12-09 00:52:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"StarCraft II","ReleaseYear":2010,"GameId":"S2"}
+2025-12-09 00:52:52 - https://store.steampowered.com/api/appdetails?appids=1581150&cc=us&l=en
+2025-12-09 00:52:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Metal Slug 4","ReleaseYear":2002,"GameId":"amzn1.adg.product.c87cc6c3-cb97-4ca9-802e-6ea58470b973"}
+2025-12-09 00:52:53 - https://store.steampowered.com/api/appdetails?appids=21110&cc=us&l=en
+2025-12-09 00:52:53 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Football Manager 2023 Pre-Game Editor","ReleaseYear":null,"GameId":"2b8c9ba1ea9441b7b3885e2ab8ee0721"}
+2025-12-09 00:52:53 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Guacamelee! 2","ReleaseYear":2018,"GameId":"fab83c3bf3d449718e042d44369e7fb6"}
+2025-12-09 00:52:53 - https://store.steampowered.com/api/appdetails?appids=464340&cc=us&l=en
+2025-12-09 00:52:53 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Pillars of Eternity - Definitive Edition","ReleaseYear":2017,"GameId":"bcc75c246fe04e45b0c1f1c3fd52503a"}
+2025-12-09 00:52:53 - https://store.steampowered.com/api/appdetails?appids=830370&cc=us&l=en
+2025-12-09 00:52:53 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"VALORANT","ReleaseYear":2022,"GameId":"RiotGames.VALORANT_htdcg2kgmrmva"}
+2025-12-09 00:52:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Lost Castle","ReleaseYear":2016,"GameId":"7d5ec41fb5ae49c5beca9360034fd57e"}
+2025-12-09 00:52:54 - https://store.steampowered.com/api/appdetails?appids=1046790&cc=us&l=en
+2025-12-09 00:52:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Goat Simulator: GOATY","ReleaseYear":null,"GameId":"goatsimulator_goaty_Goat Simulator: GOATY"}
+2025-12-09 00:52:54 - https://store.steampowered.com/api/appdetails?appids=1031460&cc=us&l=en
+2025-12-09 00:52:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Chivalry 2 - Public Testing","ReleaseYear":null,"GameId":"ca02598c9a5c4d5491d6431ce8e8d6e7"}
+2025-12-09 00:52:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Desert Child - DRM-free","ReleaseYear":null,"GameId":"desertchild_drm_free_3m0fm_Desert Child - DRM-free"}
+2025-12-09 00:52:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Talos Principle","ReleaseYear":2015,"GameId":"1577265251"}
+2025-12-09 00:52:54 - https://store.steampowered.com/api/appdetails?appids=736810&cc=us&l=en
+2025-12-09 00:52:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Frostpunk: Digital Artbook","ReleaseYear":null,"GameId":"8fb226d999304fb1b8924c1722a80706"}
+2025-12-09 00:52:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ultima  Worlds of Adventure 2: Martian Dreams","ReleaseYear":1991,"GameId":"1207659062"}
+2025-12-09 00:52:54 - https://store.steampowered.com/api/appdetails?appids=313690&cc=us&l=en
+2025-12-09 00:52:55 - https://store.steampowered.com/api/appdetails?appids=1432910&cc=us&l=en
+2025-12-09 00:52:55 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fortnite","ReleaseYear":2017,"GameId":"Fortnite"}
+2025-12-09 00:52:55 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Mortal Shell Tech Beta","ReleaseYear":null,"GameId":"f0ac8218ef7d4b5aabec153e3f193db6"}
+2025-12-09 00:52:55 - https://store.steampowered.com/api/appdetails?appids=1238840&cc=us&l=en
+2025-12-09 00:52:55 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Golden Light","ReleaseYear":2020,"GameId":"0eeaae41305043f7a465310eb2cbaff9"}
+2025-12-09 00:52:55 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"HD Sound Pack","ReleaseYear":null,"GameId":"EelSoundPack"}
+2025-12-09 00:52:55 - https://store.steampowered.com/api/appdetails?appids=310560&cc=us&l=en
+2025-12-09 00:52:55 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Worlds of Ultima : The Savage Empire","ReleaseYear":1990,"GameId":"1207659061"}
+2025-12-09 00:52:55 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tomb Raider: Definitive Edition","ReleaseYear":2014,"GameId":"39C668CD.TombRaiderDefinitiveEdition_r7bfsmp40f67j"}
+2025-12-09 00:52:56 - https://store.steampowered.com/api/appdetails?appids=1574260&cc=us&l=en
+2025-12-09 00:52:56 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"ARK: Survival Evolved","ReleaseYear":2017,"GameId":"StudioWildcard.4558480580BB9_1w2mm55455e38"}
+2025-12-09 00:52:56 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Wallace \u0026 Gromit: The Last Resort","ReleaseYear":2009,"GameId":"amzn1.adg.product.93ff4a57-6134-407d-8b18-7c9152ac6de3"}
+2025-12-09 00:52:56 - https://store.steampowered.com/api/appdetails?appids=2277560&cc=us&l=en
+2025-12-09 00:52:56 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Overcooked","ReleaseYear":2016,"GameId":"1223053864"}
+2025-12-09 00:52:56 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Spring Sale Goodies Collection #1","ReleaseYear":null,"GameId":"2005648906"}
+2025-12-09 00:52:56 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Control Standard Edition","ReleaseYear":2021,"GameId":"505GAMESS.P.A.ControlPCGP_tefn33qh9azfc"}
+2025-12-09 00:52:56 - https://store.steampowered.com/api/appdetails?appids=2897610&cc=us&l=en
+2025-12-09 00:52:57 - https://store.steampowered.com/api/appdetails?appids=404730&cc=us&l=en
+2025-12-09 00:52:57 - https://store.steampowered.com/api/appdetails?appids=1902960&cc=us&l=en
+2025-12-09 00:52:57 - https://store.steampowered.com/api/appdetails?appids=420&cc=us&l=en
+2025-12-09 00:52:58 - https://store.steampowered.com/api/appdetails?appids=282530&cc=us&l=en
+2025-12-09 00:52:58 - https://store.steampowered.com/api/appdetails?appids=429570&cc=us&l=en
+2025-12-09 00:52:58 - https://store.steampowered.com/api/appdetails?appids=630&cc=us&l=en
+2025-12-09 00:52:58 - https://store.steampowered.com/api/appdetails?appids=1583230&cc=us&l=en
+2025-12-09 00:52:59 - https://store.steampowered.com/api/appdetails?appids=359550&cc=us&l=en
+2025-12-09 00:52:59 - https://store.steampowered.com/api/appdetails?appids=1345890&cc=us&l=en
+2025-12-09 00:52:59 - https://store.steampowered.com/api/appdetails?appids=680380&cc=us&l=en
+2025-12-09 00:53:00 - https://store.steampowered.com/api/appdetails?appids=287450&cc=us&l=en
+2025-12-09 00:53:00 - https://store.steampowered.com/api/appdetails?appids=260270&cc=us&l=en
+2025-12-09 00:53:00 - https://store.steampowered.com/api/appdetails?appids=7760&cc=us&l=en
+2025-12-09 00:53:00 - https://store.steampowered.com/api/appdetails?appids=688740&cc=us&l=en
+2025-12-09 00:53:01 - https://store.steampowered.com/api/appdetails?appids=1296450&cc=us&l=en
+2025-12-09 00:53:01 - https://store.steampowered.com/api/appdetails?appids=388880&cc=us&l=en
+2025-12-09 00:53:01 - https://store.steampowered.com/api/appdetails?appids=7600&cc=us&l=en
+2025-12-09 00:53:02 - https://store.steampowered.com/api/appdetails?appids=7520&cc=us&l=en
+2025-12-09 00:53:02 - https://store.steampowered.com/api/appdetails?appids=67370&cc=us&l=en
+2025-12-09 00:53:02 - https://store.steampowered.com/api/appdetails?appids=962130&cc=us&l=en
+2025-12-09 00:53:03 - https://store.steampowered.com/api/appdetails?appids=877150&cc=us&l=en
+2025-12-09 00:53:03 - https://store.steampowered.com/api/appdetails?appids=314510&cc=us&l=en
+2025-12-09 00:53:03 - https://store.steampowered.com/api/appdetails?appids=231430&cc=us&l=en
+2025-12-09 00:53:04 - https://store.steampowered.com/api/appdetails?appids=421740&cc=us&l=en
+2025-12-09 00:53:04 - https://store.steampowered.com/api/appdetails?appids=1812090&cc=us&l=en
+2025-12-09 00:53:04 - https://store.steampowered.com/api/appdetails?appids=1492360&cc=us&l=en
+2025-12-09 00:53:04 - https://store.steampowered.com/api/appdetails?appids=300380&cc=us&l=en
+2025-12-09 00:53:05 - https://store.steampowered.com/api/appdetails?appids=1016800&cc=us&l=en
+2025-12-09 00:53:05 - https://store.steampowered.com/api/appdetails?appids=1672970&cc=us&l=en
+2025-12-09 00:53:05 - https://store.steampowered.com/api/appdetails?appids=308040&cc=us&l=en
+2025-12-09 00:53:06 - https://store.steampowered.com/api/appdetails?appids=994500&cc=us&l=en
+2025-12-09 00:53:06 - https://store.steampowered.com/api/appdetails?appids=1533420&cc=us&l=en
+2025-12-09 00:53:06 - https://store.steampowered.com/api/appdetails?appids=9010&cc=us&l=en
+2025-12-09 00:53:06 - https://store.steampowered.com/api/appdetails?appids=2399830&cc=us&l=en
+2025-12-09 00:53:07 - https://store.steampowered.com/api/appdetails?appids=532210&cc=us&l=en
+2025-12-09 00:53:07 - https://store.steampowered.com/api/appdetails?appids=4760&cc=us&l=en
+2025-12-09 00:53:07 - https://store.steampowered.com/api/appdetails?appids=351100&cc=us&l=en
