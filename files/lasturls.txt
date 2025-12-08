@@ -13183,3 +13183,8 @@
 2025-12-08 00:06:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ultima  Worlds of Adventure 2: Martian Dreams","ReleaseYear":1991,"GameId":"1207659062"}
 2025-12-08 00:06:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fortnite","ReleaseYear":2017,"GameId":"Fortnite"}
 2025-12-08 00:06:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Worlds of Ultima : The Savage Empire","ReleaseYear":1990,"GameId":"1207659061"}
+2025-12-08 00:06:29 - TIMING: Total execution completed in 43.431 ms
+2025-12-08 13:25:24 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-08 13:25:25 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-08 13:25:25 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-08 13:25:26 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
