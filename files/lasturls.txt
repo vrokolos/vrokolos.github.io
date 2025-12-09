@@ -1098,3 +1098,14 @@
 2025-12-09 13:23:24 - https://store.steampowered.com/appreviews/2377280?json=1&language=all&num_per_page=0
 2025-12-09 13:23:25 - Refreshing reviews for recent game: Nightingale (Added: 2025-10-02)
 2025-12-09 13:23:25 - https://store.steampowered.com/appreviews/1928980?json=1&language=all&num_per_page=0
+2025-12-09 13:23:39 - TIMING: Total execution completed in 204.275 ms
+2025-12-09 13:34:21 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 13:34:22 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 13:34:22 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 13:34:22 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 13:34:26 - Refreshing reviews for recent game: Spray Paint Simulator (ReferenceDate: 2025-05-29)
+2025-12-09 13:34:26 - https://store.steampowered.com/appreviews/1811340?json=1&language=all&num_per_page=0
+2025-12-09 13:34:26 - Refreshing reviews for recent game: Whispered Secrets: Cursed Wealth Collector's Edition (ReferenceDate: 2025-06-27)
+2025-12-09 13:34:26 - https://store.steampowered.com/appreviews/3817900?json=1&language=all&num_per_page=0
+2025-12-09 13:34:27 - Refreshing reviews for recent game: Little Nightmares (ReferenceDate: 2025-10-10)
+2025-12-09 13:34:27 - https://store.steampowered.com/appreviews/2149010?json=1&language=all&num_per_page=0
