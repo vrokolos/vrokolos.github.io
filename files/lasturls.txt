@@ -1109,3 +1109,11 @@
 2025-12-09 13:34:26 - https://store.steampowered.com/appreviews/3817900?json=1&language=all&num_per_page=0
 2025-12-09 13:34:27 - Refreshing reviews for recent game: Little Nightmares (ReferenceDate: 2025-10-10)
 2025-12-09 13:34:27 - https://store.steampowered.com/appreviews/2149010?json=1&language=all&num_per_page=0
+2025-12-09 13:34:54 - TIMING: Total execution completed in 33.572 ms
+2025-12-09 16:59:54 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 16:59:55 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 16:59:55 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 16:59:56 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 17:00:08 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dome Keeper","ReleaseYear":2025,"GameId":"RawFury.DomeKeeper_9s0pnehqffj7t"}
+2025-12-09 17:00:08 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"A Game About Digging A Hole","ReleaseYear":2025,"GameId":"rokapublish.AGameAboutDiggingAHole_6q4vfhsywtz4j"}
+2025-12-09 17:00:08 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Death Howl","ReleaseYear":2025,"GameId":"4063811bitstudios.DeathHowl_gwy9gn5q9j1y6"}
