@@ -3676,3 +3676,21 @@
 2025-12-09 01:49:00 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-09 01:49:01 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-09 01:49:35 - TIMING: Total execution completed in 36.841 ms
+2025-12-09 08:43:13 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 08:43:14 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 08:43:14 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 08:43:14 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 08:43:22 - INFO: Created game file for Glass Masquerade at c:\Output\playnite\files\decksettings\db3c5f24-4a4d-44cb-b64b-866b0ebcc3f5.json
+2025-12-09 08:43:22 - https://deckverified.games/deck-verified/api/v1/game_details?appid=511470&include_external=true
+2025-12-09 08:43:22 - INFO: Created game file for The Grinch: Christmas Adventures at c:\Output\playnite\files\decksettings\55530677-bd09-43de-b6a6-19b39b5f3376.json
+2025-12-09 08:43:22 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1978210&include_external=true
+2025-12-09 08:43:23 - INFO: Created game file for OPERATOR at c:\Output\playnite\files\decksettings\a26928be-f37d-47ad-8d7d-c1f5eb0c2684.json
+2025-12-09 08:43:23 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1913370&include_external=true
+2025-12-09 08:43:23 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1978210,1913370,511470
+2025-12-09 08:43:23 - Refreshing reviews for recent game: The Grinch: Christmas Adventures (Added: 2025-10-16)
+2025-12-09 08:43:23 - https://store.steampowered.com/appreviews/1978210?json=1&language=all&num_per_page=0
+2025-12-09 08:43:23 - https://store.steampowered.com/appreviews/1913370?json=1&language=all&num_per_page=0
+2025-12-09 08:43:24 - https://store.steampowered.com/appreviews/511470?json=1&language=all&num_per_page=0
+2025-12-09 08:43:27 - https://store.steampowered.com/api/appdetails?appids=1913370&cc=us&l=en
+2025-12-09 08:43:29 - https://store.steampowered.com/api/appdetails?appids=1978210&cc=us&l=en
+2025-12-09 08:43:31 - https://store.steampowered.com/api/appdetails?appids=511470&cc=us&l=en
