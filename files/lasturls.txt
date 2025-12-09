@@ -1,1 +1,1100 @@
-﻿
+﻿2025-12-09 13:20:15 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 13:20:15 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 13:20:16 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 13:20:16 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 13:20:20 - Refreshing reviews for recent game: Agony UNRATED (Added: 2025-08-03)
+2025-12-09 13:20:20 - https://store.steampowered.com/appreviews/879420?json=1&language=all&num_per_page=0
+2025-12-09 13:20:20 - Refreshing reviews for recent game: Peppa Pig: World Adventures (Added: 2025-09-26)
+2025-12-09 13:20:20 - https://store.steampowered.com/appreviews/1998980?json=1&language=all&num_per_page=0
+2025-12-09 13:20:21 - Refreshing reviews for recent game: Gamedec - Definitive Edition (Added: 2025-03-27)
+2025-12-09 13:20:21 - https://store.steampowered.com/appreviews/917720?json=1&language=all&num_per_page=0
+2025-12-09 13:20:21 - Refreshing reviews for recent game: Kulebra and the Souls of Limbo (Added: 2025-05-20)
+2025-12-09 13:20:21 - https://store.steampowered.com/appreviews/2246470?json=1&language=all&num_per_page=0
+2025-12-09 13:20:21 - Refreshing reviews for recent game: KILL IT WITH FIRE! 2 (Added: 2025-11-25)
+2025-12-09 13:20:21 - https://store.steampowered.com/appreviews/2357000?json=1&language=all&num_per_page=0
+2025-12-09 13:20:22 - Refreshing reviews for recent game: 100 Doors Game: Escape from School (Added: 2025-11-27)
+2025-12-09 13:20:22 - https://store.steampowered.com/appreviews/1238280?json=1&language=all&num_per_page=0
+2025-12-09 13:20:22 - Refreshing reviews for recent game: New Tales from the Borderlands (Added: 2025-11-06)
+2025-12-09 13:20:22 - https://store.steampowered.com/appreviews/1454970?json=1&language=all&num_per_page=0
+2025-12-09 13:20:22 - Refreshing reviews for recent game: Mail Time (Added: 2025-05-16)
+2025-12-09 13:20:22 - https://store.steampowered.com/appreviews/1607240?json=1&language=all&num_per_page=0
+2025-12-09 13:20:23 - Refreshing reviews for recent game: to a T (Added: 2025-05-28)
+2025-12-09 13:20:23 - https://store.steampowered.com/appreviews/1875320?json=1&language=all&num_per_page=0
+2025-12-09 13:20:23 - Refreshing reviews for recent game: New York Mysteries: Power of Art Collector's Edition (Added: 2025-11-27)
+2025-12-09 13:20:23 - https://store.steampowered.com/appreviews/2380090?json=1&language=all&num_per_page=0
+2025-12-09 13:20:23 - Refreshing reviews for recent game: Residual (Added: 2025-09-26)
+2025-12-09 13:20:23 - https://store.steampowered.com/appreviews/1290780?json=1&language=all&num_per_page=0
+2025-12-09 13:20:24 - Refreshing reviews for recent game: Banishers: Ghosts of New Eden (Added: 2025-11-25)
+2025-12-09 13:20:24 - https://store.steampowered.com/appreviews/1493640?json=1&language=all&num_per_page=0
+2025-12-09 13:20:24 - Refreshing reviews for recent game: Blue Prince (Added: 2025-04-11)
+2025-12-09 13:20:24 - https://store.steampowered.com/appreviews/1569580?json=1&language=all&num_per_page=0
+2025-12-09 13:20:24 - Refreshing reviews for recent game: Rain World (Added: 2025-08-07)
+2025-12-09 13:20:24 - https://store.steampowered.com/appreviews/312520?json=1&language=all&num_per_page=0
+2025-12-09 13:20:25 - Refreshing reviews for recent game: Assassin's Creed Chronicles : China (Added: 2025-10-02)
+2025-12-09 13:20:25 - https://store.steampowered.com/appreviews/354380?json=1&language=all&num_per_page=0
+2025-12-09 13:20:25 - Refreshing reviews for recent game: Persona5: The Phantom X (Added: 2025-06-28)
+2025-12-09 13:20:25 - https://store.steampowered.com/appreviews/3061570?json=1&language=all&num_per_page=0
+2025-12-09 13:20:25 - Refreshing reviews for recent game: Alessia's Dollhouse (Added: 2025-11-20)
+2025-12-09 13:20:25 - https://store.steampowered.com/appreviews/3037780?json=1&language=all&num_per_page=0
+2025-12-09 13:20:26 - Refreshing reviews for recent game: BioShock 2 (Added: 2025-01-09)
+2025-12-09 13:20:26 - https://store.steampowered.com/appreviews/8850?json=1&language=all&num_per_page=0
+2025-12-09 13:20:26 - Refreshing reviews for recent game: Heroes of the Lance (Added: 2025-08-28)
+2025-12-09 13:20:26 - https://store.steampowered.com/appreviews/2350511?json=1&language=all&num_per_page=0
+2025-12-09 13:20:26 - Refreshing reviews for recent game: Far Cry New Dawn (Added: 2025-10-02)
+2025-12-09 13:20:26 - https://store.steampowered.com/appreviews/939960?json=1&language=all&num_per_page=0
+2025-12-09 13:20:27 - Refreshing reviews for recent game: Assassin's Creed 2 (Added: 2025-10-02)
+2025-12-09 13:20:27 - https://store.steampowered.com/appreviews/33230?json=1&language=all&num_per_page=0
+2025-12-09 13:20:27 - Refreshing reviews for recent game: Legacy of Kain: Defiance (Added: 2025-03-21)
+2025-12-09 13:20:27 - https://store.steampowered.com/appreviews/224300?json=1&language=all&num_per_page=0
+2025-12-09 13:20:27 - Refreshing reviews for recent game: 112 Operator (Added: 2025-08-07)
+2025-12-09 13:20:27 - https://store.steampowered.com/appreviews/793460?json=1&language=all&num_per_page=0
+2025-12-09 13:20:28 - Refreshing reviews for recent game: Eastern Exorcist (Added: 2025-01-03)
+2025-12-09 13:20:28 - https://store.steampowered.com/appreviews/1120810?json=1&language=all&num_per_page=0
+2025-12-09 13:20:28 - Refreshing reviews for recent game: Summer's Gone - Season 1 (Added: 2025-08-03)
+2025-12-09 13:20:28 - https://store.steampowered.com/appreviews/2240150?json=1&language=all&num_per_page=0
+2025-12-09 13:20:28 - Refreshing reviews for recent game: Towerborne (Game Preview) (Added: 2025-05-04)
+2025-12-09 13:20:28 - https://store.steampowered.com/appreviews/2458830?json=1&language=all&num_per_page=0
+2025-12-09 13:20:29 - Refreshing reviews for recent game: The Lost Ashford Ring (Added: 2025-11-27)
+2025-12-09 13:20:29 - https://store.steampowered.com/appreviews/2223300?json=1&language=all&num_per_page=0
+2025-12-09 13:20:29 - Refreshing reviews for recent game: NARAKA: BLADEPOINT (Added: 2025-03-26)
+2025-12-09 13:20:29 - https://store.steampowered.com/appreviews/1203220?json=1&language=all&num_per_page=0
+2025-12-09 13:20:29 - Refreshing reviews for recent game: Barro GT (Added: 2025-08-03)
+2025-12-09 13:20:29 - https://store.steampowered.com/appreviews/1990740?json=1&language=all&num_per_page=0
+2025-12-09 13:20:30 - Refreshing reviews for recent game: DREDGE (Added: 2024-12-24)
+2025-12-09 13:20:30 - https://store.steampowered.com/appreviews/1562430?json=1&language=all&num_per_page=0
+2025-12-09 13:20:30 - Refreshing reviews for recent game: Behind the Frame: The Finest Scenery (Added: 2025-01-31)
+2025-12-09 13:20:30 - https://store.steampowered.com/appreviews/1634150?json=1&language=all&num_per_page=0
+2025-12-09 13:20:30 - Refreshing reviews for recent game: ANCIENT EVIL (Added: 2025-10-30)
+2025-12-09 13:20:30 - https://store.steampowered.com/appreviews/1341620?json=1&language=all&num_per_page=0
+2025-12-09 13:20:31 - Refreshing reviews for recent game: Assassin’s Creed Mirage (Added: 2025-10-31)
+2025-12-09 13:20:31 - https://store.steampowered.com/appreviews/3035570?json=1&language=all&num_per_page=0
+2025-12-09 13:20:31 - Refreshing reviews for recent game: Corpse Keeper (Added: 2025-05-01)
+2025-12-09 13:20:31 - https://store.steampowered.com/appreviews/1601740?json=1&language=all&num_per_page=0
+2025-12-09 13:20:31 - Refreshing reviews for recent game: Against the Storm (Added: 2024-12-11)
+2025-12-09 13:20:31 - https://store.steampowered.com/appreviews/1336490?json=1&language=all&num_per_page=0
+2025-12-09 13:20:32 - Refreshing reviews for recent game: Neko Ghost, Jump! (Added: 2025-03-27)
+2025-12-09 13:20:32 - https://store.steampowered.com/appreviews/1194750?json=1&language=all&num_per_page=0
+2025-12-09 13:20:32 - Refreshing reviews for recent game: Prince of Persia: The Sands of Time (Added: 2025-09-30)
+2025-12-09 13:20:32 - https://store.steampowered.com/appreviews/13600?json=1&language=all&num_per_page=0
+2025-12-09 13:20:33 - Refreshing reviews for recent game: Deus Ex: Invisible War (Added: 2025-03-27)
+2025-12-09 13:20:33 - https://store.steampowered.com/appreviews/6920?json=1&language=all&num_per_page=0
+2025-12-09 13:20:33 - Refreshing reviews for recent game: Undying (Added: 2025-01-31)
+2025-12-09 13:20:33 - https://store.steampowered.com/appreviews/638990?json=1&language=all&num_per_page=0
+2025-12-09 13:20:33 - Refreshing reviews for recent game: Tempopo (Added: 2025-04-19)
+2025-12-09 13:20:33 - https://store.steampowered.com/appreviews/318840?json=1&language=all&num_per_page=0
+2025-12-09 13:20:34 - Refreshing reviews for recent game: Aliens: Fireteam Elite (Added: 2025-08-16)
+2025-12-09 13:20:34 - https://store.steampowered.com/appreviews/1549970?json=1&language=all&num_per_page=0
+2025-12-09 13:20:34 - Refreshing reviews for recent game: Riders Republic (Added: 2025-10-02)
+2025-12-09 13:20:34 - https://store.steampowered.com/appreviews/2290180?json=1&language=all&num_per_page=0
+2025-12-09 13:20:34 - Refreshing reviews for recent game: Child of Light (Added: 2025-10-02)
+2025-12-09 13:20:34 - https://store.steampowered.com/appreviews/256290?json=1&language=all&num_per_page=0
+2025-12-09 13:20:35 - Refreshing reviews for recent game: Vampire Survivors (Added: 2024-12-19)
+2025-12-09 13:20:35 - https://store.steampowered.com/appreviews/1794680?json=1&language=all&num_per_page=0
+2025-12-09 13:20:35 - Refreshing reviews for recent game: Tom Clancy’s Ghost Recon Wildlands (Added: 2025-10-02)
+2025-12-09 13:20:35 - https://store.steampowered.com/appreviews/460930?json=1&language=all&num_per_page=0
+2025-12-09 13:20:35 - Refreshing reviews for recent game: Orcs Must Die! Deathtrap (Added: 2025-01-30)
+2025-12-09 13:20:35 - https://store.steampowered.com/appreviews/2273980?json=1&language=all&num_per_page=0
+2025-12-09 13:20:36 - Refreshing reviews for recent game: SpongeBob SquarePants: The Patrick Star Game (Added: 2025-04-19)
+2025-12-09 13:20:36 - https://store.steampowered.com/appreviews/2322380?json=1&language=all&num_per_page=0
+2025-12-09 13:20:36 - Refreshing reviews for recent game: The Ascent (Added: 2025-06-30)
+2025-12-09 13:20:36 - https://store.steampowered.com/appreviews/345010?json=1&language=all&num_per_page=0
+2025-12-09 13:20:36 - Refreshing reviews for recent game: DIRT 5 (Added: 2025-10-09)
+2025-12-09 13:20:36 - https://store.steampowered.com/appreviews/1038250?json=1&language=all&num_per_page=0
+2025-12-09 13:20:37 - Refreshing reviews for recent game: The Academy: The First Riddle (Added: 2025-08-07)
+2025-12-09 13:20:37 - https://store.steampowered.com/appreviews/1155460?json=1&language=all&num_per_page=0
+2025-12-09 13:20:37 - Refreshing reviews for recent game: Death Knights of Krynn (Added: 2025-11-20)
+2025-12-09 13:20:37 - https://store.steampowered.com/appreviews/1904621?json=1&language=all&num_per_page=0
+2025-12-09 13:20:37 - Refreshing reviews for recent game: Vampire: The Masquerade - Reckoning of New York (Added: 2025-10-09)
+2025-12-09 13:20:37 - https://store.steampowered.com/appreviews/2658720?json=1&language=all&num_per_page=0
+2025-12-09 13:20:38 - Refreshing reviews for recent game: FAR CRY 3 BLOOD DRAGON (Added: 2025-10-02)
+2025-12-09 13:20:38 - https://store.steampowered.com/appreviews/233270?json=1&language=all&num_per_page=0
+2025-12-09 13:20:38 - Refreshing reviews for recent game: Mutazione (Added: 2025-03-21)
+2025-12-09 13:20:38 - https://store.steampowered.com/appreviews/1080750?json=1&language=all&num_per_page=0
+2025-12-09 13:20:38 - Refreshing reviews for recent game: For The King II (Added: 2024-12-11)
+2025-12-09 13:20:38 - https://store.steampowered.com/appreviews/1676840?json=1&language=all&num_per_page=0
+2025-12-09 13:20:39 - Refreshing reviews for recent game: Jupiter Hell (Added: 2025-06-26)
+2025-12-09 13:20:39 - https://store.steampowered.com/appreviews/811320?json=1&language=all&num_per_page=0
+2025-12-09 13:20:39 - Refreshing reviews for recent game: Dead Island 2 (Added: 2025-05-16)
+2025-12-09 13:20:39 - https://store.steampowered.com/appreviews/934700?json=1&language=all&num_per_page=0
+2025-12-09 13:20:39 - Refreshing reviews for recent game: Mecha BREAK (Added: 2025-07-02)
+2025-12-09 13:20:39 - https://store.steampowered.com/appreviews/2452280?json=1&language=all&num_per_page=0
+2025-12-09 13:20:40 - Refreshing reviews for recent game: Splitgate 2 (Added: 2025-06-09)
+2025-12-09 13:20:40 - https://store.steampowered.com/appreviews/2918300?json=1&language=all&num_per_page=0
+2025-12-09 13:20:40 - Refreshing reviews for recent game: Clanfolk (Added: 2024-12-11)
+2025-12-09 13:20:40 - https://store.steampowered.com/appreviews/1700870?json=1&language=all&num_per_page=0
+2025-12-09 13:20:40 - Refreshing reviews for recent game: Immortals Fenyx Rising (Added: 2025-10-02)
+2025-12-09 13:20:40 - https://store.steampowered.com/appreviews/2221920?json=1&language=all&num_per_page=0
+2025-12-09 13:20:40 - Refreshing reviews for recent game: Pax Dei (Added: 2025-10-17)
+2025-12-09 13:20:40 - https://store.steampowered.com/appreviews/1995520?json=1&language=all&num_per_page=0
+2025-12-09 13:20:41 - Refreshing reviews for recent game: Halo Infinite (Added: 2025-03-22)
+2025-12-09 13:20:41 - https://store.steampowered.com/appreviews/1240440?json=1&language=all&num_per_page=0
+2025-12-09 13:20:41 - Refreshing reviews for recent game: Command & Conquer and The Covert Operations (Added: 2025-03-04)
+2025-12-09 13:20:41 - https://store.steampowered.com/appreviews/2229830?json=1&language=all&num_per_page=0
+2025-12-09 13:20:41 - Refreshing reviews for recent game: Clair Obscur: Expedition 33 (Added: 2025-04-24)
+2025-12-09 13:20:41 - https://store.steampowered.com/appreviews/1903340?json=1&language=all&num_per_page=0
+2025-12-09 13:20:42 - Refreshing reviews for recent game: Ravenloft: Stone Prophet (Added: 2025-09-07)
+2025-12-09 13:20:42 - https://store.steampowered.com/appreviews/1904571?json=1&language=all&num_per_page=0
+2025-12-09 13:20:42 - Refreshing reviews for recent game: Trials Rising (Added: 2025-09-30)
+2025-12-09 13:20:42 - https://store.steampowered.com/appreviews/641080?json=1&language=all&num_per_page=0
+2025-12-09 13:20:43 - Refreshing reviews for recent game: Dark Envoy (Added: 2025-06-22)
+2025-12-09 13:20:43 - https://store.steampowered.com/appreviews/945770?json=1&language=all&num_per_page=0
+2025-12-09 13:20:43 - Refreshing reviews for recent game: It Takes Two (Added: 2025-10-24)
+2025-12-09 13:20:43 - https://store.steampowered.com/appreviews/1426210?json=1&language=all&num_per_page=0
+2025-12-09 13:20:43 - Refreshing reviews for recent game: My Time at Sandrock (Added: 2025-08-11)
+2025-12-09 13:20:43 - https://store.steampowered.com/appreviews/1084600?json=1&language=all&num_per_page=0
+2025-12-09 13:20:44 - Refreshing reviews for recent game: ZOMBI (Added: 2025-10-02)
+2025-12-09 13:20:44 - https://store.steampowered.com/appreviews/339230?json=1&language=all&num_per_page=0
+2025-12-09 13:20:44 - Refreshing reviews for recent game: SOPA - Tale of the Stolen Potato (Added: 2025-10-09)
+2025-12-09 13:20:44 - https://store.steampowered.com/appreviews/1935330?json=1&language=all&num_per_page=0
+2025-12-09 13:20:44 - Refreshing reviews for recent game: UNO (Added: 2025-11-08)
+2025-12-09 13:20:44 - https://store.steampowered.com/appreviews/470220?json=1&language=all&num_per_page=0
+2025-12-09 13:20:45 - Refreshing reviews for recent game: Assassin's Creed Unity (Added: 2025-09-30)
+2025-12-09 13:20:45 - https://store.steampowered.com/appreviews/289650?json=1&language=all&num_per_page=0
+2025-12-09 13:20:45 - Refreshing reviews for recent game: Ghost Trick: Phantom Detective (Added: 2025-11-25)
+2025-12-09 13:20:45 - https://store.steampowered.com/appreviews/1967430?json=1&language=all&num_per_page=0
+2025-12-09 13:20:45 - Refreshing reviews for recent game: Leap of Faith + Official Walkthrough (Added: 2025-08-03)
+2025-12-09 13:20:45 - https://store.steampowered.com/appreviews/1768640?json=1&language=all&num_per_page=0
+2025-12-09 13:20:46 - Refreshing reviews for recent game: OneShift (Added: 2025-11-05)
+2025-12-09 13:20:46 - https://store.steampowered.com/appreviews/862740?json=1&language=all&num_per_page=0
+2025-12-09 13:20:46 - Refreshing reviews for recent game: True Fear: Forsaken Souls Part 1 (Added: 2025-10-17)
+2025-12-09 13:20:46 - https://store.steampowered.com/appreviews/440420?json=1&language=all&num_per_page=0
+2025-12-09 13:20:46 - Refreshing reviews for recent game: Dark Sun: Shattered Lands (Added: 2025-11-06)
+2025-12-09 13:20:46 - https://store.steampowered.com/appreviews/1904600?json=1&language=all&num_per_page=0
+2025-12-09 13:20:47 - Refreshing reviews for recent game: The Last Spell (Added: 2025-04-18)
+2025-12-09 13:20:47 - https://store.steampowered.com/appreviews/1105670?json=1&language=all&num_per_page=0
+2025-12-09 13:20:47 - Refreshing reviews for recent game: Backpack Hero (Added: 2025-07-04)
+2025-12-09 13:20:47 - https://store.steampowered.com/appreviews/1970580?json=1&language=all&num_per_page=0
+2025-12-09 13:20:47 - Refreshing reviews for recent game: Call of Duty: Modern Warfare II (Added: 2025-08-01)
+2025-12-09 13:20:47 - https://store.steampowered.com/appreviews/3595230?json=1&language=all&num_per_page=0
+2025-12-09 13:20:48 - Refreshing reviews for recent game: GRIP (Added: 2025-01-18)
+2025-12-09 13:20:48 - https://store.steampowered.com/appreviews/396900?json=1&language=all&num_per_page=0
+2025-12-09 13:20:48 - Refreshing reviews for recent game: Fallout 4 (Added: 2025-11-12)
+2025-12-09 13:20:48 - https://store.steampowered.com/appreviews/377160?json=1&language=all&num_per_page=0
+2025-12-09 13:20:48 - Refreshing reviews for recent game: ENDLESS Dungeon (Added: 2025-02-07)
+2025-12-09 13:20:48 - https://store.steampowered.com/appreviews/1485590?json=1&language=all&num_per_page=0
+2025-12-09 13:20:49 - Refreshing reviews for recent game: Deus Ex: Human Revolution - Director’s Cut (Added: 2025-03-04)
+2025-12-09 13:20:49 - https://store.steampowered.com/appreviews/238010?json=1&language=all&num_per_page=0
+2025-12-09 13:20:49 - Refreshing reviews for recent game: Super Space Club (Added: 2025-05-04)
+2025-12-09 13:20:49 - https://store.steampowered.com/appreviews/1100290?json=1&language=all&num_per_page=0
+2025-12-09 13:20:49 - Refreshing reviews for recent game: Ghostrunner 2 (Added: 2024-12-27)
+2025-12-09 13:20:49 - https://store.steampowered.com/appreviews/2144740?json=1&language=all&num_per_page=0
+2025-12-09 13:20:50 - Refreshing reviews for recent game: Lara Croft and the Guardian of Light (Added: 2025-10-02)
+2025-12-09 13:20:50 - https://store.steampowered.com/appreviews/35130?json=1&language=all&num_per_page=0
+2025-12-09 13:20:50 - Refreshing reviews for recent game: WATCH_DOGS (Added: 2025-10-02)
+2025-12-09 13:20:50 - https://store.steampowered.com/appreviews/243470?json=1&language=all&num_per_page=0
+2025-12-09 13:20:51 - Refreshing reviews for recent game: Far Cry 6 (Added: 2025-10-02)
+2025-12-09 13:20:51 - https://store.steampowered.com/appreviews/2369390?json=1&language=all&num_per_page=0
+2025-12-09 13:20:51 - Refreshing reviews for recent game: HUMANKIND (Added: 2025-02-07)
+2025-12-09 13:20:51 - https://store.steampowered.com/appreviews/1124300?json=1&language=all&num_per_page=0
+2025-12-09 13:20:51 - Refreshing reviews for recent game: Hellslave (Added: 2025-10-24)
+2025-12-09 13:20:51 - https://store.steampowered.com/appreviews/1608450?json=1&language=all&num_per_page=0
+2025-12-09 13:20:52 - Refreshing reviews for recent game: Assassin's Creed Odyssey (Added: 2025-10-02)
+2025-12-09 13:20:52 - https://store.steampowered.com/appreviews/812140?json=1&language=all&num_per_page=0
+2025-12-09 13:20:52 - Refreshing reviews for recent game: House Party (Added: 2025-08-03)
+2025-12-09 13:20:52 - https://store.steampowered.com/appreviews/611790?json=1&language=all&num_per_page=0
+2025-12-09 13:20:52 - Refreshing reviews for recent game: Mini Thief (Added: 2025-01-18)
+2025-12-09 13:20:52 - https://store.steampowered.com/appreviews/481870?json=1&language=all&num_per_page=0
+2025-12-09 13:20:53 - Refreshing reviews for recent game: Pillars of Eternity (Added: 2025-10-16)
+2025-12-09 13:20:53 - https://store.steampowered.com/appreviews/291650?json=1&language=all&num_per_page=0
+2025-12-09 13:20:53 - Refreshing reviews for recent game: Far Cry 5 (Added: 2025-10-02)
+2025-12-09 13:20:53 - https://store.steampowered.com/appreviews/823990?json=1&language=all&num_per_page=0
+2025-12-09 13:20:53 - Refreshing reviews for recent game: Oddballers (Added: 2025-11-08)
+2025-12-09 13:20:53 - https://store.steampowered.com/appreviews/1064070?json=1&language=all&num_per_page=0
+2025-12-09 13:20:54 - Refreshing reviews for recent game: Trackmania Turbo (Added: 2025-10-02)
+2025-12-09 13:20:54 - https://store.steampowered.com/appreviews/375900?json=1&language=all&num_per_page=0
+2025-12-09 13:20:54 - Refreshing reviews for recent game: Poco (Added: 2025-05-01)
+2025-12-09 13:20:54 - https://store.steampowered.com/appreviews/3454610?json=1&language=all&num_per_page=0
+2025-12-09 13:20:54 - Refreshing reviews for recent game: Styx: Master of Shadows (Added: 2025-05-04)
+2025-12-09 13:20:54 - https://store.steampowered.com/appreviews/242640?json=1&language=all&num_per_page=0
+2025-12-09 13:20:54 - Refreshing reviews for recent game: Young Suns (Added: 2025-11-25)
+2025-12-09 13:20:54 - https://store.steampowered.com/appreviews/4149610?json=1&language=all&num_per_page=0
+2025-12-09 13:20:55 - Refreshing reviews for recent game: The Crew 2 (Added: 2025-10-02)
+2025-12-09 13:20:55 - https://store.steampowered.com/appreviews/646910?json=1&language=all&num_per_page=0
+2025-12-09 13:20:55 - Refreshing reviews for recent game: Session: Skate Sim (Added: 2025-03-27)
+2025-12-09 13:20:55 - https://store.steampowered.com/appreviews/861650?json=1&language=all&num_per_page=0
+2025-12-09 13:20:55 - Refreshing reviews for recent game: Mythwrecked: Ambrosia Island (Added: 2025-03-20)
+2025-12-09 13:20:55 - https://store.steampowered.com/appreviews/2000210?json=1&language=all&num_per_page=0
+2025-12-09 13:20:56 - Refreshing reviews for recent game: The Abandoned Planet (Added: 2025-06-09)
+2025-12-09 13:20:56 - https://store.steampowered.com/appreviews/2014470?json=1&language=all&num_per_page=0
+2025-12-09 13:20:56 - Refreshing reviews for recent game: FAR CRY 4 (Added: 2025-10-02)
+2025-12-09 13:20:56 - https://store.steampowered.com/appreviews/298110?json=1&language=all&num_per_page=0
+2025-12-09 13:20:57 - Refreshing reviews for recent game: Dark and Darker (Added: 2024-12-24)
+2025-12-09 13:20:57 - https://store.steampowered.com/appreviews/2016590?json=1&language=all&num_per_page=0
+2025-12-09 13:20:57 - Refreshing reviews for recent game: Dragons of Flame (Added: 2025-08-28)
+2025-12-09 13:20:57 - https://store.steampowered.com/appreviews/2350512?json=1&language=all&num_per_page=0
+2025-12-09 13:20:57 - Refreshing reviews for recent game: Bounty Star (Added: 2025-10-24)
+2025-12-09 13:20:57 - https://store.steampowered.com/appreviews/1497430?json=1&language=all&num_per_page=0
+2025-12-09 13:20:58 - Refreshing reviews for recent game: Faraway: Director's Cut (Added: 2025-03-31)
+2025-12-09 13:20:58 - https://store.steampowered.com/appreviews/883880?json=1&language=all&num_per_page=0
+2025-12-09 13:20:58 - Refreshing reviews for recent game: Nubs! (Added: 2025-05-14)
+2025-12-09 13:20:58 - https://store.steampowered.com/appreviews/2337860?json=1&language=all&num_per_page=0
+2025-12-09 13:20:58 - Refreshing reviews for recent game: El Hijo (Added: 2025-02-21)
+2025-12-09 13:20:58 - https://store.steampowered.com/appreviews/853050?json=1&language=all&num_per_page=0
+2025-12-09 13:20:58 - Refreshing reviews for recent game: Heroes of Loot 2 (Added: 2025-08-30)
+2025-12-09 13:20:58 - https://store.steampowered.com/appreviews/439880?json=1&language=all&num_per_page=0
+2025-12-09 13:20:59 - Refreshing reviews for recent game: Hollow Knight: Silksong (Added: 2025-09-07)
+2025-12-09 13:20:59 - https://store.steampowered.com/appreviews/1030300?json=1&language=all&num_per_page=0
+2025-12-09 13:20:59 - Refreshing reviews for recent game: Deep Rock Galactic: Survivor (Added: 2025-09-17)
+2025-12-09 13:20:59 - https://store.steampowered.com/appreviews/2321470?json=1&language=all&num_per_page=0
+2025-12-09 13:20:59 - Refreshing reviews for recent game: Keylocker | Turn Based Cyberpunk Action (Added: 2025-08-01)
+2025-12-09 13:20:59 - https://store.steampowered.com/appreviews/1325040?json=1&language=all&num_per_page=0
+2025-12-09 13:21:00 - Refreshing reviews for recent game: Tom Clancy’s Rainbow Six Extraction (Added: 2025-10-02)
+2025-12-09 13:21:00 - https://store.steampowered.com/appreviews/2379390?json=1&language=all&num_per_page=0
+2025-12-09 13:21:00 - Refreshing reviews for recent game: The Dark Queen of Krynn (Added: 2025-11-20)
+2025-12-09 13:21:00 - https://store.steampowered.com/appreviews/1904622?json=1&language=all&num_per_page=0
+2025-12-09 13:21:00 - Refreshing reviews for recent game: ENDER LILIES: Quietus of the Knights (Added: 2025-01-31)
+2025-12-09 13:21:00 - https://store.steampowered.com/appreviews/1369630?json=1&language=all&num_per_page=0
+2025-12-09 13:21:01 - Refreshing reviews for recent game: Bulb Boy (Added: 2025-11-06)
+2025-12-09 13:21:01 - https://store.steampowered.com/appreviews/390290?json=1&language=all&num_per_page=0
+2025-12-09 13:21:01 - Refreshing reviews for recent game: BioShock 2 Remastered (Added: 2025-01-09)
+2025-12-09 13:21:01 - https://store.steampowered.com/appreviews/409720?json=1&language=all&num_per_page=0
+2025-12-09 13:21:01 - Refreshing reviews for recent game: Enlisted (Added: 2025-08-16)
+2025-12-09 13:21:01 - https://store.steampowered.com/appreviews/2051620?json=1&language=all&num_per_page=0
+2025-12-09 13:21:02 - Refreshing reviews for recent game: The Settlers: New Allies (Added: 2025-10-02)
+2025-12-09 13:21:02 - https://store.steampowered.com/appreviews/2750080?json=1&language=all&num_per_page=0
+2025-12-09 13:21:02 - Refreshing reviews for recent game: Command & Conquer: Renegade (Added: 2025-03-04)
+2025-12-09 13:21:02 - https://store.steampowered.com/appreviews/2229890?json=1&language=all&num_per_page=0
+2025-12-09 13:21:02 - Refreshing reviews for recent game: Football Manager 26 (Added: 2025-11-05)
+2025-12-09 13:21:02 - https://store.steampowered.com/appreviews/3551340?json=1&language=all&num_per_page=0
+2025-12-09 13:21:03 - Refreshing reviews for recent game: Starlink: Battle for Atlas (Added: 2025-10-02)
+2025-12-09 13:21:03 - https://store.steampowered.com/appreviews/950050?json=1&language=all&num_per_page=0
+2025-12-09 13:21:03 - Refreshing reviews for recent game: Mansions of Madness (Added: 2025-05-12)
+2025-12-09 13:21:03 - https://store.steampowered.com/appreviews/478980?json=1&language=all&num_per_page=0
+2025-12-09 13:21:03 - Refreshing reviews for recent game: Thief 2: The Metal Age (Added: 2025-05-23)
+2025-12-09 13:21:03 - https://store.steampowered.com/appreviews/211740?json=1&language=all&num_per_page=0
+2025-12-09 13:21:03 - Refreshing reviews for recent game: FBC: Firebreak (Added: 2025-06-17)
+2025-12-09 13:21:03 - https://store.steampowered.com/appreviews/2272540?json=1&language=all&num_per_page=0
+2025-12-09 13:21:04 - Refreshing reviews for recent game: Eiyuden Chronicle: Hundred Heroes (Added: 2025-05-01)
+2025-12-09 13:21:04 - https://store.steampowered.com/appreviews/1658280?json=1&language=all&num_per_page=0
+2025-12-09 13:21:04 - Refreshing reviews for recent game: Assassin's Creed III - Remastered (Added: 2025-11-08)
+2025-12-09 13:21:04 - https://store.steampowered.com/appreviews/911400?json=1&language=all&num_per_page=0
+2025-12-09 13:21:04 - Refreshing reviews for recent game: Carrion (Added: 2025-01-02)
+2025-12-09 13:21:04 - https://store.steampowered.com/appreviews/953490?json=1&language=all&num_per_page=0
+2025-12-09 13:21:05 - Refreshing reviews for recent game: Stunt Kite Party (Added: 2025-02-14)
+2025-12-09 13:21:05 - https://store.steampowered.com/appreviews/960240?json=1&language=all&num_per_page=0
+2025-12-09 13:21:05 - Refreshing reviews for recent game: 911 Operator (Added: 2025-10-25)
+2025-12-09 13:21:05 - https://store.steampowered.com/appreviews/503560?json=1&language=all&num_per_page=0
+2025-12-09 13:21:05 - Refreshing reviews for recent game: Zombie Army 4 Dead War (Added: 2025-01-31)
+2025-12-09 13:21:05 - https://store.steampowered.com/appreviews/694280?json=1&language=all&num_per_page=0
+2025-12-09 13:21:06 - Refreshing reviews for recent game: Assassin's Creed Origins (Added: 2025-10-02)
+2025-12-09 13:21:06 - https://store.steampowered.com/appreviews/582160?json=1&language=all&num_per_page=0
+2025-12-09 13:21:06 - Refreshing reviews for recent game: Shade Silver (Added: 2025-08-18)
+2025-12-09 13:21:06 - https://store.steampowered.com/appreviews/2905180?json=1&language=all&num_per_page=0
+2025-12-09 13:21:06 - Refreshing reviews for recent game: Firefighting Simulator - The Squad (Added: 2025-05-20)
+2025-12-09 13:21:06 - https://store.steampowered.com/appreviews/420560?json=1&language=all&num_per_page=0
+2025-12-09 13:21:07 - Refreshing reviews for recent game: Dark Sun: Wake of the Ravager (Added: 2025-11-06)
+2025-12-09 13:21:07 - https://store.steampowered.com/appreviews/1904601?json=1&language=all&num_per_page=0
+2025-12-09 13:21:07 - Refreshing reviews for recent game: Ravenswatch (Added: 2025-02-07)
+2025-12-09 13:21:07 - https://store.steampowered.com/appreviews/2071280?json=1&language=all&num_per_page=0
+2025-12-09 13:21:07 - Refreshing reviews for recent game: Jurassic World Evolution 2 (Added: 2025-03-20)
+2025-12-09 13:21:07 - https://store.steampowered.com/appreviews/1244460?json=1&language=all&num_per_page=0
+2025-12-09 13:21:08 - Refreshing reviews for recent game: Death Squared (Added: 2025-06-17)
+2025-12-09 13:21:08 - https://store.steampowered.com/appreviews/471810?json=1&language=all&num_per_page=0
+2025-12-09 13:21:08 - Refreshing reviews for recent game: South Park: The Stick of Truth (Added: 2025-10-02)
+2025-12-09 13:21:08 - https://store.steampowered.com/appreviews/213670?json=1&language=all&num_per_page=0
+2025-12-09 13:21:08 - Refreshing reviews for recent game: Tom Clancy's The Division 2 (Added: 2025-10-02)
+2025-12-09 13:21:08 - https://store.steampowered.com/appreviews/2221490?json=1&language=all&num_per_page=0
+2025-12-09 13:21:09 - Refreshing reviews for recent game: Grounded 2 (Added: 2025-08-01)
+2025-12-09 13:21:09 - https://store.steampowered.com/appreviews/2661300?json=1&language=all&num_per_page=0
+2025-12-09 13:21:09 - Refreshing reviews for recent game: Gunslugs (Added: 2025-11-27)
+2025-12-09 13:21:09 - https://store.steampowered.com/appreviews/371890?json=1&language=all&num_per_page=0
+2025-12-09 13:21:09 - Refreshing reviews for recent game: Packed Train (Added: 2025-10-30)
+2025-12-09 13:21:09 - https://store.steampowered.com/appreviews/821400?json=1&language=all&num_per_page=0
+2025-12-09 13:21:10 - Refreshing reviews for recent game: Skull and Bones (Added: 2025-10-02)
+2025-12-09 13:21:10 - https://store.steampowered.com/appreviews/2853730?json=1&language=all&num_per_page=0
+2025-12-09 13:21:10 - Refreshing reviews for recent game: Tomb Raider I-III Remastered Starring Lara Croft (Added: 2025-06-22)
+2025-12-09 13:21:10 - https://store.steampowered.com/appreviews/2478970?json=1&language=all&num_per_page=0
+2025-12-09 13:21:10 - Refreshing reviews for recent game: Make Way (Added: 2025-08-28)
+2025-12-09 13:21:10 - https://store.steampowered.com/appreviews/1445790?json=1&language=all&num_per_page=0
+2025-12-09 13:21:11 - Refreshing reviews for recent game: Aaero (Added: 2025-11-24)
+2025-12-09 13:21:11 - https://store.steampowered.com/appreviews/499890?json=1&language=all&num_per_page=0
+2025-12-09 13:21:11 - Refreshing reviews for recent game: Labyrinth City: Pierre the Maze Detective (Added: 2025-08-28)
+2025-12-09 13:21:11 - https://store.steampowered.com/appreviews/1421790?json=1&language=all&num_per_page=0
+2025-12-09 13:21:11 - Refreshing reviews for recent game: Kitchen Wars (Added: 2025-07-31)
+2025-12-09 13:21:11 - https://store.steampowered.com/appreviews/2955840?json=1&language=all&num_per_page=0
+2025-12-09 13:21:12 - Refreshing reviews for recent game: The Rogue Prince of Persia (Added: 2025-08-28)
+2025-12-09 13:21:12 - https://store.steampowered.com/appreviews/2717880?json=1&language=all&num_per_page=0
+2025-12-09 13:21:12 - Refreshing reviews for recent game: STEEP (Added: 2025-10-02)
+2025-12-09 13:21:12 - https://store.steampowered.com/appreviews/460920?json=1&language=all&num_per_page=0
+2025-12-09 13:21:12 - Refreshing reviews for recent game: Inverta (Added: 2025-08-14)
+2025-12-09 13:21:12 - https://store.steampowered.com/appreviews/3550930?json=1&language=all&num_per_page=0
+2025-12-09 13:21:13 - Refreshing reviews for recent game: Ultimate Chicken Horse (Added: 2025-07-04)
+2025-12-09 13:21:13 - https://store.steampowered.com/appreviews/386940?json=1&language=all&num_per_page=0
+2025-12-09 13:21:13 - Refreshing reviews for recent game: Cryptmaster (Added: 2025-09-18)
+2025-12-09 13:21:13 - https://store.steampowered.com/appreviews/1885110?json=1&language=all&num_per_page=0
+2025-12-09 13:21:13 - Refreshing reviews for recent game: Boxes: Lost Fragments (Added: 2025-07-04)
+2025-12-09 13:21:13 - https://store.steampowered.com/appreviews/2019810?json=1&language=all&num_per_page=0
+2025-12-09 13:21:14 - Refreshing reviews for recent game: Supermarket Simulator (Added: 2025-10-09)
+2025-12-09 13:21:14 - https://store.steampowered.com/appreviews/2670630?json=1&language=all&num_per_page=0
+2025-12-09 13:21:14 - Refreshing reviews for recent game: Evil West (Added: 2025-05-01)
+2025-12-09 13:21:14 - https://store.steampowered.com/appreviews/1065310?json=1&language=all&num_per_page=0
+2025-12-09 13:21:14 - Refreshing reviews for recent game: Cataclismo (Added: 2025-09-07)
+2025-12-09 13:21:14 - https://store.steampowered.com/appreviews/1422440?json=1&language=all&num_per_page=0
+2025-12-09 13:21:15 - Refreshing reviews for recent game: Monster Hunter Wilds (Added: 2025-04-07)
+2025-12-09 13:21:15 - https://store.steampowered.com/appreviews/2246340?json=1&language=all&num_per_page=0
+2025-12-09 13:21:15 - Refreshing reviews for recent game: Tony Hawk's Pro Skater 3 + 4 (Added: 2025-07-25)
+2025-12-09 13:21:15 - https://store.steampowered.com/appreviews/2545710?json=1&language=all&num_per_page=0
+2025-12-09 13:21:15 - Refreshing reviews for recent game: Schedule I (Added: 2025-09-07)
+2025-12-09 13:21:15 - https://store.steampowered.com/appreviews/3164500?json=1&language=all&num_per_page=0
+2025-12-09 13:21:16 - Refreshing reviews for recent game: Assassin’s Creed Syndicate (Added: 2025-10-02)
+2025-12-09 13:21:16 - https://store.steampowered.com/appreviews/368500?json=1&language=all&num_per_page=0
+2025-12-09 13:21:16 - Refreshing reviews for recent game: Paradox Soul (Added: 2025-06-11)
+2025-12-09 13:21:16 - https://store.steampowered.com/appreviews/610570?json=1&language=all&num_per_page=0
+2025-12-09 13:21:16 - Refreshing reviews for recent game: Caribbean Crashers (Added: 2025-07-11)
+2025-12-09 13:21:16 - https://store.steampowered.com/appreviews/2921380?json=1&language=all&num_per_page=0
+2025-12-09 13:21:17 - Refreshing reviews for recent game: Back to the Dawn (Added: 2025-07-18)
+2025-12-09 13:21:17 - https://store.steampowered.com/appreviews/1735700?json=1&language=all&num_per_page=0
+2025-12-09 13:21:17 - Refreshing reviews for recent game: Assassin’s Creed Chronicles: India (Added: 2025-10-02)
+2025-12-09 13:21:17 - https://store.steampowered.com/appreviews/359610?json=1&language=all&num_per_page=0
+2025-12-09 13:21:17 - Refreshing reviews for recent game: TOEM (Added: 2025-06-22)
+2025-12-09 13:21:17 - https://store.steampowered.com/appreviews/1307580?json=1&language=all&num_per_page=0
+2025-12-09 13:21:18 - Refreshing reviews for recent game: Crash Bandicoot 4: It’s About Time (Added: 2025-10-30)
+2025-12-09 13:21:18 - https://store.steampowered.com/appreviews/1378990?json=1&language=all&num_per_page=0
+2025-12-09 13:21:18 - Refreshing reviews for recent game: Afterimage (Added: 2025-09-12)
+2025-12-09 13:21:18 - https://store.steampowered.com/appreviews/1701520?json=1&language=all&num_per_page=0
+2025-12-09 13:21:19 - Refreshing reviews for recent game: Halo: The Master Chief Collection (Added: 2025-01-14)
+2025-12-09 13:21:19 - https://store.steampowered.com/appreviews/976730?json=1&language=all&num_per_page=0
+2025-12-09 13:21:19 - Refreshing reviews for recent game: Snake Eyes Dungeon (Added: 2025-09-29)
+2025-12-09 13:21:19 - https://store.steampowered.com/appreviews/740240?json=1&language=all&num_per_page=0
+2025-12-09 13:21:21 - Refreshing reviews for recent game: SMITE 2 (Game Preview) (Added: 2025-03-26)
+2025-12-09 13:21:21 - https://store.steampowered.com/appreviews/2437170?json=1&language=all&num_per_page=0
+2025-12-09 13:21:21 - Refreshing reviews for recent game: Between Horizons (Added: 2025-06-13)
+2025-12-09 13:21:21 - https://store.steampowered.com/appreviews/1921980?json=1&language=all&num_per_page=0
+2025-12-09 13:21:21 - Refreshing reviews for recent game: Watch Dogs: Legion (Added: 2025-08-16)
+2025-12-09 13:21:21 - https://store.steampowered.com/appreviews/2239550?json=1&language=all&num_per_page=0
+2025-12-09 13:21:22 - Refreshing reviews for recent game: Call of Duty: WWII (Added: 2025-08-28)
+2025-12-09 13:21:22 - https://store.steampowered.com/appreviews/476600?json=1&language=all&num_per_page=0
+2025-12-09 13:21:22 - Refreshing reviews for recent game: The Sims 4 (Added: 2025-10-13)
+2025-12-09 13:21:22 - https://store.steampowered.com/appreviews/1222670?json=1&language=all&num_per_page=0
+2025-12-09 13:21:23 - Refreshing reviews for recent game: Bendy and the Ink Machine (Added: 2025-10-31)
+2025-12-09 13:21:23 - https://store.steampowered.com/appreviews/622650?json=1&language=all&num_per_page=0
+2025-12-09 13:21:23 - Refreshing reviews for recent game: Night Reverie (Added: 2025-03-04)
+2025-12-09 13:21:23 - https://store.steampowered.com/appreviews/1254670?json=1&language=all&num_per_page=0
+2025-12-09 13:21:23 - Refreshing reviews for recent game: STAR WARS Rebellion (Added: 2025-06-22)
+2025-12-09 13:21:23 - https://store.steampowered.com/appreviews/441550?json=1&language=all&num_per_page=0
+2025-12-09 13:21:24 - Refreshing reviews for recent game: RoboCop: Rogue City (Added: 2025-07-17)
+2025-12-09 13:21:24 - https://store.steampowered.com/appreviews/1681430?json=1&language=all&num_per_page=0
+2025-12-09 13:21:24 - Refreshing reviews for recent game: Distant Space 2 (Added: 2024-12-18)
+2025-12-09 13:21:24 - https://store.steampowered.com/appreviews/729460?json=1&language=all&num_per_page=0
+2025-12-09 13:21:24 - Refreshing reviews for recent game: Subterrain: Mines of Titan (Added: 2025-09-12)
+2025-12-09 13:21:24 - https://store.steampowered.com/appreviews/1573100?json=1&language=all&num_per_page=0
+2025-12-09 13:21:25 - Refreshing reviews for recent game: STAR WARS Jedi: Survivor (Added: 2025-10-24)
+2025-12-09 13:21:25 - https://store.steampowered.com/appreviews/1774580?json=1&language=all&num_per_page=0
+2025-12-09 13:21:25 - Refreshing reviews for recent game: Grand Theft Auto V (Added: 2025-04-19)
+2025-12-09 13:21:25 - https://store.steampowered.com/appreviews/271590?json=1&language=all&num_per_page=0
+2025-12-09 13:21:25 - Refreshing reviews for recent game: To The Rescue (Added: 2025-01-31)
+2025-12-09 13:21:25 - https://store.steampowered.com/appreviews/946720?json=1&language=all&num_per_page=0
+2025-12-09 13:21:26 - Refreshing reviews for recent game: Superball (Added: 2025-10-29)
+2025-12-09 13:21:26 - https://store.steampowered.com/appreviews/1059110?json=1&language=all&num_per_page=0
+2025-12-09 13:21:26 - Refreshing reviews for recent game: Distant Space (Added: 2025-10-21)
+2025-12-09 13:21:26 - https://store.steampowered.com/appreviews/569610?json=1&language=all&num_per_page=0
+2025-12-09 13:21:26 - Refreshing reviews for recent game: Hardspace: Shipbreaker (Added: 2025-02-14)
+2025-12-09 13:21:26 - https://store.steampowered.com/appreviews/1161580?json=1&language=all&num_per_page=0
+2025-12-09 13:21:27 - Refreshing reviews for recent game: Gears of War: Reloaded (Added: 2025-08-28)
+2025-12-09 13:21:27 - https://store.steampowered.com/appreviews/2523720?json=1&language=all&num_per_page=0
+2025-12-09 13:21:27 - Refreshing reviews for recent game: Fashion Police Squad (Added: 2025-04-18)
+2025-12-09 13:21:27 - https://store.steampowered.com/appreviews/1319460?json=1&language=all&num_per_page=0
+2025-12-09 13:21:27 - Refreshing reviews for recent game: The Smurfs 2 - The Prisoner of the Green Stone (Added: 2025-02-14)
+2025-12-09 13:21:27 - https://store.steampowered.com/appreviews/2397500?json=1&language=all&num_per_page=0
+2025-12-09 13:21:28 - Refreshing reviews for recent game: Wordle 2 (Added: 2025-11-20)
+2025-12-09 13:21:28 - https://store.steampowered.com/appreviews/1386730?json=1&language=all&num_per_page=0
+2025-12-09 13:21:28 - Refreshing reviews for recent game: Enter The Gungeon (Added: 2025-03-20)
+2025-12-09 13:21:28 - https://store.steampowered.com/appreviews/311690?json=1&language=all&num_per_page=0
+2025-12-09 13:21:29 - Refreshing reviews for recent game: REMATCH (Added: 2025-06-22)
+2025-12-09 13:21:29 - https://store.steampowered.com/appreviews/2138720?json=1&language=all&num_per_page=0
+2025-12-09 13:21:29 - Refreshing reviews for recent game: Assassin's Creed Freedom Cry (Added: 2025-10-02)
+2025-12-09 13:21:29 - https://store.steampowered.com/appreviews/277590?json=1&language=all&num_per_page=0
+2025-12-09 13:21:29 - Refreshing reviews for recent game: Visions of Mana (Added: 2025-09-26)
+2025-12-09 13:21:29 - https://store.steampowered.com/appreviews/2490990?json=1&language=all&num_per_page=0
+2025-12-09 13:21:30 - Refreshing reviews for recent game: Scott Pilgrim vs The World (Added: 2025-10-02)
+2025-12-09 13:21:30 - https://store.steampowered.com/appreviews/2215260?json=1&language=all&num_per_page=0
+2025-12-09 13:21:30 - Refreshing reviews for recent game: Hell Let Loose (Added: 2025-01-03)
+2025-12-09 13:21:30 - https://store.steampowered.com/appreviews/686810?json=1&language=all&num_per_page=0
+2025-12-09 13:21:30 - Refreshing reviews for recent game: Cybarian: The Time Travelling Warrior (Added: 2025-09-19)
+2025-12-09 13:21:30 - https://store.steampowered.com/appreviews/928840?json=1&language=all&num_per_page=0
+2025-12-09 13:21:31 - Refreshing reviews for recent game: Puzzle Chambers (Added: 2025-09-14)
+2025-12-09 13:21:31 - https://store.steampowered.com/appreviews/740410?json=1&language=all&num_per_page=0
+2025-12-09 13:21:31 - Refreshing reviews for recent game: Hades (Added: 2025-09-21)
+2025-12-09 13:21:31 - https://store.steampowered.com/appreviews/1145360?json=1&language=all&num_per_page=0
+2025-12-09 13:21:31 - Refreshing reviews for recent game: One Lonely Outpost (Added: 2025-03-08)
+2025-12-09 13:21:31 - https://store.steampowered.com/appreviews/1465550?json=1&language=all&num_per_page=0
+2025-12-09 13:21:32 - Refreshing reviews for recent game: Command & Conquer Red Alert 3 (Added: 2025-03-04)
+2025-12-09 13:21:32 - https://store.steampowered.com/appreviews/17480?json=1&language=all&num_per_page=0
+2025-12-09 13:21:32 - Refreshing reviews for recent game: CloverPit (Added: 2025-11-20)
+2025-12-09 13:21:32 - https://store.steampowered.com/appreviews/3314790?json=1&language=all&num_per_page=0
+2025-12-09 13:21:32 - Refreshing reviews for recent game: Papetura (Added: 2025-06-26)
+2025-12-09 13:21:32 - https://store.steampowered.com/appreviews/593640?json=1&language=all&num_per_page=0
+2025-12-09 13:21:32 - Refreshing reviews for recent game: Volcano Princess (Added: 2025-06-24)
+2025-12-09 13:21:32 - https://store.steampowered.com/appreviews/1669980?json=1&language=all&num_per_page=0
+2025-12-09 13:21:33 - Refreshing reviews for recent game: Rocket League (Added: 2025-11-20)
+2025-12-09 13:21:33 - https://store.steampowered.com/appreviews/252950?json=1&language=all&num_per_page=0
+2025-12-09 13:21:33 - Refreshing reviews for recent game: HuniePop (Added: 2025-01-20)
+2025-12-09 13:21:33 - https://store.steampowered.com/appreviews/339800?json=1&language=all&num_per_page=0
+2025-12-09 13:21:34 - Refreshing reviews for recent game: You Will Die Here Tonight (Added: 2025-10-31)
+2025-12-09 13:21:34 - https://store.steampowered.com/appreviews/1446350?json=1&language=all&num_per_page=0
+2025-12-09 13:21:34 - Refreshing reviews for recent game: Firestone Online Idle RPG (Added: 2025-04-18)
+2025-12-09 13:21:34 - https://store.steampowered.com/appreviews/1013320?json=1&language=all&num_per_page=0
+2025-12-09 13:21:34 - Refreshing reviews for recent game: MONOPOLY Madness (Added: 2025-10-02)
+2025-12-09 13:21:34 - https://store.steampowered.com/appreviews/2383760?json=1&language=all&num_per_page=0
+2025-12-09 13:21:35 - Refreshing reviews for recent game: SWORN (Added: 2025-09-23)
+2025-12-09 13:21:35 - https://store.steampowered.com/appreviews/1763250?json=1&language=all&num_per_page=0
+2025-12-09 13:21:35 - Refreshing reviews for recent game: Let's Build a Zoo (Added: 2025-03-27)
+2025-12-09 13:21:35 - https://store.steampowered.com/appreviews/1547890?json=1&language=all&num_per_page=0
+2025-12-09 13:21:35 - Refreshing reviews for recent game: Shadow of the Tomb Raider (Added: 2025-03-22)
+2025-12-09 13:21:35 - https://store.steampowered.com/appreviews/750920?json=1&language=all&num_per_page=0
+2025-12-09 13:21:36 - Refreshing reviews for recent game: 1000xRESIST (Added: 2025-04-24)
+2025-12-09 13:21:36 - https://store.steampowered.com/appreviews/1675830?json=1&language=all&num_per_page=0
+2025-12-09 13:21:36 - Refreshing reviews for recent game: Great God Grove (Added: 2025-11-12)
+2025-12-09 13:21:36 - https://store.steampowered.com/appreviews/2840190?json=1&language=all&num_per_page=0
+2025-12-09 13:21:36 - Refreshing reviews for recent game: Whiskerwood (Game Preview) (Added: 2025-11-06)
+2025-12-09 13:21:36 - https://store.steampowered.com/appreviews/2489330?json=1&language=all&num_per_page=0
+2025-12-09 13:21:37 - Refreshing reviews for recent game: Assassin's Creed IV Black Flag (Added: 2025-10-02)
+2025-12-09 13:21:37 - https://store.steampowered.com/appreviews/242050?json=1&language=all&num_per_page=0
+2025-12-09 13:21:37 - Refreshing reviews for recent game: Strange Horticulture (Added: 2025-02-11)
+2025-12-09 13:21:37 - https://store.steampowered.com/appreviews/1574580?json=1&language=all&num_per_page=0
+2025-12-09 13:21:37 - Refreshing reviews for recent game: Fetish Locator Week One (Added: 2025-08-03)
+2025-12-09 13:21:37 - https://store.steampowered.com/appreviews/1360980?json=1&language=all&num_per_page=0
+2025-12-09 13:21:38 - Refreshing reviews for recent game: Samorost 3 (Added: 2025-10-17)
+2025-12-09 13:21:38 - https://store.steampowered.com/appreviews/421120?json=1&language=all&num_per_page=0
+2025-12-09 13:21:38 - Refreshing reviews for recent game: THE FINALS (Added: 2025-03-26)
+2025-12-09 13:21:38 - https://store.steampowered.com/appreviews/2073850?json=1&language=all&num_per_page=0
+2025-12-09 13:21:38 - Refreshing reviews for recent game: Sands of Aura (Added: 2025-02-07)
+2025-12-09 13:21:38 - https://store.steampowered.com/appreviews/1119840?json=1&language=all&num_per_page=0
+2025-12-09 13:21:39 - Refreshing reviews for recent game: Ultros (Added: 2025-05-01)
+2025-12-09 13:21:39 - https://store.steampowered.com/appreviews/2386310?json=1&language=all&num_per_page=0
+2025-12-09 13:21:39 - Refreshing reviews for recent game: Agony (Added: 2025-08-03)
+2025-12-09 13:21:39 - https://store.steampowered.com/appreviews/487720?json=1&language=all&num_per_page=0
+2025-12-09 13:21:39 - Refreshing reviews for recent game: PlateUp! (Added: 2025-11-20)
+2025-12-09 13:21:39 - https://store.steampowered.com/appreviews/1599600?json=1&language=all&num_per_page=0
+2025-12-09 13:21:39 - Refreshing reviews for recent game: The Will of Arthur Flabbington (Added: 2025-06-26)
+2025-12-09 13:21:39 - https://store.steampowered.com/appreviews/2174720?json=1&language=all&num_per_page=0
+2025-12-09 13:21:40 - Refreshing reviews for recent game: Dragon Age: The Veilguard (Added: 2025-10-24)
+2025-12-09 13:21:40 - https://store.steampowered.com/appreviews/1845910?json=1&language=all&num_per_page=0
+2025-12-09 13:21:40 - Refreshing reviews for recent game: Commandos: Origins (Win) (Added: 2025-04-11)
+2025-12-09 13:21:40 - https://store.steampowered.com/appreviews/1479730?json=1&language=all&num_per_page=0
+2025-12-09 13:21:40 - Refreshing reviews for recent game: Republic of Jungle (Added: 2025-02-21)
+2025-12-09 13:21:40 - https://store.steampowered.com/appreviews/1413250?json=1&language=all&num_per_page=0
+2025-12-09 13:21:41 - Refreshing reviews for recent game: Saints Row: Gat out of Hell (Added: 2025-05-16)
+2025-12-09 13:21:41 - https://store.steampowered.com/appreviews/301910?json=1&language=all&num_per_page=0
+2025-12-09 13:21:41 - Refreshing reviews for recent game: LEGO 2K Drive (Added: 2025-12-05)
+2025-12-09 13:21:41 - https://store.steampowered.com/appreviews/1451810?json=1&language=all&num_per_page=0
+2025-12-09 13:21:41 - Refreshing reviews for recent game: The Thaumaturge (Added: 2025-05-01)
+2025-12-09 13:21:41 - https://store.steampowered.com/appreviews/1684350?json=1&language=all&num_per_page=0
+2025-12-09 13:21:42 - Refreshing reviews for recent game: Warhammer 40,000: Rogue Trader (Added: 2025-02-21)
+2025-12-09 13:21:42 - https://store.steampowered.com/appreviews/2186680?json=1&language=all&num_per_page=0
+2025-12-09 13:21:42 - Refreshing reviews for recent game: War of the Lance (Added: 2025-08-28)
+2025-12-09 13:21:42 - https://store.steampowered.com/appreviews/2350513?json=1&language=all&num_per_page=0
+2025-12-09 13:21:42 - Refreshing reviews for recent game: Golden Light (Added: 2025-02-21)
+2025-12-09 13:21:42 - https://store.steampowered.com/appreviews/1245430?json=1&language=all&num_per_page=0
+2025-12-09 13:21:43 - Refreshing reviews for recent game: EMPTY SHELL (Added: 2025-10-17)
+2025-12-09 13:21:43 - https://store.steampowered.com/appreviews/2243110?json=1&language=all&num_per_page=0
+2025-12-09 13:21:43 - Refreshing reviews for recent game: I Love Finding Cats and Pups (Added: 2025-11-27)
+2025-12-09 13:21:43 - https://store.steampowered.com/appreviews/2463710?json=1&language=all&num_per_page=0
+2025-12-09 13:21:43 - Refreshing reviews for recent game: Being a DIK - Season 1 (Added: 2025-08-03)
+2025-12-09 13:21:43 - https://store.steampowered.com/appreviews/1126320?json=1&language=all&num_per_page=0
+2025-12-09 13:21:44 - Refreshing reviews for recent game: Pilgrims (Added: 2025-08-01)
+2025-12-09 13:21:44 - https://store.steampowered.com/appreviews/1049280?json=1&language=all&num_per_page=0
+2025-12-09 13:21:44 - Refreshing reviews for recent game: Amerzone: The Explorer’s Legacy (1999) (Added: 2025-03-20)
+2025-12-09 13:21:44 - https://store.steampowered.com/appreviews/302190?json=1&language=all&num_per_page=0
+2025-12-09 13:21:44 - Refreshing reviews for recent game: True Fear: Forsaken Souls Part 2 (Added: 2025-10-24)
+2025-12-09 13:21:44 - https://store.steampowered.com/appreviews/935580?json=1&language=all&num_per_page=0
+2025-12-09 13:21:45 - Refreshing reviews for recent game: Command & Conquer Tiberian Sun and Firestorm (Added: 2025-03-04)
+2025-12-09 13:21:45 - https://store.steampowered.com/appreviews/2229880?json=1&language=all&num_per_page=0
+2025-12-09 13:21:45 - Refreshing reviews for recent game: Monster Train 2 (Added: 2025-05-23)
+2025-12-09 13:21:45 - https://store.steampowered.com/appreviews/2742830?json=1&language=all&num_per_page=0
+2025-12-09 13:21:45 - Refreshing reviews for recent game: Pixel Cafe (Added: 2025-09-26)
+2025-12-09 13:21:45 - https://store.steampowered.com/appreviews/2409360?json=1&language=all&num_per_page=0
+2025-12-09 13:21:46 - Refreshing reviews for recent game: Mystical Riddles Ghostly Park Collector's Edition (Added: 2025-11-27)
+2025-12-09 13:21:46 - https://store.steampowered.com/appreviews/2936590?json=1&language=all&num_per_page=0
+2025-12-09 13:21:46 - Refreshing reviews for recent game: The Coma: Recut (Added: 2024-12-18)
+2025-12-09 13:21:46 - https://store.steampowered.com/appreviews/600090?json=1&language=all&num_per_page=0
+2025-12-09 13:21:46 - Refreshing reviews for recent game: Rise of the Tomb Raider (Added: 2025-07-01)
+2025-12-09 13:21:46 - https://store.steampowered.com/appreviews/391220?json=1&language=all&num_per_page=0
+2025-12-09 13:21:47 - Refreshing reviews for recent game: Mystery Box: Hidden Secrets (Added: 2025-11-27)
+2025-12-09 13:21:47 - https://store.steampowered.com/appreviews/1735790?json=1&language=all&num_per_page=0
+2025-12-09 13:21:47 - Refreshing reviews for recent game: Valiant Hearts (Added: 2025-10-02)
+2025-12-09 13:21:47 - https://store.steampowered.com/appreviews/260230?json=1&language=all&num_per_page=0
+2025-12-09 13:21:47 - Refreshing reviews for recent game: Persona 4 Golden (Added: 2025-08-20)
+2025-12-09 13:21:47 - https://store.steampowered.com/appreviews/1113000?json=1&language=all&num_per_page=0
+2025-12-09 13:21:47 - Refreshing reviews for recent game: Tom Clancy's The Division (Added: 2025-10-02)
+2025-12-09 13:21:47 - https://store.steampowered.com/appreviews/365590?json=1&language=all&num_per_page=0
+2025-12-09 13:21:48 - Refreshing reviews for recent game: Monster Train (Added: 2025-03-04)
+2025-12-09 13:21:48 - https://store.steampowered.com/appreviews/1102190?json=1&language=all&num_per_page=0
+2025-12-09 13:21:48 - Refreshing reviews for recent game: The Town of Light (Added: 2024-12-27)
+2025-12-09 13:21:48 - https://store.steampowered.com/appreviews/433100?json=1&language=all&num_per_page=0
+2025-12-09 13:21:48 - Refreshing reviews for recent game: FATE: The Traitor Soul (Added: 2025-08-16)
+2025-12-09 13:21:48 - https://store.steampowered.com/appreviews/303680?json=1&language=all&num_per_page=0
+2025-12-09 13:21:49 - Refreshing reviews for recent game: The Casting of Frank Stone (Added: 2025-10-16)
+2025-12-09 13:21:49 - https://store.steampowered.com/appreviews/2223840?json=1&language=all&num_per_page=0
+2025-12-09 13:21:49 - Refreshing reviews for recent game: Overwatch 2 (Added: 2025-10-31)
+2025-12-09 13:21:49 - https://store.steampowered.com/appreviews/2357570?json=1&language=all&num_per_page=0
+2025-12-09 13:21:49 - Refreshing reviews for recent game: Fear the Spotlight (Added: 2025-10-24)
+2025-12-09 13:21:49 - https://store.steampowered.com/appreviews/1959390?json=1&language=all&num_per_page=0
+2025-12-09 13:21:50 - Refreshing reviews for recent game: FATE: Undiscovered Realms (Added: 2025-06-22)
+2025-12-09 13:21:50 - https://store.steampowered.com/appreviews/276890?json=1&language=all&num_per_page=0
+2025-12-09 13:21:50 - Refreshing reviews for recent game: AtmaSphere (Added: 2025-04-15)
+2025-12-09 13:21:50 - https://store.steampowered.com/appreviews/753660?json=1&language=all&num_per_page=0
+2025-12-09 13:21:50 - Refreshing reviews for recent game: Halloween Stories: Horror Movie (Added: 2025-10-31)
+2025-12-09 13:21:50 - https://store.steampowered.com/appreviews/2655710?json=1&language=all&num_per_page=0
+2025-12-09 13:21:51 - Refreshing reviews for recent game: Command & Conquer: Generals (Added: 2025-03-04)
+2025-12-09 13:21:51 - https://store.steampowered.com/appreviews/2229870?json=1&language=all&num_per_page=0
+2025-12-09 13:21:51 - Refreshing reviews for recent game: Half-Life 2 RTX (Added: 2025-03-20)
+2025-12-09 13:21:51 - https://store.steampowered.com/appreviews/2477290?json=1&language=all&num_per_page=0
+2025-12-09 13:21:51 - Refreshing reviews for recent game: Citizen Sleeper 2: Starward Vector (Added: 2025-02-01)
+2025-12-09 13:21:51 - https://store.steampowered.com/appreviews/2442460?json=1&language=all&num_per_page=0
+2025-12-09 13:21:52 - Refreshing reviews for recent game: Diplomacy is Not an Option (Added: 2025-04-24)
+2025-12-09 13:21:52 - https://store.steampowered.com/appreviews/1272320?json=1&language=all&num_per_page=0
+2025-12-09 13:21:52 - Refreshing reviews for recent game: Crime Scene Cleaner (Added: 2025-04-18)
+2025-12-09 13:21:52 - https://store.steampowered.com/appreviews/1040200?json=1&language=all&num_per_page=0
+2025-12-09 13:21:52 - Refreshing reviews for recent game: Wild Country (Added: 2025-04-18)
+2025-12-09 13:21:52 - https://store.steampowered.com/appreviews/1515000?json=1&language=all&num_per_page=0
+2025-12-09 13:21:53 - Refreshing reviews for recent game: Star Wars Squadrons (Added: 2025-10-13)
+2025-12-09 13:21:53 - https://store.steampowered.com/appreviews/1222730?json=1&language=all&num_per_page=0
+2025-12-09 13:21:53 - Refreshing reviews for recent game: FAR CRY 3 (Added: 2025-10-02)
+2025-12-09 13:21:53 - https://store.steampowered.com/appreviews/220240?json=1&language=all&num_per_page=0
+2025-12-09 13:21:53 - Refreshing reviews for recent game: South of Midnight (Added: 2025-04-11)
+2025-12-09 13:21:53 - https://store.steampowered.com/appreviews/1934570?json=1&language=all&num_per_page=0
+2025-12-09 13:21:54 - Refreshing reviews for recent game: Assassin's Creed Liberation HD (Added: 2025-11-08)
+2025-12-09 13:21:54 - https://store.steampowered.com/appreviews/260210?json=1&language=all&num_per_page=0
+2025-12-09 13:21:54 - Refreshing reviews for recent game: Lonely Mountains: Snow Riders (Added: 2025-01-30)
+2025-12-09 13:21:54 - https://store.steampowered.com/appreviews/2545360?json=1&language=all&num_per_page=0
+2025-12-09 13:21:54 - Refreshing reviews for recent game: Halo: Spartan Strike (Added: 2025-09-21)
+2025-12-09 13:21:54 - https://store.steampowered.com/appreviews/324570?json=1&language=all&num_per_page=0
+2025-12-09 13:21:55 - Refreshing reviews for recent game: Necroking (Added: 2025-08-16)
+2025-12-09 13:21:55 - https://store.steampowered.com/appreviews/2852980?json=1&language=all&num_per_page=0
+2025-12-09 13:21:55 - Refreshing reviews for recent game: Pigeon Simulator (Added: 2025-11-12)
+2025-12-09 13:21:55 - https://store.steampowered.com/appreviews/1496260?json=1&language=all&num_per_page=0
+2025-12-09 13:21:56 - Refreshing reviews for recent game: FATE (Added: 2025-05-23)
+2025-12-09 13:21:56 - https://store.steampowered.com/appreviews/246840?json=1&language=all&num_per_page=0
+2025-12-09 13:21:56 - Refreshing reviews for recent game: Farming Simulator 25 (Added: 2025-08-01)
+2025-12-09 13:21:56 - https://store.steampowered.com/appreviews/2300320?json=1&language=all&num_per_page=0
+2025-12-09 13:21:56 - Refreshing reviews for recent game: Away (Added: 2025-09-16)
+2025-12-09 13:21:56 - https://store.steampowered.com/appreviews/757910?json=1&language=all&num_per_page=0
+2025-12-09 13:21:57 - Refreshing reviews for recent game: Gas Station Simulator (Added: 2025-11-06)
+2025-12-09 13:21:57 - https://store.steampowered.com/appreviews/1149620?json=1&language=all&num_per_page=0
+2025-12-09 13:21:57 - Refreshing reviews for recent game: Project Winter (Added: 2025-09-18)
+2025-12-09 13:21:57 - https://store.steampowered.com/appreviews/774861?json=1&language=all&num_per_page=0
+2025-12-09 13:21:57 - Refreshing reviews for recent game: Atomfall (Added: 2025-03-27)
+2025-12-09 13:21:57 - https://store.steampowered.com/appreviews/801800?json=1&language=all&num_per_page=0
+2025-12-09 13:21:58 - Refreshing reviews for recent game: STAR WARS: Bounty Hunter (Added: 2025-05-01)
+2025-12-09 13:21:58 - https://store.steampowered.com/appreviews/2419090?json=1&language=all&num_per_page=0
+2025-12-09 13:21:58 - Refreshing reviews for recent game: SKALD: Against the Black Priory (Added: 2025-09-18)
+2025-12-09 13:21:58 - https://store.steampowered.com/appreviews/1069160?json=1&language=all&num_per_page=0
+2025-12-09 13:21:58 - Refreshing reviews for recent game: TerraTech (Added: 2024-12-24)
+2025-12-09 13:21:58 - https://store.steampowered.com/appreviews/285920?json=1&language=all&num_per_page=0
+2025-12-09 13:21:59 - Refreshing reviews for recent game: Saints Row IV: Re-Elected (Added: 2025-06-22)
+2025-12-09 13:21:59 - https://store.steampowered.com/appreviews/314580?json=1&language=all&num_per_page=0
+2025-12-09 13:21:59 - Refreshing reviews for recent game: Trials of the Blood Dragon (Added: 2025-11-08)
+2025-12-09 13:21:59 - https://store.steampowered.com/appreviews/435480?json=1&language=all&num_per_page=0
+2025-12-09 13:22:00 - Refreshing reviews for recent game: Police Simulator: Patrol Officers (Added: 2025-05-20)
+2025-12-09 13:22:00 - https://store.steampowered.com/appreviews/997010?json=1&language=all&num_per_page=0
+2025-12-09 13:22:00 - Refreshing reviews for recent game: Teenage Mutant Ninja Turtles: Shredder's Revenge (Added: 2025-04-30)
+2025-12-09 13:22:00 - https://store.steampowered.com/appreviews/1361510?json=1&language=all&num_per_page=0
+2025-12-09 13:22:00 - Refreshing reviews for recent game: Deus Ex GOTY Edition (Added: 2025-01-30)
+2025-12-09 13:22:00 - https://store.steampowered.com/appreviews/6910?json=1&language=all&num_per_page=0
+2025-12-09 13:22:01 - Refreshing reviews for recent game: Metaphor: ReFantazio (Added: 2025-05-01)
+2025-12-09 13:22:01 - https://store.steampowered.com/appreviews/2679460?json=1&language=all&num_per_page=0
+2025-12-09 13:22:01 - Refreshing reviews for recent game: Pacific Drive (Added: 2025-10-24)
+2025-12-09 13:22:01 - https://store.steampowered.com/appreviews/1458140?json=1&language=all&num_per_page=0
+2025-12-09 13:22:01 - Refreshing reviews for recent game: SteamWorld Quest: Hand of Gilgamech (Added: 2025-01-18)
+2025-12-09 13:22:01 - https://store.steampowered.com/appreviews/804010?json=1&language=all&num_per_page=0
+2025-12-09 13:22:01 - Refreshing reviews for recent game: Call of Duty (Added: 2025-03-22)
+2025-12-09 13:22:01 - https://store.steampowered.com/appreviews/2000950?json=1&language=all&num_per_page=0
+2025-12-09 13:22:02 - Refreshing reviews for recent game: Ravenloft: Strahd's Possession (Added: 2025-09-07)
+2025-12-09 13:22:02 - https://store.steampowered.com/appreviews/1904570?json=1&language=all&num_per_page=0
+2025-12-09 13:22:02 - Refreshing reviews for recent game: Tormented Souls (Added: 2025-10-02)
+2025-12-09 13:22:02 - https://store.steampowered.com/appreviews/1367590?json=1&language=all&num_per_page=0
+2025-12-09 13:22:03 - Refreshing reviews for recent game: River City Girls (Added: 2025-04-11)
+2025-12-09 13:22:03 - https://store.steampowered.com/appreviews/1049320?json=1&language=all&num_per_page=0
+2025-12-09 13:22:03 - Refreshing reviews for recent game: The Elder Scrolls IV: Oblivion Remastered (Added: 2025-04-23)
+2025-12-09 13:22:03 - https://store.steampowered.com/appreviews/2623190?json=1&language=all&num_per_page=0
+2025-12-09 13:22:03 - Refreshing reviews for recent game: Dragon Age: Origins - Ultimate Edition (Added: 2025-10-24)
+2025-12-09 13:22:03 - https://store.steampowered.com/appreviews/17450?json=1&language=all&num_per_page=0
+2025-12-09 13:22:04 - Refreshing reviews for recent game: Christmas Fables: The Magic Snowflake Collector's Edition (Added: 2025-11-27)
+2025-12-09 13:22:04 - https://store.steampowered.com/appreviews/2718140?json=1&language=all&num_per_page=0
+2025-12-09 13:22:04 - Refreshing reviews for recent game: Dead In Bermuda (Added: 2025-08-26)
+2025-12-09 13:22:04 - https://store.steampowered.com/appreviews/384310?json=1&language=all&num_per_page=0
+2025-12-09 13:22:04 - Refreshing reviews for recent game: Hogwarts Legacy (Added: 2025-10-02)
+2025-12-09 13:22:04 - https://store.steampowered.com/appreviews/990080?json=1&language=all&num_per_page=0
+2025-12-09 13:22:04 - Refreshing reviews for recent game: Gigapocalypse (Added: 2025-05-23)
+2025-12-09 13:22:04 - https://store.steampowered.com/appreviews/1543240?json=1&language=all&num_per_page=0
+2025-12-09 13:22:05 - Refreshing reviews for recent game: CHUCHEL (Added: 2025-04-24)
+2025-12-09 13:22:05 - https://store.steampowered.com/appreviews/711660?json=1&language=all&num_per_page=0
+2025-12-09 13:22:05 - Refreshing reviews for recent game: Hidden Folks (Added: 2025-08-16)
+2025-12-09 13:22:05 - https://store.steampowered.com/appreviews/435400?json=1&language=all&num_per_page=0
+2025-12-09 13:22:05 - Refreshing reviews for recent game: Command & Conquer: Red Alert, Counterstrike and The Aftermath (Added: 2025-03-04)
+2025-12-09 13:22:05 - https://store.steampowered.com/appreviews/2229840?json=1&language=all&num_per_page=0
+2025-12-09 13:22:06 - Refreshing reviews for recent game: Wobbly Life (Added: 2025-09-21)
+2025-12-09 13:22:06 - https://store.steampowered.com/appreviews/1211020?json=1&language=all&num_per_page=0
+2025-12-09 13:22:06 - Refreshing reviews for recent game: Amnesia: The Bunker (Added: 2025-10-17)
+2025-12-09 13:22:06 - https://store.steampowered.com/appreviews/1944430?json=1&language=all&num_per_page=0
+2025-12-09 13:22:06 - Refreshing reviews for recent game: Universe for Sale (Added: 2025-11-28)
+2025-12-09 13:22:06 - https://store.steampowered.com/appreviews/1627840?json=1&language=all&num_per_page=0
+2025-12-09 13:22:07 - Refreshing reviews for recent game: Asphalt Legends Unite (Added: 2025-04-07)
+2025-12-09 13:22:07 - https://store.steampowered.com/appreviews/1815780?json=1&language=all&num_per_page=0
+2025-12-09 13:22:07 - Refreshing reviews for recent game: Five Nights at Freddy's: Into the Pit (Added: 2025-10-31)
+2025-12-09 13:22:07 - https://store.steampowered.com/appreviews/2638370?json=1&language=all&num_per_page=0
+2025-12-09 13:22:07 - Refreshing reviews for recent game: Dead Static Drive (Added: 2025-11-05)
+2025-12-09 13:22:07 - https://store.steampowered.com/appreviews/1166940?json=1&language=all&num_per_page=0
+2025-12-09 13:22:08 - Refreshing reviews for recent game: The Lord of The Rings Return to Moria (Added: 2024-12-12)
+2025-12-09 13:22:08 - https://store.steampowered.com/appreviews/2933130?json=1&language=all&num_per_page=0
+2025-12-09 13:22:08 - Refreshing reviews for recent game: Sapphire Safari (Added: 2025-08-03)
+2025-12-09 13:22:08 - https://store.steampowered.com/appreviews/1526900?json=1&language=all&num_per_page=0
+2025-12-09 13:22:08 - Refreshing reviews for recent game: SkyDrift Infinity (Added: 2025-01-09)
+2025-12-09 13:22:08 - https://store.steampowered.com/appreviews/827330?json=1&language=all&num_per_page=0
+2025-12-09 13:22:09 - Refreshing reviews for recent game: Tin Hearts (Added: 2025-08-16)
+2025-12-09 13:22:09 - https://store.steampowered.com/appreviews/1831700?json=1&language=all&num_per_page=0
+2025-12-09 13:22:09 - Refreshing reviews for recent game: Oil Sheik (Added: 2025-08-14)
+2025-12-09 13:22:09 - https://store.steampowered.com/appreviews/2746610?json=1&language=all&num_per_page=0
+2025-12-09 13:22:09 - Refreshing reviews for recent game: Tom Clancy's Ghost Recon Breakpoint (Added: 2025-10-02)
+2025-12-09 13:22:09 - https://store.steampowered.com/appreviews/2231380?json=1&language=all&num_per_page=0
+2025-12-09 13:22:10 - Refreshing reviews for recent game: BROK the InvestiGator (Added: 2025-06-13)
+2025-12-09 13:22:10 - https://store.steampowered.com/appreviews/949480?json=1&language=all&num_per_page=0
+2025-12-09 13:22:10 - Refreshing reviews for recent game: Zero Hour (Added: 2025-11-13)
+2025-12-09 13:22:10 - https://store.steampowered.com/appreviews/1359090?json=1&language=all&num_per_page=0
+2025-12-09 13:22:10 - Refreshing reviews for recent game: Relic Hunters Legend (Added: 2025-11-12)
+2025-12-09 13:22:10 - https://store.steampowered.com/appreviews/633080?json=1&language=all&num_per_page=0
+2025-12-09 13:22:11 - Refreshing reviews for recent game: Spelljammer: Pirates of Realmspace (Added: 2025-09-14)
+2025-12-09 13:22:11 - https://store.steampowered.com/appreviews/2350550?json=1&language=all&num_per_page=0
+2025-12-09 13:22:11 - Refreshing reviews for recent game: [REDACTED] (Added: 2025-01-01)
+2025-12-09 13:22:11 - https://store.steampowered.com/appreviews/2229940?json=1&language=all&num_per_page=0
+2025-12-09 13:22:11 - Refreshing reviews for recent game: Diablo IV (Added: 2025-10-31)
+2025-12-09 13:22:11 - https://store.steampowered.com/appreviews/2344520?json=1&language=all&num_per_page=0
+2025-12-09 13:22:12 - Refreshing reviews for recent game: The Alters (Added: 2025-06-13)
+2025-12-09 13:22:12 - https://store.steampowered.com/appreviews/1601570?json=1&language=all&num_per_page=0
+2025-12-09 13:22:12 - Refreshing reviews for recent game: STAR WARS Battlefront II (Added: 2025-10-13)
+2025-12-09 13:22:12 - https://store.steampowered.com/appreviews/1237950?json=1&language=all&num_per_page=0
+2025-12-09 13:22:12 - Refreshing reviews for recent game: Albion Online (Added: 2025-10-31)
+2025-12-09 13:22:12 - https://store.steampowered.com/appreviews/761890?json=1&language=all&num_per_page=0
+2025-12-09 13:22:13 - Refreshing reviews for recent game: Herdling (Added: 2025-08-28)
+2025-12-09 13:22:13 - https://store.steampowered.com/appreviews/3047750?json=1&language=all&num_per_page=0
+2025-12-09 13:22:13 - Refreshing reviews for recent game: Hero's Hour (Added: 2024-12-18)
+2025-12-09 13:22:13 - https://store.steampowered.com/appreviews/1656780?json=1&language=all&num_per_page=0
+2025-12-09 13:22:13 - Refreshing reviews for recent game: Warhammer 40,000: Gladius - Relics of War (Added: 2025-06-10)
+2025-12-09 13:22:13 - https://store.steampowered.com/appreviews/489630?json=1&language=all&num_per_page=0
+2025-12-09 13:22:13 - Refreshing reviews for recent game: Norland (Added: 2024-12-11)
+2025-12-09 13:22:13 - https://store.steampowered.com/appreviews/1857090?json=1&language=all&num_per_page=0
+2025-12-09 13:22:14 - Refreshing reviews for recent game: Persona 5 Royal (Added: 2025-08-11)
+2025-12-09 13:22:14 - https://store.steampowered.com/appreviews/1687950?json=1&language=all&num_per_page=0
+2025-12-09 13:22:14 - Refreshing reviews for recent game: Troublemaker (Added: 2025-04-24)
+2025-12-09 13:22:14 - https://store.steampowered.com/appreviews/1498740?json=1&language=all&num_per_page=0
+2025-12-09 13:22:14 - Refreshing reviews for recent game: Assassin's Creed Rogue (Added: 2025-11-08)
+2025-12-09 13:22:14 - https://store.steampowered.com/appreviews/311560?json=1&language=all&num_per_page=0
+2025-12-09 13:22:15 - Refreshing reviews for recent game: SteamWorld Dig (Added: 2025-06-23)
+2025-12-09 13:22:15 - https://store.steampowered.com/appreviews/252410?json=1&language=all&num_per_page=0
+2025-12-09 13:22:15 - Refreshing reviews for recent game: DOOM: The Dark Ages (Added: 2025-05-16)
+2025-12-09 13:22:15 - https://store.steampowered.com/appreviews/3017860?json=1&language=all&num_per_page=0
+2025-12-09 13:22:15 - Refreshing reviews for recent game: Wildfrost (Added: 2024-12-11)
+2025-12-09 13:22:15 - https://store.steampowered.com/appreviews/1811990?json=1&language=all&num_per_page=0
+2025-12-09 13:22:16 - Refreshing reviews for recent game: Crypt Custodian (Added: 2025-06-03)
+2025-12-09 13:22:16 - https://store.steampowered.com/appreviews/2394650?json=1&language=all&num_per_page=0
+2025-12-09 13:22:16 - Refreshing reviews for recent game: ReCore (Added: 2025-09-21)
+2025-12-09 13:22:16 - https://store.steampowered.com/appreviews/537450?json=1&language=all&num_per_page=0
+2025-12-09 13:22:16 - Refreshing reviews for recent game: Balatro (Added: 2025-03-20)
+2025-12-09 13:22:16 - https://store.steampowered.com/appreviews/2379780?json=1&language=all&num_per_page=0
+2025-12-09 13:22:17 - Refreshing reviews for recent game: 9 Kings (Game Preview) (Added: 2025-08-16)
+2025-12-09 13:22:17 - https://store.steampowered.com/appreviews/2784470?json=1&language=all&num_per_page=0
+2025-12-09 13:22:17 - Refreshing reviews for recent game: Crime Boss: Rockay City (Added: 2025-03-06)
+2025-12-09 13:22:17 - https://store.steampowered.com/appreviews/2933080?json=1&language=all&num_per_page=0
+2025-12-09 13:22:17 - Refreshing reviews for recent game: Fantasy Empires (Added: 2025-09-07)
+2025-12-09 13:22:17 - https://store.steampowered.com/appreviews/2350530?json=1&language=all&num_per_page=0
+2025-12-09 13:22:18 - Refreshing reviews for recent game: Revenge of the Savage Planet (Added: 2025-05-08)
+2025-12-09 13:22:18 - https://store.steampowered.com/appreviews/2787320?json=1&language=all&num_per_page=0
+2025-12-09 13:22:18 - Refreshing reviews for recent game: Let's School (Added: 2025-08-11)
+2025-12-09 13:22:18 - https://store.steampowered.com/appreviews/1937500?json=1&language=all&num_per_page=0
+2025-12-09 13:22:18 - Refreshing reviews for recent game: Godzilla Voxel Wars (Added: 2025-11-20)
+2025-12-09 13:22:18 - https://store.steampowered.com/appreviews/2439780?json=1&language=all&num_per_page=0
+2025-12-09 13:22:19 - Refreshing reviews for recent game: Little Nightmares II (Added: 2025-07-01)
+2025-12-09 13:22:19 - https://store.steampowered.com/appreviews/860510?json=1&language=all&num_per_page=0
+2025-12-09 13:22:19 - Refreshing reviews for recent game: Dorfromantik (Added: 2025-09-18)
+2025-12-09 13:22:19 - https://store.steampowered.com/appreviews/1455840?json=1&language=all&num_per_page=0
+2025-12-09 13:22:20 - Refreshing reviews for recent game: Star Stuff (Added: 2025-01-31)
+2025-12-09 13:22:20 - https://store.steampowered.com/appreviews/1955110?json=1&language=all&num_per_page=0
+2025-12-09 13:22:20 - Refreshing reviews for recent game: Legion TD 2 (Added: 2025-07-25)
+2025-12-09 13:22:20 - https://store.steampowered.com/appreviews/469600?json=1&language=all&num_per_page=0
+2025-12-09 13:22:20 - Refreshing reviews for recent game: Command & Conquer: Red Alert 2 and Yuri’s Revenge (Added: 2025-03-04)
+2025-12-09 13:22:20 - https://store.steampowered.com/appreviews/2229850?json=1&language=all&num_per_page=0
+2025-12-09 13:22:21 - Refreshing reviews for recent game: Down the Rabbit Hole Flattened (Added: 2025-06-18)
+2025-12-09 13:22:21 - https://store.steampowered.com/appreviews/3399980?json=1&language=all&num_per_page=0
+2025-12-09 13:22:21 - Refreshing reviews for recent game: DragonStrike (Added: 2025-10-02)
+2025-12-09 13:22:21 - https://store.steampowered.com/appreviews/2350520?json=1&language=all&num_per_page=0
+2025-12-09 13:22:21 - Refreshing reviews for recent game: Happy Game (Added: 2025-05-16)
+2025-12-09 13:22:21 - https://store.steampowered.com/appreviews/1206060?json=1&language=all&num_per_page=0
+2025-12-09 13:22:22 - Refreshing reviews for recent game: MONOPOLY (Added: 2025-10-02)
+2025-12-09 13:22:22 - https://store.steampowered.com/appreviews/2929170?json=1&language=all&num_per_page=0
+2025-12-09 13:22:22 - Refreshing reviews for recent game: Sine Mora EX (Added: 2025-03-04)
+2025-12-09 13:22:22 - https://store.steampowered.com/appreviews/606730?json=1&language=all&num_per_page=0
+2025-12-09 13:22:22 - Refreshing reviews for recent game: As Dusk Falls (Added: 2025-10-09)
+2025-12-09 13:22:22 - https://store.steampowered.com/appreviews/1341820?json=1&language=all&num_per_page=0
+2025-12-09 13:22:23 - Refreshing reviews for recent game: Phoenix Wright: Ace Attorney Trilogy (Added: 2025-11-05)
+2025-12-09 13:22:23 - https://store.steampowered.com/appreviews/787480?json=1&language=all&num_per_page=0
+2025-12-09 13:22:23 - Refreshing reviews for recent game: Berserk Boy (Added: 2025-04-18)
+2025-12-09 13:22:23 - https://store.steampowered.com/appreviews/1561340?json=1&language=all&num_per_page=0
+2025-12-09 13:22:23 - Refreshing reviews for recent game: Asterix & Obelix XXL (Added: 2025-05-10)
+2025-12-09 13:22:23 - https://store.steampowered.com/appreviews/1261520?json=1&language=all&num_per_page=0
+2025-12-09 13:22:24 - Refreshing reviews for recent game: Are You Smarter Than A 5th Grader (Added: 2025-01-31)
+2025-12-09 13:22:24 - https://store.steampowered.com/appreviews/361400?json=1&language=all&num_per_page=0
+2025-12-09 13:22:24 - Refreshing reviews for recent game: Minami Lane (Added: 2025-07-09)
+2025-12-09 13:22:24 - https://store.steampowered.com/appreviews/2678990?json=1&language=all&num_per_page=0
+2025-12-09 13:22:24 - Refreshing reviews for recent game: Deadfall (Added: 2025-10-30)
+2025-12-09 13:22:24 - https://store.steampowered.com/appreviews/2448420?json=1&language=all&num_per_page=0
+2025-12-09 13:22:25 - Refreshing reviews for recent game: Slots & Daggers (Added: 2025-11-08)
+2025-12-09 13:22:25 - https://store.steampowered.com/appreviews/3631290?json=1&language=all&num_per_page=0
+2025-12-09 13:22:25 - Refreshing reviews for recent game: Descenders Next (Game Preview) (Added: 2025-07-25)
+2025-12-09 13:22:25 - https://store.steampowered.com/appreviews/2375530?json=1&language=all&num_per_page=0
+2025-12-09 13:22:25 - Refreshing reviews for recent game: Fantasy General II (Added: 2025-07-11)
+2025-12-09 13:22:25 - https://store.steampowered.com/appreviews/1025440?json=1&language=all&num_per_page=0
+2025-12-09 13:22:26 - Refreshing reviews for recent game: Lost and Found Agency Collector's Edition (Added: 2025-11-27)
+2025-12-09 13:22:26 - https://store.steampowered.com/appreviews/2562610?json=1&language=all&num_per_page=0
+2025-12-09 13:22:26 - Refreshing reviews for recent game: Saints Row: The Third Remastered (Added: 2025-03-06)
+2025-12-09 13:22:26 - https://store.steampowered.com/appreviews/978300?json=1&language=all&num_per_page=0
+2025-12-09 13:22:26 - Refreshing reviews for recent game: Bioprototype (Added: 2025-06-22)
+2025-12-09 13:22:26 - https://store.steampowered.com/appreviews/3689520?json=1&language=all&num_per_page=0
+2025-12-09 13:22:27 - Refreshing reviews for recent game: Filthy Animals | Heist Simulator (Added: 2025-08-16)
+2025-12-09 13:22:27 - https://store.steampowered.com/appreviews/1195420?json=1&language=all&num_per_page=0
+2025-12-09 13:22:27 - Refreshing reviews for recent game: Super Fantasy Kingdom (Game Preview) (Added: 2025-10-24)
+2025-12-09 13:22:27 - https://store.steampowered.com/appreviews/2289750?json=1&language=all&num_per_page=0
+2025-12-09 13:22:27 - Refreshing reviews for recent game: Avowed (Added: 2025-02-18)
+2025-12-09 13:22:27 - https://store.steampowered.com/appreviews/2457220?json=1&language=all&num_per_page=0
+2025-12-09 13:22:28 - Refreshing reviews for recent game: AK-xolotl: Together (Added: 2025-02-07)
+2025-12-09 13:22:28 - https://store.steampowered.com/appreviews/1479140?json=1&language=all&num_per_page=0
+2025-12-09 13:22:28 - Refreshing reviews for recent game: ENDLESS Space - Definitive Edition (Added: 2025-04-11)
+2025-12-09 13:22:28 - https://store.steampowered.com/appreviews/208140?json=1&language=all&num_per_page=0
+2025-12-09 13:22:28 - Refreshing reviews for recent game: Treasure of Nadia (Added: 2025-08-03)
+2025-12-09 13:22:28 - https://store.steampowered.com/appreviews/1737100?json=1&language=all&num_per_page=0
+2025-12-09 13:22:29 - Refreshing reviews for recent game: Planet of Lana (Added: 2024-12-18)
+2025-12-09 13:22:29 - https://store.steampowered.com/appreviews/1608230?json=1&language=all&num_per_page=0
+2025-12-09 13:22:29 - Refreshing reviews for recent game: Halls of Torment (Added: 2025-10-29)
+2025-12-09 13:22:29 - https://store.steampowered.com/appreviews/2218750?json=1&language=all&num_per_page=0
+2025-12-09 13:22:29 - Refreshing reviews for recent game: My Friendly Neighborhood (Added: 2025-07-17)
+2025-12-09 13:22:29 - https://store.steampowered.com/appreviews/1574260?json=1&language=all&num_per_page=0
+2025-12-09 13:22:30 - Refreshing reviews for recent game: WUCHANG: Fallen Feathers (Added: 2025-07-25)
+2025-12-09 13:22:30 - https://store.steampowered.com/appreviews/2277560?json=1&language=all&num_per_page=0
+2025-12-09 13:22:30 - Refreshing reviews for recent game: He is Coming (Game Preview) (Added: 2025-07-17)
+2025-12-09 13:22:30 - https://store.steampowered.com/appreviews/2824490?json=1&language=all&num_per_page=0
+2025-12-09 13:22:30 - Refreshing reviews for recent game: Egging On (Added: 2025-11-06)
+2025-12-09 13:22:30 - https://store.steampowered.com/appreviews/2897610?json=1&language=all&num_per_page=0
+2025-12-09 13:22:31 - Refreshing reviews for recent game: High On Life (Added: 2025-07-17)
+2025-12-09 13:22:31 - https://store.steampowered.com/appreviews/1583230?json=1&language=all&num_per_page=0
+2025-12-09 13:22:31 - Refreshing reviews for recent game: Super Panda Adventures (Added: 2025-11-05)
+2025-12-09 13:22:31 - https://store.steampowered.com/appreviews/311190?json=1&language=all&num_per_page=0
+2025-12-09 13:22:31 - Refreshing reviews for recent game: The First Berserker: Khazan Demo (Added: 2025-04-07)
+2025-12-09 13:22:31 - https://store.steampowered.com/appreviews/3351700?json=1&language=all&num_per_page=0
+2025-12-09 13:22:32 - Refreshing reviews for recent game: Murders on the Yangtze River (Added: 2025-06-13)
+2025-12-09 13:22:32 - https://store.steampowered.com/appreviews/1746030?json=1&language=all&num_per_page=0
+2025-12-09 13:22:32 - Refreshing reviews for recent game: Distant Worlds 2 (Added: 2025-04-24)
+2025-12-09 13:22:32 - https://store.steampowered.com/appreviews/1531540?json=1&language=all&num_per_page=0
+2025-12-09 13:22:32 - Refreshing reviews for recent game: Cast & Spell (Added: 2025-05-18)
+2025-12-09 13:22:32 - https://store.steampowered.com/appreviews/3032020?json=1&language=all&num_per_page=0
+2025-12-09 13:22:32 - Refreshing reviews for recent game: Deadtime Defenders (Added: 2025-05-08)
+2025-12-09 13:22:32 - https://store.steampowered.com/appreviews/1148700?json=1&language=all&num_per_page=0
+2025-12-09 13:22:33 - Refreshing reviews for recent game: Road Redemption (Added: 2025-08-07)
+2025-12-09 13:22:33 - https://store.steampowered.com/appreviews/300380?json=1&language=all&num_per_page=0
+2025-12-09 13:22:33 - Refreshing reviews for recent game: Dark City: Kyiv Collector's Edition (Added: 2025-11-18)
+2025-12-09 13:22:33 - https://store.steampowered.com/appreviews/2601690?json=1&language=all&num_per_page=0
+2025-12-09 13:22:33 - Refreshing reviews for recent game: Sky Racket (Added: 2025-07-11)
+2025-12-09 13:22:33 - https://store.steampowered.com/appreviews/994500?json=1&language=all&num_per_page=0
+2025-12-09 13:22:34 - Refreshing reviews for recent game: STAR WARS Jedi Knight: Dark Forces II (Added: 2025-07-08)
+2025-12-09 13:22:34 - https://store.steampowered.com/appreviews/32380?json=1&language=all&num_per_page=0
+2025-12-09 13:22:34 - Refreshing reviews for recent game: Warhammer 40,000: Space Marine (Added: 2025-06-10)
+2025-12-09 13:22:34 - https://store.steampowered.com/appreviews/3169520?json=1&language=all&num_per_page=0
+2025-12-09 13:22:34 - Refreshing reviews for recent game: Anno 1800 (Added: 2025-08-16)
+2025-12-09 13:22:34 - https://store.steampowered.com/appreviews/916440?json=1&language=all&num_per_page=0
+2025-12-09 13:22:35 - Refreshing reviews for recent game: ScourgeBringer (Added: 2024-12-18)
+2025-12-09 13:22:35 - https://store.steampowered.com/appreviews/1037020?json=1&language=all&num_per_page=0
+2025-12-09 13:22:35 - Refreshing reviews for recent game: Simulakros (Added: 2024-12-20)
+2025-12-09 13:22:35 - https://store.steampowered.com/appreviews/2067160?json=1&language=all&num_per_page=0
+2025-12-09 13:22:35 - Refreshing reviews for recent game: Monsters are Coming! Rock & Road (Added: 2025-11-20)
+2025-12-09 13:22:35 - https://store.steampowered.com/appreviews/2934220?json=1&language=all&num_per_page=0
+2025-12-09 13:22:36 - Refreshing reviews for recent game: The Operator (Added: 2025-06-22)
+2025-12-09 13:22:36 - https://store.steampowered.com/appreviews/1771980?json=1&language=all&num_per_page=0
+2025-12-09 13:22:36 - Refreshing reviews for recent game: Gear of Glass: Eolarn's war (Added: 2025-10-30)
+2025-12-09 13:22:36 - https://store.steampowered.com/appreviews/1761040?json=1&language=all&num_per_page=0
+2025-12-09 13:22:36 - Refreshing reviews for recent game: Station to Station (Added: 2025-06-17)
+2025-12-09 13:22:36 - https://store.steampowered.com/appreviews/2272400?json=1&language=all&num_per_page=0
+2025-12-09 13:22:37 - Refreshing reviews for recent game: The Whispered World: Special Edition (Added: 2024-12-12)
+2025-12-09 13:22:37 - https://store.steampowered.com/appreviews/268540?json=1&language=all&num_per_page=0
+2025-12-09 13:22:37 - Refreshing reviews for recent game: Botanicula (Added: 2025-04-18)
+2025-12-09 13:22:37 - https://store.steampowered.com/appreviews/207690?json=1&language=all&num_per_page=0
+2025-12-09 13:22:37 - Refreshing reviews for recent game: The Great Ace Attorney Chronicles (Added: 2025-11-25)
+2025-12-09 13:22:37 - https://store.steampowered.com/appreviews/1158850?json=1&language=all&num_per_page=0
+2025-12-09 13:22:38 - Refreshing reviews for recent game: DRACOMATON (Added: 2025-07-31)
+2025-12-09 13:22:38 - https://store.steampowered.com/appreviews/2457890?json=1&language=all&num_per_page=0
+2025-12-09 13:22:38 - Refreshing reviews for recent game: Far Cry Primal (Added: 2025-11-08)
+2025-12-09 13:22:38 - https://store.steampowered.com/appreviews/371660?json=1&language=all&num_per_page=0
+2025-12-09 13:22:39 - Refreshing reviews for recent game: Paleo Pines (Added: 2025-04-11)
+2025-12-09 13:22:39 - https://store.steampowered.com/appreviews/1202200?json=1&language=all&num_per_page=0
+2025-12-09 13:22:39 - Refreshing reviews for recent game: Hypnospace Outlaw (Added: 2025-05-10)
+2025-12-09 13:22:39 - https://store.steampowered.com/appreviews/844590?json=1&language=all&num_per_page=0
+2025-12-09 13:22:39 - Refreshing reviews for recent game: Command & Conquer 3: Kane's Wrath (Added: 2025-03-04)
+2025-12-09 13:22:39 - https://store.steampowered.com/appreviews/24810?json=1&language=all&num_per_page=0
+2025-12-09 13:22:40 - Refreshing reviews for recent game: Songs of Silence (Added: 2025-11-13)
+2025-12-09 13:22:40 - https://store.steampowered.com/appreviews/2195410?json=1&language=all&num_per_page=0
+2025-12-09 13:22:40 - Refreshing reviews for recent game: Assassin's Creed Valhalla (Added: 2025-10-02)
+2025-12-09 13:22:40 - https://store.steampowered.com/appreviews/2208920?json=1&language=all&num_per_page=0
+2025-12-09 13:22:40 - Refreshing reviews for recent game: NINJA GAIDEN 2 Black (Added: 2025-01-30)
+2025-12-09 13:22:40 - https://store.steampowered.com/appreviews/3287520?json=1&language=all&num_per_page=0
+2025-12-09 13:22:41 - Refreshing reviews for recent game: I Am Your Beast (Added: 2025-09-03)
+2025-12-09 13:22:41 - https://store.steampowered.com/appreviews/1876590?json=1&language=all&num_per_page=0
+2025-12-09 13:22:41 - Refreshing reviews for recent game: Field of Glory II: Medieval (Added: 2025-07-11)
+2025-12-09 13:22:41 - https://store.steampowered.com/appreviews/1368870?json=1&language=all&num_per_page=0
+2025-12-09 13:22:41 - Refreshing reviews for recent game: Grand Theft Auto V (Added: 2025-03-04)
+2025-12-09 13:22:41 - https://store.steampowered.com/appreviews/3240220?json=1&language=all&num_per_page=0
+2025-12-09 13:22:42 - Refreshing reviews for recent game: Song of Farca (Added: 2025-06-13)
+2025-12-09 13:22:42 - https://store.steampowered.com/appreviews/1435670?json=1&language=all&num_per_page=0
+2025-12-09 13:22:42 - Refreshing reviews for recent game: Heroes of Loot (Added: 2025-08-01)
+2025-12-09 13:22:42 - https://store.steampowered.com/appreviews/359280?json=1&language=all&num_per_page=0
+2025-12-09 13:22:42 - Refreshing reviews for recent game: Gallery of Things: Reveries (Added: 2025-11-27)
+2025-12-09 13:22:42 - https://store.steampowered.com/appreviews/2694520?json=1&language=all&num_per_page=0
+2025-12-09 13:22:42 - Refreshing reviews for recent game: Eternal Strands (Added: 2025-01-30)
+2025-12-09 13:22:42 - https://store.steampowered.com/appreviews/1491410?json=1&language=all&num_per_page=0
+2025-12-09 13:22:43 - Refreshing reviews for recent game: Big Adventure: Trip To Europe 6 Collector's Edition (Added: 2025-11-27)
+2025-12-09 13:22:43 - https://store.steampowered.com/appreviews/2746330?json=1&language=all&num_per_page=0
+2025-12-09 13:22:43 - Refreshing reviews for recent game: Champions of Krynn (Added: 2025-11-20)
+2025-12-09 13:22:43 - https://store.steampowered.com/appreviews/1904620?json=1&language=all&num_per_page=0
+2025-12-09 13:22:43 - Refreshing reviews for recent game: MULLET MADJACK (Added: 2025-03-20)
+2025-12-09 13:22:43 - https://store.steampowered.com/appreviews/2111190?json=1&language=all&num_per_page=0
+2025-12-09 13:22:44 - Refreshing reviews for recent game: Towaga: Among Shadows (Added: 2025-01-22)
+2025-12-09 13:22:44 - https://store.steampowered.com/appreviews/907600?json=1&language=all&num_per_page=0
+2025-12-09 13:22:44 - Refreshing reviews for recent game: Halt (Added: 2025-11-08)
+2025-12-09 13:22:44 - https://store.steampowered.com/appreviews/2206680?json=1&language=all&num_per_page=0
+2025-12-09 13:22:44 - Refreshing reviews for recent game: Zoeti (Added: 2025-11-20)
+2025-12-09 13:22:44 - https://store.steampowered.com/appreviews/1434540?json=1&language=all&num_per_page=0
+2025-12-09 13:22:45 - Refreshing reviews for recent game: Watch_Dogs 2 (Added: 2025-10-02)
+2025-12-09 13:22:45 - https://store.steampowered.com/appreviews/447040?json=1&language=all&num_per_page=0
+2025-12-09 13:22:45 - Refreshing reviews for recent game: Age of Empires II: Definitive Edition (Added: 2025-03-22)
+2025-12-09 13:22:45 - https://store.steampowered.com/appreviews/813780?json=1&language=all&num_per_page=0
+2025-12-09 13:22:45 - Refreshing reviews for recent game: The Crew Motorfest (Added: 2025-11-20)
+2025-12-09 13:22:45 - https://store.steampowered.com/appreviews/2698940?json=1&language=all&num_per_page=0
+2025-12-09 13:22:46 - Refreshing reviews for recent game: Wednesdays (Added: 2025-11-20)
+2025-12-09 13:22:46 - https://store.steampowered.com/appreviews/2747770?json=1&language=all&num_per_page=0
+2025-12-09 13:22:46 - Refreshing reviews for recent game: Command & Conquer 4 Tiberian Twilight (Added: 2025-03-04)
+2025-12-09 13:22:46 - https://store.steampowered.com/appreviews/47700?json=1&language=all&num_per_page=0
+2025-12-09 13:22:46 - Refreshing reviews for recent game: FragPunk (Added: 2025-08-01)
+2025-12-09 13:22:46 - https://store.steampowered.com/appreviews/2943650?json=1&language=all&num_per_page=0
+2025-12-09 13:22:47 - Refreshing reviews for recent game: Wisbey Mystery (Added: 2025-11-27)
+2025-12-09 13:22:47 - https://store.steampowered.com/appreviews/575960?json=1&language=all&num_per_page=0
+2025-12-09 13:22:47 - Refreshing reviews for recent game: Shadow Sorcerer (Added: 2025-08-28)
+2025-12-09 13:22:47 - https://store.steampowered.com/appreviews/2350510?json=1&language=all&num_per_page=0
+2025-12-09 13:22:47 - Refreshing reviews for recent game: Astrea Six Sided Oracles (Added: 2024-12-24)
+2025-12-09 13:22:47 - https://store.steampowered.com/appreviews/1755830?json=1&language=all&num_per_page=0
+2025-12-09 13:22:48 - Refreshing reviews for recent game: Ampersat (Added: 2025-07-02)
+2025-12-09 13:22:48 - https://store.steampowered.com/appreviews/1356040?json=1&language=all&num_per_page=0
+2025-12-09 13:22:48 - Refreshing reviews for recent game: Vambrace: Cold Soul (Added: 2024-12-31)
+2025-12-09 13:22:48 - https://store.steampowered.com/appreviews/904380?json=1&language=all&num_per_page=0
+2025-12-09 13:22:48 - Refreshing reviews for recent game: Just a To the Moon Series Beach Episode (Added: 2025-06-26)
+2025-12-09 13:22:48 - https://store.steampowered.com/appreviews/2159210?json=1&language=all&num_per_page=0
+2025-12-09 13:22:49 - Refreshing reviews for recent game: The Outer Worlds 2 (Added: 2025-10-29)
+2025-12-09 13:22:49 - https://store.steampowered.com/appreviews/1449110?json=1&language=all&num_per_page=0
+2025-12-09 13:22:49 - Refreshing reviews for recent game: Naheulbeuk's Dungeon Master (Added: 2025-03-06)
+2025-12-09 13:22:49 - https://store.steampowered.com/appreviews/2005160?json=1&language=all&num_per_page=0
+2025-12-09 13:22:49 - Refreshing reviews for recent game: Call of Duty: Modern Warfare III (Added: 2025-08-01)
+2025-12-09 13:22:49 - https://store.steampowered.com/appreviews/3595270?json=1&language=all&num_per_page=0
+2025-12-09 13:22:50 - Refreshing reviews for recent game: Besiege + The Splintered Sea DLC (Added: 2025-07-17)
+2025-12-09 13:22:50 - https://store.steampowered.com/appreviews/346010?json=1&language=all&num_per_page=0
+2025-12-09 13:22:50 - Refreshing reviews for recent game: The Leviathan's fantasy (Added: 2025-09-18)
+2025-12-09 13:22:50 - https://store.steampowered.com/appreviews/3376080?json=1&language=all&num_per_page=0
+2025-12-09 13:22:50 - Refreshing reviews for recent game: Helping the Hotties (Added: 2025-08-03)
+2025-12-09 13:22:50 - https://store.steampowered.com/appreviews/1590730?json=1&language=all&num_per_page=0
+2025-12-09 13:22:51 - Refreshing reviews for recent game: Deliver At All Costs (Added: 2025-05-23)
+2025-12-09 13:22:51 - https://store.steampowered.com/appreviews/1880610?json=1&language=all&num_per_page=0
+2025-12-09 13:22:51 - Refreshing reviews for recent game: Surf World Series (Added: 2025-01-31)
+2025-12-09 13:22:51 - https://store.steampowered.com/appreviews/462640?json=1&language=all&num_per_page=0
+2025-12-09 13:22:51 - Refreshing reviews for recent game: Broilers (Added: 2025-09-05)
+2025-12-09 13:22:51 - https://store.steampowered.com/appreviews/1562780?json=1&language=all&num_per_page=0
+2025-12-09 13:22:52 - Refreshing reviews for recent game: Chessarama (Added: 2025-05-23)
+2025-12-09 13:22:52 - https://store.steampowered.com/appreviews/1831830?json=1&language=all&num_per_page=0
+2025-12-09 13:22:52 - Refreshing reviews for recent game: The Rise of the Golden Idol (Added: 2025-01-07)
+2025-12-09 13:22:52 - https://store.steampowered.com/appreviews/2716400?json=1&language=all&num_per_page=0
+2025-12-09 13:22:52 - Refreshing reviews for recent game: Gravity Circuit (Added: 2025-10-09)
+2025-12-09 13:22:52 - https://store.steampowered.com/appreviews/858710?json=1&language=all&num_per_page=0
+2025-12-09 13:22:53 - Refreshing reviews for recent game: ReDrawn: The Painted Tower Collector's Edition (Added: 2024-12-18)
+2025-12-09 13:22:53 - https://store.steampowered.com/appreviews/1789560?json=1&language=all&num_per_page=0
+2025-12-09 13:22:53 - Refreshing reviews for recent game: Ogu and the Secret Forest (Added: 2025-06-09)
+2025-12-09 13:22:53 - https://store.steampowered.com/appreviews/1985960?json=1&language=all&num_per_page=0
+2025-12-09 13:22:53 - Refreshing reviews for recent game: The Last of Us Part I (Added: 2024-12-24)
+2025-12-09 13:22:53 - https://store.steampowered.com/appreviews/1888930?json=1&language=all&num_per_page=0
+2025-12-09 13:22:54 - Refreshing reviews for recent game: Dream Tactics (Added: 2025-11-20)
+2025-12-09 13:22:54 - https://store.steampowered.com/appreviews/1897650?json=1&language=all&num_per_page=0
+2025-12-09 13:22:54 - Refreshing reviews for recent game: Jorel’s Brother and The Most Important Game of the Galaxy (Added: 2025-09-26)
+2025-12-09 13:22:54 - https://store.steampowered.com/appreviews/1398910?json=1&language=all&num_per_page=0
+2025-12-09 13:22:54 - Refreshing reviews for recent game: Blood Omen 2: Legacy of Kain (Added: 2025-05-16)
+2025-12-09 13:22:54 - https://store.steampowered.com/appreviews/242960?json=1&language=all&num_per_page=0
+2025-12-09 13:22:55 - Refreshing reviews for recent game: Lossless Scaling (Added: 2024-12-17)
+2025-12-09 13:22:55 - https://store.steampowered.com/appreviews/993090?json=1&language=all&num_per_page=0
+2025-12-09 13:22:55 - Refreshing reviews for recent game: Forza Motorsport (Added: 2025-03-22)
+2025-12-09 13:22:55 - https://store.steampowered.com/appreviews/2440510?json=1&language=all&num_per_page=0
+2025-12-09 13:22:55 - Refreshing reviews for recent game: City Legends: The Ghost of Misty Hill Collector's Edition (Added: 2025-11-27)
+2025-12-09 13:22:55 - https://store.steampowered.com/appreviews/2432030?json=1&language=all&num_per_page=0
+2025-12-09 13:22:56 - Refreshing reviews for recent game: RPG Maker VX Ace (Added: 2025-02-05)
+2025-12-09 13:22:56 - https://store.steampowered.com/appreviews/220700?json=1&language=all&num_per_page=0
+2025-12-09 13:22:56 - Refreshing reviews for recent game: DRAGON BALL XENOVERSE 2 (Added: 2025-05-08)
+2025-12-09 13:22:56 - https://store.steampowered.com/appreviews/454650?json=1&language=all&num_per_page=0
+2025-12-09 13:22:56 - Refreshing reviews for recent game: Total Chaos (Added: 2025-11-20)
+2025-12-09 13:22:56 - https://store.steampowered.com/appreviews/2208350?json=1&language=all&num_per_page=0
+2025-12-09 13:22:57 - Refreshing reviews for recent game: Voidtrain (Added: 2025-11-08)
+2025-12-09 13:22:57 - https://store.steampowered.com/appreviews/1159690?json=1&language=all&num_per_page=0
+2025-12-09 13:22:57 - Refreshing reviews for recent game: SteamWorld Heist II (Added: 2025-11-20)
+2025-12-09 13:22:57 - https://store.steampowered.com/appreviews/2396240?json=1&language=all&num_per_page=0
+2025-12-09 13:22:57 - Refreshing reviews for recent game: Turmoil (Added: 2025-01-09)
+2025-12-09 13:22:57 - https://store.steampowered.com/appreviews/2888420?json=1&language=all&num_per_page=0
+2025-12-09 13:22:58 - Refreshing reviews for recent game: Paquerette Down the Bunburrows (Added: 2025-07-04)
+2025-12-09 13:22:58 - https://store.steampowered.com/appreviews/1628610?json=1&language=all&num_per_page=0
+2025-12-09 13:22:58 - Refreshing reviews for recent game: Tearstone: Thieves of the Heart (Added: 2025-11-27)
+2025-12-09 13:22:58 - https://store.steampowered.com/appreviews/1945750?json=1&language=all&num_per_page=0
+2025-12-09 13:22:58 - Refreshing reviews for recent game: Garden Story (Added: 2025-02-21)
+2025-12-09 13:22:58 - https://store.steampowered.com/appreviews/1062140?json=1&language=all&num_per_page=0
+2025-12-09 13:22:59 - Refreshing reviews for recent game: DEFCON Beta Demo (Added: 2025-03-06)
+2025-12-09 13:22:59 - https://store.steampowered.com/appreviews/1523?json=1&language=all&num_per_page=0
+2025-12-09 13:22:59 - Refreshing reviews for recent game: Heretic + Hexen (Added: 2025-08-07)
+2025-12-09 13:22:59 - https://store.steampowered.com/appreviews/3286930?json=1&language=all&num_per_page=0
+2025-12-09 13:22:59 - Refreshing reviews for recent game: Assassin's Creed Revelations (Added: 2025-10-02)
+2025-12-09 13:22:59 - https://store.steampowered.com/appreviews/201870?json=1&language=all&num_per_page=0
+2025-12-09 13:23:00 - Refreshing reviews for recent game: Warhammer 40,000: Dawn of War II (Added: 2024-12-18)
+2025-12-09 13:23:00 - https://store.steampowered.com/appreviews/15620?json=1&language=all&num_per_page=0
+2025-12-09 13:23:00 - Refreshing reviews for recent game: THIEF (Added: 2025-08-07)
+2025-12-09 13:23:00 - https://store.steampowered.com/appreviews/239160?json=1&language=all&num_per_page=0
+2025-12-09 13:23:00 - Refreshing reviews for recent game: Hunt: Showdown 1896 (Added: 2025-04-19)
+2025-12-09 13:23:00 - https://store.steampowered.com/appreviews/594650?json=1&language=all&num_per_page=0
+2025-12-09 13:23:01 - Refreshing reviews for recent game: Sniper Elite: Resistance (Added: 2025-01-30)
+2025-12-09 13:23:01 - https://store.steampowered.com/appreviews/2169200?json=1&language=all&num_per_page=0
+2025-12-09 13:23:01 - Refreshing reviews for recent game: Colt Canyon (Added: 2025-02-21)
+2025-12-09 13:23:01 - https://store.steampowered.com/appreviews/940710?json=1&language=all&num_per_page=0
+2025-12-09 13:23:01 - Refreshing reviews for recent game: Moonlighter 2: The Endless Vault (Game Preview) (Added: 2025-11-20)
+2025-12-09 13:23:01 - https://store.steampowered.com/appreviews/2350790?json=1&language=all&num_per_page=0
+2025-12-09 13:23:02 - Refreshing reviews for recent game: Sifu (Added: 2025-01-01)
+2025-12-09 13:23:02 - https://store.steampowered.com/appreviews/2138710?json=1&language=all&num_per_page=0
+2025-12-09 13:23:02 - Refreshing reviews for recent game: Walking Survival (Added: 2025-08-28)
+2025-12-09 13:23:02 - https://store.steampowered.com/appreviews/3506800?json=1&language=all&num_per_page=0
+2025-12-09 13:23:02 - Refreshing reviews for recent game: XCOM 2 (Added: 2025-10-09)
+2025-12-09 13:23:02 - https://store.steampowered.com/appreviews/268500?json=1&language=all&num_per_page=0
+2025-12-09 13:23:02 - Refreshing reviews for recent game: Furi Demake (Added: 2025-05-10)
+2025-12-09 13:23:02 - https://store.steampowered.com/appreviews/2593450?json=1&language=all&num_per_page=0
+2025-12-09 13:23:03 - Refreshing reviews for recent game: LEGO Star Wars - The Complete Saga (Added: 2025-05-04)
+2025-12-09 13:23:03 - https://store.steampowered.com/appreviews/32440?json=1&language=all&num_per_page=0
+2025-12-09 13:23:03 - Refreshing reviews for recent game: GUNTOUCHABLES (Added: 2025-08-07)
+2025-12-09 13:23:03 - https://store.steampowered.com/appreviews/2543510?json=1&language=all&num_per_page=0
+2025-12-09 13:23:04 - Refreshing reviews for recent game: Royal Romances: Cursed Hearts Collector's Edition (Added: 2025-11-27)
+2025-12-09 13:23:04 - https://store.steampowered.com/appreviews/2676970?json=1&language=all&num_per_page=0
+2025-12-09 13:23:04 - Refreshing reviews for recent game: Kamaeru (Added: 2025-08-28)
+2025-12-09 13:23:04 - https://store.steampowered.com/appreviews/1978150?json=1&language=all&num_per_page=0
+2025-12-09 13:23:04 - Refreshing reviews for recent game: Leap of Love (Added: 2025-08-03)
+2025-12-09 13:23:04 - https://store.steampowered.com/appreviews/1469300?json=1&language=all&num_per_page=0
+2025-12-09 13:23:05 - Refreshing reviews for recent game: Redemption Reapers (Added: 2025-03-04)
+2025-12-09 13:23:05 - https://store.steampowered.com/appreviews/2139300?json=1&language=all&num_per_page=0
+2025-12-09 13:23:05 - Refreshing reviews for recent game: VOID/BREAKER (Added: 2025-08-20)
+2025-12-09 13:23:05 - https://store.steampowered.com/appreviews/2615540?json=1&language=all&num_per_page=0
+2025-12-09 13:23:05 - Refreshing reviews for recent game: BALL x PIT (Added: 2025-11-08)
+2025-12-09 13:23:05 - https://store.steampowered.com/appreviews/2062430?json=1&language=all&num_per_page=0
+2025-12-09 13:23:06 - Refreshing reviews for recent game: Command & Conquer 3: Tiberium Wars (Added: 2025-03-04)
+2025-12-09 13:23:06 - https://store.steampowered.com/appreviews/24790?json=1&language=all&num_per_page=0
+2025-12-09 13:23:06 - Refreshing reviews for recent game: Mafia III: Definitive Edition (Added: 2025-04-11)
+2025-12-09 13:23:06 - https://store.steampowered.com/appreviews/360430?json=1&language=all&num_per_page=0
+2025-12-09 13:23:06 - Refreshing reviews for recent game: Road 96 (Added: 2025-01-07)
+2025-12-09 13:23:06 - https://store.steampowered.com/appreviews/1466640?json=1&language=all&num_per_page=0
+2025-12-09 13:23:07 - Refreshing reviews for recent game: Keeper (Added: 2025-10-21)
+2025-12-09 13:23:07 - https://store.steampowered.com/appreviews/3043580?json=1&language=all&num_per_page=0
+2025-12-09 13:23:07 - Refreshing reviews for recent game: Werewolf: The Apocalypse - Heart of the Forest (Added: 2025-10-31)
+2025-12-09 13:23:07 - https://store.steampowered.com/appreviews/1342620?json=1&language=all&num_per_page=0
+2025-12-09 13:23:07 - Refreshing reviews for recent game: Lacuna (Added: 2025-06-13)
+2025-12-09 13:23:07 - https://store.steampowered.com/appreviews/1364100?json=1&language=all&num_per_page=0
+2025-12-09 13:23:08 - Refreshing reviews for recent game: S.T.A.L.K.E.R.: Shadow of Chornobyl (Added: 2025-05-20)
+2025-12-09 13:23:08 - https://store.steampowered.com/appreviews/2427410?json=1&language=all&num_per_page=0
+2025-12-09 13:23:08 - Refreshing reviews for recent game: ENDLESS Legend 2 (Game Preview) (Added: 2025-09-23)
+2025-12-09 13:23:08 - https://store.steampowered.com/appreviews/3407390?json=1&language=all&num_per_page=0
+2025-12-09 13:23:09 - Refreshing reviews for recent game: Lara Croft and the Temple of Osiris (Added: 2025-11-12)
+2025-12-09 13:23:09 - https://store.steampowered.com/appreviews/289690?json=1&language=all&num_per_page=0
+2025-12-09 13:23:09 - Refreshing reviews for recent game: Predator Hunting Grounds (Added: 2024-12-20)
+2025-12-09 13:23:09 - https://store.steampowered.com/appreviews/1556200?json=1&language=all&num_per_page=0
+2025-12-09 13:23:09 - Refreshing reviews for recent game: PowerWash Simulator 2 (Added: 2025-10-24)
+2025-12-09 13:23:09 - https://store.steampowered.com/appreviews/2968420?json=1&language=all&num_per_page=0
+2025-12-09 13:23:10 - Refreshing reviews for recent game: War Thunder (Added: 2025-08-16)
+2025-12-09 13:23:10 - https://store.steampowered.com/appreviews/236390?json=1&language=all&num_per_page=0
+2025-12-09 13:23:10 - Refreshing reviews for recent game: FATE: The Cursed King (Added: 2025-09-26)
+2025-12-09 13:23:10 - https://store.steampowered.com/appreviews/303690?json=1&language=all&num_per_page=0
+2025-12-09 13:23:11 - Refreshing reviews for recent game: Figment 2: Creed Valley (Added: 2025-07-11)
+2025-12-09 13:23:11 - https://store.steampowered.com/appreviews/1085220?json=1&language=all&num_per_page=0
+2025-12-09 13:23:11 - Refreshing reviews for recent game: Spitlings (Added: 2025-01-30)
+2025-12-09 13:23:11 - https://store.steampowered.com/appreviews/1002000?json=1&language=all&num_per_page=0
+2025-12-09 13:23:11 - Refreshing reviews for recent game: Spirit Mancer (Added: 2025-01-09)
+2025-12-09 13:23:11 - https://store.steampowered.com/appreviews/2172580?json=1&language=all&num_per_page=0
+2025-12-09 13:23:11 - Refreshing reviews for recent game: Nobodies (Added: 2025-06-26)
+2025-12-09 13:23:11 - https://store.steampowered.com/appreviews/1038280?json=1&language=all&num_per_page=0
+2025-12-09 13:23:12 - Refreshing reviews for recent game: Little Rocket Lab (Added: 2025-10-09)
+2025-12-09 13:23:12 - https://store.steampowered.com/appreviews/2451100?json=1&language=all&num_per_page=0
+2025-12-09 13:23:12 - Refreshing reviews for recent game: Dark Sky (Added: 2025-02-14)
+2025-12-09 13:23:12 - https://store.steampowered.com/appreviews/1454960?json=1&language=all&num_per_page=0
+2025-12-09 13:23:12 - Refreshing reviews for recent game: Fort Solis (Added: 2025-11-18)
+2025-12-09 13:23:12 - https://store.steampowered.com/appreviews/1931730?json=1&language=all&num_per_page=0
+2025-12-09 13:23:13 - Refreshing reviews for recent game: Lost in Random: The Eternal Die (Added: 2025-06-22)
+2025-12-09 13:23:13 - https://store.steampowered.com/appreviews/2564520?json=1&language=all&num_per_page=0
+2025-12-09 13:23:13 - Refreshing reviews for recent game: South Park: The Fractured but Whole (Added: 2025-10-02)
+2025-12-09 13:23:13 - https://store.steampowered.com/appreviews/488790?json=1&language=all&num_per_page=0
+2025-12-09 13:23:13 - Refreshing reviews for recent game: Abiotic Factor (Added: 2025-07-25)
+2025-12-09 13:23:13 - https://store.steampowered.com/appreviews/427410?json=1&language=all&num_per_page=0
+2025-12-09 13:23:14 - Refreshing reviews for recent game: The Battle of Polytopia (Added: 2025-09-12)
+2025-12-09 13:23:14 - https://store.steampowered.com/appreviews/874390?json=1&language=all&num_per_page=0
+2025-12-09 13:23:14 - Refreshing reviews for recent game: The Last Show of Mr. Chardish (Added: 2025-04-18)
+2025-12-09 13:23:14 - https://store.steampowered.com/appreviews/1164060?json=1&language=all&num_per_page=0
+2025-12-09 13:23:14 - Refreshing reviews for recent game: Shady Part of Me (Added: 2025-01-30)
+2025-12-09 13:23:14 - https://store.steampowered.com/appreviews/1116580?json=1&language=all&num_per_page=0
+2025-12-09 13:23:15 - Refreshing reviews for recent game: Lovecraft's Untold Stories (Added: 2025-09-17)
+2025-12-09 13:23:15 - https://store.steampowered.com/appreviews/871420?json=1&language=all&num_per_page=0
+2025-12-09 13:23:15 - Refreshing reviews for recent game: F1 Manager 2024 (Added: 2025-02-14)
+2025-12-09 13:23:15 - https://store.steampowered.com/appreviews/2591280?json=1&language=all&num_per_page=0
+2025-12-09 13:23:15 - Refreshing reviews for recent game: Wheel World (Added: 2025-07-25)
+2025-12-09 13:23:15 - https://store.steampowered.com/appreviews/1497460?json=1&language=all&num_per_page=0
+2025-12-09 13:23:16 - Refreshing reviews for recent game: Winter Burrow (Added: 2025-11-12)
+2025-12-09 13:23:16 - https://store.steampowered.com/appreviews/3008740?json=1&language=all&num_per_page=0
+2025-12-09 13:23:16 - Refreshing reviews for recent game: Kingdom Two Crowns (Added: 2025-06-13)
+2025-12-09 13:23:16 - https://store.steampowered.com/appreviews/701160?json=1&language=all&num_per_page=0
+2025-12-09 13:23:16 - Refreshing reviews for recent game: Touch Type Tale (Added: 2025-05-08)
+2025-12-09 13:23:16 - https://store.steampowered.com/appreviews/909470?json=1&language=all&num_per_page=0
+2025-12-09 13:23:17 - Refreshing reviews for recent game: Summer in Mara (Added: 2025-08-10)
+2025-12-09 13:23:17 - https://store.steampowered.com/appreviews/962580?json=1&language=all&num_per_page=0
+2025-12-09 13:23:17 - Refreshing reviews for recent game: Mafia II (Added: 2025-03-06)
+2025-12-09 13:23:17 - https://store.steampowered.com/appreviews/1030830?json=1&language=all&num_per_page=0
+2025-12-09 13:23:17 - Refreshing reviews for recent game: Pillars of Eternity II: Deadfire (Added: 2025-10-24)
+2025-12-09 13:23:17 - https://store.steampowered.com/appreviews/560130?json=1&language=all&num_per_page=0
+2025-12-09 13:23:18 - Refreshing reviews for recent game: NEXT JUMP: Shmup Tactics (Added: 2025-06-28)
+2025-12-09 13:23:18 - https://store.steampowered.com/appreviews/624690?json=1&language=all&num_per_page=0
+2025-12-09 13:23:18 - Refreshing reviews for recent game: PAW Patrol World (Added: 2025-09-11)
+2025-12-09 13:23:18 - https://store.steampowered.com/appreviews/1952520?json=1&language=all&num_per_page=0
+2025-12-09 13:23:18 - Refreshing reviews for recent game: KILL KNIGHT (Added: 2024-12-29)
+2025-12-09 13:23:18 - https://store.steampowered.com/appreviews/2694420?json=1&language=all&num_per_page=0
+2025-12-09 13:23:19 - Refreshing reviews for recent game: Chicken Assassin: Reloaded (Added: 2024-12-19)
+2025-12-09 13:23:19 - https://store.steampowered.com/appreviews/489610?json=1&language=all&num_per_page=0
+2025-12-09 13:23:19 - Refreshing reviews for recent game: Yes, Your Grace (Added: 2025-03-04)
+2025-12-09 13:23:19 - https://store.steampowered.com/appreviews/1115690?json=1&language=all&num_per_page=0
+2025-12-09 13:23:19 - Refreshing reviews for recent game: For Honor (Added: 2025-10-02)
+2025-12-09 13:23:19 - https://store.steampowered.com/appreviews/304390?json=1&language=all&num_per_page=0
+2025-12-09 13:23:20 - Refreshing reviews for recent game: Venba (Added: 2025-07-25)
+2025-12-09 13:23:20 - https://store.steampowered.com/appreviews/1491670?json=1&language=all&num_per_page=0
+2025-12-09 13:23:20 - Refreshing reviews for recent game: STAR WARS Galactic Battlegrounds Saga (Added: 2025-05-04)
+2025-12-09 13:23:20 - https://store.steampowered.com/appreviews/356500?json=1&language=all&num_per_page=0
+2025-12-09 13:23:20 - Refreshing reviews for recent game: I Love Finding Wild Friends (Added: 2025-11-27)
+2025-12-09 13:23:20 - https://store.steampowered.com/appreviews/2589340?json=1&language=all&num_per_page=0
+2025-12-09 13:23:21 - Refreshing reviews for recent game: Trials Fusion (Added: 2025-10-02)
+2025-12-09 13:23:21 - https://store.steampowered.com/appreviews/245490?json=1&language=all&num_per_page=0
+2025-12-09 13:23:21 - Refreshing reviews for recent game: Terminull Brigade (Added: 2025-10-02)
+2025-12-09 13:23:21 - https://store.steampowered.com/appreviews/3104410?json=1&language=all&num_per_page=0
+2025-12-09 13:23:21 - Refreshing reviews for recent game: Lust Theory - Season 1 (Added: 2025-08-03)
+2025-12-09 13:23:21 - https://store.steampowered.com/appreviews/1607130?json=1&language=all&num_per_page=0
+2025-12-09 13:23:22 - Refreshing reviews for recent game: Worms Armageddon (Added: 2025-11-18)
+2025-12-09 13:23:22 - https://store.steampowered.com/appreviews/217200?json=1&language=all&num_per_page=0
+2025-12-09 13:23:22 - Refreshing reviews for recent game: Monster Hunter Wilds Benchmark (Added: 2025-03-21)
+2025-12-09 13:23:22 - https://store.steampowered.com/appreviews/3424520?json=1&language=all&num_per_page=0
+2025-12-09 13:23:22 - Refreshing reviews for recent game: Command & Conquer Generals Zero Hour (Added: 2025-03-04)
+2025-12-09 13:23:22 - https://store.steampowered.com/appreviews/2732960?json=1&language=all&num_per_page=0
+2025-12-09 13:23:23 - Refreshing reviews for recent game: Gloomy Tales: One Way Ticket Collector's Edition (Added: 2025-11-27)
+2025-12-09 13:23:23 - https://store.steampowered.com/appreviews/2625480?json=1&language=all&num_per_page=0
+2025-12-09 13:23:23 - Refreshing reviews for recent game: Another World: 20th Anniversary Edition (Added: 2025-11-18)
+2025-12-09 13:23:23 - https://store.steampowered.com/appreviews/233550?json=1&language=all&num_per_page=0
+2025-12-09 13:23:23 - Refreshing reviews for recent game: Thief Gold (Added: 2025-04-24)
+2025-12-09 13:23:23 - https://store.steampowered.com/appreviews/211600?json=1&language=all&num_per_page=0
+2025-12-09 13:23:24 - Refreshing reviews for recent game: Lysfanga: The Time Shift Warrior (Added: 2025-02-14)
+2025-12-09 13:23:24 - https://store.steampowered.com/appreviews/2161620?json=1&language=all&num_per_page=0
+2025-12-09 13:23:24 - Refreshing reviews for recent game: Eriksholm: The Stolen Dream (Added: 2025-10-19)
+2025-12-09 13:23:24 - https://store.steampowered.com/appreviews/2377280?json=1&language=all&num_per_page=0
+2025-12-09 13:23:25 - Refreshing reviews for recent game: Nightingale (Added: 2025-10-02)
+2025-12-09 13:23:25 - https://store.steampowered.com/appreviews/1928980?json=1&language=all&num_per_page=0
