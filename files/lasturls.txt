@@ -3694,3 +3694,8 @@
 2025-12-09 08:43:27 - https://store.steampowered.com/api/appdetails?appids=1913370&cc=us&l=en
 2025-12-09 08:43:29 - https://store.steampowered.com/api/appdetails?appids=1978210&cc=us&l=en
 2025-12-09 08:43:31 - https://store.steampowered.com/api/appdetails?appids=511470&cc=us&l=en
+2025-12-09 08:43:51 - TIMING: Total execution completed in 38.762 ms
+2025-12-09 08:49:47 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 08:49:48 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 08:49:48 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-09 08:49:49 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
