@@ -4873,3 +4873,8 @@
 2025-12-09 22:33:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Age of Steel: Recharge","ReleaseYear":2016,"GameId":"d4f5ca06-2d42-4cea-89e3-e640e40760c4"}
 2025-12-09 22:33:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"theHunter: Call of the Wild","ReleaseYear":2021,"GameId":"AvalancheStudios.theHunterCalloftheWild-Windows10_m0byj0nmrybdr"}
 2025-12-09 22:33:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Verdun","ReleaseYear":2015,"GameId":"38c0129b680e4843b4807b98bad67027"}
+2025-12-09 22:33:42 - TIMING: Total execution completed in 980.742 ms
+2025-12-10 10:43:18 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-10 10:43:19 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-10 10:43:19 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-10 10:43:19 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
