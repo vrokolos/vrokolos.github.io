@@ -4998,3 +4998,4 @@
 2025-12-12 00:06:27 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Pools of Darkness","ReleaseYear":1988,"GameId":"1432643408"}
 2025-12-12 00:06:27 - https://store.steampowered.com/api/appdetails?appids=1882370&cc=us&l=en
 2025-12-12 00:06:27 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Pool of Radiance","ReleaseYear":1988,"GameId":"1432640961"}
+2025-12-12 00:06:49 - TIMING: Total execution completed in 41.354 ms
