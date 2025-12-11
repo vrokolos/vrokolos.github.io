@@ -6199,3 +6199,9 @@
 2025-12-12 01:50:15 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3274580&include_external=true
 2025-12-12 01:50:15 - INFO: Created game file for The Blood of Dawnwalker at c:\Output\playnite\files\decksettings\7f95e5d5-58da-f457-f48d-b258b30addcf.json
 2025-12-12 01:50:15 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3751260&include_external=true
+2025-12-12 01:50:44 - TIMING: Total execution completed in 63.921 ms
+2025-12-12 01:52:44 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:52:44 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:52:45 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:52:45 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:52:45 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
