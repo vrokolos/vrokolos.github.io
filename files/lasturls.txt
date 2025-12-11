@@ -5031,3 +5031,262 @@
 2025-12-12 01:07:08 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-12 01:07:08 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-12 01:07:09 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:07:45 - TIMING: Total execution completed in 38.073 ms
+2025-12-12 01:27:04 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:27:05 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:27:05 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:27:06 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:27:06 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-12 01:27:43 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:27:44 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:27:44 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:27:45 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:27:45 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-12 01:28:13 - TIMING: Total execution completed in 29.889 ms
+2025-12-12 01:30:37 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:30:38 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:30:38 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:30:38 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:30:39 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-12 01:30:46 - INFO: Created game file for [Wishlist] Steam App 328080 at c:\Output\playnite\files\decksettings\9c1f8c28-7723-44a0-8c88-67f508843611.json
+2025-12-12 01:30:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=328080&include_external=true
+2025-12-12 01:30:46 - INFO: Created game file for [Wishlist] Steam App 3768760 at c:\Output\playnite\files\decksettings\8d26e231-dc03-44c2-b83c-ba41223e8b10.json
+2025-12-12 01:30:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3768760&include_external=true
+2025-12-12 01:30:46 - INFO: Created game file for [Wishlist] Steam App 333640 at c:\Output\playnite\files\decksettings\b030b937-542e-4178-bd88-4ecd24dee197.json
+2025-12-12 01:30:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=333640&include_external=true
+2025-12-12 01:30:47 - INFO: Created game file for [Wishlist] Steam App 379210 at c:\Output\playnite\files\decksettings\95060bae-ba96-47df-b969-c8e8cbb99896.json
+2025-12-12 01:30:47 - https://deckverified.games/deck-verified/api/v1/game_details?appid=379210&include_external=true
+2025-12-12 01:30:48 - INFO: Created game file for [Wishlist] Steam App 648410 at c:\Output\playnite\files\decksettings\a642bf8e-cd01-4f9d-a9c8-f7c5e4f756da.json
+2025-12-12 01:30:48 - https://deckverified.games/deck-verified/api/v1/game_details?appid=648410&include_external=true
+2025-12-12 01:30:49 - INFO: Created game file for [Wishlist] Steam App 813230 at c:\Output\playnite\files\decksettings\4382211a-9675-4c2f-be55-e119742be5e6.json
+2025-12-12 01:30:49 - https://deckverified.games/deck-verified/api/v1/game_details?appid=813230&include_external=true
+2025-12-12 01:30:50 - INFO: Created game file for [Wishlist] Steam App 955900 at c:\Output\playnite\files\decksettings\cf9d8449-c241-4b56-817e-98cf9d15f582.json
+2025-12-12 01:30:50 - https://deckverified.games/deck-verified/api/v1/game_details?appid=955900&include_external=true
+2025-12-12 01:30:50 - INFO: Created game file for [Wishlist] Steam App 986130 at c:\Output\playnite\files\decksettings\dabbfbd5-23ae-4388-8b3c-9f3b6fec131c.json
+2025-12-12 01:30:50 - https://deckverified.games/deck-verified/api/v1/game_details?appid=986130&include_external=true
+2025-12-12 01:30:51 - INFO: Created game file for [Wishlist] Steam App 1043810 at c:\Output\playnite\files\decksettings\11fc3615-5463-4a90-934a-0b5e31ec3a6d.json
+2025-12-12 01:30:51 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1043810&include_external=true
+2025-12-12 01:30:52 - INFO: Created game file for [Wishlist] Steam App 1097110 at c:\Output\playnite\files\decksettings\ed1eee43-c417-4327-8f81-4ed2829eecf0.json
+2025-12-12 01:30:52 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1097110&include_external=true
+2025-12-12 01:30:52 - INFO: Created game file for [Wishlist] Steam App 1147860 at c:\Output\playnite\files\decksettings\978a8e38-5111-4c23-bcea-5e37cea32553.json
+2025-12-12 01:30:52 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1147860&include_external=true
+2025-12-12 01:30:53 - INFO: Created game file for [Wishlist] Steam App 1307890 at c:\Output\playnite\files\decksettings\a0e3f24d-d9d7-4415-92a9-54b596391cff.json
+2025-12-12 01:30:53 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1307890&include_external=true
+2025-12-12 01:30:54 - INFO: Created game file for [Wishlist] Steam App 1315320 at c:\Output\playnite\files\decksettings\0c79ecb5-7cad-49dc-bd03-1bc879a71ebc.json
+2025-12-12 01:30:54 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1315320&include_external=true
+2025-12-12 01:30:55 - INFO: Created game file for [Wishlist] Steam App 1346360 at c:\Output\playnite\files\decksettings\b4cb86a5-6703-42c3-b0e4-f5fe39f7d1a5.json
+2025-12-12 01:30:55 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1346360&include_external=true
+2025-12-12 01:30:56 - INFO: Created game file for [Wishlist] Steam App 1371980 at c:\Output\playnite\files\decksettings\72d7ee24-4881-43f0-96d3-61c62c634c9d.json
+2025-12-12 01:30:56 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1371980&include_external=true
+2025-12-12 01:30:56 - INFO: Created game file for [Wishlist] Steam App 1395520 at c:\Output\playnite\files\decksettings\32ea719f-441f-4b12-97a7-20121f76dcaa.json
+2025-12-12 01:30:56 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1395520&include_external=true
+2025-12-12 01:30:57 - INFO: Created game file for [Wishlist] Steam App 1429850 at c:\Output\playnite\files\decksettings\bb6af005-b1aa-416d-9d3f-1319b7a9fed1.json
+2025-12-12 01:30:57 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1429850&include_external=true
+2025-12-12 01:30:58 - INFO: Created game file for [Wishlist] Steam App 1466390 at c:\Output\playnite\files\decksettings\17c30b33-ea23-4b30-8cff-b069aaf5ccb6.json
+2025-12-12 01:30:58 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1466390&include_external=true
+2025-12-12 01:30:58 - INFO: Created game file for [Wishlist] Steam App 1585180 at c:\Output\playnite\files\decksettings\60e9ac83-6154-4634-aeea-9d63f0886070.json
+2025-12-12 01:30:58 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1585180&include_external=true
+2025-12-12 01:30:59 - INFO: Created game file for [Wishlist] Steam App 1669000 at c:\Output\playnite\files\decksettings\e2df2002-e431-463f-9ac8-687c5f5ae02c.json
+2025-12-12 01:30:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1669000&include_external=true
+2025-12-12 01:30:59 - INFO: Created game file for [Wishlist] Steam App 1771300 at c:\Output\playnite\files\decksettings\7ea88985-e488-4c87-84ff-69b029689606.json
+2025-12-12 01:30:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1771300&include_external=true
+2025-12-12 01:31:00 - INFO: Created game file for [Wishlist] Steam App 1775490 at c:\Output\playnite\files\decksettings\428c5af5-ff48-4c52-b4fc-f86b3855fb5f.json
+2025-12-12 01:31:00 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1775490&include_external=true
+2025-12-12 01:31:00 - INFO: Created game file for [Wishlist] Steam App 1783560 at c:\Output\playnite\files\decksettings\58399992-a7ec-46da-a93a-ea27cd4388b3.json
+2025-12-12 01:31:00 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1783560&include_external=true
+2025-12-12 01:31:01 - INFO: Created game file for [Wishlist] Steam App 1911610 at c:\Output\playnite\files\decksettings\0e666f16-4ca0-4e72-aac3-046ec8b54675.json
+2025-12-12 01:31:01 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1911610&include_external=true
+2025-12-12 01:31:01 - INFO: Created game file for [Wishlist] Steam App 1954200 at c:\Output\playnite\files\decksettings\f16b6b74-3c64-40f9-88e3-597b325d5e30.json
+2025-12-12 01:31:01 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1954200&include_external=true
+2025-12-12 01:31:02 - INFO: Created game file for [Wishlist] Steam App 2008920 at c:\Output\playnite\files\decksettings\959b3883-52dc-4c4a-85b9-3d51a1fa2903.json
+2025-12-12 01:31:02 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2008920&include_external=true
+2025-12-12 01:31:03 - INFO: Created game file for [Wishlist] Steam App 2071430 at c:\Output\playnite\files\decksettings\f82d9706-b145-4b97-aa02-b5fe58cce64c.json
+2025-12-12 01:31:03 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2071430&include_external=true
+2025-12-12 01:31:04 - INFO: Created game file for [Wishlist] Steam App 2126190 at c:\Output\playnite\files\decksettings\a0ed5d9a-b530-4b98-8831-6117d3c5ed75.json
+2025-12-12 01:31:04 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2126190&include_external=true
+2025-12-12 01:31:04 - INFO: Created game file for [Wishlist] Steam App 2155180 at c:\Output\playnite\files\decksettings\3161557c-3fb6-4af4-9408-aa80886ae533.json
+2025-12-12 01:31:04 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2155180&include_external=true
+2025-12-12 01:31:05 - INFO: Created game file for [Wishlist] Steam App 2168390 at c:\Output\playnite\files\decksettings\778bafcc-968c-4e6b-ab86-23631a0938a1.json
+2025-12-12 01:31:05 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2168390&include_external=true
+2025-12-12 01:31:06 - INFO: Created game file for [Wishlist] Steam App 2187220 at c:\Output\playnite\files\decksettings\a1ef182a-b85b-4f0e-bb98-5aaab546545c.json
+2025-12-12 01:31:06 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2187220&include_external=true
+2025-12-12 01:31:07 - INFO: Created game file for [Wishlist] Steam App 2244130 at c:\Output\playnite\files\decksettings\71834694-a817-4b95-b21b-d558d79c8f7b.json
+2025-12-12 01:31:07 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2244130&include_external=true
+2025-12-12 01:31:08 - INFO: Created game file for [Wishlist] Steam App 2401970 at c:\Output\playnite\files\decksettings\af17ba9a-dd65-4cd3-b0a2-56ce42d89c36.json
+2025-12-12 01:31:08 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2401970&include_external=true
+2025-12-12 01:31:08 - INFO: Created game file for [Wishlist] Steam App 2414270 at c:\Output\playnite\files\decksettings\bcfd7c6a-15f2-417b-bf61-dc343f3ee143.json
+2025-12-12 01:31:08 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2414270&include_external=true
+2025-12-12 01:31:09 - INFO: Created game file for [Wishlist] Steam App 2427700 at c:\Output\playnite\files\decksettings\85874d14-89b9-41c2-8c66-ff8e16f1ccc1.json
+2025-12-12 01:31:09 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2427700&include_external=true
+2025-12-12 01:31:10 - INFO: Created game file for [Wishlist] Steam App 2432860 at c:\Output\playnite\files\decksettings\9508611d-f7c0-47f2-8bdd-28d159765cc5.json
+2025-12-12 01:31:10 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2432860&include_external=true
+2025-12-12 01:31:11 - INFO: Created game file for [Wishlist] Steam App 2438970 at c:\Output\playnite\files\decksettings\2fa64f97-7fe4-49ed-b2c1-6101f62204e7.json
+2025-12-12 01:31:11 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2438970&include_external=true
+2025-12-12 01:31:12 - INFO: Created game file for [Wishlist] Steam App 2474030 at c:\Output\playnite\files\decksettings\306ae4eb-a469-42d6-b4ea-2d9466e47521.json
+2025-12-12 01:31:12 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2474030&include_external=true
+2025-12-12 01:31:12 - INFO: Created game file for [Wishlist] Steam App 2592160 at c:\Output\playnite\files\decksettings\c9644032-fce2-4cdc-a308-e2a2ac90bcb6.json
+2025-12-12 01:31:12 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2592160&include_external=true
+2025-12-12 01:31:13 - INFO: Created game file for [Wishlist] Steam App 2714620 at c:\Output\playnite\files\decksettings\4057b661-496a-4a67-860a-24a22d6fbda5.json
+2025-12-12 01:31:13 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2714620&include_external=true
+2025-12-12 01:31:14 - INFO: Created game file for [Wishlist] Steam App 2719750 at c:\Output\playnite\files\decksettings\7d230f92-9e54-48d9-ae39-9d77c8f5261a.json
+2025-12-12 01:31:14 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2719750&include_external=true
+2025-12-12 01:31:15 - INFO: Created game file for [Wishlist] Steam App 2754380 at c:\Output\playnite\files\decksettings\23360c10-1362-40a5-bd3b-ab7c55f597ec.json
+2025-12-12 01:31:15 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2754380&include_external=true
+2025-12-12 01:31:16 - INFO: Created game file for [Wishlist] Steam App 2807150 at c:\Output\playnite\files\decksettings\6f3437aa-900e-42b1-a302-46e4c65910ba.json
+2025-12-12 01:31:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2807150&include_external=true
+2025-12-12 01:31:16 - INFO: Created game file for [Wishlist] Steam App 2863640 at c:\Output\playnite\files\decksettings\8924b7b5-a0c5-4ade-9b13-66a6f9e217bb.json
+2025-12-12 01:31:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2863640&include_external=true
+2025-12-12 01:31:17 - INFO: Created game file for [Wishlist] Steam App 2885870 at c:\Output\playnite\files\decksettings\4646e21d-ffb3-45ed-aa0b-c83c82bf54e2.json
+2025-12-12 01:31:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2885870&include_external=true
+2025-12-12 01:31:18 - INFO: Created game file for [Wishlist] Steam App 3150480 at c:\Output\playnite\files\decksettings\0d17c182-ecef-4f52-8268-76e10e226dad.json
+2025-12-12 01:31:18 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3150480&include_external=true
+2025-12-12 01:31:19 - INFO: Created game file for [Wishlist] Steam App 3274580 at c:\Output\playnite\files\decksettings\fd5240bb-438d-43aa-bd36-e040ad8a6384.json
+2025-12-12 01:31:19 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3274580&include_external=true
+2025-12-12 01:31:20 - INFO: Created game file for [Wishlist] Steam App 3751260 at c:\Output\playnite\files\decksettings\9839044a-b0ca-4eb8-8740-2ef61b194901.json
+2025-12-12 01:31:20 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3751260&include_external=true
+2025-12-12 01:31:20 - https://api.gg.deals/v1/prices/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=328080,333640,379210,648410,813230,955900,986130,1043810,1097110,1147860,1307890,1315320,1346360,1371980,1395520,1429850,1466390,1585180,1669000,1771300,1775490,1783560,1911610,1954200,2008920,2071430,2126190,2155180,2168390,2187220,2244130,2401970,2414270,2427700,2432860,2438970,2474030,2592160,2714620,2719750,2754380,2807150,2863640,2885870,3150480,3274580,3751260,3768760
+2025-12-12 01:31:20 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=328080,333640,379210,648410,813230,955900,986130,1043810,1097110,1147860,1307890,1315320,1346360,1371980,1395520,1429850,1466390,1585180,1669000,1771300,1775490,1783560,1911610,1954200,2008920,2071430,2126190,2155180,2168390,2187220,2244130,2401970,2414270,2427700,2432860,2438970,2474030,2592160,2714620,2719750,2754380,2807150,2863640,2885870,3150480,3274580,3751260,3768760
+2025-12-12 01:31:20 - https://store.steampowered.com/appreviews/328080?json=1&language=all&num_per_page=0
+2025-12-12 01:31:20 - https://store.steampowered.com/appreviews/333640?json=1&language=all&num_per_page=0
+2025-12-12 01:31:21 - https://store.steampowered.com/appreviews/379210?json=1&language=all&num_per_page=0
+2025-12-12 01:31:21 - https://store.steampowered.com/appreviews/648410?json=1&language=all&num_per_page=0
+2025-12-12 01:31:21 - https://store.steampowered.com/appreviews/813230?json=1&language=all&num_per_page=0
+2025-12-12 01:31:22 - https://store.steampowered.com/appreviews/955900?json=1&language=all&num_per_page=0
+2025-12-12 01:31:22 - https://store.steampowered.com/appreviews/986130?json=1&language=all&num_per_page=0
+2025-12-12 01:31:22 - https://store.steampowered.com/appreviews/1043810?json=1&language=all&num_per_page=0
+2025-12-12 01:31:23 - https://store.steampowered.com/appreviews/1097110?json=1&language=all&num_per_page=0
+2025-12-12 01:31:23 - https://store.steampowered.com/appreviews/1147860?json=1&language=all&num_per_page=0
+2025-12-12 01:31:23 - https://store.steampowered.com/appreviews/1307890?json=1&language=all&num_per_page=0
+2025-12-12 01:31:24 - https://store.steampowered.com/appreviews/1315320?json=1&language=all&num_per_page=0
+2025-12-12 01:31:24 - https://store.steampowered.com/appreviews/1346360?json=1&language=all&num_per_page=0
+2025-12-12 01:31:24 - https://store.steampowered.com/appreviews/1371980?json=1&language=all&num_per_page=0
+2025-12-12 01:31:25 - https://store.steampowered.com/appreviews/1395520?json=1&language=all&num_per_page=0
+2025-12-12 01:31:25 - https://store.steampowered.com/appreviews/1429850?json=1&language=all&num_per_page=0
+2025-12-12 01:31:25 - https://store.steampowered.com/appreviews/1466390?json=1&language=all&num_per_page=0
+2025-12-12 01:31:26 - https://store.steampowered.com/appreviews/1585180?json=1&language=all&num_per_page=0
+2025-12-12 01:31:26 - https://store.steampowered.com/appreviews/1669000?json=1&language=all&num_per_page=0
+2025-12-12 01:31:27 - https://store.steampowered.com/appreviews/1771300?json=1&language=all&num_per_page=0
+2025-12-12 01:31:27 - https://store.steampowered.com/appreviews/1775490?json=1&language=all&num_per_page=0
+2025-12-12 01:31:27 - https://store.steampowered.com/appreviews/1783560?json=1&language=all&num_per_page=0
+2025-12-12 01:31:28 - https://store.steampowered.com/appreviews/1911610?json=1&language=all&num_per_page=0
+2025-12-12 01:31:28 - https://store.steampowered.com/appreviews/1954200?json=1&language=all&num_per_page=0
+2025-12-12 01:31:28 - https://store.steampowered.com/appreviews/2008920?json=1&language=all&num_per_page=0
+2025-12-12 01:31:29 - https://store.steampowered.com/appreviews/2071430?json=1&language=all&num_per_page=0
+2025-12-12 01:31:29 - https://store.steampowered.com/appreviews/2126190?json=1&language=all&num_per_page=0
+2025-12-12 01:31:29 - https://store.steampowered.com/appreviews/2155180?json=1&language=all&num_per_page=0
+2025-12-12 01:31:30 - https://store.steampowered.com/appreviews/2168390?json=1&language=all&num_per_page=0
+2025-12-12 01:31:30 - https://store.steampowered.com/api/appdetails?appids=328080&cc=us&l=en
+2025-12-12 01:31:30 - https://store.steampowered.com/appreviews/2187220?json=1&language=all&num_per_page=0
+2025-12-12 01:31:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rise to Ruins","ReleaseYear":null,"GameId":"328080"}
+2025-12-12 01:31:30 - https://store.steampowered.com/appreviews/2244130?json=1&language=all&num_per_page=0
+2025-12-12 01:31:31 - https://store.steampowered.com/api/appdetails?appids=333640&cc=us&l=en
+2025-12-12 01:31:31 - https://store.steampowered.com/appreviews/2401970?json=1&language=all&num_per_page=0
+2025-12-12 01:31:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Caves of Qud","ReleaseYear":null,"GameId":"333640"}
+2025-12-12 01:31:31 - https://store.steampowered.com/appreviews/2414270?json=1&language=all&num_per_page=0
+2025-12-12 01:31:31 - https://store.steampowered.com/api/appdetails?appids=379210&cc=us&l=en
+2025-12-12 01:31:31 - https://store.steampowered.com/appreviews/2427700?json=1&language=all&num_per_page=0
+2025-12-12 01:31:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Wayward","ReleaseYear":null,"GameId":"379210"}
+2025-12-12 01:31:32 - https://store.steampowered.com/api/appdetails?appids=648410&cc=us&l=en
+2025-12-12 01:31:32 - https://store.steampowered.com/appreviews/2432860?json=1&language=all&num_per_page=0
+2025-12-12 01:31:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Colony Ship: A Post-Earth Role Playing Game","ReleaseYear":null,"GameId":"648410"}
+2025-12-12 01:31:32 - https://store.steampowered.com/api/appdetails?appids=813230&cc=us&l=en
+2025-12-12 01:31:32 - https://store.steampowered.com/appreviews/2438970?json=1&language=all&num_per_page=0
+2025-12-12 01:31:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"ANIMAL WELL","ReleaseYear":null,"GameId":"813230"}
+2025-12-12 01:31:32 - https://store.steampowered.com/api/appdetails?appids=955900&cc=us&l=en
+2025-12-12 01:31:32 - https://store.steampowered.com/appreviews/2474030?json=1&language=all&num_per_page=0
+2025-12-12 01:31:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Amazing Cultivation Simulator","ReleaseYear":null,"GameId":"955900"}
+2025-12-12 01:31:33 - https://store.steampowered.com/api/appdetails?appids=986130&cc=us&l=en
+2025-12-12 01:31:33 - https://store.steampowered.com/appreviews/2592160?json=1&language=all&num_per_page=0
+2025-12-12 01:31:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Shadows of Doubt","ReleaseYear":null,"GameId":"986130"}
+2025-12-12 01:31:33 - https://store.steampowered.com/api/appdetails?appids=1043810&cc=us&l=en
+2025-12-12 01:31:33 - https://store.steampowered.com/appreviews/2714620?json=1&language=all&num_per_page=0
+2025-12-12 01:31:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tactical Breach Wizards","ReleaseYear":null,"GameId":"1043810"}
+2025-12-12 01:31:34 - https://store.steampowered.com/api/appdetails?appids=1097110&cc=us&l=en
+2025-12-12 01:31:34 - https://store.steampowered.com/appreviews/2719750?json=1&language=all&num_per_page=0
+2025-12-12 01:31:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Willy Morgan and the Curse of Bone Town","ReleaseYear":null,"GameId":"1097110"}
+2025-12-12 01:31:34 - https://store.steampowered.com/api/appdetails?appids=1147860&cc=us&l=en
+2025-12-12 01:31:34 - https://store.steampowered.com/appreviews/2754380?json=1&language=all&num_per_page=0
+2025-12-12 01:31:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"UFO 50","ReleaseYear":null,"GameId":"1147860"}
+2025-12-12 01:31:34 - https://store.steampowered.com/appreviews/2807150?json=1&language=all&num_per_page=0
+2025-12-12 01:31:34 - https://store.steampowered.com/api/appdetails?appids=1307890&cc=us&l=en
+2025-12-12 01:31:35 - https://store.steampowered.com/appreviews/2863640?json=1&language=all&num_per_page=0
+2025-12-12 01:31:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kingdoms Reborn","ReleaseYear":null,"GameId":"1307890"}
+2025-12-12 01:31:35 - https://store.steampowered.com/api/appdetails?appids=1315320&cc=us&l=en
+2025-12-12 01:31:35 - https://store.steampowered.com/appreviews/2885870?json=1&language=all&num_per_page=0
+2025-12-12 01:31:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Necromancer\u0027s Tale","ReleaseYear":null,"GameId":"1315320"}
+2025-12-12 01:31:35 - https://store.steampowered.com/api/appdetails?appids=1346360&cc=us&l=en
+2025-12-12 01:31:35 - https://store.steampowered.com/appreviews/3150480?json=1&language=all&num_per_page=0
+2025-12-12 01:31:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Old Skies","ReleaseYear":null,"GameId":"1346360"}
+2025-12-12 01:31:36 - https://store.steampowered.com/api/appdetails?appids=1371980&cc=us&l=en
+2025-12-12 01:31:36 - https://store.steampowered.com/appreviews/3274580?json=1&language=all&num_per_page=0
+2025-12-12 01:31:36 - https://store.steampowered.com/appreviews/3751260?json=1&language=all&num_per_page=0
+2025-12-12 01:31:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"No Rest for the Wicked","ReleaseYear":null,"GameId":"1371980"}
+2025-12-12 01:31:36 - https://store.steampowered.com/api/appdetails?appids=1395520&cc=us&l=en
+2025-12-12 01:31:36 - https://store.steampowered.com/appreviews/3768760?json=1&language=all&num_per_page=0
+2025-12-12 01:31:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Séance of Blake Manor","ReleaseYear":null,"GameId":"1395520"}
+2025-12-12 01:31:37 - https://store.steampowered.com/api/appdetails?appids=1429850&cc=us&l=en
+2025-12-12 01:31:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sumerian Six","ReleaseYear":null,"GameId":"1429850"}
+2025-12-12 01:31:37 - https://store.steampowered.com/api/appdetails?appids=1466390&cc=us&l=en
+2025-12-12 01:31:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kathy Rain 2: Soothsayer","ReleaseYear":null,"GameId":"1466390"}
+2025-12-12 01:31:38 - https://store.steampowered.com/api/appdetails?appids=1585180&cc=us&l=en
+2025-12-12 01:31:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Drova - Forsaken Kin","ReleaseYear":null,"GameId":"1585180"}
+2025-12-12 01:31:38 - https://store.steampowered.com/api/appdetails?appids=1669000&cc=us&l=en
+2025-12-12 01:31:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Age of Wonders 4","ReleaseYear":null,"GameId":"1669000"}
+2025-12-12 01:31:38 - https://store.steampowered.com/api/appdetails?appids=1771300&cc=us&l=en
+2025-12-12 01:31:39 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kingdom Come: Deliverance II","ReleaseYear":null,"GameId":"1771300"}
+2025-12-12 01:31:39 - https://store.steampowered.com/api/appdetails?appids=1775490&cc=us&l=en
+2025-12-12 01:31:39 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Slice \u0026 Dice","ReleaseYear":null,"GameId":"1775490"}
+2025-12-12 01:31:39 - https://store.steampowered.com/api/appdetails?appids=1783560&cc=us&l=en
+2025-12-12 01:31:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Last Caretaker","ReleaseYear":null,"GameId":"1783560"}
+2025-12-12 01:31:40 - https://store.steampowered.com/api/appdetails?appids=1911610&cc=us&l=en
+2025-12-12 01:31:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Windblown","ReleaseYear":null,"GameId":"1911610"}
+2025-12-12 01:31:40 - https://store.steampowered.com/api/appdetails?appids=1954200&cc=us&l=en
+2025-12-12 01:31:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kena: Bridge of Spirits","ReleaseYear":null,"GameId":"1954200"}
+2025-12-12 01:31:41 - https://store.steampowered.com/api/appdetails?appids=2008920&cc=us&l=en
+2025-12-12 01:31:41 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Lorelei and the Laser Eyes","ReleaseYear":null,"GameId":"2008920"}
+2025-12-12 01:31:41 - https://store.steampowered.com/api/appdetails?appids=2071430&cc=us&l=en
+2025-12-12 01:31:41 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Roots of Yggdrasil","ReleaseYear":null,"GameId":"2071430"}
+2025-12-12 01:31:41 - https://store.steampowered.com/api/appdetails?appids=2126190&cc=us&l=en
+2025-12-12 01:31:42 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rue Valley","ReleaseYear":null,"GameId":"2126190"}
+2025-12-12 01:31:42 - https://store.steampowered.com/api/appdetails?appids=2155180&cc=us&l=en
+2025-12-12 01:31:42 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Pioneers of Pagonia","ReleaseYear":null,"GameId":"2155180"}
+2025-12-12 01:31:42 - https://store.steampowered.com/api/appdetails?appids=2168390&cc=us&l=en
+2025-12-12 01:31:42 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Away Team","ReleaseYear":null,"GameId":"2168390"}
+2025-12-12 01:31:43 - https://store.steampowered.com/api/appdetails?appids=2187220&cc=us&l=en
+2025-12-12 01:31:43 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Apollo Justice: Ace Attorney Trilogy","ReleaseYear":null,"GameId":"2187220"}
+2025-12-12 01:31:43 - https://store.steampowered.com/api/appdetails?appids=2244130&cc=us&l=en
+2025-12-12 01:31:43 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ratopia","ReleaseYear":null,"GameId":"2244130"}
+2025-12-12 01:31:43 - https://store.steampowered.com/api/appdetails?appids=2401970&cc=us&l=en
+2025-12-12 01:31:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ace Attorney Investigations Collection","ReleaseYear":null,"GameId":"2401970"}
+2025-12-12 01:31:44 - https://store.steampowered.com/api/appdetails?appids=2414270&cc=us&l=en
+2025-12-12 01:31:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sunderfolk","ReleaseYear":null,"GameId":"2414270"}
+2025-12-12 01:31:44 - https://store.steampowered.com/api/appdetails?appids=2427700&cc=us&l=en
+2025-12-12 01:31:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Backpack Battles","ReleaseYear":null,"GameId":"2427700"}
+2025-12-12 01:31:45 - https://store.steampowered.com/api/appdetails?appids=2432860&cc=us&l=en
+2025-12-12 01:31:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"MENACE","ReleaseYear":null,"GameId":"2432860"}
+2025-12-12 01:31:45 - https://store.steampowered.com/api/appdetails?appids=2438970&cc=us&l=en
+2025-12-12 01:31:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Cascadia","ReleaseYear":null,"GameId":"2438970"}
+2025-12-12 01:31:46 - https://store.steampowered.com/api/appdetails?appids=2474030&cc=us&l=en
+2025-12-12 01:31:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"An English Haunting","ReleaseYear":null,"GameId":"2474030"}
+2025-12-12 01:31:46 - https://store.steampowered.com/api/appdetails?appids=2592160&cc=us&l=en
+2025-12-12 01:31:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dispatch","ReleaseYear":null,"GameId":"2592160"}
+2025-12-12 01:31:47 - https://store.steampowered.com/api/appdetails?appids=2714620&cc=us&l=en
+2025-12-12 01:31:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Duck Detective: The Ghost of Glamping","ReleaseYear":null,"GameId":"2714620"}
+2025-12-12 01:31:47 - https://store.steampowered.com/api/appdetails?appids=2719750&cc=us&l=en
+2025-12-12 01:31:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Star Birds","ReleaseYear":null,"GameId":"2719750"}
+2025-12-12 01:31:47 - https://store.steampowered.com/api/appdetails?appids=2754380&cc=us&l=en
+2025-12-12 01:31:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Roottrees are Dead","ReleaseYear":null,"GameId":"2754380"}
+2025-12-12 01:31:48 - https://store.steampowered.com/api/appdetails?appids=2807150&cc=us&l=en
+2025-12-12 01:31:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Worshippers of Cthulhu","ReleaseYear":null,"GameId":"2807150"}
+2025-12-12 01:31:48 - https://store.steampowered.com/api/appdetails?appids=2863640&cc=us&l=en
+2025-12-12 01:31:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Midnight Walk","ReleaseYear":null,"GameId":"2863640"}
+2025-12-12 01:31:49 - https://store.steampowered.com/api/appdetails?appids=2885870&cc=us&l=en
+2025-12-12 01:31:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Strange Antiquities","ReleaseYear":null,"GameId":"2885870"}
+2025-12-12 01:31:49 - https://store.steampowered.com/api/appdetails?appids=3150480&cc=us&l=en
+2025-12-12 01:31:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Agatha Christie - Death on the Nile","ReleaseYear":null,"GameId":"3150480"}
+2025-12-12 01:31:50 - https://store.steampowered.com/api/appdetails?appids=3274580&cc=us&l=en
+2025-12-12 01:31:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Anno 117: Pax Romana","ReleaseYear":null,"GameId":"3274580"}
+2025-12-12 01:31:50 - https://store.steampowered.com/api/appdetails?appids=3751260&cc=us&l=en
+2025-12-12 01:31:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Blood of Dawnwalker","ReleaseYear":null,"GameId":"3751260"}
+2025-12-12 01:31:50 - https://store.steampowered.com/api/appdetails?appids=3768760&cc=us&l=en
+2025-12-12 01:31:51 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"007 First Light","ReleaseYear":null,"GameId":"3768760"}
