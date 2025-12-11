@@ -4999,3 +4999,25 @@
 2025-12-12 00:06:27 - https://store.steampowered.com/api/appdetails?appids=1882370&cc=us&l=en
 2025-12-12 00:06:27 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Pool of Radiance","ReleaseYear":1988,"GameId":"1432640961"}
 2025-12-12 00:06:49 - TIMING: Total execution completed in 41.354 ms
+2025-12-12 00:43:25 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 00:43:26 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 00:43:26 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 00:43:27 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 00:43:31 - https://store.steampowered.com/appreviews/1904520?json=1&language=all&num_per_page=0
+2025-12-12 00:43:31 - Refreshing reviews for recent game: MARVEL Cosmic Invasion (ReferenceDate: 2025-12-01)
+2025-12-12 00:43:31 - https://store.steampowered.com/appreviews/2753970?json=1&language=all&num_per_page=0
+2025-12-12 00:43:32 - https://store.steampowered.com/appreviews/1904526?json=1&language=all&num_per_page=0
+2025-12-12 00:43:32 - https://store.steampowered.com/api/appdetails?appids=1904520&cc=us&l=en
+2025-12-12 00:43:32 - https://store.steampowered.com/appreviews/1904523?json=1&language=all&num_per_page=0
+2025-12-12 00:43:32 - https://store.steampowered.com/appreviews/1904525?json=1&language=all&num_per_page=0
+2025-12-12 00:43:32 - https://store.steampowered.com/api/appdetails?appids=1904526&cc=us&l=en
+2025-12-12 00:43:33 - https://store.steampowered.com/appreviews/1904521?json=1&language=all&num_per_page=0
+2025-12-12 00:43:33 - https://store.steampowered.com/api/appdetails?appids=1904523&cc=us&l=en
+2025-12-12 00:43:33 - https://store.steampowered.com/appreviews/1904524?json=1&language=all&num_per_page=0
+2025-12-12 00:43:33 - https://store.steampowered.com/api/appdetails?appids=1904525&cc=us&l=en
+2025-12-12 00:43:33 - https://store.steampowered.com/appreviews/1882280?json=1&language=all&num_per_page=0
+2025-12-12 00:43:34 - https://store.steampowered.com/appreviews/1882370?json=1&language=all&num_per_page=0
+2025-12-12 00:43:34 - https://store.steampowered.com/api/appdetails?appids=1904521&cc=us&l=en
+2025-12-12 00:43:35 - https://store.steampowered.com/api/appdetails?appids=1904524&cc=us&l=en
+2025-12-12 00:43:35 - https://store.steampowered.com/api/appdetails?appids=1882280&cc=us&l=en
+2025-12-12 00:43:35 - https://store.steampowered.com/api/appdetails?appids=1882370&cc=us&l=en
