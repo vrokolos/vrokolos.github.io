@@ -5696,3 +5696,153 @@
 2025-12-12 01:41:03 - https://store.steampowered.com/appreviews/3274580?json=1&language=all&num_per_page=0
 2025-12-12 01:41:04 - Refreshing reviews for recent game: 007 First Light (ReferenceDate: 2026-03-27)
 2025-12-12 01:41:04 - https://store.steampowered.com/appreviews/3768760?json=1&language=all&num_per_page=0
+2025-12-12 01:41:26 - TIMING: Total execution completed in 64.494 ms
+2025-12-12 01:42:53 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:42:55 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:42:55 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:42:55 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 01:42:56 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-12 01:42:57 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rise to Ruins","ReleaseYear":2019,"GameId":"328080"}
+2025-12-12 01:42:57 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Caves of Qud","ReleaseYear":2024,"GameId":"333640"}
+2025-12-12 01:42:57 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Wayward","ReleaseYear":2016,"GameId":"379210"}
+2025-12-12 01:42:57 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Colony Ship: A Post-Earth Role Playing Game","ReleaseYear":2023,"GameId":"648410"}
+2025-12-12 01:42:57 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"ANIMAL WELL","ReleaseYear":2024,"GameId":"813230"}
+2025-12-12 01:42:57 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Amazing Cultivation Simulator","ReleaseYear":2020,"GameId":"955900"}
+2025-12-12 01:42:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Shadows of Doubt","ReleaseYear":2024,"GameId":"986130"}
+2025-12-12 01:42:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tactical Breach Wizards","ReleaseYear":2024,"GameId":"1043810"}
+2025-12-12 01:42:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Willy Morgan and the Curse of Bone Town","ReleaseYear":2020,"GameId":"1097110"}
+2025-12-12 01:42:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"UFO 50","ReleaseYear":2024,"GameId":"1147860"}
+2025-12-12 01:42:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kingdoms Reborn","ReleaseYear":2020,"GameId":"1307890"}
+2025-12-12 01:42:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Necromancer\u0027s Tale","ReleaseYear":2025,"GameId":"1315320"}
+2025-12-12 01:42:59 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Old Skies","ReleaseYear":2025,"GameId":"1346360"}
+2025-12-12 01:42:59 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"No Rest for the Wicked","ReleaseYear":2024,"GameId":"1371980"}
+2025-12-12 01:42:59 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Séance of Blake Manor","ReleaseYear":2025,"GameId":"1395520"}
+2025-12-12 01:42:59 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sumerian Six","ReleaseYear":2024,"GameId":"1429850"}
+2025-12-12 01:42:59 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kathy Rain 2: Soothsayer","ReleaseYear":2025,"GameId":"1466390"}
+2025-12-12 01:43:00 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Drova - Forsaken Kin","ReleaseYear":2024,"GameId":"1585180"}
+2025-12-12 01:43:00 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Age of Wonders 4","ReleaseYear":2023,"GameId":"1669000"}
+2025-12-12 01:43:00 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kingdom Come: Deliverance II","ReleaseYear":2025,"GameId":"1771300"}
+2025-12-12 01:43:00 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Slice \u0026 Dice","ReleaseYear":2024,"GameId":"1775490"}
+2025-12-12 01:43:00 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Last Caretaker","ReleaseYear":2025,"GameId":"1783560"}
+2025-12-12 01:43:00 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Windblown","ReleaseYear":2024,"GameId":"1911610"}
+2025-12-12 01:43:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kena: Bridge of Spirits","ReleaseYear":2022,"GameId":"1954200"}
+2025-12-12 01:43:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Lorelei and the Laser Eyes","ReleaseYear":2024,"GameId":"2008920"}
+2025-12-12 01:43:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Roots of Yggdrasil","ReleaseYear":2024,"GameId":"2071430"}
+2025-12-12 01:43:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rue Valley","ReleaseYear":2025,"GameId":"2126190"}
+2025-12-12 01:43:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Pioneers of Pagonia","ReleaseYear":2025,"GameId":"2155180"}
+2025-12-12 01:43:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Away Team","ReleaseYear":null,"GameId":"2168390"}
+2025-12-12 01:43:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Apollo Justice: Ace Attorney Trilogy","ReleaseYear":2024,"GameId":"2187220"}
+2025-12-12 01:43:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ratopia","ReleaseYear":2025,"GameId":"2244130"}
+2025-12-12 01:43:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ace Attorney Investigations Collection","ReleaseYear":2024,"GameId":"2401970"}
+2025-12-12 01:43:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sunderfolk","ReleaseYear":2025,"GameId":"2414270"}
+2025-12-12 01:43:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Backpack Battles","ReleaseYear":2025,"GameId":"2427700"}
+2025-12-12 01:43:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"MENACE","ReleaseYear":2026,"GameId":"2432860"}
+2025-12-12 01:43:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Cascadia","ReleaseYear":2025,"GameId":"2438970"}
+2025-12-12 01:43:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"An English Haunting","ReleaseYear":2024,"GameId":"2474030"}
+2025-12-12 01:43:03 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dispatch","ReleaseYear":2025,"GameId":"2592160"}
+2025-12-12 01:43:03 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Duck Detective: The Ghost of Glamping","ReleaseYear":2025,"GameId":"2714620"}
+2025-12-12 01:43:03 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Star Birds","ReleaseYear":2025,"GameId":"2719750"}
+2025-12-12 01:43:03 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Roottrees are Dead","ReleaseYear":2025,"GameId":"2754380"}
+2025-12-12 01:43:03 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Worshippers of Cthulhu","ReleaseYear":2025,"GameId":"2807150"}
+2025-12-12 01:43:03 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Midnight Walk","ReleaseYear":2025,"GameId":"2863640"}
+2025-12-12 01:43:04 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Strange Antiquities","ReleaseYear":2025,"GameId":"2885870"}
+2025-12-12 01:43:04 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Agatha Christie - Death on the Nile","ReleaseYear":2025,"GameId":"3150480"}
+2025-12-12 01:43:04 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Anno 117: Pax Romana","ReleaseYear":2025,"GameId":"3274580"}
+2025-12-12 01:43:04 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Blood of Dawnwalker","ReleaseYear":null,"GameId":"3751260"}
+2025-12-12 01:43:04 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"007 First Light","ReleaseYear":2026,"GameId":"3768760"}
+2025-12-12 01:43:08 - INFO: Created game file for 007 First Light at c:\Output\playnite\files\decksettings\e31e4dce-0836-450a-9730-f3534382f157.json
+2025-12-12 01:43:08 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3768760&include_external=true
+2025-12-12 01:43:08 - INFO: Created game file for Rise to Ruins at c:\Output\playnite\files\decksettings\2850b202-5060-4b0d-a5f7-3f4cf20c9ffc.json
+2025-12-12 01:43:08 - https://deckverified.games/deck-verified/api/v1/game_details?appid=328080&include_external=true
+2025-12-12 01:43:08 - INFO: Created game file for Caves of Qud at c:\Output\playnite\files\decksettings\4cacaa01-a949-4729-a5e3-7c10062b4811.json
+2025-12-12 01:43:08 - https://deckverified.games/deck-verified/api/v1/game_details?appid=333640&include_external=true
+2025-12-12 01:43:09 - INFO: Created game file for Wayward at c:\Output\playnite\files\decksettings\1a7c3943-379d-454f-b9e3-601cc7b9f656.json
+2025-12-12 01:43:09 - https://deckverified.games/deck-verified/api/v1/game_details?appid=379210&include_external=true
+2025-12-12 01:43:09 - INFO: Created game file for Colony Ship: A Post-Earth Role Playing Game at c:\Output\playnite\files\decksettings\c062a72c-0315-47d0-be7d-07882b1cc604.json
+2025-12-12 01:43:09 - https://deckverified.games/deck-verified/api/v1/game_details?appid=648410&include_external=true
+2025-12-12 01:43:10 - INFO: Created game file for ANIMAL WELL at c:\Output\playnite\files\decksettings\cd149120-430a-4fea-89ae-802bdbb97f29.json
+2025-12-12 01:43:10 - https://deckverified.games/deck-verified/api/v1/game_details?appid=813230&include_external=true
+2025-12-12 01:43:10 - INFO: Created game file for Amazing Cultivation Simulator at c:\Output\playnite\files\decksettings\55c1b57f-fbdf-4247-b130-c6bafcee948a.json
+2025-12-12 01:43:10 - https://deckverified.games/deck-verified/api/v1/game_details?appid=955900&include_external=true
+2025-12-12 01:43:10 - INFO: Created game file for Shadows of Doubt at c:\Output\playnite\files\decksettings\dc4158fb-efdb-402e-a97d-f28bf57a74c6.json
+2025-12-12 01:43:10 - https://deckverified.games/deck-verified/api/v1/game_details?appid=986130&include_external=true
+2025-12-12 01:43:11 - INFO: Created game file for Tactical Breach Wizards at c:\Output\playnite\files\decksettings\a4232642-f292-40e2-a809-542599832ad0.json
+2025-12-12 01:43:11 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1043810&include_external=true
+2025-12-12 01:43:11 - INFO: Created game file for Willy Morgan and the Curse of Bone Town at c:\Output\playnite\files\decksettings\018e540b-da7a-4442-aa62-58bb17f39e6a.json
+2025-12-12 01:43:11 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1097110&include_external=true
+2025-12-12 01:43:12 - INFO: Created game file for UFO 50 at c:\Output\playnite\files\decksettings\ec484fb5-9078-475c-857d-7f6ddfb12d2d.json
+2025-12-12 01:43:12 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1147860&include_external=true
+2025-12-12 01:43:12 - INFO: Created game file for Kingdoms Reborn at c:\Output\playnite\files\decksettings\c03741aa-6b06-46df-aced-40efb25874ac.json
+2025-12-12 01:43:12 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1307890&include_external=true
+2025-12-12 01:43:12 - INFO: Created game file for The Necromancer's Tale at c:\Output\playnite\files\decksettings\877a03b8-e77c-481b-b25e-ae75f9c0ddc8.json
+2025-12-12 01:43:12 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1315320&include_external=true
+2025-12-12 01:43:13 - INFO: Created game file for Old Skies at c:\Output\playnite\files\decksettings\a83d4c05-208f-4942-9ebe-1b7e2c5d9764.json
+2025-12-12 01:43:13 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1346360&include_external=true
+2025-12-12 01:43:13 - INFO: Created game file for No Rest for the Wicked at c:\Output\playnite\files\decksettings\3eeb8a67-0c34-4ef5-bf4c-e20b0503bff6.json
+2025-12-12 01:43:13 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1371980&include_external=true
+2025-12-12 01:43:13 - INFO: Created game file for The Séance of Blake Manor at c:\Output\playnite\files\decksettings\7ff5e441-5c46-4277-ad5b-644b34d5703d.json
+2025-12-12 01:43:13 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1395520&include_external=true
+2025-12-12 01:43:14 - INFO: Created game file for Sumerian Six at c:\Output\playnite\files\decksettings\70868088-5604-4c54-9312-653406cebf89.json
+2025-12-12 01:43:14 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1429850&include_external=true
+2025-12-12 01:43:14 - INFO: Created game file for Kathy Rain 2: Soothsayer at c:\Output\playnite\files\decksettings\45a44b10-bcba-4011-a39c-9e0d14f124cf.json
+2025-12-12 01:43:14 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1466390&include_external=true
+2025-12-12 01:43:15 - INFO: Created game file for Drova - Forsaken Kin at c:\Output\playnite\files\decksettings\f8d27f82-e5a9-471c-b2cf-e283944b2f9a.json
+2025-12-12 01:43:15 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1585180&include_external=true
+2025-12-12 01:43:15 - INFO: Created game file for Age of Wonders 4 at c:\Output\playnite\files\decksettings\823a2dda-248e-4be4-9ae1-4da6693b0c85.json
+2025-12-12 01:43:15 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1669000&include_external=true
+2025-12-12 01:43:15 - INFO: Created game file for Kingdom Come: Deliverance II at c:\Output\playnite\files\decksettings\b57a1fc0-9c93-42fc-99e4-038e640f9316.json
+2025-12-12 01:43:15 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1771300&include_external=true
+2025-12-12 01:43:16 - INFO: Created game file for Slice & Dice at c:\Output\playnite\files\decksettings\651ac0d9-da9f-4c21-986a-36fdd2552005.json
+2025-12-12 01:43:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1775490&include_external=true
+2025-12-12 01:43:16 - INFO: Created game file for The Last Caretaker at c:\Output\playnite\files\decksettings\d5038d47-0e6f-48e7-b584-cfd72ba64d5a.json
+2025-12-12 01:43:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1783560&include_external=true
+2025-12-12 01:43:17 - INFO: Created game file for Windblown at c:\Output\playnite\files\decksettings\48b05e1e-77d3-4b39-be45-53c7dab93d68.json
+2025-12-12 01:43:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1911610&include_external=true
+2025-12-12 01:43:17 - INFO: Created game file for Kena: Bridge of Spirits at c:\Output\playnite\files\decksettings\83997fea-d382-49ca-8666-3d43005bae3f.json
+2025-12-12 01:43:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1954200&include_external=true
+2025-12-12 01:43:17 - INFO: Created game file for Lorelei and the Laser Eyes at c:\Output\playnite\files\decksettings\7aa449a4-dfa9-4675-bb47-21cf1ed4d9bf.json
+2025-12-12 01:43:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2008920&include_external=true
+2025-12-12 01:43:18 - INFO: Created game file for Roots of Yggdrasil at c:\Output\playnite\files\decksettings\171f3de9-ff06-4ae9-83fd-bb0a47746467.json
+2025-12-12 01:43:18 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2071430&include_external=true
+2025-12-12 01:43:18 - INFO: Created game file for Rue Valley at c:\Output\playnite\files\decksettings\d32417df-bfff-4e29-be67-723a77cf3ce6.json
+2025-12-12 01:43:18 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2126190&include_external=true
+2025-12-12 01:43:19 - INFO: Created game file for Pioneers of Pagonia at c:\Output\playnite\files\decksettings\6a0be3c4-80b1-40ca-840e-8b5814b196b3.json
+2025-12-12 01:43:19 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2155180&include_external=true
+2025-12-12 01:43:19 - INFO: Created game file for Away Team at c:\Output\playnite\files\decksettings\8fc29d0f-28fd-4bf1-9884-fc6fe26efa2b.json
+2025-12-12 01:43:19 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2168390&include_external=true
+2025-12-12 01:43:19 - INFO: Created game file for Apollo Justice: Ace Attorney Trilogy at c:\Output\playnite\files\decksettings\3d3ba709-4c62-43e9-b386-332599407566.json
+2025-12-12 01:43:19 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2187220&include_external=true
+2025-12-12 01:43:20 - INFO: Created game file for Ratopia at c:\Output\playnite\files\decksettings\8fbeeeb3-ebbe-451b-9a0c-d38ab87ca7e9.json
+2025-12-12 01:43:20 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2244130&include_external=true
+2025-12-12 01:43:20 - INFO: Created game file for Ace Attorney Investigations Collection at c:\Output\playnite\files\decksettings\041b176a-1909-43a2-ab52-47087039e2ce.json
+2025-12-12 01:43:20 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2401970&include_external=true
+2025-12-12 01:43:21 - INFO: Created game file for Sunderfolk at c:\Output\playnite\files\decksettings\a214356b-8fa1-4903-9777-5055369e6e53.json
+2025-12-12 01:43:21 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2414270&include_external=true
+2025-12-12 01:43:21 - INFO: Created game file for Backpack Battles at c:\Output\playnite\files\decksettings\962ca726-cdbb-4d88-9f06-19c64c40a3e6.json
+2025-12-12 01:43:21 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2427700&include_external=true
+2025-12-12 01:43:21 - INFO: Created game file for MENACE at c:\Output\playnite\files\decksettings\f3eb992b-5557-4e3b-977a-f22233319163.json
+2025-12-12 01:43:21 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2432860&include_external=true
+2025-12-12 01:43:22 - INFO: Created game file for Cascadia at c:\Output\playnite\files\decksettings\13df265f-47c1-4c8e-a6ce-5f116d0298f5.json
+2025-12-12 01:43:22 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2438970&include_external=true
+2025-12-12 01:43:22 - INFO: Created game file for An English Haunting at c:\Output\playnite\files\decksettings\3b520bf4-76f6-45a8-86b7-141779a828e0.json
+2025-12-12 01:43:22 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2474030&include_external=true
+2025-12-12 01:43:22 - INFO: Created game file for Dispatch at c:\Output\playnite\files\decksettings\0b7d9353-12bd-4285-bf25-115a2cb75187.json
+2025-12-12 01:43:22 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2592160&include_external=true
+2025-12-12 01:43:23 - INFO: Created game file for Duck Detective: The Ghost of Glamping at c:\Output\playnite\files\decksettings\5057d4ca-972d-40c3-a0c7-5aa5260005a8.json
+2025-12-12 01:43:23 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2714620&include_external=true
+2025-12-12 01:43:23 - INFO: Created game file for Star Birds at c:\Output\playnite\files\decksettings\c61872cf-bf99-4f45-a974-86f0968c6a05.json
+2025-12-12 01:43:23 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2719750&include_external=true
+2025-12-12 01:43:24 - INFO: Created game file for The Roottrees are Dead at c:\Output\playnite\files\decksettings\760ee049-16b4-4283-bace-57ea90d88f41.json
+2025-12-12 01:43:24 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2754380&include_external=true
+2025-12-12 01:43:24 - INFO: Created game file for Worshippers of Cthulhu at c:\Output\playnite\files\decksettings\d0eeed77-679a-4537-92c8-5ad1ea5a85e3.json
+2025-12-12 01:43:24 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2807150&include_external=true
+2025-12-12 01:43:24 - INFO: Created game file for The Midnight Walk at c:\Output\playnite\files\decksettings\3528a891-9e0b-4edc-8093-ebba8c11a5b9.json
+2025-12-12 01:43:24 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2863640&include_external=true
+2025-12-12 01:43:25 - INFO: Created game file for Strange Antiquities at c:\Output\playnite\files\decksettings\7f2cb435-6e2c-4c8f-af56-a154b3979d71.json
+2025-12-12 01:43:25 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2885870&include_external=true
+2025-12-12 01:43:25 - INFO: Created game file for Agatha Christie - Death on the Nile at c:\Output\playnite\files\decksettings\bb7ac898-b5d5-4dc6-a500-19ca25996ba2.json
+2025-12-12 01:43:25 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3150480&include_external=true
+2025-12-12 01:43:26 - INFO: Created game file for Anno 117: Pax Romana at c:\Output\playnite\files\decksettings\92b59275-1bf1-47c7-823e-30445996aa93.json
+2025-12-12 01:43:26 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3274580&include_external=true
+2025-12-12 01:43:26 - INFO: Created game file for The Blood of Dawnwalker at c:\Output\playnite\files\decksettings\6cb9efff-d445-4821-bb16-7f2f4a4c70dd.json
+2025-12-12 01:43:26 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3751260&include_external=true
