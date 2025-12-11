@@ -4951,3 +4951,50 @@
 2025-12-11 15:50:16 - Refreshing reviews for recent game: Simon the Sorcerer Origins (ReferenceDate: 2025-10-28)
 2025-12-11 15:50:16 - https://store.steampowered.com/appreviews/1939890?json=1&language=all&num_per_page=0
 2025-12-11 15:50:46 - TIMING: Total execution completed in 36.393 ms
+2025-12-12 00:06:08 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 00:06:08 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 00:06:09 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 00:06:09 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 00:06:16 - INFO: Created game file for Hillsfar at c:\Output\playnite\files\decksettings\4a2b1751-8d46-4201-985c-beb7153585e0.json
+2025-12-12 00:06:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1904525&include_external=true
+2025-12-12 00:06:16 - INFO: Created game file for Curse of the Azure Bonds at c:\Output\playnite\files\decksettings\088abebc-8be0-410a-8cb1-b35c5aa78dc0.json
+2025-12-12 00:06:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1904520&include_external=true
+2025-12-12 00:06:17 - INFO: Created game file for Treasures of the Savage Frontier at c:\Output\playnite\files\decksettings\e7a00ab9-12d2-4643-b0c2-4dbe3f97cfe1.json
+2025-12-12 00:06:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1904524&include_external=true
+2025-12-12 00:06:17 - INFO: Created game file for Secret of the Silver Blades at c:\Output\playnite\files\decksettings\acda74d3-0c4e-450c-b76f-3ea38127c38a.json
+2025-12-12 00:06:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1904521&include_external=true
+2025-12-12 00:06:18 - INFO: Created game file for Forgotten Realms - Unlimited Adventures at c:\Output\playnite\files\decksettings\263e241e-6f83-4179-8333-2b04b1370edb.json
+2025-12-12 00:06:18 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1904526&include_external=true
+2025-12-12 00:06:19 - INFO: Created game file for Pools of Darkness at c:\Output\playnite\files\decksettings\fa56e4d7-9353-43db-ac7f-6dd2395573e0.json
+2025-12-12 00:06:19 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1882280&include_external=true
+2025-12-12 00:06:19 - INFO: Created game file for Gateway to the Savage Frontier at c:\Output\playnite\files\decksettings\35176de6-ecde-49aa-af59-456f78bf9588.json
+2025-12-12 00:06:19 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1904523&include_external=true
+2025-12-12 00:06:20 - INFO: Created game file for Pool of Radiance at c:\Output\playnite\files\decksettings\ff11777d-caaf-49ee-b382-fbbb07cca067.json
+2025-12-12 00:06:20 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1882370&include_external=true
+2025-12-12 00:06:20 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1904520,1904526,1904523,1904525,1904521,1904524,1882280,1882370
+2025-12-12 00:06:20 - https://store.steampowered.com/appreviews/1904520?json=1&language=all&num_per_page=0
+2025-12-12 00:06:20 - Refreshing reviews for recent game: MARVEL Cosmic Invasion (ReferenceDate: 2025-12-01)
+2025-12-12 00:06:20 - https://store.steampowered.com/appreviews/2753970?json=1&language=all&num_per_page=0
+2025-12-12 00:06:20 - https://store.steampowered.com/appreviews/1904526?json=1&language=all&num_per_page=0
+2025-12-12 00:06:21 - https://store.steampowered.com/appreviews/1904523?json=1&language=all&num_per_page=0
+2025-12-12 00:06:21 - https://store.steampowered.com/api/appdetails?appids=1904520&cc=us&l=en
+2025-12-12 00:06:21 - https://store.steampowered.com/appreviews/1904525?json=1&language=all&num_per_page=0
+2025-12-12 00:06:21 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Curse of the Azure Bonds","ReleaseYear":1989,"GameId":"1432642138"}
+2025-12-12 00:06:21 - https://store.steampowered.com/appreviews/1904521?json=1&language=all&num_per_page=0
+2025-12-12 00:06:22 - https://store.steampowered.com/appreviews/1904524?json=1&language=all&num_per_page=0
+2025-12-12 00:06:22 - https://store.steampowered.com/api/appdetails?appids=1904526&cc=us&l=en
+2025-12-12 00:06:22 - https://store.steampowered.com/appreviews/1882280?json=1&language=all&num_per_page=0
+2025-12-12 00:06:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Forgotten Realms - Unlimited Adventures","ReleaseYear":1993,"GameId":"1432650732"}
+2025-12-12 00:06:22 - https://store.steampowered.com/appreviews/1882370?json=1&language=all&num_per_page=0
+2025-12-12 00:06:22 - https://store.steampowered.com/api/appdetails?appids=1904523&cc=us&l=en
+2025-12-12 00:06:23 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Gateway to the Savage Frontier","ReleaseYear":1991,"GameId":"1432649588"}
+2025-12-12 00:06:24 - https://store.steampowered.com/api/appdetails?appids=1904525&cc=us&l=en
+2025-12-12 00:06:25 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hillsfar","ReleaseYear":1989,"GameId":"1432640506"}
+2025-12-12 00:06:25 - https://store.steampowered.com/api/appdetails?appids=1904521&cc=us&l=en
+2025-12-12 00:06:26 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Secret of the Silver Blades","ReleaseYear":1991,"GameId":"1432641528"}
+2025-12-12 00:06:26 - https://store.steampowered.com/api/appdetails?appids=1904524&cc=us&l=en
+2025-12-12 00:06:26 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Treasures of the Savage Frontier","ReleaseYear":1992,"GameId":"1432641771"}
+2025-12-12 00:06:27 - https://store.steampowered.com/api/appdetails?appids=1882280&cc=us&l=en
+2025-12-12 00:06:27 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Pools of Darkness","ReleaseYear":1988,"GameId":"1432643408"}
+2025-12-12 00:06:27 - https://store.steampowered.com/api/appdetails?appids=1882370&cc=us&l=en
+2025-12-12 00:06:27 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Pool of Radiance","ReleaseYear":1988,"GameId":"1432640961"}
