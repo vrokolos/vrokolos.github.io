@@ -4921,3 +4921,8 @@
 2025-12-11 11:06:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Mortal Kombat 1","ReleaseYear":2023,"GameId":"WarnerBros.Interactive.K1Codename_ktmk1xygcecda"}
 2025-12-11 11:06:32 - https://store.steampowered.com/api/appdetails?appids=3212580&cc=us&l=en
 2025-12-11 11:06:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Bratz Rhythm \u0026 Style","ReleaseYear":2025,"GameId":"OutrightGames.Bratz2_bnrbc155f0j86"}
+2025-12-11 11:06:53 - TIMING: Total execution completed in 133.955 ms
+2025-12-11 11:19:14 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-11 11:19:15 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-11 11:19:15 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-11 11:19:16 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
