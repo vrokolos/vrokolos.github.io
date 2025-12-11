@@ -4942,3 +4942,11 @@
 2025-12-11 14:41:55 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-11 14:41:55 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-11 14:42:24 - TIMING: Total execution completed in 30.537 ms
+2025-12-11 15:50:10 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-11 15:50:11 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-11 15:50:12 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-11 15:50:12 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-11 15:50:15 - Refreshing reviews for recent game: Bye Sweet Carole (ReferenceDate: 2025-10-09)
+2025-12-11 15:50:15 - https://store.steampowered.com/appreviews/2428980?json=1&language=all&num_per_page=0
+2025-12-11 15:50:16 - Refreshing reviews for recent game: Simon the Sorcerer Origins (ReferenceDate: 2025-10-28)
+2025-12-11 15:50:16 - https://store.steampowered.com/appreviews/1939890?json=1&language=all&num_per_page=0
