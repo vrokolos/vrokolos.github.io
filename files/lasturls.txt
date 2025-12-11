@@ -4899,3 +4899,25 @@
 2025-12-11 00:03:34 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-11 00:03:49 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-11 00:05:18 - TIMING: Total execution completed in 106.070 ms
+2025-12-11 11:04:39 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-11 11:04:40 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-11 11:04:40 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-11 11:04:41 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-11 11:04:46 - INFO: Created game file for Mortal Kombat 1 at c:\Output\playnite\files\decksettings\8400f366-def9-4153-918c-1966e8aca96b.json
+2025-12-11 11:04:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1971870&include_external=true
+2025-12-11 11:04:48 - INFO: Created game file for Bratz Rhythm & Style at c:\Output\playnite\files\decksettings\cbb0c871-732b-42ac-bcab-48a5cb771710.json
+2025-12-11 11:04:48 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3212580&include_external=true
+2025-12-11 11:04:49 - INFO: Created game file for Ultimate Sheep Raccoon at c:\Output\playnite\files\decksettings\e9e3cd95-7112-4752-b074-a447b5a8ca48.json
+2025-12-11 11:04:49 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2923350&include_external=true
+2025-12-11 11:04:49 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1971870,3212580,2923350
+2025-12-11 11:04:49 - https://store.steampowered.com/appreviews/1971870?json=1&language=all&num_per_page=0
+2025-12-11 11:04:50 - Refreshing reviews for recent game: Bratz Rhythm & Style (ReferenceDate: 2025-09-12)
+2025-12-11 11:04:50 - https://store.steampowered.com/appreviews/3212580?json=1&language=all&num_per_page=0
+2025-12-11 11:04:50 - Refreshing reviews for recent game: Ultimate Sheep Raccoon (ReferenceDate: 2025-12-09)
+2025-12-11 11:04:50 - https://store.steampowered.com/appreviews/2923350?json=1&language=all&num_per_page=0
+2025-12-11 11:05:46 - https://store.steampowered.com/api/appdetails?appids=2923350&cc=us&l=en
+2025-12-11 11:05:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ultimate Sheep Raccoon","ReleaseYear":2025,"GameId":"CleverEndeavourGames.UltimateSheepRaccoon_ac6mpv00qcagt"}
+2025-12-11 11:06:21 - https://store.steampowered.com/api/appdetails?appids=1971870&cc=us&l=en
+2025-12-11 11:06:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Mortal Kombat 1","ReleaseYear":2023,"GameId":"WarnerBros.Interactive.K1Codename_ktmk1xygcecda"}
+2025-12-11 11:06:32 - https://store.steampowered.com/api/appdetails?appids=3212580&cc=us&l=en
+2025-12-11 11:06:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Bratz Rhythm \u0026 Style","ReleaseYear":2025,"GameId":"OutrightGames.Bratz2_bnrbc155f0j86"}
