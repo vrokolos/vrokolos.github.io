@@ -7505,3 +7505,46 @@
 2025-12-12 12:34:41 - https://hltbapi.codepotatoes.de/steam/2719750
 2025-12-12 12:35:00 - https://hltbapi.codepotatoes.de/steam/3751260
 2025-12-12 12:35:05 - https://hltbapi.codepotatoes.de/steam/3768760
+2025-12-12 12:36:24 - TIMING: Total execution completed in 202.443 ms
+2025-12-12 12:44:29 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 12:44:30 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 12:44:30 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 12:44:30 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 12:44:31 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-12 12:44:36 - https://hltbapi.codepotatoes.de/steam/379210
+2025-12-12 12:47:38 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 12:47:39 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 12:47:40 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 12:47:40 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 12:47:40 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-12 12:47:58 - https://hltbapi.codepotatoes.de/steam/379210
+2025-12-12 12:48:32 - https://hltbapi.codepotatoes.de/steam/1315320
+2025-12-12 12:49:26 - https://hltbapi.codepotatoes.de/steam/2071430
+2025-12-12 12:49:40 - https://hltbapi.codepotatoes.de/steam/2168390
+2025-12-12 12:50:22 - https://hltbapi.codepotatoes.de/steam/2432860
+2025-12-12 12:50:46 - https://hltbapi.codepotatoes.de/steam/2719750
+2025-12-12 12:51:12 - https://hltbapi.codepotatoes.de/steam/3751260
+2025-12-12 12:51:18 - https://hltbapi.codepotatoes.de/steam/3768760
+2025-12-12 12:51:41 - ERROR in main processing: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'System.Collections.Generic.Dictionary`2[System.String,System.Object]' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1. | StackTrace:    at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at System.Web.Script.Serialization.JavaScriptSerializer.DeserializeObject(String json) in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\JsonCompatibility.cs:line 18
+   at DeckSettings.GameProcessor.GoAsync() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 616
+2025-12-12 13:23:39 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 13:23:40 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 13:23:41 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 13:23:41 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 13:23:41 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-12 13:23:42 - https://hltbapi.codepotatoes.de/steam/379210
+2025-12-12 13:23:47 - https://hltbapi.codepotatoes.de/steam/1315320
+2025-12-12 13:23:53 - https://hltbapi.codepotatoes.de/steam/2071430
+2025-12-12 13:23:58 - https://hltbapi.codepotatoes.de/steam/2168390
+2025-12-12 13:24:03 - https://hltbapi.codepotatoes.de/steam/2432860
+2025-12-12 13:24:10 - https://hltbapi.codepotatoes.de/steam/2719750
+2025-12-12 13:24:17 - https://hltbapi.codepotatoes.de/steam/3751260
+2025-12-12 13:24:19 - https://hltbapi.codepotatoes.de/steam/3768760
