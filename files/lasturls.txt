@@ -7419,3 +7419,9 @@
 2025-12-12 10:22:49 - https://hltbapi.codepotatoes.de/steam/3751260
 2025-12-12 10:22:50 - https://hltbapi.codepotatoes.de/steam/3768760
 2025-12-12 10:22:50 - https://hltbapi.codepotatoes.de/steam/3768760
+2025-12-12 10:23:24 - TIMING: Total execution completed in 53.605 ms
+2025-12-12 10:47:59 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 10:48:00 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 10:48:01 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 10:48:01 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-12 10:48:01 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
