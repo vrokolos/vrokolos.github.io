@@ -19156,3 +19156,9 @@ Path '', line 1, position 1. | StackTrace:    at Newtonsoft.Json.Serialization.J
 2025-12-13 13:03:24 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1150440&include_external=true
 2025-12-13 13:03:24 - https://api.gg.deals/v1/prices/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1150440
 2025-12-13 13:03:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Aliens: Dark Descent","ReleaseYear":2023,"GameId":"1150440"}
+2025-12-13 13:03:43 - TIMING: Total execution completed in 229.537 ms
+2025-12-13 13:04:01 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 13:04:03 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 13:04:03 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 13:04:03 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 13:06:30 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
