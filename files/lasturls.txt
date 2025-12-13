@@ -25973,3 +25973,56 @@ Path '', line 1, position 1. | StackTrace:    at Newtonsoft.Json.Serialization.J
 2025-12-13 17:07:23 - https://api.igdb.com/v4/games (IGDB search) for For Honor - Public Test
 2025-12-13 17:07:24 - https://api.igdb.com/v4/games (IGDB search) for Monster Hunter Wilds Benchmark
 2025-12-13 17:07:24 - https://api.igdb.com/v4/games (IGDB search) for Spring Sale Goodies Collection #1
+2025-12-13 17:15:18 - https://id.twitch.tv/oauth2/token?client_id=437y9fwocc0m6c966zkml5qq4gv6cy&client_secret=kwdxaf6idhiraz5cuaq01qe8ez4j4i&grant_type=client_credentials
+2025-12-13 17:15:18 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:15:20 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:15:20 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:15:20 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:15:21 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-13 17:15:55 - https://api.igdb.com/v4/games (IGDB search) for Fallout New Vegas: Gun Runners’ Arsenal
+2025-12-13 17:15:56 - https://api.igdb.com/v4/games (IGDB search) for Frostpunk Expansions Original Soundtrack
+2025-12-13 17:15:56 - https://api.igdb.com/v4/games (IGDB search) for Commander Lilith DLC
+2025-12-13 17:15:56 - https://api.igdb.com/v4/games (IGDB search) for Death Stranding Content
+2025-12-13 17:15:57 - https://api.igdb.com/v4/games (IGDB search) for Fallout New Vegas: Honest Hearts
+2025-12-13 17:15:58 - https://api.igdb.com/v4/games (IGDB search) for ARK Lost Island
+2025-12-13 17:15:58 - https://api.igdb.com/v4/games (IGDB search) for Football Manager 2023 Resource Archiver
+2025-12-13 17:15:59 - https://api.igdb.com/v4/games (IGDB search) for Tyranny - Gold Edition Pack
+2025-12-13 17:15:59 - https://api.igdb.com/v4/games (IGDB search) for HD Texture Pack
+2025-12-13 17:16:00 - https://api.igdb.com/v4/games (IGDB search) for DEATH STRANDING DIGITAL SOUNDTRACK
+2025-12-13 17:16:01 - https://api.igdb.com/v4/games (IGDB search) for Map Pack
+2025-12-13 17:16:01 - https://api.igdb.com/v4/games (IGDB search) for SELECTIONS OF TITAN ART BOOK
+2025-12-13 17:16:02 - https://api.igdb.com/v4/games (IGDB search) for Axiom Verge Randomizer Beta
+2025-12-13 17:16:02 - https://api.igdb.com/v4/games (IGDB search) for Dying Light The Bozak
+2025-12-13 17:16:03 - https://api.igdb.com/v4/games (IGDB search) for FM21 Editor
+2025-12-13 17:16:04 - https://api.igdb.com/v4/games (IGDB search) for Ultra HD Texture Pack
+2025-12-13 17:16:04 - https://api.igdb.com/v4/games (IGDB search) for Dragon Age: Origins - Ultimate Edition
+2025-12-13 17:16:04 - https://api.igdb.com/v4/games (IGDB search) for Frostpunk Content
+2025-12-13 17:16:05 - https://api.igdb.com/v4/games (IGDB search) for Nightingale - 0.3.2
+2025-12-13 17:16:05 - https://api.igdb.com/v4/games (IGDB search) for Glove Skin
+2025-12-13 17:16:06 - https://api.igdb.com/v4/games (IGDB search) for Pillars of Eternity - Definitive Edition Pack
+2025-12-13 17:16:07 - https://api.igdb.com/v4/games (IGDB search) for FM21 Resource Archiver
+2025-12-13 17:16:07 - https://api.igdb.com/v4/games (IGDB search) for Frostpunk Original Soundtrack	
+2025-12-13 17:16:07 - https://api.igdb.com/v4/games (IGDB search) for Puzzle Pack 2
+2025-12-13 17:16:08 - https://api.igdb.com/v4/games (IGDB search) for Fortnite Zero Build: No-Build Battle Royale
+2025-12-13 17:16:09 - https://api.igdb.com/v4/games (IGDB search) for HD Wallpaper
+2025-12-13 17:16:09 - https://api.igdb.com/v4/games (IGDB search) for Fallout New Vegas: Lonesome Road
+2025-12-13 17:16:10 - https://api.igdb.com/v4/games (IGDB search) for Q.U.B.E. 2 Soundtrack
+2025-12-13 17:16:10 - https://api.igdb.com/v4/games (IGDB search) for Puzzle Pack 1
+2025-12-13 17:16:10 - https://api.igdb.com/v4/games (IGDB search) for Marvel's Guardians of the Galaxy: Social-Lord Outfit
+2025-12-13 17:16:11 - https://api.igdb.com/v4/games (IGDB search) for ARK Editor
+2025-12-13 17:16:12 - https://api.igdb.com/v4/games (IGDB search) for ARK Fjordur
+2025-12-13 17:16:12 - https://api.igdb.com/v4/games (IGDB search) for Fallout New Vegas: Courier's Stash
+2025-12-13 17:16:13 - https://api.igdb.com/v4/games (IGDB search) for Football Manager 2022 Resource Archiver
+2025-12-13 17:16:13 - https://api.igdb.com/v4/games (IGDB search) for HD Voice Pack - English
+2025-12-13 17:16:14 - https://api.igdb.com/v4/games (IGDB search) for GOG GALAXY
+2025-12-13 17:16:14 - https://api.igdb.com/v4/games (IGDB search) for Fallout New Vegas: Old World Blues
+2025-12-13 17:16:15 - https://api.igdb.com/v4/games (IGDB search) for Fallout New Vegas: Dead Money
+2025-12-13 17:16:16 - https://api.igdb.com/v4/games (IGDB search) for ARK Crystal Isles
+2025-12-13 17:16:16 - https://api.igdb.com/v4/games (IGDB search) for ARK Valguero
+2025-12-13 17:16:17 - https://api.igdb.com/v4/games (IGDB search) for Football Manager 2022 Editor
+2025-12-13 17:16:17 - https://api.igdb.com/v4/games (IGDB search) for Ultra HD Texture Pack
+2025-12-13 17:16:18 - https://api.igdb.com/v4/games (IGDB search) for Football Manager 2023 Pre-Game Editor
+2025-12-13 17:16:19 - https://api.igdb.com/v4/games (IGDB search) for Chivalry 2 - Public Testing
+2025-12-13 17:16:19 - https://api.igdb.com/v4/games (IGDB search) for Frostpunk: Digital Artbook
+2025-12-13 17:16:20 - https://api.igdb.com/v4/games (IGDB search) for Mortal Shell Tech Beta
+2025-12-13 17:16:20 - https://api.igdb.com/v4/games (IGDB search) for HD Sound Pack
