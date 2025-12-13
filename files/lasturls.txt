@@ -18606,3 +18606,553 @@ Path '', line 1, position 1. | StackTrace:    at Newtonsoft.Json.Serialization.J
 2025-12-13 12:16:55 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-13 12:17:02 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
 2025-12-13 12:17:27 - TIMING: Total execution completed in 34.497 ms
+2025-12-13 12:45:38 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 12:45:38 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 12:45:39 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 12:45:39 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 12:45:39 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-13 12:59:54 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 12:59:55 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 12:59:55 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 12:59:55 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 13:00:14 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Subnautica","ReleaseYear":null,"GameId":"prod-jaguar"}
+2025-12-13 13:00:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Super Meat Boy","ReleaseYear":null,"GameId":"prod-buffalo"}
+2025-12-13 13:00:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"What Remains of Edith Finch","ReleaseYear":null,"GameId":"prod-badger"}
+2025-12-13 13:00:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Jackbox Party Pack","ReleaseYear":null,"GameId":"prod-feverfew"}
+2025-12-13 13:00:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Axiom Verge","ReleaseYear":null,"GameId":"57a252222c5a4dd490b1555e7b84db4c"}
+2025-12-13 13:00:16 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Thimbleweed Park","ReleaseYear":null,"GameId":"prod-tulip"}
+2025-12-13 13:00:16 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Slime Rancher","ReleaseYear":null,"GameId":"34f98a406ed74c7f906eacead1570f3c"}
+2025-12-13 13:00:16 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Oxenfree","ReleaseYear":null,"GameId":"ddb014391b2f48dcbd327aa86928dbf8"}
+2025-12-13 13:00:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Witness","ReleaseYear":null,"GameId":"prod-magnolia"}
+2025-12-13 13:00:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Transistor","ReleaseYear":null,"GameId":"9a03fddd502943d2af8c94daeb667b04"}
+2025-12-13 13:00:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"World of Goo","ReleaseYear":null,"GameId":"593dcb4fe2a14cffa72e7274a2dd504c"}
+2025-12-13 13:00:18 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Stories Untold","ReleaseYear":null,"GameId":"38a76bf983ad43a7966401c8e9cc1b49"}
+2025-12-13 13:00:18 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"RiME","ReleaseYear":null,"GameId":"010d15e7d449454e841d37e153a8d33c"}
+2025-12-13 13:00:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"City of Brass","ReleaseYear":null,"GameId":"1df23e2b661146398af9aa9d4510c75c"}
+2025-12-13 13:00:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kingdom New Lands","ReleaseYear":null,"GameId":"edd2031b28e2451b9e1264025e98926c"}
+2025-12-13 13:00:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Enter the Gungeon","ReleaseYear":null,"GameId":"373a2e61db9c41418340c0378c6989a2"}
+2025-12-13 13:00:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rebel Galaxy","ReleaseYear":null,"GameId":"73f7ee3f9e5540ff963573b9c3b08744"}
+2025-12-13 13:00:20 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Last Day of June","ReleaseYear":null,"GameId":"3f9b7d87d6ea4ac1bb26d49683bd7064"}
+2025-12-13 13:00:20 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Overcooked","ReleaseYear":null,"GameId":"0fd170f41c284239a6a6e0be2df3b8e5"}
+2025-12-13 13:00:20 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Torchlight","ReleaseYear":null,"GameId":"4019722ac05540b69f172d5182468175"}
+2025-12-13 13:00:21 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Limbo","ReleaseYear":null,"GameId":"49bdb24baa564f8c92848abe14112436"}
+2025-12-13 13:00:21 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"This War of Mine","ReleaseYear":null,"GameId":"2263134da81944f4aedb1977049ef2da"}
+2025-12-13 13:00:21 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Moonlighter","ReleaseYear":null,"GameId":"19924135f32e4e1aa517f99a72e7cea4"}
+2025-12-13 13:00:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"For Honor","ReleaseYear":null,"GameId":"prod-sundrop"}
+2025-12-13 13:00:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Alan Wake","ReleaseYear":null,"GameId":"84f5fb95bac74e08b6fdb1628f9491b7"}
+2025-12-13 13:00:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Gnog","ReleaseYear":null,"GameId":"dff5698e513d49f4b6823c6472f07137"}
+2025-12-13 13:00:23 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Mutant Year Zero: Road to Eden","ReleaseYear":null,"GameId":"9651fd57c8a34e81949aab28a084ced7"}
+2025-12-13 13:00:23 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hyper Light Drifter","ReleaseYear":null,"GameId":"4e7c7a4652c247ab8019906f7d60739c"}
+2025-12-13 13:00:23 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fez","ReleaseYear":null,"GameId":"4f0cd8b701924f4b98be9b3948676a07"}
+2025-12-13 13:00:23 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Inside","ReleaseYear":null,"GameId":"73021f8411c9435e8b6f35faacdc2978"}
+2025-12-13 13:00:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Celeste","ReleaseYear":null,"GameId":"544c18ccadf8466691d8f2a335721b14"}
+2025-12-13 13:00:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The End is Nigh","ReleaseYear":null,"GameId":"498e04695bbd4376ab574a103a4f36dd"}
+2025-12-13 13:00:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Abzû","ReleaseYear":null,"GameId":"dedd448c38d947ab90291540f183378b"}
+2025-12-13 13:00:25 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Conarium","ReleaseYear":null,"GameId":"f094afd81c3c4a3cb565b186e01c3bcd"}
+2025-12-13 13:00:25 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"LEGO Batman: The Videogame","ReleaseYear":null,"GameId":"3fdbd69050ec4091a68481b397f0a5dd"}
+2025-12-13 13:00:25 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"LEGO Batman 3: Beyond Gotham","ReleaseYear":null,"GameId":"50b14c829c764b19bb1a5a4c9b4f062a"}
+2025-12-13 13:00:26 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"LEGO Batman 2: DC Super Heroes","ReleaseYear":null,"GameId":"5e802a1ec87e419182e6b4271ce2bb80"}
+2025-12-13 13:00:26 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Batman: Arkham Knight","ReleaseYear":null,"GameId":"f036adb25c9347c69344b7642cb31e64"}
+2025-12-13 13:00:26 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Batman: Arkham City Game of the Year Edition","ReleaseYear":null,"GameId":"1d96b05c04804b4e8df4b376e3c1c490"}
+2025-12-13 13:00:27 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Batman: Arkham Asylum Game of the Year Edition","ReleaseYear":null,"GameId":"0f96082fc0b8475db86cba86c8b6a796"}
+2025-12-13 13:00:27 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Metro 2033 Redux","ReleaseYear":null,"GameId":"prod-petunia"}
+2025-12-13 13:00:27 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Everything","ReleaseYear":null,"GameId":"a6178a59ce744e089c1a8e44010c3aff"}
+2025-12-13 13:00:28 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Minit","ReleaseYear":null,"GameId":"c3bb66a9e2064fa580597cee86cbc1df"}
+2025-12-13 13:00:28 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Surviving Mars","ReleaseYear":null,"GameId":"74caac20698040f1b56991fb9fb942d5"}
+2025-12-13 13:00:28 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Observer","ReleaseYear":null,"GameId":"c7aaa2e680fd4dceb5fc87eebe80ade9"}
+2025-12-13 13:00:29 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Alan Wake's American Nightmare","ReleaseYear":null,"GameId":"0293ace10f2a46b481f736f3e06c491e"}
+2025-12-13 13:00:29 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Q.U.B.E. 2","ReleaseYear":null,"GameId":"ff0ade54077543a99f000452c374d481"}
+2025-12-13 13:00:29 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Layers of Fear: Masterpiece Edition","ReleaseYear":null,"GameId":"6467d7c966244e40a72d776ea430f357"}
+2025-12-13 13:00:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Soma","ReleaseYear":null,"GameId":"1f0c2b7ac810474a8ce948853d95738d"}
+2025-12-13 13:00:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Costume Quest","ReleaseYear":null,"GameId":"4a2c34b1d9ba407d8d5f3cef4dd123e9"}
+2025-12-13 13:00:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ruiner","ReleaseYear":null,"GameId":"42d063eb91874990b29f5b9a3e083673"}
+2025-12-13 13:00:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Nuclear Throne","ReleaseYear":null,"GameId":"af422c0d66204723b7b657f3e9686222"}
+2025-12-13 13:00:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Messenger","ReleaseYear":null,"GameId":"4d63784e33824d6aa15ce9cf0fdb659d"}
+2025-12-13 13:00:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Bad North: Jotunn Edition","ReleaseYear":null,"GameId":"3d3e0090a6dd43b8815246d09e43e0a6"}
+2025-12-13 13:00:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rayman Legends","ReleaseYear":null,"GameId":"142456888e9149ee8a76de3b879ae7b7"}
+2025-12-13 13:00:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Jotun: Valhalla Edition","ReleaseYear":null,"GameId":"cbbde99547d54f41b8f7bd5fc46726c5"}
+2025-12-13 13:00:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Wolf Among Us","ReleaseYear":null,"GameId":"80d9dee364f64e83ace0a57139fb45a1"}
+2025-12-13 13:00:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Escapists","ReleaseYear":null,"GameId":"eb88ba59290b406b8764fa3ec6ed33df"}
+2025-12-13 13:00:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Into the Breach","ReleaseYear":null,"GameId":"4b75125058e34338af3a919674a87af0"}
+2025-12-13 13:00:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"TowerFall Ascension","ReleaseYear":null,"GameId":"c5b36b658cc54e8784a9bfd9c3668b40"}
+2025-12-13 13:00:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Superhot","ReleaseYear":null,"GameId":"42ccb715787e47f48648159060135ef1"}
+2025-12-13 13:00:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Little Inferno","ReleaseYear":null,"GameId":"3d2ea72406ae463e83dd3eb1ac6edb8b"}
+2025-12-13 13:00:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ape Out","ReleaseYear":null,"GameId":"980a9f62bb1e4d5db2c0b55ae112f61c"}
+2025-12-13 13:00:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Totally Accurate Battle Simulator","ReleaseYear":null,"GameId":"d09bc49eeaae4e628222e5d07d0099db"}
+2025-12-13 13:00:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Faster Than Light","ReleaseYear":null,"GameId":"7388d4b0e0b34ea4b7c22d1a8c090e9a"}
+2025-12-13 13:00:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Shadow Tactics: Blades of the Shogun","ReleaseYear":null,"GameId":"aec117239abd49a08eddc9e75a981fa3"}
+2025-12-13 13:00:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Talos Principle","ReleaseYear":null,"GameId":"75d25e76f4aa44c18993c7abd83903d8"}
+2025-12-13 13:00:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hello Neighbor","ReleaseYear":null,"GameId":"prod-helloneighbor"}
+2025-12-13 13:00:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Yooka-Laylee and the Impossible Lair","ReleaseYear":null,"GameId":"affb6a18c2eb4b83890601cf46c203e7"}
+2025-12-13 13:00:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Steep","ReleaseYear":null,"GameId":"7f006c7993324906b1b1487f1192ddb6"}
+2025-12-13 13:00:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Darksiders: Warmastered Edition","ReleaseYear":null,"GameId":"264784755dec4382b0033a4d63a4209a"}
+2025-12-13 13:00:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Darksiders II: Deathinitive Edition","ReleaseYear":null,"GameId":"0f48e9fb745c41d48e892a6c0036ba52"}
+2025-12-13 13:00:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sundered: Eldritch Edition","ReleaseYear":null,"GameId":"1c69ffb2de3d4bd08ad09a47bfb46537"}
+2025-12-13 13:00:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Horace","ReleaseYear":null,"GameId":"54e4974ff09e457ea24de17a37a1eca7"}
+2025-12-13 13:00:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Bridge","ReleaseYear":null,"GameId":"e931215988e648418d1df5b4bf934c3c"}
+2025-12-13 13:00:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Farming Simulator 19","ReleaseYear":null,"GameId":"41dcdf10a8844d56901930ba20c98019"}
+2025-12-13 13:00:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ticket to Ride","ReleaseYear":null,"GameId":"2d90b2be6c9947b18926a07ddd928410"}
+2025-12-13 13:00:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Carcassonne","ReleaseYear":null,"GameId":"6a9694e578ee4e598b16a02ef549b629"}
+2025-12-13 13:00:39 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kingdom Come: Deliverance","ReleaseYear":null,"GameId":"aae0fb1ccec64766a1ac6a468964273d"}
+2025-12-13 13:00:39 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Aztez","ReleaseYear":null,"GameId":"8b620ab6eaad4c6182d44f07830fd8f6"}
+2025-12-13 13:00:39 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Faeria","ReleaseYear":null,"GameId":"a141915f0de3494791151b205a712cda"}
+2025-12-13 13:00:39 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Assassin's Creed Syndicate","ReleaseYear":null,"GameId":"02950ab2195f44dbb665264229b015c7"}
+2025-12-13 13:00:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"InnerSpace","ReleaseYear":null,"GameId":"4e2072e53390489b8b35ddf6a1e52aa8"}
+2025-12-13 13:00:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Offworld Trading Company","ReleaseYear":null,"GameId":"fa5584e7b5394eb688f1033c9c30fc09"}
+2025-12-13 13:00:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Gonner","ReleaseYear":null,"GameId":"bef777f5e5e74f6a942384638c41cc51"}
+2025-12-13 13:00:41 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Mutazione","ReleaseYear":null,"GameId":"e33a567a8ce04ed5abc23d5e46a98087"}
+2025-12-13 13:00:41 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Anodyne 2: Return to Dust","ReleaseYear":null,"GameId":"914afa33916d440cbdc06c0782b782a8"}
+2025-12-13 13:00:43 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"A Short Hike","ReleaseYear":null,"GameId":"5900d5b75cb24e4ca6ac93c30155fb72"}
+2025-12-13 13:00:43 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Watch Dogs","ReleaseYear":null,"GameId":"0ef48c2fbefa4e75a5753c0a4ae919c9"}
+2025-12-13 13:00:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Stanley Parable","ReleaseYear":null,"GameId":"ba1f4fa2618046a0a8d71588cd0c2a68"}
+2025-12-13 13:00:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"World War Z","ReleaseYear":null,"GameId":"3f459a6ca66245eba62819d656dd6178"}
+2025-12-13 13:00:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tormentor X Punisher","ReleaseYear":null,"GameId":"84f8d79ca9d84057ba4406d215cb6ad5"}
+2025-12-13 13:00:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Figment","ReleaseYear":null,"GameId":"1c8da4b090f347819213f9130f5289d7"}
+2025-12-13 13:00:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Totally Reliable Delivery Service","ReleaseYear":null,"GameId":"ec247631278d4ccda3eebb9f0ffb3391"}
+2025-12-13 13:00:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hob","ReleaseYear":null,"GameId":"a047b3a87dfd4e489bb9fc200aa0e6c7"}
+2025-12-13 13:00:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Gone Home","ReleaseYear":null,"GameId":"56b3f851cc664490a9911040da23a611"}
+2025-12-13 13:00:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Drawful 2","ReleaseYear":null,"GameId":"prod-daisy"}
+2025-12-13 13:00:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sherlock Holmes: Crimes & Punishments","ReleaseYear":null,"GameId":"afadb715390a4593acdca79dae94b60a"}
+2025-12-13 13:00:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Close to the Sun","ReleaseYear":null,"GameId":"fd52dea4c76a4d118358ce654a868ce5"}
+2025-12-13 13:00:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Wheels of Aurelia","ReleaseYear":null,"GameId":"3443dbe85c43483f8205fdff619c4286"}
+2025-12-13 13:00:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Just Cause 4","ReleaseYear":null,"GameId":"f6db79620fd849a685f8b463d3a8bf2d"}
+2025-12-13 13:00:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"For the King","ReleaseYear":null,"GameId":"55cfb7ec385d4a009bef201249c03db9"}
+2025-12-13 13:00:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Crashlands","ReleaseYear":null,"GameId":"50c1f8b00eff4eb68b474bf57a2bf7bc"}
+2025-12-13 13:00:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Amnesia: The Dark Descent","ReleaseYear":null,"GameId":"785b37a897c14ad589d2d5f79aaf372e"}
+2025-12-13 13:00:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Death Coming","ReleaseYear":null,"GameId":"1516933c27344f478d04efa7ccaa623e"}
+2025-12-13 13:00:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Grand Theft Auto V","ReleaseYear":null,"GameId":"954871df36d3456ca1face43aa5c2e62"}
+2025-12-13 13:00:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sid Meier's Civilization VI","ReleaseYear":null,"GameId":"9cf93671754649668f7a043b6200ff9b"}
+2025-12-13 13:00:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Borderlands: The Pre-Sequel","ReleaseYear":null,"GameId":"e7721247ab594e6883daa66e8dae9506"}
+2025-12-13 13:00:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Borderlands 2","ReleaseYear":null,"GameId":"529b04a9c9094cc4b87e9149c4726fc0"}
+2025-12-13 13:00:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Overcooked","ReleaseYear":null,"GameId":"4b3ecffc16b14b5aa968abe906ba457d"}
+2025-12-13 13:00:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Samurai Shodown NeoGeo Collection","ReleaseYear":null,"GameId":"b3678744f16842debd1f2d57fbe12e9c"}
+2025-12-13 13:00:51 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ark: Survival Evolved","ReleaseYear":null,"GameId":"16b7c8509ea8427898981145d244316c"}
+2025-12-13 13:00:51 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Pathway","ReleaseYear":null,"GameId":"8c02538c55314c22b0e2216502bdac20"}
+2025-12-13 13:00:51 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Stranger Things 3: The Game","ReleaseYear":null,"GameId":"6114b5847a944f0aaba5fc61f1524da8"}
+2025-12-13 13:00:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"AER: Memories of Old","ReleaseYear":null,"GameId":"ddbac5b8afd64e36a63d6904e0ef7e41"}
+2025-12-13 13:00:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hue","ReleaseYear":null,"GameId":"d4497261293046f58c0a429a11a7d852"}
+2025-12-13 13:00:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Escapists 2","ReleaseYear":null,"GameId":"70c286b7eb704c9eaa59e66571447092"}
+2025-12-13 13:00:53 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Lifeless Planet: Premier Edition","ReleaseYear":null,"GameId":"8891a362aacf45e68b618eced3b4ba00"}
+2025-12-13 13:00:53 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Killing Floor 2","ReleaseYear":null,"GameId":"e2b82b9dbfa94bb79ecb5714a9e91306"}
+2025-12-13 13:00:53 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Torchlight II","ReleaseYear":null,"GameId":"9ca2b214a7b0477cb57fb0975f50043c"}
+2025-12-13 13:00:53 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tacoma","ReleaseYear":null,"GameId":"32052e4882be420e8b009f05483f1f23"}
+2025-12-13 13:00:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Next Up Hero","ReleaseYear":null,"GameId":"8855742b74c0449b96eab666e5bdd650"}
+2025-12-13 13:00:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Superbrothers: Sword & Sworcery EP","ReleaseYear":null,"GameId":"a8b9cb3f7f0143bc9366ec7695f7876c"}
+2025-12-13 13:00:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Barony","ReleaseYear":null,"GameId":"3fb9665744a5404d95de612ddc445f35"}
+2025-12-13 13:00:55 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"20XX","ReleaseYear":null,"GameId":"14f073a7a4204943b830717c32e2c710"}
+2025-12-13 13:00:55 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Wilmot's Warehouse","ReleaseYear":null,"GameId":"b5dba5ebbdf84ecaad0edf4f5e026247"}
+2025-12-13 13:00:55 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Alto Collection","ReleaseYear":null,"GameId":"754412e3df444c0c84653ea7aa047fe6"}
+2025-12-13 13:00:56 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Remnant: From the Ashes","ReleaseYear":null,"GameId":"c3a4300ca5fb498b91008b7e5fe5778e"}
+2025-12-13 13:00:56 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"God's Trigger","ReleaseYear":null,"GameId":"3f380bbd3a7d465c95af0163ca57a2d8"}
+2025-12-13 13:00:56 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Where the Water Tastes Like Wine","ReleaseYear":null,"GameId":"72cbf73f83ea4437b142e143a1c78562"}
+2025-12-13 13:00:56 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Railway Empire","ReleaseYear":null,"GameId":"4a1ab4073ea24b218b363e905ffe609c"}
+2025-12-13 13:00:57 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Watch Dogs 2","ReleaseYear":null,"GameId":"prod-angelonia"}
+2025-12-13 13:00:57 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Stick it to the Man!","ReleaseYear":null,"GameId":"0d25ff58568a41feb949ef3fc7cf8e13"}
+2025-12-13 13:00:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Football Manager 2020","ReleaseYear":null,"GameId":"44d7537f61f24ed786e5c369a674ee86"}
+2025-12-13 13:00:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"RollerCoaster Tycoon 3: Complete Edition","ReleaseYear":null,"GameId":"4ec50a302f1449b3bf706a199c333ab8"}
+2025-12-13 13:00:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Pikuniku","ReleaseYear":null,"GameId":"559d2ae2577e463eb9f914883795935e"}
+2025-12-13 13:00:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rising Storm 2: Vietnam","ReleaseYear":null,"GameId":"b19d810d322240e7b37bcf84ffac60ce"}
+2025-12-13 13:00:59 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Amnesia: A Machine for Pigs","ReleaseYear":null,"GameId":"8080b4a777b54ec8a1ded2c8e7ec40a4"}
+2025-12-13 13:00:59 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Layers of Fear 2","ReleaseYear":null,"GameId":"dd36293739384a63886ccdc39bc02993"}
+2025-12-13 13:00:59 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Costume Quest 2","ReleaseYear":null,"GameId":"62488ccca67b455891967a4cfc6dea24"}
+2025-12-13 13:01:00 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ghostbusters: The Video Game Remastered","ReleaseYear":null,"GameId":"387e3e9d6a1a4812bd2e54a04eac2db9"}
+2025-12-13 13:01:00 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Blair Witch","ReleaseYear":null,"GameId":"8b62502ac3774dd5b43e208bb2a46ef3"}
+2025-12-13 13:01:00 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dungeons 3","ReleaseYear":null,"GameId":"256fe52d342c4b65ac34997a610d9384"}
+2025-12-13 13:01:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Textorcist: The Story of Ray Bibbia","ReleaseYear":null,"GameId":"aafbe6800d9f4e50aa896139ed45554a"}
+2025-12-13 13:01:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The World Next Door","ReleaseYear":null,"GameId":"e74db1952d344022bb510b8ddbcc4589"}
+2025-12-13 13:01:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Elite: Dangerous","ReleaseYear":null,"GameId":"164f0cc0d19144cd91cab50c933ef6d6"}
+2025-12-13 13:01:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"MudRunner","ReleaseYear":null,"GameId":"7aea960be7dd4d86a9b30cf5daa03eeb"}
+2025-12-13 13:01:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Cave Story+","ReleaseYear":null,"GameId":"be3de140fc3749b28215da1626cce8bc"}
+2025-12-13 13:01:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tyranny - Gold Edition","ReleaseYear":null,"GameId":"8a9ebc1feff6402e9b88839f46ee45ac"}
+2025-12-13 13:01:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Pillars of Eternity: Definitive Edition","ReleaseYear":null,"GameId":"6238fdbc5a0143ccbc8448a8009bcef5"}
+2025-12-13 13:01:03 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Cities: Skylines","ReleaseYear":null,"GameId":"bc4b1ba9b182475fb74ee218f3590d73"}
+2025-12-13 13:01:03 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Oddworld: New 'n' Tasty!","ReleaseYear":null,"GameId":"a020424f6c854cefac41f4af4a0ce69f"}
+2025-12-13 13:01:04 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Long Dark","ReleaseYear":null,"GameId":"708f463123fc417895dafae16405e0eb"}
+2025-12-13 13:01:04 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Defense Grid: The Awakening","ReleaseYear":null,"GameId":"cae9b411f608482a9c646f00daac9e46"}
+2025-12-13 13:01:04 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Alien: Isolation","ReleaseYear":null,"GameId":"d37f3694e7a04edb8347f3cb6320f9d3"}
+2025-12-13 13:01:05 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tropico 5","ReleaseYear":null,"GameId":"6248c7a0602c4f6ba4f47815f87054ec"}
+2025-12-13 13:01:05 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Darkest Dungeon","ReleaseYear":null,"GameId":"c9ce7a0f7b9e4368b4efe3189aa70700"}
+2025-12-13 13:01:05 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"My Time at Portia","ReleaseYear":null,"GameId":"prod-cobra"}
+2025-12-13 13:01:06 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Night in the Woods","ReleaseYear":null,"GameId":"bfba5c4bab344751b8ab159a48555209"}
+2025-12-13 13:01:06 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Stranded Deep","ReleaseYear":null,"GameId":"c0050ea63818490f93837f8476bc5418"}
+2025-12-13 13:01:06 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Solitairica","ReleaseYear":null,"GameId":"cd761753fdfa430994f60b512c90b66e"}
+2025-12-13 13:01:07 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Jurassic World Evolution","ReleaseYear":null,"GameId":"b9427274e2ee4976a72d0b89c5c16825"}
+2025-12-13 13:01:07 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Crying Suns","ReleaseYear":null,"GameId":"462844c5fc104812a53792c42d400644"}
+2025-12-13 13:01:07 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Star Wars Battlefront II: Celebration Edition","ReleaseYear":null,"GameId":"605701bceb4a4cd3b0dd5c60152dcb2b"}
+2025-12-13 13:01:08 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Galactic Civilizations III","ReleaseYear":null,"GameId":"b7bc360077eb4ecda29180057fc3f0c2"}
+2025-12-13 13:01:08 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dandara: Trials of Fear Edition","ReleaseYear":null,"GameId":"a5dbe3de0fb14e029d78f85b25e89ca6"}
+2025-12-13 13:01:08 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Metro: Last Light Redux","ReleaseYear":null,"GameId":"95da6fba3816455cb8de5241681e1a10"}
+2025-12-13 13:01:09 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Halcyon 6: Lightspeed Edition","ReleaseYear":null,"GameId":"e6258e1b14eb4463916ff2d2f4eb3c3e"}
+2025-12-13 13:01:09 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rage 2","ReleaseYear":null,"GameId":"3308d6da86d94969a5087d64e49b7b23"}
+2025-12-13 13:01:09 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Absolute Drift","ReleaseYear":null,"GameId":"0c90d229f27a4251beee8b4776a8fb44"}
+2025-12-13 13:01:09 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sunless Sea","ReleaseYear":null,"GameId":"5d921696022d4bbe850c76be8c9bc98f"}
+2025-12-13 13:01:10 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Wargame: Red Dragon","ReleaseYear":null,"GameId":"8484750561a5445583ba3d1341bc4e43"}
+2025-12-13 13:01:10 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Fall","ReleaseYear":null,"GameId":"9eb0e6e024af4701b1640f4c8bc52ee0"}
+2025-12-13 13:01:10 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Creature in the Well","ReleaseYear":null,"GameId":"000f9a594ed44b3981272946d330d968"}
+2025-12-13 13:01:11 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tales of the Neon Sea","ReleaseYear":null,"GameId":"b5e5f4fbdd4a40348c3a9a554f076922"}
+2025-12-13 13:01:11 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"3 Out of 10: Season Two","ReleaseYear":null,"GameId":"9fc33e99abf342138323856854e745ec"}
+2025-12-13 13:01:11 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The First Tree","ReleaseYear":null,"GameId":"844f72b164ad4f5884c4feeca5561678"}
+2025-12-13 13:01:12 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ken Follett's The Pillars of the Earth","ReleaseYear":null,"GameId":"ded5930173d5495993186871fbfd329a"}
+2025-12-13 13:01:12 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Deponia: The Complete Journey","ReleaseYear":null,"GameId":"abdae4ebcf3e41beb6ec8040d818afcd"}
+2025-12-13 13:01:12 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hand of Fate 2","ReleaseYear":null,"GameId":"ef673112760b43c39b8492c31da80e4b"}
+2025-12-13 13:01:12 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Idle Champions of the Forgotten Realms","ReleaseYear":null,"GameId":"a9748abde1c94b66aae5250bb9fc5503"}
+2025-12-13 13:01:13 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Pine","ReleaseYear":null,"GameId":"4cc414e570bc43cfa0d7fda4830909ac"}
+2025-12-13 13:01:13 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Lion's Song","ReleaseYear":null,"GameId":"ed820853b9f649ac93e2456b2362220d"}
+2025-12-13 13:01:13 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Among Us","ReleaseYear":null,"GameId":"5fa322f021de4d338d61f6e1dae8b6e9"}
+2025-12-13 13:01:14 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Frostpunk","ReleaseYear":null,"GameId":"1d43b9f055f846f38413d036f0cc2a04"}
+2025-12-13 13:01:14 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Genshin Impact","ReleaseYear":null,"GameId":"acc319019e974ec9a4af28530141d888"}
+2025-12-13 13:01:14 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Control","ReleaseYear":null,"GameId":"prod-calluna"}
+2025-12-13 13:01:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hell Is Other Demons","ReleaseYear":null,"GameId":"1786c8d9cd474bef9ce221929411633f"}
+2025-12-13 13:01:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sonic Mania","ReleaseYear":null,"GameId":"8d50972d297f448cb3718d6e8094327a"}
+2025-12-13 13:01:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Horizon Chase Turbo","ReleaseYear":null,"GameId":"a410ccaa350b4835a55be5b10574c03a"}
+2025-12-13 13:01:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Spectrum Retreat","ReleaseYear":null,"GameId":"2cb68a86262b4e0a91dbe0625cbbb242"}
+2025-12-13 13:01:16 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ironcast","ReleaseYear":null,"GameId":"397d1ab85db34e7a8dfd943b51c1c6a5"}
+2025-12-13 13:01:16 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Bridge Constructor: The Walking Dead","ReleaseYear":null,"GameId":"8e30f82a970b48e684a27ca49c386115"}
+2025-12-13 13:01:16 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Obduction","ReleaseYear":null,"GameId":"48a3d2ead65c450b996ba3f4c1d88c68"}
+2025-12-13 13:01:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Verdun","ReleaseYear":null,"GameId":"7d26ed48c61f498189e60b282eaddbdf"}
+2025-12-13 13:01:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Train Sim World 2","ReleaseYear":null,"GameId":"4c5a7e2e9316430386ac330b92cf7d7a"}
+2025-12-13 13:01:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Mothergunship","ReleaseYear":null,"GameId":"5d2ce65c344c40918fe103c5dc34e6f1"}
+2025-12-13 13:01:18 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Speed Brawl","ReleaseYear":null,"GameId":"d89d1ecf209d42688d82909e522f2ec1"}
+2025-12-13 13:01:18 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"A Plague Tale: Innocence","ReleaseYear":null,"GameId":"2725dc05f69f4aa3a7b17ccdf95b6349"}
+2025-12-13 13:01:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Yooka-Laylee","ReleaseYear":null,"GameId":"03d4680cc79a4030b40e2d7c6bdacbaf"}
+2025-12-13 13:01:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Void Bastards","ReleaseYear":null,"GameId":"c1bb7eb3554b42f0957cc87363e59e1d"}
+2025-12-13 13:01:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Automachef","ReleaseYear":null,"GameId":"c57ffe9b84324710845173de8a887feb"}
+2025-12-13 13:01:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Yoku's Island Express","ReleaseYear":null,"GameId":"f28ce458986e4f8dbbf67be5d0ac41e6"}
+2025-12-13 13:01:20 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sheltered","ReleaseYear":null,"GameId":"011ab6d40b80485bb23fbef4362aceb2"}
+2025-12-13 13:01:20 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tharsis","ReleaseYear":null,"GameId":"0c7924b21589422581c7cbe8d5a336c5"}
+2025-12-13 13:01:20 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Europa Universalis IV","ReleaseYear":null,"GameId":"5f285d0cb83a430c9b993783990eb7d7"}
+2025-12-13 13:01:21 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"PC Building Simulator","ReleaseYear":null,"GameId":"0a0049cc0f75400fb5dee0f948a20ccd"}
+2025-12-13 13:01:21 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Stubbs the Zombie in Rebel Without a Pulse","ReleaseYear":null,"GameId":"f060c900b80441fda67a7d986c327905"}
+2025-12-13 13:01:21 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Paladins Epic Pack","ReleaseYear":null,"GameId":"87150f24a0924e658feb8df97485d0f0"}
+2025-12-13 13:01:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Among the Sleep: Enhanced Edition","ReleaseYear":null,"GameId":"2a112cd37b774426990583a259e25ef9"}
+2025-12-13 13:01:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"DARQ: Complete Edition","ReleaseYear":null,"GameId":"0af5da05c76943f8a7da7cc65949ffd4"}
+2025-12-13 13:01:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Aven Colony","ReleaseYear":null,"GameId":"408e1dacff9c4ddabecb93b1e6183db9"}
+2025-12-13 13:01:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tiny Tina's Assault on Dragon Keep: A Wonderlands One-Shot Adventure","ReleaseYear":null,"GameId":"e73c6b914a394bbface8847d75879492"}
+2025-12-13 13:01:23 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rogue Company Season Four Epic Pack","ReleaseYear":null,"GameId":"7c0a8a40ba4a47dd899eed51a8fbc3fe"}
+2025-12-13 13:01:23 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Never Alone (Kisima Ingitchuna)","ReleaseYear":null,"GameId":"0cd43717a2224f33bb9a95f01d303474"}
+2025-12-13 13:01:23 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kid A Mnesia Exhibition","ReleaseYear":null,"GameId":"b8bf369a354e4a01b01d61d750b1bc6d"}
+2025-12-13 13:01:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Guild of Dungeoneering","ReleaseYear":null,"GameId":"fc75b7c573c64c24a937823183f8468e"}
+2025-12-13 13:01:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"theHunter: Call of the Wild","ReleaseYear":null,"GameId":"e21e1a89e87f4d5faa776258c369ceea"}
+2025-12-13 13:01:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Antstream Epic Welcome Pack","ReleaseYear":null,"GameId":"e237c9f119524de199e0bdc9d52d8246"}
+2025-12-13 13:01:25 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"while True: learn()","ReleaseYear":null,"GameId":"154108003e4e4f099634188deb9a01b8"}
+2025-12-13 13:01:25 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dead by Daylight","ReleaseYear":null,"GameId":"40c4d270c3704c0d8d9370c73041fd06"}
+2025-12-13 13:01:25 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Prison Architect","ReleaseYear":null,"GameId":"1a6d6a00bf4540c2a2bd630e870a42b0"}
+2025-12-13 13:01:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Godfall: Challenger Edition","ReleaseYear":null,"GameId":"0f74790fa96a41b584144d11327115b7"}
+2025-12-13 13:01:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Shenmue III","ReleaseYear":null,"GameId":"a65a116c194d4e4580541053a462c661"}
+2025-12-13 13:01:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Neon Abyss","ReleaseYear":null,"GameId":"9fa34380642944feaa4769443282183e"}
+2025-12-13 13:01:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Vanishing of Ethan Carter","ReleaseYear":null,"GameId":"bdea68145b61462f9cd17068e835aadf"}
+2025-12-13 13:01:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Loop Hero","ReleaseYear":null,"GameId":"db122f42b41f4dec927e0f280cf653bd"}
+2025-12-13 13:01:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Second Extinction","ReleaseYear":null,"GameId":"b6cc19713fdf44b398c0988a9fc111aa"}
+2025-12-13 13:01:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Vampyr","ReleaseYear":null,"GameId":"prod-nautilus"}
+2025-12-13 13:01:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Pathfinder: Kingmaker: Enhanced Plus Edition","ReleaseYear":null,"GameId":"98be9822fb7d407384cd2f85cba14f88"}
+2025-12-13 13:01:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Prey","ReleaseYear":null,"GameId":"ed17077691c541c19dc95e47fdd1cfd5"}
+2025-12-13 13:01:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Mages of Mystralia","ReleaseYear":null,"GameId":"464a19f4865248b5948c9514af11d563"}
+2025-12-13 13:01:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Moving Out","ReleaseYear":null,"GameId":"2297009423294b39b6c5977e172b0629"}
+2025-12-13 13:01:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Salt and Sanctuary","ReleaseYear":null,"GameId":"b69fb17fe548401297c61f0e88807031"}
+2025-12-13 13:01:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tomb Raider: Game of the Year Edition","ReleaseYear":null,"GameId":"1c5143aeec774495a5acc9d613af181b"}
+2025-12-13 13:01:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Shadow of the Tomb Raider: Definitive Edition","ReleaseYear":null,"GameId":"ee7f3c6725fd4fd4b8aeab8622cb770e"}
+2025-12-13 13:01:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rise of the Tomb Raider: 20 Year Celebration","ReleaseYear":null,"GameId":"1d053e8b4a784eb2bbe1b1924419d459"}
+2025-12-13 13:01:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Gods Will Fall","ReleaseYear":null,"GameId":"579fbc4c51a44f098bfaff5dc4a31d92"}
+2025-12-13 13:01:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Relicta","ReleaseYear":null,"GameId":"8f338b5867d84354bf01550081b4bb2b"}
+2025-12-13 13:01:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Daemon X Machina","ReleaseYear":null,"GameId":"8b3809268b0a4a93859da7768c379952"}
+2025-12-13 13:01:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Windbound","ReleaseYear":null,"GameId":"13e70cb21eda428dbdf8d8b0a013880f"}
+2025-12-13 13:01:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Brothers: A Tale of Two Sons","ReleaseYear":null,"GameId":"751c3ae311cf48e1926233fdddae9cb8"}
+2025-12-13 13:01:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Cris Tales","ReleaseYear":null,"GameId":"25c019dfe1204ccd9e6f836894aadbe8"}
+2025-12-13 13:01:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dauntless Epic Slayer Kit","ReleaseYear":null,"GameId":"e953741dce9345329d8f11902de3b700"}
+2025-12-13 13:01:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Centipede: Recharged","ReleaseYear":null,"GameId":"b44a2808223f4cd0a8ca1376410b5460"}
+2025-12-13 13:01:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Black Widow: Recharged","ReleaseYear":null,"GameId":"2dd7498ffb08433ca9b7c20946787e1f"}
+2025-12-13 13:01:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"In Sound Mind","ReleaseYear":null,"GameId":"80e4f114884b4648bcab461d6cac031e"}
+2025-12-13 13:01:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Demon's Tilt","ReleaseYear":null,"GameId":"3751634df8c44fdb82631a9bd739344d"}
+2025-12-13 13:01:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Total War: Warhammer","ReleaseYear":null,"GameId":"37aad134306b48c8a2ab96f65589ac88"}
+2025-12-13 13:01:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rogue Legacy","ReleaseYear":null,"GameId":"cc8ecf10eb654f93bd1a61a466be2584"}
+2025-12-13 13:01:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"XCOM 2","ReleaseYear":null,"GameId":"84ce9926a2d04c06b9b8e99ae09d964c"}
+2025-12-13 13:01:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Insurmountable","ReleaseYear":null,"GameId":"185b6f2fc0e945cc909fe8a691d39b7d"}
+2025-12-13 13:01:39 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Riverbond","ReleaseYear":null,"GameId":"d848b3c67d3f4f94b26e0ae9f4b6b45c"}
+2025-12-13 13:01:39 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Amnesia Rebirth","ReleaseYear":null,"GameId":"e24cd7ba0b3343729b68d8134c074528"}
+2025-12-13 13:01:39 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Paradigm","ReleaseYear":null,"GameId":"ee598afa02a1496289ae14bf442c5224"}
+2025-12-13 13:01:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Just Die Already","ReleaseYear":null,"GameId":"fd05ded73f7944798434bd7ee7b39e9c"}
+2025-12-13 13:01:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Terraforming Mars","ReleaseYear":null,"GameId":"f2496286331e405793d69807755b7b23"}
+2025-12-13 13:01:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Redout: Enhanced Edition","ReleaseYear":null,"GameId":"c82ab1b8b43843e6a279128614667fb8"}
+2025-12-13 13:01:41 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Borderlands 3","ReleaseYear":null,"GameId":"7fc3be734f1c4288b3aa3e887dbea50b"}
+2025-12-13 13:01:41 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"BioShock Remastered","ReleaseYear":null,"GameId":"fd85bbb1e0424a49a1ce719454a7257c"}
+2025-12-13 13:01:41 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"BioShock Infinite: Complete Edition","ReleaseYear":null,"GameId":"1891e44daa4a4b95959f458644c600f2"}
+2025-12-13 13:01:42 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"BioShock 2 Remastered","ReleaseYear":null,"GameId":"991d921215bf473b819bd2bb4b007531"}
+2025-12-13 13:01:42 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Wolfenstein: The New Order","ReleaseYear":null,"GameId":"52a32a3469dd4a2ca20bfff0c6a66486"}
+2025-12-13 13:01:42 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Maneater","ReleaseYear":null,"GameId":"prod-turtle"}
+2025-12-13 13:01:42 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Supraland","ReleaseYear":null,"GameId":"1c8f5af8518c46369bcd66dd336aec10"}
+2025-12-13 13:01:43 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Car Mechanic Simulator 2018","ReleaseYear":null,"GameId":"5eb27cf1747c40b5a0d4f5492774678d"}
+2025-12-13 13:01:43 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"A Game Of Thrones: The Board Game Digital Edition","ReleaseYear":null,"GameId":"a125d72a47a1490aba78c4e79a40395d"}
+2025-12-13 13:01:43 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Iratus: Lord of the Dead","ReleaseYear":null,"GameId":"101ca62ae8064e4799bd84cd549479fa"}
+2025-12-13 13:01:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hood: Outlaws & Legends","ReleaseYear":null,"GameId":"b3eaf3bce6c74867a4fbd7ebc43b4f12"}
+2025-12-13 13:01:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Geneforge 1: Mutagen","ReleaseYear":null,"GameId":"d8970826d8bb4d599a74ad990eb8ae01"}
+2025-12-13 13:01:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ancient Enemy","ReleaseYear":null,"GameId":"07c6a2e544274070b9e9ee78316c5774"}
+2025-12-13 13:01:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Wonder Boy: The Dragon's Trap","ReleaseYear":null,"GameId":"bd18a76d848946b0ac5f5c692c8b4757"}
+2025-12-13 13:01:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tannenberg","ReleaseYear":null,"GameId":"6c539a4779c84a98ad5b96f883ecb3c8"}
+2025-12-13 13:01:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Shop Titans - Exclusive Giveaway Package","ReleaseYear":null,"GameId":"89a60cbd5e6c4cea9af4c7346df3f633"}
+2025-12-13 13:01:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Lawn Mowing Simulator","ReleaseYear":null,"GameId":"7d849437da4547399baa3758cb7ec580"}
+2025-12-13 13:01:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Unrailed!","ReleaseYear":null,"GameId":"38ad328025584a26bab9ca92c5f5b842"}
+2025-12-13 13:01:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Cook, Serve, Delicious! 3?!","ReleaseYear":null,"GameId":"41a886d5d37646bfb3d30842cc8f34d2"}
+2025-12-13 13:01:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"DOOM 64","ReleaseYear":null,"GameId":"4d14124e8e9c484381db3be1e2118e8a"}
+2025-12-13 13:01:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ring of Pain","ReleaseYear":null,"GameId":"4b5ba08363b5472f8c061d92c9a849db"}
+2025-12-13 13:01:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Destiny 2: Bungie 30th Anniversary Pack","ReleaseYear":null,"GameId":"e7b9e222c7274dd28714aba2e06d2a01"}
+2025-12-13 13:01:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Submerged: Hidden Depths","ReleaseYear":null,"GameId":"befad00f8b354f52a4f10e927025e9f8"}
+2025-12-13 13:01:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Knockout City - Armazillo DLC Pack","ReleaseYear":null,"GameId":"1b0f5326baf149a6991b546aabf1f214"}
+2025-12-13 13:01:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Realm Royale Reforged Epic Launch Bundle","ReleaseYear":null,"GameId":"d00f6378063449858b61c68fae11e4c0"}
+2025-12-13 13:01:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hundred Days - Winemaking Simulator","ReleaseYear":null,"GameId":"141eee80fbe041d48e16e7b998829295"}
+2025-12-13 13:01:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Captain","ReleaseYear":null,"GameId":"80fb2028e27b489988bcd2c242b8caf0"}
+2025-12-13 13:01:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Spirit of the North","ReleaseYear":null,"GameId":"4460a8fcdc3e4f48a11f3174656f8a96"}
+2025-12-13 13:01:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Gloomhaven","ReleaseYear":null,"GameId":"9232fdbc352445cc820a54bdc97ed2bb"}
+2025-12-13 13:01:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Drone Racing League®","ReleaseYear":null,"GameId":"1578c50f725742fab1863952e01efc52"}
+2025-12-13 13:01:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Runbow","ReleaseYear":null,"GameId":"d98bc011d00a4323b2c49c7dc9d75969"}
+2025-12-13 13:01:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Slain: Back From Hell","ReleaseYear":null,"GameId":"e5267e621ed14b84829c82a69e289c8e"}
+2025-12-13 13:01:51 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rising Hell","ReleaseYear":null,"GameId":"59595c8d06bf417886be97b618046f65"}
+2025-12-13 13:01:51 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"ToeJam & Earl: Back in the Groove!","ReleaseYear":null,"GameId":"db9725548f40419cac7d1c10f94c0736"}
+2025-12-13 13:01:51 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Darkwood","ReleaseYear":null,"GameId":"d00f7e0293ef44b8ab453294cc380a4d"}
+2025-12-13 13:01:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fallout 3: Game of the Year Edition","ReleaseYear":null,"GameId":"d6f01b1827c64ed388191ae507fe7c1b"}
+2025-12-13 13:01:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Evoland Legendary Edition","ReleaseYear":null,"GameId":"e068e168886a4a90a4e36a310e3bda32"}
+2025-12-13 13:01:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Warhammer 40,000: Mechanicus","ReleaseYear":null,"GameId":"57c10206b74e417d86a80abadc30d18d"}
+2025-12-13 13:01:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Saturnalia","ReleaseYear":null,"GameId":"e9fc7e48ea0946248ab628d96de79140"}
+2025-12-13 13:01:53 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Filament","ReleaseYear":null,"GameId":"296453e71c884f95aecf4d582cf66915"}
+2025-12-13 13:01:53 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Alba - A Wildlife Adventure","ReleaseYear":null,"GameId":"44a89fd06011419d9df5fe412ab305e1"}
+2025-12-13 13:01:53 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Evil Dead: The Game","ReleaseYear":null,"GameId":"37ae4c972ee04e05ad2d71dca7b3860b"}
+2025-12-13 13:01:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dark Deity","ReleaseYear":null,"GameId":"e48379072089437dbd783ef80c56fc2c"}
+2025-12-13 13:01:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Star Wars: Squadrons","ReleaseYear":null,"GameId":"2ebc70bd2f0044a18e2734b4fcd9b48b"}
+2025-12-13 13:01:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"RPG in a Box","ReleaseYear":null,"GameId":"34c962aeaa0d4da08b11f368e65a83bd"}
+2025-12-13 13:01:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fort Triumph","ReleaseYear":null,"GameId":"f3575fe40f894984a7027d86034e3b2c"}
+2025-12-13 13:01:55 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Wildcat Gun Machine","ReleaseYear":null,"GameId":"df44630f275246eabbf0bd514d36db9a"}
+2025-12-13 13:01:55 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Saints Row IV Re-Elected","ReleaseYear":null,"GameId":"23ea1157ec89467d99f9b0fdf0ddb89b"}
+2025-12-13 13:01:55 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Bloons TD 6","ReleaseYear":null,"GameId":"b27e3b556f1048b9824c7196f32afceb"}
+2025-12-13 13:01:56 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sable","ReleaseYear":null,"GameId":"d19627e74ac445bcbcfc8157a35d6f80"}
+2025-12-13 13:01:56 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Them's Fighting Herds","ReleaseYear":null,"GameId":"1f723b00df58467998c4984ca39915ad"}
+2025-12-13 13:01:56 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Lego Builder's Journey","ReleaseYear":null,"GameId":"bd886035d7ee4eb1b886a5ada1358528"}
+2025-12-13 13:01:57 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fallout 2: A Post Nuclear Role Playing Game","ReleaseYear":null,"GameId":"f7eb422464774537915ee423ca84a59a"}
+2025-12-13 13:01:57 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fallout Tactics: Brotherhood of Steel","ReleaseYear":null,"GameId":"550b1ad4adcc414a966d459587bcdb30"}
+2025-12-13 13:01:57 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fallout: A Post Nuclear Role Playing Game","ReleaseYear":null,"GameId":"ed7dba6b05354eeca6e2bc130ceffaf3"}
+2025-12-13 13:01:57 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Encased","ReleaseYear":null,"GameId":"53181b9353444bfba05e9475cd274d3d"}
+2025-12-13 13:01:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Death Stranding","ReleaseYear":null,"GameId":"da519d41698b4854815db7371210c3a1"}
+2025-12-13 13:01:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"F.I.S.T.: Forged In S. Torch","ReleaseYear":null,"GameId":"6e708b1e608f446eaa80488d26b7444b"}
+2025-12-13 13:01:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Severed Steel","ReleaseYear":null,"GameId":"d49e6e2ef99443fb9bc3176055a65be1"}
+2025-12-13 13:01:59 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Mortal Shell","ReleaseYear":null,"GameId":"273e5097312942f8a80dd88588635879"}
+2025-12-13 13:01:59 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Eximius: Seize the Frontline","ReleaseYear":null,"GameId":"6930e8f29e1646e194da321c88a266bf"}
+2025-12-13 13:02:00 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dishonored: Definitive Edition","ReleaseYear":null,"GameId":"ecf4d2e87ea7445298c7471d8e9b405e"}
+2025-12-13 13:02:00 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Shadow Tactics: Aiko's Choice","ReleaseYear":null,"GameId":"af045d8dfb3b46d2b29b8fa886a4d13d"}
+2025-12-13 13:02:00 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kerbal Space Program 1","ReleaseYear":null,"GameId":"e51eaae288a04c36ae8c35d5e5ee6285"}
+2025-12-13 13:02:00 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Gamedec: Definitive Edition","ReleaseYear":null,"GameId":"bb6f6212c3ca49b9b1c370ef2611b399"}
+2025-12-13 13:02:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"First Class Trouble","ReleaseYear":null,"GameId":"7d9434b94bc74d25bdd9299b3d9f3e3e"}
+2025-12-13 13:02:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Divine Knockout","ReleaseYear":null,"GameId":"78a776fd56aa484c937d7b1f9486a181"}
+2025-12-13 13:02:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Epistory: Typing Chronicles","ReleaseYear":null,"GameId":"63352c1c0eed4ab9a640dafee08eff54"}
+2025-12-13 13:02:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hell Is Others","ReleaseYear":null,"GameId":"c1735ab5600741489a3ed30ed18c8b2f"}
+2025-12-13 13:02:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Adios","ReleaseYear":null,"GameId":"7334a6f04f5b47218e691f805891bc5d"}
+2025-12-13 13:02:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dishonored: Death of the Outsider","ReleaseYear":null,"GameId":"faf518d367de4306a911ce211c8e47e4"}
+2025-12-13 13:02:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"City of Gangsters","ReleaseYear":null,"GameId":"05400f27305f495aa671a629e0f70bf0"}
+2025-12-13 13:02:03 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Recipe for Disaster","ReleaseYear":null,"GameId":"40607137e7ff40059c3d3ba232dae958"}
+2025-12-13 13:02:03 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Warpips","ReleaseYear":null,"GameId":"f6e75092c08045afa343fb5c5aa817ae"}
+2025-12-13 13:02:03 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Duskers","ReleaseYear":null,"GameId":"894044bc1cd34d99b69ac356fa036f99"}
+2025-12-13 13:02:04 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rise of Industry","ReleaseYear":null,"GameId":"b0c8f55baea94f7ea44d408ed44ebad6"}
+2025-12-13 13:02:04 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Call of the Sea","ReleaseYear":null,"GameId":"92da5d8d918543b6b408e36d9af81765"}
+2025-12-13 13:02:04 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Warhammer 40,000: Gladius - Relics of War","ReleaseYear":null,"GameId":"0fffb527a35441b08505c018dc1812bd"}
+2025-12-13 13:02:05 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"World of Warships - Starter Pack: Ishizuchi","ReleaseYear":null,"GameId":"d3e36fd051354e87bd909721f6bcc7f4"}
+2025-12-13 13:02:05 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Chess Ultra","ReleaseYear":null,"GameId":"ce6ec094f67e4c558334f2683b2125da"}
+2025-12-13 13:02:05 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tunche","ReleaseYear":null,"GameId":"1cfc3e68b14940719bbc0bce58fae8a4"}
+2025-12-13 13:02:05 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Silent Age","ReleaseYear":null,"GameId":"9f476effdb174d789a6d7894d7c39dbb"}
+2025-12-13 13:02:06 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"shapez","ReleaseYear":null,"GameId":"35f8d25247154fca9b900c13d2be04f6"}
+2025-12-13 13:02:06 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dying Light Enhanced Edition","ReleaseYear":null,"GameId":"1126e6bcac0549b0bda00be4a1f69327"}
+2025-12-13 13:02:07 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"MORDHAU","ReleaseYear":null,"GameId":"7f89db821ab1441981adb4daf31c06db"}
+2025-12-13 13:02:07 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Beyond Blue","ReleaseYear":null,"GameId":"c3006006e4c74c4d8316ff09fb8dcc8d"}
+2025-12-13 13:02:07 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Breathedge","ReleaseYear":null,"GameId":"8401414902e84f2cb9afa9142f051d32"}
+2025-12-13 13:02:07 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"https://www.epicgames.com/store/p/poker-club-6e18ee","ReleaseYear":null,"GameId":"b18baf5b2a18423493139ef9974dbbe3"}
+2025-12-13 13:02:08 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kao the Kangaroo","ReleaseYear":null,"GameId":"28b3e1b07ffd43819c9dc82898178b4c"}
+2025-12-13 13:02:08 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Sims™ 4 The Daring Lifestyle Bundle","ReleaseYear":null,"GameId":"014f265f264f46e6b5d59c738cf24ee4"}
+2025-12-13 13:02:08 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fallout: New Vegas - Ultimate Edition","ReleaseYear":null,"GameId":"08834851d4a54f48b485e97caab98012"}
+2025-12-13 13:02:09 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Midnight Ghost Hunt","ReleaseYear":null,"GameId":"ce679dc0f51f4872b6ddb6c4f4bc65ba"}
+2025-12-13 13:02:09 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Payday 2","ReleaseYear":null,"GameId":"14eb3477a6084940b49de5aa73c60f98"}
+2025-12-13 13:02:09 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Guacamelee! Super Turbo Championship Edition","ReleaseYear":null,"GameId":"825a2a7eb70b458ab5b3cd9f5b3fa014"}
+2025-12-13 13:02:10 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Guacamelee! 2","ReleaseYear":null,"GameId":"aab27b5edb1f49ffa9ee01275d61dc3b"}
+2025-12-13 13:02:10 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Dungeon of Naheulbeuk","ReleaseYear":null,"GameId":"e939dc8f681f4ce4b9a70d113cdedafc"}
+2025-12-13 13:02:10 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"GRIME","ReleaseYear":null,"GameId":"3f468b7977d0416a9a36af16f384c516"}
+2025-12-13 13:02:11 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Train Valley 2","ReleaseYear":null,"GameId":"bb4ba8c256f549038cfed1854c861a83"}
+2025-12-13 13:02:11 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Murder by Numbers","ReleaseYear":null,"GameId":"72266ee0bb6f46b3b81f787f31eef633"}
+2025-12-13 13:02:11 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Elder Scrolls Online","ReleaseYear":null,"GameId":"22453f39d3d744d28a8df49f3775db82"}
+2025-12-13 13:02:12 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Homeworld Remastered Collection","ReleaseYear":null,"GameId":"4709cb4179de4f3daa08fe69ec41bc22"}
+2025-12-13 13:02:12 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Orwell: Keeping an Eye on You","ReleaseYear":null,"GameId":"2bc098b80f364e178f364ab368b15372"}
+2025-12-13 13:02:12 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Black Book","ReleaseYear":null,"GameId":"0a1aec20068241649b1bbc6dc0519a05"}
+2025-12-13 13:02:12 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dodo Peak","ReleaseYear":null,"GameId":"97576d7026ab4e4181fdf9b8711a95d9"}
+2025-12-13 13:02:13 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Homeworld: Deserts of Kharak","ReleaseYear":null,"GameId":"508291c29513464b84c1b701edf3d8f4"}
+2025-12-13 13:02:13 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Spelldrifter","ReleaseYear":null,"GameId":"98050bc663334e2c9c99e596084bab0f"}
+2025-12-13 13:02:13 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":" 911 Operator","ReleaseYear":null,"GameId":"268fd6ea355740d6ba4c76c3ffd4cbe0"}
+2025-12-13 13:02:14 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Out of Line","ReleaseYear":null,"GameId":"b1faf4597f064576a7ad60efff9d2a9a"}
+2025-12-13 13:02:14 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":" The Forest Quartet","ReleaseYear":null,"GameId":"4286fb03f8984923a63be6a856945c50"}
+2025-12-13 13:02:14 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Model Builder","ReleaseYear":null,"GameId":"d3e5b556640144bfa5de2d5d3b283d68"}
+2025-12-13 13:02:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Soulstice","ReleaseYear":null,"GameId":"263dd321f94e4265b62b9c80c2590ec4"}
+2025-12-13 13:02:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Godlike Burger","ReleaseYear":null,"GameId":"d9300ace164b41ac90a7b54e59d47953"}
+2025-12-13 13:02:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Blazing Sails","ReleaseYear":null,"GameId":"251f3999cc3a4db3ad85c6b2f4cbc2cc"}
+2025-12-13 13:02:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Q.U.B.E. ULTIMATE BUNDLE","ReleaseYear":null,"GameId":"f18f14a76a874aa883a651fcc8c513d0"}
+2025-12-13 13:02:16 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Evil Within","ReleaseYear":null,"GameId":"d2ce21b98564418cabb2d49fe4f202ce"}
+2025-12-13 13:02:16 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Eternal Threads","ReleaseYear":null,"GameId":"921e40c4c69f4d728914ca2a4f0aa407"}
+2025-12-13 13:02:16 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Evil Within 2","ReleaseYear":null,"GameId":"77693e5298d94911a0edd2492203d9ea"}
+2025-12-13 13:02:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Turnip Boy Commits Tax Evasion","ReleaseYear":null,"GameId":"e0282b701ea04c42ac1b5a55c1a3bfde"}
+2025-12-13 13:02:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Golden Light","ReleaseYear":null,"GameId":"f787056536bf43298e39305a0c5c20c8"}
+2025-12-13 13:02:17 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Surviving the Aftermath","ReleaseYear":null,"GameId":"7f7b29e6698f449bb468b02844c1c1e9"}
+2025-12-13 13:02:18 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"EARTHLOCK","ReleaseYear":null,"GameId":"54412e4f88824cb2a3f1dbb604b59c16"}
+2025-12-13 13:02:18 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Deliver Us Mars","ReleaseYear":null,"GameId":"34c8b5efd29f48209928d74752584426"}
+2025-12-13 13:02:18 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Mighty Fight Federation","ReleaseYear":null,"GameId":"d1da8fed066d4f8eaa817dea6455a822"}
+2025-12-13 13:02:18 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Jitsu Squad","ReleaseYear":null,"GameId":"5526de3a3c35483da97b1b8ce970b360"}
+2025-12-13 13:02:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"GigaBash","ReleaseYear":null,"GameId":"4a003a822ba54453b59c277f5bfc697f"}
+2025-12-13 13:02:19 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Predecessor","ReleaseYear":null,"GameId":"a19138c05ca642d2a7fd73dcbadea7da"}
+2025-12-13 13:02:20 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Destiny 2: Legacy Collection","ReleaseYear":null,"GameId":"de7336b1e38842bea19189200c317175"}
+2025-12-13 13:02:20 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"DNF Duel","ReleaseYear":null,"GameId":"824fca6e444b4223bbf275cfc0355282"}
+2025-12-13 13:02:20 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Melvor Idle","ReleaseYear":null,"GameId":"83261ab563024628891e91e4f76d10d7"}
+2025-12-13 13:02:21 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Art of Rally","ReleaseYear":null,"GameId":"d4f57eca46a148a889b1b25b1ec99c81"}
+2025-12-13 13:02:21 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ghostwire: Tokyo","ReleaseYear":null,"GameId":"e5d12f6d14514964a97cb98002f0eeea"}
+2025-12-13 13:02:21 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Outer Worlds: Spacer's Choice Edition","ReleaseYear":null,"GameId":"63e317df8f1b4d1d9519547f82471fdf"}
+2025-12-13 13:02:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Human Resource Machine","ReleaseYear":null,"GameId":"3e58c89f762b4686a936770223b5a6e9"}
+2025-12-13 13:02:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Cursed to Golf","ReleaseYear":null,"GameId":"a323e5521a98467dbbd24aa9bb3ee9a4"}
+2025-12-13 13:02:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Cat Quest","ReleaseYear":null,"GameId":"370dbdf8c5e44dc09eac477fd43e8aee"}
+2025-12-13 13:02:22 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Snakebird Complete","ReleaseYear":null,"GameId":"8ecb2895d94f4c64a743c1c4f056743f"}
+2025-12-13 13:02:23 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Saints Row","ReleaseYear":null,"GameId":"e9b00dcbdbed48278bebb3cfeb08a454"}
+2025-12-13 13:02:23 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ghostrunner","ReleaseYear":null,"GameId":"b9e519677b414d768fda648c4c8b5123"}
+2025-12-13 13:02:23 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Escape Academy","ReleaseYear":null,"GameId":"9da72b3af32d4818b502369a4aac5aac"}
+2025-12-13 13:02:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"20 Minutes Till Dawn","ReleaseYear":null,"GameId":"e35e2b0c2411423fb6cd97c1dda51e07"}
+2025-12-13 13:02:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Marvel's Guardians of the Galaxy","ReleaseYear":null,"GameId":"fb40e48d8e454558a2e02ad7f9a991ff"}
+2025-12-13 13:02:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sail Forth","ReleaseYear":null,"GameId":"c819b6b40a034231ad64b8406f75814e"}
+2025-12-13 13:02:24 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"LOVE","ReleaseYear":null,"GameId":"e479b52bb37240af86e51f51d08f2f65"}
+2025-12-13 13:02:25 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Infinifactory","ReleaseYear":null,"GameId":"e69075bc6dd84fa09b47af91b3ce6723"}
+2025-12-13 13:02:25 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Doors - Paradox","ReleaseYear":null,"GameId":"b8dee54bce824477bc0b7cb298f9f9a9"}
+2025-12-13 13:02:25 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Doki Doki Literature Club Plus!","ReleaseYear":null,"GameId":"76cd108ce4354545bd825e181262dbad"}
+2025-12-13 13:02:26 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Lost Castle","ReleaseYear":null,"GameId":"186b5f89167f48fd94a9538ebfe214c6"}
+2025-12-13 13:02:26 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dakar Desert Rally","ReleaseYear":null,"GameId":"aca45f8a6b124590af039f97e148bd89"}
+2025-12-13 13:02:26 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Super Meat Boy Forever","ReleaseYear":null,"GameId":"9ab78d8a6fe84c3f82b31215390f3c51"}
+2025-12-13 13:02:26 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Aerial_Knight's Never Yield","ReleaseYear":null,"GameId":"599106e55816420d911b2f4448726cd6"}
+2025-12-13 13:02:27 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Astro Duel 2","ReleaseYear":null,"GameId":"bc38eac0277d41ec955690e25779cb53"}
+2025-12-13 13:02:27 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Deus Ex - Mankind Divided","ReleaseYear":null,"GameId":"6e41bd515f5e4c93bc7888b582e88865"}
+2025-12-13 13:02:27 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Call of the Wild: The Angler™","ReleaseYear":null,"GameId":"e5cfeb2ef72e4cae8a237317fed902ee"}
+2025-12-13 13:02:28 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Invincible Presents: Atom Eve","ReleaseYear":null,"GameId":"d8abd7984d034e21acafbce5ba0cca9b"}
+2025-12-13 13:02:28 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Islets","ReleaseYear":null,"GameId":"4862aa73b8b048c782958b8f22118d28"}
+2025-12-13 13:02:28 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Thief","ReleaseYear":null,"GameId":"23e4018b5fea4fa0bc1337da2b286154"}
+2025-12-13 13:02:29 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Big Con","ReleaseYear":null,"GameId":"678a066ee1ae4ef4872eccea24833726"}
+2025-12-13 13:02:29 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Town of Salem 2","ReleaseYear":null,"GameId":"f4c04d050f8c459ab1261ecbeeb5720a"}
+2025-12-13 13:02:29 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"INDUSTRIA","ReleaseYear":null,"GameId":"4b3266171a6c44f6962c1a0258258ad4"}
+2025-12-13 13:02:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"LISA: The Definitive Edition","ReleaseYear":null,"GameId":"944b5b5d646d46bc92bc33edfe983d26"}
+2025-12-13 13:02:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Orcs Must Die! 3","ReleaseYear":null,"GameId":"144edd0ee90645cb9c31ae6d97fcfcaf"}
+2025-12-13 13:02:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Cat Quest II","ReleaseYear":null,"GameId":"2a8398bbcb524c379ab21e31f0be5aeb"}
+2025-12-13 13:02:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Circus Electrique","ReleaseYear":null,"GameId":"c9b55213beab4dce973680780877ce99"}
+2025-12-13 13:02:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Firestone Free Offer","ReleaseYear":null,"GameId":"fcd4f83428f04515bce43573d22f392a"}
+2025-12-13 13:02:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dragon Age: Inquisition – Game of the Year Edition","ReleaseYear":null,"GameId":"175e781d820144ce966f1c1942b64b57"}
+2025-12-13 13:02:31 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Farming Simulator 22","ReleaseYear":null,"GameId":"a962500418604c7aa653b563beffdb50"}
+2025-12-13 13:02:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Chivalry 2","ReleaseYear":null,"GameId":"7b1bb546bd6547a4a7c2c4db55ca6c74"}
+2025-12-13 13:02:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Marvel's Midnight Suns","ReleaseYear":null,"GameId":"4ae43da8b7c74066be91f9bf3049f3f9"}
+2025-12-13 13:02:32 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Redout 2","ReleaseYear":null,"GameId":"b77095c5a9224fbe8a7222db84675873"}
+2025-12-13 13:02:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Freshly Frosted","ReleaseYear":null,"GameId":"eba5b90a4eda4234a26259bf2ea8b07a"}
+2025-12-13 13:02:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rumble Club - Free Game of the Week Bonus","ReleaseYear":null,"GameId":"fab45428480549c1bff5c1fedfc0a648"}
+2025-12-13 13:02:33 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sunless Skies: Sovereign Edition","ReleaseYear":null,"GameId":"d64e188ad8034ffcacd038c4713f5c0a"}
+2025-12-13 13:02:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Falconeer: Standard Edition","ReleaseYear":null,"GameId":"574121fb5ef54dc0b794e2d0e1d5695e"}
+2025-12-13 13:02:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Floppy Knights","ReleaseYear":null,"GameId":"2e84cea730144ac79c3b7f34a2e20d3f"}
+2025-12-13 13:02:34 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Arcade Paradise","ReleaseYear":null,"GameId":"f7ce9c6bfed74819894366568193d4f8"}
+2025-12-13 13:02:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Maid of Sker","ReleaseYear":null,"GameId":"3795a845a05d4b3baacb8126635ffd74"}
+2025-12-13 13:02:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Exclusive Outfits Pack","ReleaseYear":null,"GameId":"c91fd057f96b4e49a7b3af045e9fe79e"}
+2025-12-13 13:02:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"LumbearJack","ReleaseYear":null,"GameId":"ed744042986f41f791d295459d75725f"}
+2025-12-13 13:02:35 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"RAWMEN: Food Fighter Arena 🍜","ReleaseYear":null,"GameId":"e7e111c658584357a25ff993fca52a3c"}
+2025-12-13 13:02:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"CYGNI - All Guns Blazing","ReleaseYear":null,"GameId":"ce86ed5a3c0d48eaa5326dda50105a9b"}
+2025-12-13 13:02:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Apex Legends™: Conduit Free Unlock Bundle","ReleaseYear":null,"GameId":"7bd8795c4dae49b29285c6279589cc72"}
+2025-12-13 13:02:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Death's Gambit - Afterlife","ReleaseYear":null,"GameId":"15ffd983174241ae8a00033f5f23f060"}
+2025-12-13 13:02:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Callisto Protocol","ReleaseYear":null,"GameId":"b8833393baf843d6abc4f5eb38487d33"}
+2025-12-13 13:02:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Gigantic: Rampage Edition","ReleaseYear":null,"GameId":"5a387d243a05401b926575736262a929"}
+2025-12-13 13:02:37 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Wild Card Football","ReleaseYear":null,"GameId":"0f05927e8b8d440dba62da9221638aa3"}
+2025-12-13 13:02:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fallout® Classic Collection","ReleaseYear":null,"GameId":"b2df9bd956ad46b4beabff90f69bd3c9"}
+2025-12-13 13:02:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Football Manager 2024","ReleaseYear":null,"GameId":"d0ec3758eb4b4224a2037cd438d51cc1"}
+2025-12-13 13:02:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sniper Ghost Warrior Contracts","ReleaseYear":null,"GameId":"20f88d53af6e4e59876ed82749db4ee5"}
+2025-12-13 13:02:38 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"SUPER CRAZY RHYTHM CASTLE","ReleaseYear":null,"GameId":"c1480c18d56f476c96b36037f2a81f51"}
+2025-12-13 13:02:39 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rugrats: Adventures in Gameland","ReleaseYear":null,"GameId":"03fa35d7ade24540b5902b662570a270"}
+2025-12-13 13:02:39 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"TOEM","ReleaseYear":null,"GameId":"d4b6a615ea794a6295d34608c5426d4f"}
+2025-12-13 13:02:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Last Stand: Aftermath","ReleaseYear":null,"GameId":"8f58067d08bb454ab0eb8907345b8c76"}
+2025-12-13 13:02:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Spirit and the Mouse","ReleaseYear":null,"GameId":"b9763cf171e446d5864cfa0b8fe8b9bb"}
+2025-12-13 13:02:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Bear and Breakfast","ReleaseYear":null,"GameId":"5a05b93354d74d2687b3b002d4bfc1a3"}
+2025-12-13 13:02:40 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Outliver: Tribulation","ReleaseYear":null,"GameId":"a4d3ae371e674ce3b2892d63c8bb4041"}
+2025-12-13 13:02:41 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Empyrion - Galactic Survival","ReleaseYear":null,"GameId":"5d79a38c99e9432f8dec6288a17595ab"}
+2025-12-13 13:02:41 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kardboard Kings","ReleaseYear":null,"GameId":"747d522e0451439590fa6647ae67f58a"}
+2025-12-13 13:02:41 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Witch It","ReleaseYear":null,"GameId":"d2db7ad960a84551825707261c8437c4"}
+2025-12-13 13:02:42 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Deceive Inc.","ReleaseYear":null,"GameId":"327e2f6dbe2b4859b3e1ba4f69dff5c2"}
+2025-12-13 13:02:42 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Castlevania Anniversary Collection","ReleaseYear":null,"GameId":"8f80897c0b6e4e678fed08da169d44be"}
+2025-12-13 13:02:42 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Beholder","ReleaseYear":null,"GameId":"5ef8a7dc06384428a3effed5cefd0ee1"}
+2025-12-13 13:02:42 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Brotato","ReleaseYear":null,"GameId":"3fe7eaeca2fa474187fc338a5324ae11"}
+2025-12-13 13:02:43 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"LEGO® Star Wars™: The Skywalker Saga","ReleaseYear":null,"GameId":"283939b792814f5e87d8bdd5a8375fac"}
+2025-12-13 13:02:43 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Bus Simulator 21 Next Stop","ReleaseYear":null,"GameId":"10adac482d1647e1afc237b66dc45066"}
+2025-12-13 13:02:43 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Lord of The Rings Return to Moria","ReleaseYear":null,"GameId":"2ae760629a384d5199cbefc612db7ac8"}
+2025-12-13 13:02:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Vampire Survivors","ReleaseYear":null,"GameId":"6091b3f3943e4a7aa25fcac13de15cd1"}
+2025-12-13 13:02:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Astrea Six Sided Oracles","ReleaseYear":null,"GameId":"4515173972ae4444a2582bc690c150bd"}
+2025-12-13 13:02:44 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"TerraTech","ReleaseYear":null,"GameId":"6e13abedd200415e9622043791acf055"}
+2025-12-13 13:02:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Wizard of Legend","ReleaseYear":null,"GameId":"b1d735eb93de4c6da325aa9a6db9a5a5"}
+2025-12-13 13:02:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dark and Darker - Legendary Status","ReleaseYear":null,"GameId":"dc77f1f941e14360b61093b761cb34ba"}
+2025-12-13 13:02:45 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"DREDGE","ReleaseYear":null,"GameId":"068f920aa2e3477db96c60a00aebf8a3"}
+2025-12-13 13:02:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ghostrunner 2","ReleaseYear":null,"GameId":"5fe2542e232b4014a5f2f3619598bd19"}
+2025-12-13 13:02:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"HOT WHEELS UNLEASHED™","ReleaseYear":null,"GameId":"82093add2c92433abf5e4975c4e259c4"}
+2025-12-13 13:02:46 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kill Knight","ReleaseYear":null,"GameId":"7ec1d897ec2c4228b5b2bb63cc447456"}
+2025-12-13 13:02:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"[REDACTED]","ReleaseYear":null,"GameId":"38d7f3e2a3854e9fa4c31456b87c899f"}
+2025-12-13 13:02:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sifu","ReleaseYear":null,"GameId":"535f2bc5c4fb43798c8e65fefce6f990"}
+2025-12-13 13:02:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hell Let Loose","ReleaseYear":null,"GameId":"0fac3450d5b24587a1d25b5c94676f99"}
+2025-12-13 13:02:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Turmoil","ReleaseYear":null,"GameId":"92acefe8e4e845169ea160bb92e3e4e0"}
+2025-12-13 13:02:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Behind the Frame: The Finest Scenery","ReleaseYear":null,"GameId":"ade0eed6f17a412b97d29a992b35754c"}
+2025-12-13 13:02:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Undying","ReleaseYear":null,"GameId":"c9d2e42d8b404add9390c0182093abbd"}
+2025-12-13 13:02:49 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"HUMANKIND™ Standard Edition","ReleaseYear":null,"GameId":"e79119839e374d468236b7acc979ff95"}
+2025-12-13 13:02:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"F1® Manager 2024","ReleaseYear":null,"GameId":"80480c4dce974e03a009beeffc625b21"}
+2025-12-13 13:02:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Garden Story","ReleaseYear":null,"GameId":"794bbf45d5fe451d9f805d99d30bbbd0"}
+2025-12-13 13:02:50 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Jurassic World Evolution 2","ReleaseYear":null,"GameId":"47dfc9b69a9f44a5a47fa3d182f4d599"}
+2025-12-13 13:02:51 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Neko Ghost, Jump!","ReleaseYear":null,"GameId":"e494e053818b4790b5388836b3937e18"}
+2025-12-13 13:02:51 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"River City Girls","ReleaseYear":null,"GameId":"ceea8c3f2f0b48dfbd5c658c3cb6d1b0"}
+2025-12-13 13:02:51 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Arcadegeddon","ReleaseYear":null,"GameId":"33b2cb59eb304f0d978457bffaac8f0c"}
+2025-12-13 13:02:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Botanicula","ReleaseYear":null,"GameId":"03c59230eea04398900d900770899a9e"}
+2025-12-13 13:02:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"CHUCHEL","ReleaseYear":null,"GameId":"70ec5e706b404d378762042f029b46ef"}
+2025-12-13 13:02:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Albion Online Free Welcome Gift","ReleaseYear":null,"GameId":"3a91372e417f46eca3f5dffe4c33d961"}
+2025-12-13 13:02:52 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Super Space Club","ReleaseYear":null,"GameId":"f2946e78792f48a69c7c030f03e7fb42"}
+2025-12-13 13:02:53 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Touch Type Tale","ReleaseYear":null,"GameId":"ac63bc06c6d44a5d8c423675bd7208d9"}
+2025-12-13 13:02:53 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Deadtime Defenders","ReleaseYear":null,"GameId":"cff516f0708444ee8ee06a96e6986b34"}
+2025-12-13 13:02:53 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Happy Game","ReleaseYear":null,"GameId":"c0c9f6ca5ea14a608094219f96789ae0"}
+2025-12-13 13:02:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Dead Island 2","ReleaseYear":null,"GameId":"bc07d445f178417da137028c19573b4e"}
+2025-12-13 13:02:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Gigapocalypse","ReleaseYear":null,"GameId":"9799fecaebb9459989bc95af8844fba6"}
+2025-12-13 13:02:54 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Deliver At All Costs","ReleaseYear":null,"GameId":"94c637ba57d748d28235e8fafe3860c4"}
+2025-12-13 13:02:55 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Tiny Tina's Wonderlands","ReleaseYear":null,"GameId":"ce28797ae01f4c8ebb3e8692a5aa1395"}
+2025-12-13 13:02:55 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ogu and the Secret Forest","ReleaseYear":null,"GameId":"550d30ebf2f343609a2b01c98293b264"}
+2025-12-13 13:02:55 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"DEATHLOOP","ReleaseYear":null,"GameId":"172406399087483db3a8b84e7051107b"}
+2025-12-13 13:02:56 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Two Point Hospital","ReleaseYear":null,"GameId":"1078bc6439ab4b92b8786695e5f7f37d"}
+2025-12-13 13:02:56 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Operator","ReleaseYear":null,"GameId":"e462627d3a864052a6b5fe2c0eaf0ba8"}
+2025-12-13 13:02:56 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Backpack Hero","ReleaseYear":null,"GameId":"d95cc849f45e406e88c1c371c7af309f"}
+2025-12-13 13:02:57 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Sky Racket","ReleaseYear":null,"GameId":"4d83f5e4aa8d42bdb2bdda9081a13ef3"}
+2025-12-13 13:02:57 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Figment 2: Creed Valley","ReleaseYear":null,"GameId":"1fb78130d9804fc6801fb2d6ab642721"}
+2025-12-13 13:02:57 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Legion TD 2","ReleaseYear":null,"GameId":"71f1c64e7e41477ca09228c1253c9ce7"}
+2025-12-13 13:02:57 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Pilgrims","ReleaseYear":null,"GameId":"605ced56db424539ba3ac26f904a83f2"}
+2025-12-13 13:02:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Keylocker | Turn Based Cyberpunk Action","ReleaseYear":null,"GameId":"3de25d0eaa7f4b9dbb3fa3f08fd55746"}
+2025-12-13 13:02:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"112 Operator","ReleaseYear":null,"GameId":"913af1ed18e24007ab5fd2bc2092c175"}
+2025-12-13 13:02:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Road Redemption","ReleaseYear":null,"GameId":"91a0b419d5b741c39cc35ce3a35138c0"}
+2025-12-13 13:02:59 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Hidden Folks","ReleaseYear":null,"GameId":"8ea3500dc38e4f429702bf889c172d3d"}
+2025-12-13 13:02:59 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Strange Horticulture","ReleaseYear":null,"GameId":"0d9a533f0e684cc18620a8f408e8e72c"}
+2025-12-13 13:03:00 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Kamaeru","ReleaseYear":null,"GameId":"4cbb6c3704d240f19c3dd5f5cb2b0cb4"}
+2025-12-13 13:03:00 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Machinarium","ReleaseYear":null,"GameId":"54003c89a604467abe315658a4a853b3"}
+2025-12-13 13:03:00 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Make Way","ReleaseYear":null,"GameId":"5e416c7c1444483e828899b0c30ce2cd"}
+2025-12-13 13:03:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Monument Valley","ReleaseYear":null,"GameId":"f967cff9761c4198b4e972cfd71e40d7"}
+2025-12-13 13:03:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Battle of Polytopia","ReleaseYear":null,"GameId":"006ff26e1ff84141a1fa1b48884ac1c7"}
+2025-12-13 13:03:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Monument Valley 2","ReleaseYear":null,"GameId":"d09a24a332c94549b2144f962231c394"}
+2025-12-13 13:03:01 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Samorost 2","ReleaseYear":null,"GameId":"15176675e3bd4fcc98949566caa754e4"}
+2025-12-13 13:03:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Project Winter","ReleaseYear":null,"GameId":"185405ac2556457883827885b44e0e69"}
+2025-12-13 13:03:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Eastern Exorcist","ReleaseYear":null,"GameId":"aa2e42dde7b64a3183855ac1803a829c"}
+2025-12-13 13:03:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Jorel’s Brother and The Most Important Game of the Galaxy","ReleaseYear":null,"GameId":"70d56e56409e4a0384282d9bea1b4e20"}
+2025-12-13 13:03:03 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Nightingale","ReleaseYear":null,"GameId":"048561ae0c75490593c4b5ee79c20e38"}
+2025-12-13 13:03:03 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Gravity Circuit","ReleaseYear":null,"GameId":"ca6648eabced4312bd29c543307ecd29"}
+2025-12-13 13:03:03 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Amnesia: The Bunker","ReleaseYear":null,"GameId":"7ae41233a8ad4fd4a2d5a415abd77d24"}
+2025-12-13 13:03:04 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Samorost 3","ReleaseYear":null,"GameId":"5e8e1821206d4b5994e09cd153f77f96"}
+2025-12-13 13:03:04 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fear the Spotlight","ReleaseYear":null,"GameId":"1f1bb7fd09a94d8f9d9219210ffacf95"}
+2025-12-13 13:03:04 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Bendy and the Ink Machine","ReleaseYear":null,"GameId":"fb722544c8314c45bf9a42c66b2a5a73"}
+2025-12-13 13:03:05 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Five Nights at Freddy's: Into the Pit","ReleaseYear":null,"GameId":"4f870cf44ac24a64a44225045d4aaa96"}
+2025-12-13 13:03:05 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Felix The Reaper","ReleaseYear":null,"GameId":"64dcb34ab8794d67a59bbb4bc805d4c6"}
+2025-12-13 13:03:05 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Scourgebringer","ReleaseYear":null,"GameId":"786eacc66b8b4075bf7c8684930127d3"}
+2025-12-13 13:03:06 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Songs of Silence","ReleaseYear":null,"GameId":"25aa14df3f40465c8fb997de5d5cf8fe"}
+2025-12-13 13:03:06 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Zero Hour","ReleaseYear":null,"GameId":"639547f643c4440db499878634c22dd1"}
+2025-12-13 13:03:06 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Zoeti","ReleaseYear":null,"GameId":"257195bad91744b1803c616135332bdb"}
+2025-12-13 13:03:06 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Godzilla Voxel Wars","ReleaseYear":null,"GameId":"88a37c5ab8db412380708a2b9933d626"}
+2025-12-13 13:03:07 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Universe for Sale","ReleaseYear":null,"GameId":"b2b995e52f7a413099e2b1421b9fb2d8"}
+2025-12-13 13:03:07 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Jackbox Party Pack 4","ReleaseYear":null,"GameId":"da763a33956745888bea060de7ecf059"}
+2025-12-13 13:03:07 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Darkside Detective","ReleaseYear":null,"GameId":"537f9c03801d45c293b2a75eecd7170c"}
+2025-12-13 13:03:08 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-13 13:03:24 - INFO: Created game file for Aliens: Dark Descent at c:\Output\playnite\files\decksettings\09e45d16-803b-4dd5-994b-11a36540356f.json
+2025-12-13 13:03:24 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1150440&include_external=true
+2025-12-13 13:03:24 - https://api.gg.deals/v1/prices/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1150440
+2025-12-13 13:03:30 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Aliens: Dark Descent","ReleaseYear":2023,"GameId":"1150440"}
