@@ -1,5 +1,5 @@
 ﻿=== PERFORMANCE TIMING REPORT ===
-Process All Games: 7 ms
-Steam Friends & Playtime: 2.149 ms
+Process All Games: 5 ms
+Steam Friends & Playtime: 1.976 ms
 
-=== ERROR OCCURRED AT: 2.581 ms ===
+=== ERROR OCCURRED AT: 2.288 ms ===
