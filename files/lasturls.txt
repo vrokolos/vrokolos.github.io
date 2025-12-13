@@ -26040,3 +26040,42 @@ Path '', line 1, position 1. | StackTrace:    at Newtonsoft.Json.Serialization.J
 2025-12-13 17:25:23 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-13 17:25:23 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-13 17:25:34 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-13 17:26:03 - TIMING: Total execution completed in 41.377 ms
+2025-12-13 17:31:32 - https://id.twitch.tv/oauth2/token?client_id=437y9fwocc0m6c966zkml5qq4gv6cy&client_secret=kwdxaf6idhiraz5cuaq01qe8ez4j4i&grant_type=client_credentials
+2025-12-13 17:31:33 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:31:33 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:31:33 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:31:34 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:31:39 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Fez","ReleaseYear":2019,"GameId":"4f0cd8b701924f4b98be9b3948676a07"}
+2025-12-13 17:31:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Everything","ReleaseYear":2019,"GameId":"a6178a59ce744e089c1a8e44010c3aff"}
+2025-12-13 17:31:47 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Bridge","ReleaseYear":2020,"GameId":"e931215988e648418d1df5b4bf934c3c"}
+2025-12-13 17:31:48 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Watch Dogs","ReleaseYear":2020,"GameId":"0ef48c2fbefa4e75a5753c0a4ae919c9"}
+2025-12-13 17:31:51 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"The Long Dark","ReleaseYear":2020,"GameId":"708f463123fc417895dafae16405e0eb"}
+2025-12-13 17:31:58 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Rage 2","ReleaseYear":2021,"GameId":"3308d6da86d94969a5087d64e49b7b23"}
+2025-12-13 17:32:54 - https://id.twitch.tv/oauth2/token?client_id=437y9fwocc0m6c966zkml5qq4gv6cy&client_secret=kwdxaf6idhiraz5cuaq01qe8ez4j4i&grant_type=client_credentials
+2025-12-13 17:32:55 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:32:55 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:32:56 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:32:56 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:33:05 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-13 17:33:25 - TIMING: Total execution completed in 30.886 ms
+2025-12-13 17:36:47 - https://id.twitch.tv/oauth2/token?client_id=437y9fwocc0m6c966zkml5qq4gv6cy&client_secret=kwdxaf6idhiraz5cuaq01qe8ez4j4i&grant_type=client_credentials
+2025-12-13 17:36:47 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:36:48 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:36:48 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:36:49 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:36:59 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-13 17:37:19 - TIMING: Total execution completed in 31.759 ms
+2025-12-13 17:39:33 - https://id.twitch.tv/oauth2/token?client_id=437y9fwocc0m6c966zkml5qq4gv6cy&client_secret=kwdxaf6idhiraz5cuaq01qe8ez4j4i&grant_type=client_credentials
+2025-12-13 17:39:34 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:39:35 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:39:35 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:39:35 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:39:44 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-13 17:40:06 - TIMING: Total execution completed in 32.938 ms
+2025-12-13 17:41:01 - https://id.twitch.tv/oauth2/token?client_id=437y9fwocc0m6c966zkml5qq4gv6cy&client_secret=kwdxaf6idhiraz5cuaq01qe8ez4j4i&grant_type=client_credentials
+2025-12-13 17:41:01 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:41:02 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:41:03 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:41:03 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 17:41:12 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
