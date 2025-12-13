@@ -1,11 +1,10 @@
 ﻿=== PERFORMANCE TIMING REPORT ===
-Process All Games: 73 ms
-Steam Friends & Playtime: 2.074 ms
-Xbox Game Pass Fetch: 5.336 ms
-Parallel API Processing (9 tasks): 22.970 ms
-Export Game Data: 852 ms
-Save Media Cache: 25 ms
-Git Operations: 7.969 ms
-Save Errors: 0 ms
+Process All Games: 66 ms
+Steam Friends & Playtime: 2.292 ms
+Parallel API Processing (9 tasks): 24.518 ms
+Export Game Data: 971 ms
+Save Media Cache: 27 ms
+Git Operations: 7.396 ms
+Save Errors: 1 ms
 
-=== TOTAL EXECUTION TIME: 41.410 ms (41,4 seconds) ===
+=== TOTAL EXECUTION TIME: 591.936 ms (591,9 seconds) ===
