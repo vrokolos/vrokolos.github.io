@@ -16886,3 +16886,1536 @@ Path '', line 1, position 1. | StackTrace:    at Newtonsoft.Json.Serialization.J
 2025-12-13 09:31:58 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-13 09:31:58 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-13 09:31:59 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-13 09:32:27 - TIMING: Total execution completed in 30.082 ms
+2025-12-13 09:46:20 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 09:46:21 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 09:46:21 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 09:46:21 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 09:46:22 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-13 09:46:44 - TIMING: Total execution completed in 24.436 ms
+2025-12-13 09:47:43 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 09:47:44 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 09:47:44 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 09:47:44 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 09:47:45 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-13 09:48:07 - TIMING: Total execution completed in 24.978 ms
+2025-12-13 09:55:46 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 09:55:47 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 09:55:47 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 09:55:48 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 09:55:48 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-13 09:56:00 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 09:56:09 - ERROR in main processing: Response status code does not indicate success: 400 (Bad Request). | StackTrace:    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at DeckSettings.SteamMediaFetcher.GetOrCacheAsync(String url, String cachePath) in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\SteamMediaFetcher.cs:line 135
+   at DeckSettings.SteamMediaFetcher.GetMetadata(GameData game, Action`1 logger, Object details) in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\SteamMediaFetcher.cs:line 658
+   at DeckSettings.SteamMediaFetcher.FetchMediaFieldsForGames(List`1 games, Action`1 logger, List`1 NonPlayniteLibraries) in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\SteamMediaFetcher.cs:line 341
+   at DeckSettings.GameProcessor.LogTaskCompletion(String taskName, Task task) in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 612
+   at DeckSettings.GameProcessor.GoAsync() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 221
+2025-12-13 09:58:44 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 09:58:45 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 09:58:45 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 09:58:45 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 09:58:46 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 09:58:46 - ERROR in main processing: Response status code does not indicate success: 400 (Bad Request). | StackTrace:    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at DeckSettings.SteamMediaFetcher.GetOrCacheAsync(String url, String cachePath) in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\SteamMediaFetcher.cs:line 135
+   at DeckSettings.SteamMediaFetcher.GetMetadata(GameData game, Action`1 logger, Object details) in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\SteamMediaFetcher.cs:line 654
+   at DeckSettings.GameProcessor.GoAsync() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 184
+2025-12-13 10:01:25 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 10:01:26 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 10:01:26 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 10:01:27 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 10:01:49 - https://store.steampowered.com/app/1637320/
+2025-12-13 10:02:25 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:02:26 - ERROR in main processing: Response status code does not indicate success: 400 (Bad Request). | StackTrace:    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at DeckSettings.SteamMediaFetcher.GetOrCacheAsync(String url, String cachePath) in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\SteamMediaFetcher.cs:line 135
+   at DeckSettings.SteamMediaFetcher.GetMetadata(GameData game, Action`1 logger, Object details) in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\SteamMediaFetcher.cs:line 679
+   at DeckSettings.GameProcessor.GoAsync() in C:\Users\iosif\Dropbox\c_playnite\PWeb\DeckSettings\GameProcessor.cs:line 184
+2025-12-13 10:04:14 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 10:04:15 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 10:04:15 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 10:04:15 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-13 10:04:16 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:04:58 - https://store.steampowered.com/api/appdetails?appids=3606480&cc=us&l=en
+2025-12-13 10:04:58 - https://store.steampowered.com/app/3606480/
+2025-12-13 10:04:59 - https://store.steampowered.com/app/3606480/ (with cookie)
+2025-12-13 10:05:52 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:06:44 - https://store.steampowered.com/api/appdetails?appids=2627260&cc=us&l=en
+2025-12-13 10:06:45 - https://store.steampowered.com/app/2627260/
+2025-12-13 10:07:15 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:07:15 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:07:15 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:07:16 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:07:33 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:07:33 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:07:34 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:08:28 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:08:31 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:08:56 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:08:56 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:09:07 - https://store.steampowered.com/api/appdetails?appids=2751000&cc=us&l=en
+2025-12-13 10:09:07 - https://store.steampowered.com/app/2751000/
+2025-12-13 10:09:15 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:09:15 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:09:16 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:09:16 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:09:16 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:09:55 - https://store.steampowered.com/api/appdetails?appids=647570&cc=us&l=en
+2025-12-13 10:09:55 - https://store.steampowered.com/app/647570/
+2025-12-13 10:10:13 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:10:18 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:11:18 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:11:36 - https://store.steampowered.com/api/appdetails?appids=2104890&cc=us&l=en
+2025-12-13 10:11:36 - https://store.steampowered.com/app/2104890/
+2025-12-13 10:12:30 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:12:31 - https://store.steampowered.com/api/appdetails?appids=2292800&cc=us&l=en
+2025-12-13 10:12:31 - https://store.steampowered.com/app/2292800/
+2025-12-13 10:12:51 - https://store.steampowered.com/api/appdetails?appids=517790&cc=us&l=en
+2025-12-13 10:12:52 - https://store.steampowered.com/app/517790/
+2025-12-13 10:12:57 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:12:58 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:12:58 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:12:58 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:12:58 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:12:59 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:13:11 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:14:13 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:14:13 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:14:14 - https://store.steampowered.com/api/appdetails?appids=495700&cc=us&l=en
+2025-12-13 10:14:14 - https://store.steampowered.com/app/495700/
+2025-12-13 10:14:20 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:14:20 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:14:21 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:14:21 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:14:53 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:15:00 - https://store.steampowered.com/app/979690/
+2025-12-13 10:15:16 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:15:16 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:15:17 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:15:17 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:15:17 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:15:32 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:15:32 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:15:32 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:16:09 - https://store.steampowered.com/api/appdetails?appids=2669320&cc=us&l=en
+2025-12-13 10:16:09 - https://store.steampowered.com/app/2669320/
+2025-12-13 10:17:52 - https://store.steampowered.com/api/appdetails?appids=2316580&cc=us&l=en
+2025-12-13 10:17:52 - https://store.steampowered.com/app/2316580/
+2025-12-13 10:17:59 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:17:59 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:00 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:00 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:00 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:00 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:01 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:01 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:01 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:01 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:02 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:02 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:02 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:03 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:03 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:03 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:03 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:04 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:04 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:04 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:04 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:05 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:05 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:05 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:06 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:06 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:06 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:06 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:07 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:07 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:07 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:07 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:08 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:08 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:08 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:09 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:09 - https://store.steampowered.com/api/appdetails?appids=560350&cc=us&l=en
+2025-12-13 10:18:09 - https://store.steampowered.com/app/560350/
+2025-12-13 10:18:18 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:19 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:19 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:19 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:20 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:20 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:20 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:20 - https://store.steampowered.com/api/appdetails?appids=10110&cc=us&l=en
+2025-12-13 10:18:21 - https://store.steampowered.com/app/10110/
+2025-12-13 10:18:27 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:27 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:28 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:28 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:28 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:28 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:29 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:29 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:29 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:29 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:30 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:30 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:30 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:31 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:18:31 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:19:03 - https://store.steampowered.com/app/552500/
+2025-12-13 10:20:26 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:20:32 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:20:48 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:20:48 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:20:54 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:20:54 - https://store.steampowered.com/app/2111190/
+2025-12-13 10:21:29 - https://store.steampowered.com/api/appdetails?appids=2488620&cc=us&l=en
+2025-12-13 10:21:29 - https://store.steampowered.com/app/2488620/
+2025-12-13 10:22:01 - https://store.steampowered.com/api/appdetails?appids=2582560&cc=us&l=en
+2025-12-13 10:22:01 - https://store.steampowered.com/app/2582560/
+2025-12-13 10:22:53 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:22:53 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:22:53 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:23:23 - https://store.steampowered.com/api/appdetails?appids=1849250&cc=us&l=en
+2025-12-13 10:23:24 - https://store.steampowered.com/app/1849250/
+2025-12-13 10:23:35 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:23:49 - https://store.steampowered.com/api/appdetails?appids=1643320&cc=us&l=en
+2025-12-13 10:23:49 - https://store.steampowered.com/app/1643320/
+2025-12-13 10:23:49 - https://store.steampowered.com/app/1643320/ (with cookie)
+2025-12-13 10:24:04 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:24:10 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:24:10 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:24:10 - https://store.steampowered.com/api/appdetails?appids=2933620&cc=us&l=en
+2025-12-13 10:24:11 - https://store.steampowered.com/app/2933620/
+2025-12-13 10:24:11 - https://store.steampowered.com/app/2933620/ (with cookie)
+2025-12-13 10:24:30 - https://store.steampowered.com/api/appdetails?appids=1962663&cc=us&l=en
+2025-12-13 10:24:30 - https://store.steampowered.com/app/1962663/
+2025-12-13 10:24:31 - https://store.steampowered.com/app/1962663/ (with cookie)
+2025-12-13 10:24:58 - https://store.steampowered.com/api/appdetails?appids=1282760&cc=us&l=en
+2025-12-13 10:24:59 - https://store.steampowered.com/app/1282760/
+2025-12-13 10:25:34 - https://store.steampowered.com/api/appdetails?appids=2967990&cc=us&l=en
+2025-12-13 10:25:35 - https://store.steampowered.com/app/2967990/
+2025-12-13 10:26:09 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:26:09 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:26:10 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:26:46 - https://store.steampowered.com/api/appdetails?appids=2195250&cc=us&l=en
+2025-12-13 10:26:46 - https://store.steampowered.com/app/2195250/
+2025-12-13 10:27:08 - https://store.steampowered.com/api/appdetails?appids=2009100&cc=us&l=en
+2025-12-13 10:27:08 - https://store.steampowered.com/app/2009100/
+2025-12-13 10:27:22 - https://store.steampowered.com/api/appdetails?appids=1229020&cc=us&l=en
+2025-12-13 10:27:22 - https://store.steampowered.com/app/1229020/
+2025-12-13 10:27:28 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:27:28 - https://store.steampowered.com/api/appdetails?appids=1740720&cc=us&l=en
+2025-12-13 10:27:29 - https://store.steampowered.com/app/1740720/
+2025-12-13 10:28:08 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:28:09 - https://store.steampowered.com/api/appdetails?appids=2616430&cc=us&l=en
+2025-12-13 10:28:09 - https://store.steampowered.com/app/2616430/
+2025-12-13 10:28:10 - https://store.steampowered.com/app/2616430/ (with cookie)
+2025-12-13 10:28:16 - https://store.steampowered.com/api/appdetails?appids=2204130&cc=us&l=en
+2025-12-13 10:28:17 - https://store.steampowered.com/app/2204130/
+2025-12-13 10:28:17 - https://store.steampowered.com/app/2204130/ (with cookie)
+2025-12-13 10:28:23 - https://store.steampowered.com/api/appdetails?appids=2741560&cc=us&l=en
+2025-12-13 10:28:24 - https://store.steampowered.com/app/2741560/
+2025-12-13 10:28:30 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:28:30 - https://store.steampowered.com/api/appdetails?appids=1677350&cc=us&l=en
+2025-12-13 10:28:31 - https://store.steampowered.com/app/1677350/
+2025-12-13 10:29:06 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:29:06 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:29:37 - https://store.steampowered.com/api/appdetails?appids=2140330&cc=us&l=en
+2025-12-13 10:29:37 - https://store.steampowered.com/app/2140330/
+2025-12-13 10:29:58 - https://store.steampowered.com/api/appdetails?appids=2108330&cc=us&l=en
+2025-12-13 10:29:59 - https://store.steampowered.com/app/2108330/
+2025-12-13 10:30:31 - https://store.steampowered.com/api/appdetails?appids=1487210&cc=us&l=en
+2025-12-13 10:30:31 - https://store.steampowered.com/app/1487210/
+2025-12-13 10:31:38 - https://store.steampowered.com/api/appdetails?appids=1931010&cc=us&l=en
+2025-12-13 10:31:38 - https://store.steampowered.com/app/1931010/
+2025-12-13 10:31:45 - https://store.steampowered.com/api/appdetails?appids=1938010&cc=us&l=en
+2025-12-13 10:31:46 - https://store.steampowered.com/app/1938010/
+2025-12-13 10:32:16 - https://store.steampowered.com/app/1693980/
+2025-12-13 10:32:35 - https://store.steampowered.com/api/appdetails?appids=949230&cc=us&l=en
+2025-12-13 10:32:35 - https://store.steampowered.com/app/949230/
+2025-12-13 10:34:30 - https://store.steampowered.com/api/appdetails?appids=1846380&cc=us&l=en
+2025-12-13 10:34:31 - https://store.steampowered.com/app/1846380/
+2025-12-13 10:34:48 - https://store.steampowered.com/api/appdetails?appids=246110&cc=us&l=en
+2025-12-13 10:34:48 - https://store.steampowered.com/app/246110/
+2025-12-13 10:35:13 - https://store.steampowered.com/api/appdetails?appids=2023360&cc=us&l=en
+2025-12-13 10:35:13 - https://store.steampowered.com/app/2023360/
+2025-12-13 10:35:34 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:35:35 - https://store.steampowered.com/api/appdetails?appids=115120&cc=us&l=en
+2025-12-13 10:35:35 - https://store.steampowered.com/app/115120/
+2025-12-13 10:35:53 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:36:01 - https://store.steampowered.com/api/appdetails?appids=2096600&cc=us&l=en
+2025-12-13 10:36:01 - https://store.steampowered.com/app/2096600/
+2025-12-13 10:36:11 - https://store.steampowered.com/api/appdetails?appids=2096610&cc=us&l=en
+2025-12-13 10:36:11 - https://store.steampowered.com/app/2096610/
+2025-12-13 10:36:19 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:36:20 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:36:20 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:36:20 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:36:20 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:36:24 - https://store.steampowered.com/api/appdetails?appids=866800&cc=us&l=en
+2025-12-13 10:36:24 - https://store.steampowered.com/app/866800/
+2025-12-13 10:36:25 - https://store.steampowered.com/app/866800/ (with cookie)
+2025-12-13 10:36:44 - https://store.steampowered.com/api/appdetails?appids=1517290&cc=us&l=en
+2025-12-13 10:36:44 - https://store.steampowered.com/app/1517290/
+2025-12-13 10:37:12 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:37:34 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:37:34 - https://store.steampowered.com/api/appdetails?appids=1307710&cc=us&l=en
+2025-12-13 10:37:34 - https://store.steampowered.com/app/1307710/
+2025-12-13 10:38:29 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:40:00 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:40:44 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:40:53 - https://store.steampowered.com/api/appdetails?appids=1462570&cc=us&l=en
+2025-12-13 10:40:53 - https://store.steampowered.com/app/1462570/
+2025-12-13 10:41:07 - https://store.steampowered.com/api/appdetails?appids=988910&cc=us&l=en
+2025-12-13 10:41:07 - https://store.steampowered.com/app/988910/
+2025-12-13 10:41:14 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:41:14 - https://store.steampowered.com/app/224460/
+2025-12-13 10:41:24 - https://store.steampowered.com/api/appdetails?appids=3540&cc=us&l=en
+2025-12-13 10:41:24 - https://store.steampowered.com/app/3540/
+2025-12-13 10:41:29 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:42:22 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:42:22 - https://store.steampowered.com/api/appdetails?appids=1715130&cc=us&l=en
+2025-12-13 10:42:23 - https://store.steampowered.com/app/1715130/
+2025-12-13 10:43:41 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:43:41 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:43:41 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:43:42 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:43:42 - https://store.steampowered.com/api/appdetails?appids=690790&cc=us&l=en
+2025-12-13 10:43:42 - https://store.steampowered.com/app/690790/
+2025-12-13 10:43:55 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:43:56 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:43:56 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:43:56 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:44:01 - https://store.steampowered.com/api/appdetails?appids=1328660&cc=us&l=en
+2025-12-13 10:44:01 - https://store.steampowered.com/app/1328660/
+2025-12-13 10:44:46 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:45:19 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:45:19 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:45:20 - https://store.steampowered.com/api/appdetails?appids=2616460&cc=us&l=en
+2025-12-13 10:45:20 - https://store.steampowered.com/app/2616460/
+2025-12-13 10:45:21 - https://store.steampowered.com/app/2616460/ (with cookie)
+2025-12-13 10:45:24 - https://store.steampowered.com/api/appdetails?appids=7110&cc=us&l=en
+2025-12-13 10:45:24 - https://store.steampowered.com/app/7110/
+2025-12-13 10:45:31 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:45:31 - https://store.steampowered.com/api/appdetails?appids=1262560&cc=us&l=en
+2025-12-13 10:45:32 - https://store.steampowered.com/app/1262560/
+2025-12-13 10:45:38 - https://store.steampowered.com/api/appdetails?appids=2203860&cc=us&l=en
+2025-12-13 10:45:38 - https://store.steampowered.com/app/2203860/
+2025-12-13 10:45:39 - https://store.steampowered.com/app/2203860/ (with cookie)
+2025-12-13 10:45:46 - https://store.steampowered.com/api/appdetails?appids=2616450&cc=us&l=en
+2025-12-13 10:45:46 - https://store.steampowered.com/app/2616450/
+2025-12-13 10:45:47 - https://store.steampowered.com/app/2616450/ (with cookie)
+2025-12-13 10:46:01 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:46:01 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:46:02 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:46:02 - https://store.steampowered.com/api/appdetails?appids=17390&cc=us&l=en
+2025-12-13 10:46:02 - https://store.steampowered.com/app/17390/
+2025-12-13 10:46:12 - https://store.steampowered.com/api/appdetails?appids=24880&cc=us&l=en
+2025-12-13 10:46:12 - https://store.steampowered.com/app/24880/
+2025-12-13 10:46:23 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:46:37 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:47:07 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:47:19 - https://store.steampowered.com/app/945360/
+2025-12-13 10:48:04 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:48:04 - https://store.steampowered.com/api/appdetails?appids=1064273&cc=us&l=en
+2025-12-13 10:48:04 - https://store.steampowered.com/app/1064273/
+2025-12-13 10:48:12 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:48:15 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:48:16 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:48:16 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:48:16 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:48:17 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:48:17 - https://store.steampowered.com/api/appdetails?appids=1238880&cc=us&l=en
+2025-12-13 10:48:17 - https://store.steampowered.com/app/1238880/
+2025-12-13 10:48:18 - https://store.steampowered.com/app/1238880/ (with cookie)
+2025-12-13 10:48:25 - https://store.steampowered.com/api/appdetails?appids=3300&cc=us&l=en
+2025-12-13 10:48:26 - https://store.steampowered.com/app/3300/
+2025-12-13 10:48:34 - https://store.steampowered.com/api/appdetails?appids=78000&cc=us&l=en
+2025-12-13 10:48:34 - https://store.steampowered.com/app/78000/
+2025-12-13 10:48:40 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:48:41 - https://store.steampowered.com/api/appdetails?appids=1238080&cc=us&l=en
+2025-12-13 10:48:41 - https://store.steampowered.com/app/1238080/
+2025-12-13 10:48:48 - https://store.steampowered.com/app/17300/
+2025-12-13 10:49:07 - https://store.steampowered.com/api/appdetails?appids=1282690&cc=us&l=en
+2025-12-13 10:49:07 - https://store.steampowered.com/app/1282690/
+2025-12-13 10:49:08 - https://store.steampowered.com/app/1282690/ (with cookie)
+2025-12-13 10:49:12 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:49:19 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:49:24 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:49:25 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:49:25 - https://store.steampowered.com/api/appdetails?appids=1225580&cc=us&l=en
+2025-12-13 10:49:25 - https://store.steampowered.com/app/1225580/
+2025-12-13 10:49:55 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:49:55 - https://store.steampowered.com/api/appdetails?appids=3390&cc=us&l=en
+2025-12-13 10:49:55 - https://store.steampowered.com/app/3390/
+2025-12-13 10:50:00 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:50:01 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:50:01 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:50:01 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:50:02 - https://store.steampowered.com/api/appdetails?appids=1238000&cc=us&l=en
+2025-12-13 10:50:02 - https://store.steampowered.com/app/1238000/
+2025-12-13 10:50:08 - https://store.steampowered.com/api/appdetails?appids=24840&cc=us&l=en
+2025-12-13 10:50:08 - https://store.steampowered.com/app/24840/
+2025-12-13 10:50:13 - https://store.steampowered.com/api/appdetails?appids=3627920&cc=us&l=en
+2025-12-13 10:50:16 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:50:16 - https://store.steampowered.com/api/appdetails?appids=1222680&cc=us&l=en
+2025-12-13 10:50:17 - https://store.steampowered.com/app/1222680/
+2025-12-13 10:50:20 - https://store.steampowered.com/api/appdetails?appids=1262580&cc=us&l=en
+2025-12-13 10:50:20 - https://store.steampowered.com/app/1262580/
+2025-12-13 10:50:21 - https://store.steampowered.com/app/1262580/ (with cookie)
+2025-12-13 10:50:27 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:50:27 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:50:27 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:50:30 - https://store.steampowered.com/api/appdetails?appids=1262240&cc=us&l=en
+2025-12-13 10:50:30 - https://store.steampowered.com/app/1262240/
+2025-12-13 10:50:36 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:50:37 - https://store.steampowered.com/api/appdetails?appids=1922560&cc=us&l=en
+2025-12-13 10:50:37 - https://store.steampowered.com/app/1922560/
+2025-12-13 10:50:41 - https://store.steampowered.com/api/appdetails?appids=1225590&cc=us&l=en
+2025-12-13 10:50:41 - https://store.steampowered.com/app/1225590/
+2025-12-13 10:50:48 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:50:49 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:50:49 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:50:56 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:50:57 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:51:15 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:51:15 - https://store.steampowered.com/api/appdetails?appids=3620&cc=us&l=en
+2025-12-13 10:51:15 - https://store.steampowered.com/app/3620/
+2025-12-13 10:52:17 - https://store.steampowered.com/api/appdetails?appids=1064272&cc=us&l=en
+2025-12-13 10:52:17 - https://store.steampowered.com/app/1064272/
+2025-12-13 10:53:39 - https://store.steampowered.com/api/appdetails?appids=1064271&cc=us&l=en
+2025-12-13 10:53:39 - https://store.steampowered.com/app/1064271/
+2025-12-13 10:54:07 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:54:42 - https://store.steampowered.com/api/appdetails?appids=1064270&cc=us&l=en
+2025-12-13 10:54:42 - https://store.steampowered.com/app/1064270/
+2025-12-13 10:54:50 - https://store.steampowered.com/api/appdetails?appids=221100&cc=us&l=en
+2025-12-13 10:54:50 - https://store.steampowered.com/app/221100/
+2025-12-13 10:54:50 - https://store.steampowered.com/app/221100/ (with cookie)
+2025-12-13 10:55:33 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:56:08 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:56:24 - https://store.steampowered.com/api/appdetails?appids=1064220&cc=us&l=en
+2025-12-13 10:56:24 - https://store.steampowered.com/app/1064220/
+2025-12-13 10:57:23 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:57:32 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:58:21 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:58:21 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:58:21 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:58:22 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:58:29 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:58:30 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:59:07 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:59:08 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 10:59:21 - https://store.steampowered.com/app/536220/
+2025-12-13 10:59:21 - https://store.steampowered.com/app/536220/ (with cookie)
+2025-12-13 10:59:52 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:00:09 - https://store.steampowered.com/app/429570/
+2025-12-13 11:00:09 - https://store.steampowered.com/app/429570/ (with cookie)
+2025-12-13 11:00:15 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:00:40 - https://store.steampowered.com/app/261030/
+2025-12-13 11:00:41 - https://store.steampowered.com/app/261030/ (with cookie)
+2025-12-13 11:00:46 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:01:06 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:01:13 - https://store.steampowered.com/app/379720/
+2025-12-13 11:01:14 - https://store.steampowered.com/app/379720/ (with cookie)
+2025-12-13 11:01:43 - https://store.steampowered.com/api/appdetails?appids=9200&cc=us&l=en
+2025-12-13 11:01:44 - https://store.steampowered.com/app/9200/
+2025-12-13 11:01:44 - https://store.steampowered.com/app/9200/ (with cookie)
+2025-12-13 11:02:19 - https://store.steampowered.com/api/appdetails?appids=302510&cc=us&l=en
+2025-12-13 11:02:20 - https://store.steampowered.com/app/302510/
+2025-12-13 11:02:20 - https://store.steampowered.com/app/302510/ (with cookie)
+2025-12-13 11:02:29 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:03:01 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:03:17 - https://store.steampowered.com/api/appdetails?appids=288470&cc=us&l=en
+2025-12-13 11:03:17 - https://store.steampowered.com/app/288470/
+2025-12-13 11:03:24 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:03:30 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:03:30 - https://store.steampowered.com/app/17460/
+2025-12-13 11:03:49 - https://store.steampowered.com/app/329430/
+2025-12-13 11:03:50 - https://store.steampowered.com/app/329430/ (with cookie)
+2025-12-13 11:03:56 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:03 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:03 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:04 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:04 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:04 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:04 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:05 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:05 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:05 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:06 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:06 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:12 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:12 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:12 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:20 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:20 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:20 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:37 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:37 - https://store.steampowered.com/api/appdetails?appids=&cc=us&l=en
+2025-12-13 11:04:38 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-13 11:04:46 - INFO: Created game file for Bratz® Rhythm & Style at c:\Output\playnite\files\decksettings\14e2641f-3087-1e37-b515-e3f12512869a.json
+2025-12-13 11:04:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3212580&include_external=true
+2025-12-13 11:04:47 - INFO: Created game file for Mortal Kombat 1 at c:\Output\playnite\files\decksettings\acbaf847-709b-31d0-b447-492b026110df.json
+2025-12-13 11:04:47 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1971870&include_external=true
+2025-12-13 11:04:47 - INFO: Created game file for A Game About Digging A Hole at c:\Output\playnite\files\decksettings\cec60f05-af9e-9503-cf1c-7555661f359e.json
+2025-12-13 11:04:47 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3244220&include_external=true
+2025-12-13 11:04:48 - INFO: Created game file for Death Howl at c:\Output\playnite\files\decksettings\6897a140-bc7d-d119-41f1-84f03964b406.json
+2025-12-13 11:04:48 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2825880&include_external=true
+2025-12-13 11:04:48 - INFO: Created game file for Dome Keeper at c:\Output\playnite\files\decksettings\d376b16b-30f1-ede9-4833-0ef40d75a927.json
+2025-12-13 11:04:48 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1637320&include_external=true
+2025-12-13 11:04:48 - INFO: Created game file for ROUTINE at c:\Output\playnite\files\decksettings\0196de5c-b7ff-2a7b-fce3-05516c73389f.json
+2025-12-13 11:04:48 - https://deckverified.games/deck-verified/api/v1/game_details?appid=606160&include_external=true
+2025-12-13 11:04:50 - INFO: Created game file for Lost Records: Bloom & Rage at c:\Output\playnite\files\decksettings\e1dfc8e8-c258-1e52-526d-9dd1f1828532.json
+2025-12-13 11:04:50 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1902960&include_external=true
+2025-12-13 11:04:50 - INFO: Created game file for MARVEL Cosmic Invasion at c:\Output\playnite\files\decksettings\27a563a2-957c-dfc4-3749-ef331f053cbc.json
+2025-12-13 11:04:50 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2753970&include_external=true
+2025-12-13 11:04:51 - INFO: Created game file for Banishers: Ghosts of New Eden at c:\Output\playnite\files\decksettings\4eadcff4-4931-b24d-d998-603277fb722f.json
+2025-12-13 11:04:51 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1493640&include_external=true
+2025-12-13 11:04:53 - INFO: Created game file for Young Suns at c:\Output\playnite\files\decksettings\310119b8-6fe7-830b-68db-63566bf66c1a.json
+2025-12-13 11:04:53 - https://deckverified.games/deck-verified/api/v1/game_details?appid=4149610&include_external=true
+2025-12-13 11:04:53 - INFO: Created game file for CloverPit at c:\Output\playnite\files\decksettings\66415531-a370-6f3f-67cb-b6abd9af68fd.json
+2025-12-13 11:04:53 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3314790&include_external=true
+2025-12-13 11:04:54 - INFO: Created game file for Monsters are Coming! Rock & Road at c:\Output\playnite\files\decksettings\e15bd893-5315-ef44-43aa-1c2380530b9a.json
+2025-12-13 11:04:54 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2934220&include_external=true
+2025-12-13 11:04:54 - INFO: Created game file for The Crew Motorfest at c:\Output\playnite\files\decksettings\928ea3ec-d5be-54c6-9624-a6dde3b2ad35.json
+2025-12-13 11:04:54 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2698940&include_external=true
+2025-12-13 11:04:55 - INFO: Created game file for Total Chaos at c:\Output\playnite\files\decksettings\de6f9714-7cfe-5d49-2e81-7d1148b5ca13.json
+2025-12-13 11:04:55 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2208350&include_external=true
+2025-12-13 11:04:55 - INFO: Created game file for Moonlighter 2: The Endless Vault at c:\Output\playnite\files\decksettings\44070532-6452-37d2-d3a1-27fd146041e1.json
+2025-12-13 11:04:55 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2350790&include_external=true
+2025-12-13 11:04:56 - INFO: Created game file for Call of Duty®: Black Ops 7 at c:\Output\playnite\files\decksettings\6d5e092f-1c98-fb90-995e-e6dcd23d523d.json
+2025-12-13 11:04:56 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3606480&include_external=true
+2025-12-13 11:04:57 - INFO: Created game file for Relic Hunters Legend at c:\Output\playnite\files\decksettings\8600b592-cf0d-ea69-b61c-74ad6feb4407.json
+2025-12-13 11:04:57 - https://deckverified.games/deck-verified/api/v1/game_details?appid=633080&include_external=true
+2025-12-13 11:04:58 - INFO: Created game file for Winter Burrow at c:\Output\playnite\files\decksettings\33106ca5-b2ee-f593-0370-fbc0b510c86f.json
+2025-12-13 11:04:58 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3008740&include_external=true
+2025-12-13 11:04:59 - INFO: Created game file for Great God Grove at c:\Output\playnite\files\decksettings\9386baff-1b4e-a9b9-42b4-5a0bd2be40df.json
+2025-12-13 11:04:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2840190&include_external=true
+2025-12-13 11:05:00 - INFO: Created game file for LARA CROFT AND THE TEMPLE OF OSIRIS™ at c:\Output\playnite\files\decksettings\9951c8fa-ba57-c520-b1cb-3564270c0c1f.json
+2025-12-13 11:05:00 - https://deckverified.games/deck-verified/api/v1/game_details?appid=289690&include_external=true
+2025-12-13 11:05:01 - INFO: Created game file for Pigeon Simulator at c:\Output\playnite\files\decksettings\23222f5f-f998-2642-0db7-6707727ff50a.json
+2025-12-13 11:05:01 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1496260&include_external=true
+2025-12-13 11:05:01 - INFO: Created game file for Voidtrain at c:\Output\playnite\files\decksettings\7bab5404-087f-fe49-8a29-7602dda2e1af.json
+2025-12-13 11:05:01 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1159690&include_external=true
+2025-12-13 11:05:03 - INFO: Created game file for Egging On at c:\Output\playnite\files\decksettings\7311d522-0c5d-0136-b608-8b671cba2e55.json
+2025-12-13 11:05:03 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2897610&include_external=true
+2025-12-13 11:05:03 - INFO: Created game file for Whiskerwood at c:\Output\playnite\files\decksettings\e83ff17f-e094-78d8-40df-bd23f847d210.json
+2025-12-13 11:05:03 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2489330&include_external=true
+2025-12-13 11:05:04 - INFO: Created game file for Dead Static Drive at c:\Output\playnite\files\decksettings\f17c18be-c87e-747c-0297-da4dea3a003e.json
+2025-12-13 11:05:04 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1166940&include_external=true
+2025-12-13 11:05:04 - INFO: Created game file for Pacific Drive at c:\Output\playnite\files\decksettings\14657027-b58e-b6ef-95e0-29d761622c2b.json
+2025-12-13 11:05:04 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1458140&include_external=true
+2025-12-13 11:05:05 - INFO: Created game file for Football Manager 26 at c:\Output\playnite\files\decksettings\ae1d779c-81ef-265a-4339-16388dc9fc0f.json
+2025-12-13 11:05:05 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3551340&include_external=true
+2025-12-13 11:05:05 - INFO: Created game file for The Outer Worlds 2 at c:\Output\playnite\files\decksettings\42f48459-9ad0-7ba5-06a5-58bd827dbd08.json
+2025-12-13 11:05:05 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1449110&include_external=true
+2025-12-13 11:05:06 - INFO: Created game file for Halls of Torment at c:\Output\playnite\files\decksettings\cd1d9195-f8df-faba-d879-b0836b276fab.json
+2025-12-13 11:05:06 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2218750&include_external=true
+2025-12-13 11:05:06 - INFO: Created game file for Super Fantasy Kingdom at c:\Output\playnite\files\decksettings\a5ce752e-5843-d770-a290-71717b9e3d1f.json
+2025-12-13 11:05:06 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2289750&include_external=true
+2025-12-13 11:05:06 - INFO: Created game file for PowerWash Simulator 2 at c:\Output\playnite\files\decksettings\b9ef2050-f98e-7af5-1b23-48a2bcf8b549.json
+2025-12-13 11:05:06 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2968420&include_external=true
+2025-12-13 11:05:07 - INFO: Created game file for Bounty Star at c:\Output\playnite\files\decksettings\17b89a0a-bc52-3322-4588-9bb9cee96b14.json
+2025-12-13 11:05:07 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1497430&include_external=true
+2025-12-13 11:05:08 - INFO: Created game file for Evil West at c:\Output\playnite\files\decksettings\aae8b459-d0ae-5a0d-3cc1-19d5c50420a4.json
+2025-12-13 11:05:08 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1065310&include_external=true
+2025-12-13 11:05:09 - INFO: Created game file for NINJA GAIDEN 4 at c:\Output\playnite\files\decksettings\e04c1286-410c-b738-86f5-0720ea15dbfc.json
+2025-12-13 11:05:09 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2627260&include_external=true
+2025-12-13 11:05:09 - INFO: Created game file for Keeper at c:\Output\playnite\files\decksettings\29904916-20cd-8074-0af8-a3f5ab2e10aa.json
+2025-12-13 11:05:09 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3043580&include_external=true
+2025-12-13 11:05:10 - INFO: Created game file for Pax Dei at c:\Output\playnite\files\decksettings\756637ad-91f2-541b-ac58-4e0a0baf5783.json
+2025-12-13 11:05:10 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1995520&include_external=true
+2025-12-13 11:05:10 - INFO: Created game file for BALL x PIT at c:\Output\playnite\files\decksettings\0b5ea682-d996-26dd-ef30-0b0269bb47ef.json
+2025-12-13 11:05:10 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2062430&include_external=true
+2025-12-13 11:05:10 - INFO: Created game file for The Grinch: Christmas Adventures at c:\Output\playnite\files\decksettings\2d6413c9-8c45-c0aa-4b05-561df6aeb219.json
+2025-12-13 11:05:10 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1978210&include_external=true
+2025-12-13 11:05:11 - INFO: Created game file for The Casting of Frank Stone™ at c:\Output\playnite\files\decksettings\eac1d0f8-b3be-6a4b-675e-eaf423addc6c.json
+2025-12-13 11:05:11 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2223840&include_external=true
+2025-12-13 11:05:12 - INFO: Created game file for Little Rocket Lab at c:\Output\playnite\files\decksettings\b290093e-89f2-f680-926c-94050ce40c11.json
+2025-12-13 11:05:12 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2451100&include_external=true
+2025-12-13 11:05:12 - INFO: Created game file for Supermarket Simulator at c:\Output\playnite\files\decksettings\f9378b84-171b-504c-01d8-f29a2b7a4d77.json
+2025-12-13 11:05:12 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2670630&include_external=true
+2025-12-13 11:05:13 - INFO: Created game file for SOPA - Tale of the Stolen Potato at c:\Output\playnite\files\decksettings\4806a5b0-138c-6867-f219-328827b1386e.json
+2025-12-13 11:05:13 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1935330&include_external=true
+2025-12-13 11:05:14 - INFO: Created game file for Hogwarts Legacy at c:\Output\playnite\files\decksettings\e1060ee8-7098-7804-bac1-b0f2a647b568.json
+2025-12-13 11:05:14 - https://deckverified.games/deck-verified/api/v1/game_details?appid=990080&include_external=true
+2025-12-13 11:05:14 - INFO: Created game file for Assassin's Creed 2 at c:\Output\playnite\files\decksettings\233aa833-0e4d-bc1d-e8d1-aa76694f5966.json
+2025-12-13 11:05:14 - https://deckverified.games/deck-verified/api/v1/game_details?appid=33230&include_external=true
+2025-12-13 11:05:15 - INFO: Created game file for Assassin's Creed® III Remastered at c:\Output\playnite\files\decksettings\bf7e5f3f-909d-870c-8fc3-3d778065736d.json
+2025-12-13 11:05:15 - https://deckverified.games/deck-verified/api/v1/game_details?appid=911400&include_external=true
+2025-12-13 11:05:15 - INFO: Created game file for Assassin’s Creed® IV Black Flag™ at c:\Output\playnite\files\decksettings\f260ce18-14a7-c0b5-3430-4d4d1cbdd8d2.json
+2025-12-13 11:05:15 - https://deckverified.games/deck-verified/api/v1/game_details?appid=242050&include_external=true
+2025-12-13 11:05:16 - INFO: Created game file for Assassin's Creed Freedom Cry at c:\Output\playnite\files\decksettings\37982d7b-08ba-afc2-0292-d4cf40038ade.json
+2025-12-13 11:05:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=277590&include_external=true
+2025-12-13 11:05:16 - INFO: Created game file for Assassin’s Creed® Brotherhood at c:\Output\playnite\files\decksettings\b5bf80c9-b443-fb2f-8375-b321b265d1bf.json
+2025-12-13 11:05:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=48190&include_external=true
+2025-12-13 11:05:17 - INFO: Created game file for Assassin’s Creed® Chronicles: China at c:\Output\playnite\files\decksettings\8df41116-4493-e783-00a0-f3749bf12658.json
+2025-12-13 11:05:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=354380&include_external=true
+2025-12-13 11:05:17 - INFO: Created game file for Assassin’s Creed® Chronicles: India at c:\Output\playnite\files\decksettings\ea20e1d9-01d6-8115-71a2-ab9bc57e107e.json
+2025-12-13 11:05:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=359610&include_external=true
+2025-12-13 11:05:17 - INFO: Created game file for Assassin’s Creed® Chronicles: Russia at c:\Output\playnite\files\decksettings\100d5f14-1027-5b1b-6bd9-31297ef5950c.json
+2025-12-13 11:05:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=359600&include_external=true
+2025-12-13 11:05:18 - INFO: Created game file for Assassin’s Creed® Liberation HD at c:\Output\playnite\files\decksettings\159db941-955e-7be1-bbd8-2a8fedb26f95.json
+2025-12-13 11:05:18 - https://deckverified.games/deck-verified/api/v1/game_details?appid=260210&include_external=true
+2025-12-13 11:05:18 - INFO: Created game file for Assassin's Creed® Revelations at c:\Output\playnite\files\decksettings\32f98e86-f2b0-924d-a09e-0db3d2fddf79.json
+2025-12-13 11:05:18 - https://deckverified.games/deck-verified/api/v1/game_details?appid=201870&include_external=true
+2025-12-13 11:05:19 - INFO: Created game file for Assassin's Creed® Syndicate at c:\Output\playnite\files\decksettings\10cd486c-6acc-2426-db33-17ff3d3edb08.json
+2025-12-13 11:05:19 - https://deckverified.games/deck-verified/api/v1/game_details?appid=368500&include_external=true
+2025-12-13 11:05:19 - INFO: Created game file for Assassin's Creed® Unity at c:\Output\playnite\files\decksettings\85ab3d9b-e415-92f9-df6d-676e34ec42a9.json
+2025-12-13 11:05:19 - https://deckverified.games/deck-verified/api/v1/game_details?appid=289650&include_external=true
+2025-12-13 11:05:19 - INFO: Created game file for Child of Light at c:\Output\playnite\files\decksettings\90743137-ba64-653d-37f6-0fa4700a3d9f.json
+2025-12-13 11:05:19 - https://deckverified.games/deck-verified/api/v1/game_details?appid=256290&include_external=true
+2025-12-13 11:05:20 - INFO: Created game file for Far Cry 3 at c:\Output\playnite\files\decksettings\6a420a99-fdfe-cab0-4934-47c48e43c43c.json
+2025-12-13 11:05:20 - https://deckverified.games/deck-verified/api/v1/game_details?appid=220240&include_external=true
+2025-12-13 11:05:20 - INFO: Created game file for Far Cry 3 - Blood Dragon at c:\Output\playnite\files\decksettings\83f54a6e-d010-f837-39e2-bfb13c01b281.json
+2025-12-13 11:05:20 - https://deckverified.games/deck-verified/api/v1/game_details?appid=233270&include_external=true
+2025-12-13 11:05:21 - INFO: Created game file for Far Cry® Primal at c:\Output\playnite\files\decksettings\3c076ab7-462a-5782-c8d1-45539ad6451a.json
+2025-12-13 11:05:21 - https://deckverified.games/deck-verified/api/v1/game_details?appid=371660&include_external=true
+2025-12-13 11:05:22 - INFO: Created game file for NEW MONOPOLY® at c:\Output\playnite\files\decksettings\2a2d122c-d3a5-322b-f016-a716a2d2598b.json
+2025-12-13 11:05:22 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2929170&include_external=true
+2025-12-13 11:05:23 - INFO: Created game file for OddBallers at c:\Output\playnite\files\decksettings\64e682a2-ae7f-ed08-9c6c-d4028fa57806.json
+2025-12-13 11:05:23 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1064070&include_external=true
+2025-12-13 11:05:23 - INFO: Created game file for Prince of Persia The Lost Crown at c:\Output\playnite\files\decksettings\99518535-1f78-8df6-d2ae-e50cb0dbb773.json
+2025-12-13 11:05:23 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2751000&include_external=true
+2025-12-13 11:05:24 - INFO: Created game file for Skull and Bones at c:\Output\playnite\files\decksettings\cdfc9383-2f13-ea16-f7a2-082883360b61.json
+2025-12-13 11:05:24 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2853730&include_external=true
+2025-12-13 11:05:24 - INFO: Created game file for South Park™: The Stick of Truth™ at c:\Output\playnite\files\decksettings\3e3796d4-71a1-ddd9-c4b2-7d8ddf50eb55.json
+2025-12-13 11:05:24 - https://deckverified.games/deck-verified/api/v1/game_details?appid=213670&include_external=true
+2025-12-13 11:05:25 - INFO: Created game file for Starlink: Battle for Atlas at c:\Output\playnite\files\decksettings\408352ad-9059-0cbc-e570-6424f054cb9d.json
+2025-12-13 11:05:25 - https://deckverified.games/deck-verified/api/v1/game_details?appid=950050&include_external=true
+2025-12-13 11:05:25 - INFO: Created game file for Steep™ at c:\Output\playnite\files\decksettings\1f3b987b-c840-1e38-e8ba-32ed66313092.json
+2025-12-13 11:05:25 - https://deckverified.games/deck-verified/api/v1/game_details?appid=460920&include_external=true
+2025-12-13 11:05:26 - INFO: Created game file for The Crew™ 2 at c:\Output\playnite\files\decksettings\e8d89dd1-baeb-fba1-b22d-24e435541054.json
+2025-12-13 11:05:26 - https://deckverified.games/deck-verified/api/v1/game_details?appid=646910&include_external=true
+2025-12-13 11:05:27 - INFO: Created game file for The Settlers: New Allies at c:\Output\playnite\files\decksettings\0eed61c2-d589-671e-d81e-33e53884feca.json
+2025-12-13 11:05:27 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2750080&include_external=true
+2025-12-13 11:05:27 - INFO: Created game file for Tom Clancy's Ghost Recon® Breakpoint at c:\Output\playnite\files\decksettings\3cd9f251-b682-e9df-a9a8-f07a44adadc2.json
+2025-12-13 11:05:27 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2231380&include_external=true
+2025-12-13 11:05:28 - INFO: Created game file for Tom Clancy’s Rainbow Six® Extraction at c:\Output\playnite\files\decksettings\1abdb886-3785-0fc3-ab4d-d5c6fb0cc4e0.json
+2025-12-13 11:05:28 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2379390&include_external=true
+2025-12-13 11:05:29 - INFO: Created game file for Tom Clancy’s The Division™ at c:\Output\playnite\files\decksettings\04b31404-f0da-fc51-96ce-8ccc0fd17277.json
+2025-12-13 11:05:29 - https://deckverified.games/deck-verified/api/v1/game_details?appid=365590&include_external=true
+2025-12-13 11:05:30 - INFO: Created game file for Trackmania® Turbo at c:\Output\playnite\files\decksettings\7e9cca89-3232-cfd3-ef20-8211db90b22d.json
+2025-12-13 11:05:30 - https://deckverified.games/deck-verified/api/v1/game_details?appid=375900&include_external=true
+2025-12-13 11:05:31 - INFO: Created game file for Transference™ at c:\Output\playnite\files\decksettings\12aa83e0-31ee-a8f6-6906-4e1d1eea4e05.json
+2025-12-13 11:05:31 - https://deckverified.games/deck-verified/api/v1/game_details?appid=647570&include_external=true
+2025-12-13 11:05:32 - INFO: Created game file for Trials Fusion™ at c:\Output\playnite\files\decksettings\f4f3af7b-f392-5abd-1e39-8b37acf561f2.json
+2025-12-13 11:05:32 - https://deckverified.games/deck-verified/api/v1/game_details?appid=245490&include_external=true
+2025-12-13 11:05:33 - INFO: Created game file for Trials of the Blood Dragon at c:\Output\playnite\files\decksettings\45543634-49ea-7e41-a67f-097a592f83df.json
+2025-12-13 11:05:33 - https://deckverified.games/deck-verified/api/v1/game_details?appid=435480&include_external=true
+2025-12-13 11:05:34 - INFO: Created game file for Trials® Rising at c:\Output\playnite\files\decksettings\cd2aeb3e-3af6-8528-6932-e1f83faf13fa.json
+2025-12-13 11:05:34 - https://deckverified.games/deck-verified/api/v1/game_details?appid=641080&include_external=true
+2025-12-13 11:05:35 - INFO: Created game file for Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™ at c:\Output\playnite\files\decksettings\33f31a93-706f-307b-d53b-6cfe8f3d45c0.json
+2025-12-13 11:05:35 - https://deckverified.games/deck-verified/api/v1/game_details?appid=260230&include_external=true
+2025-12-13 11:05:36 - INFO: Created game file for Watch_Dogs™ at c:\Output\playnite\files\decksettings\b499225b-7f55-9de9-f98a-381a90d0c2a4.json
+2025-12-13 11:05:36 - https://deckverified.games/deck-verified/api/v1/game_details?appid=243470&include_external=true
+2025-12-13 11:05:37 - INFO: Created game file for ZOMBI at c:\Output\playnite\files\decksettings\a33a7195-2a7e-d224-48c8-7f87dd7c24ac.json
+2025-12-13 11:05:37 - https://deckverified.games/deck-verified/api/v1/game_details?appid=339230&include_external=true
+2025-12-13 11:05:37 - INFO: Created game file for Lara Croft and the Guardian of Light at c:\Output\playnite\files\decksettings\017c164f-51a2-9c64-0595-387d502f0e49.json
+2025-12-13 11:05:37 - https://deckverified.games/deck-verified/api/v1/game_details?appid=35130&include_external=true
+2025-12-13 11:05:38 - INFO: Created game file for Peppa Pig: World Adventures at c:\Output\playnite\files\decksettings\990f03f1-beb5-8fae-5cb5-4cb9d5e85bb4.json
+2025-12-13 11:05:38 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1998980&include_external=true
+2025-12-13 11:05:39 - INFO: Created game file for Visions of Mana at c:\Output\playnite\files\decksettings\a6d20818-d192-ca41-ea87-e6827d1086ce.json
+2025-12-13 11:05:39 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2490990&include_external=true
+2025-12-13 11:05:40 - INFO: Created game file for SWORN at c:\Output\playnite\files\decksettings\1cc4f8dc-6757-e0c4-390a-c9c43db7f457.json
+2025-12-13 11:05:40 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1763250&include_external=true
+2025-12-13 11:05:41 - INFO: Created game file for ENDLESS™ Legend 2 at c:\Output\playnite\files\decksettings\3a638111-d8b5-e18f-ed58-fcf311d5d52f.json
+2025-12-13 11:05:41 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3407390&include_external=true
+2025-12-13 11:05:41 - INFO: Created game file for Frostpunk 2 at c:\Output\playnite\files\decksettings\33e03c76-fa7f-4ce1-b8f4-1e71b5efcb12.json
+2025-12-13 11:05:41 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1601580&include_external=true
+2025-12-13 11:05:42 - INFO: Created game file for Wobbly Life at c:\Output\playnite\files\decksettings\4ec69864-e47a-c24c-852b-35d68da0d13c.json
+2025-12-13 11:05:42 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1211020&include_external=true
+2025-12-13 11:05:43 - INFO: Created game file for Deep Rock Galactic: Survivor at c:\Output\playnite\files\decksettings\4a56d6a8-982a-1cd9-359e-48193f98c508.json
+2025-12-13 11:05:43 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2321470&include_external=true
+2025-12-13 11:05:43 - INFO: Created game file for RoadCraft at c:\Output\playnite\files\decksettings\42128d75-72eb-d454-ae3a-7b3db7226673.json
+2025-12-13 11:05:43 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2104890&include_external=true
+2025-12-13 11:05:44 - INFO: Created game file for Hollow Knight: Silksong at c:\Output\playnite\files\decksettings\2f993ea0-6d3e-c05b-2cd0-ffeca4652649.json
+2025-12-13 11:05:44 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1030300&include_external=true
+2025-12-13 11:05:45 - INFO: Created game file for Cataclismo at c:\Output\playnite\files\decksettings\210ba3d1-53cd-f828-97ef-3e00ab3a6cd0.json
+2025-12-13 11:05:45 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1422440&include_external=true
+2025-12-13 11:05:46 - INFO: Created game file for I Am Your Beast at c:\Output\playnite\files\decksettings\c766701f-8c82-ccda-9918-eb1394559c02.json
+2025-12-13 11:05:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1876590&include_external=true
+2025-12-13 11:05:46 - INFO: Created game file for Dragon Age™: The Veilguard at c:\Output\playnite\files\decksettings\967a2565-cf24-cf1c-3d9e-05ab29043c6f.json
+2025-12-13 11:05:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1845910&include_external=true
+2025-12-13 11:05:46 - INFO: Created game file for Gears of War: Reloaded at c:\Output\playnite\files\decksettings\643dd943-3dee-7cf4-7adf-754fa84e70db.json
+2025-12-13 11:05:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2523720&include_external=true
+2025-12-13 11:05:47 - INFO: Created game file for Herdling at c:\Output\playnite\files\decksettings\88b40bc3-d23d-955e-01cf-0a3afe365ca7.json
+2025-12-13 11:05:47 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3047750&include_external=true
+2025-12-13 11:05:48 - INFO: Created game file for The Rogue Prince of Persia at c:\Output\playnite\files\decksettings\66f36016-5d93-01ca-23be-cdf0a2c38416.json
+2025-12-13 11:05:48 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2717880&include_external=true
+2025-12-13 11:05:48 - INFO: Created game file for Blacksmith Master at c:\Output\playnite\files\decksettings\33abf34e-f871-2ac5-12e3-10c62e63ad97.json
+2025-12-13 11:05:48 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2292800&include_external=true
+2025-12-13 11:05:49 - INFO: Created game file for VOID/BREAKER at c:\Output\playnite\files\decksettings\28a80c66-9148-d836-d94a-9bf2cb64fab6.json
+2025-12-13 11:05:49 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2615540&include_external=true
+2025-12-13 11:05:49 - INFO: Created game file for 9 Kings at c:\Output\playnite\files\decksettings\27e39576-e077-4084-d348-43e3760d9676.json
+2025-12-13 11:05:49 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2784470&include_external=true
+2025-12-13 11:05:50 - INFO: Created game file for Caesar™ 3 at c:\Output\playnite\files\decksettings\083ccbb3-ba12-a8fb-baa0-ea1b3217499b.json
+2025-12-13 11:05:50 - https://deckverified.games/deck-verified/api/v1/game_details?appid=517790&include_external=true
+2025-12-13 11:05:50 - INFO: Created game file for Aliens: Fireteam Elite at c:\Output\playnite\files\decksettings\32869a3b-496d-af88-c14d-e65ee6e77ce4.json
+2025-12-13 11:05:50 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1549970&include_external=true
+2025-12-13 11:05:51 - INFO: Created game file for Assassin's Creed Mirage at c:\Output\playnite\files\decksettings\ff24d8c5-603f-588a-18c7-54621d171d97.json
+2025-12-13 11:05:51 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3035570&include_external=true
+2025-12-13 11:05:51 - INFO: Created game file for Rain World at c:\Output\playnite\files\decksettings\33d5d476-69e7-dc14-b9c7-b07d7c5dce71.json
+2025-12-13 11:05:51 - https://deckverified.games/deck-verified/api/v1/game_details?appid=312520&include_external=true
+2025-12-13 11:05:52 - INFO: Created game file for Farming Simulator 25 at c:\Output\playnite\files\decksettings\00ab0fc9-00c2-d860-e626-357e6e746c4f.json
+2025-12-13 11:05:52 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2300320&include_external=true
+2025-12-13 11:05:53 - INFO: Created game file for Grounded 2 at c:\Output\playnite\files\decksettings\62dfeab7-8a77-0c6e-53fa-796b528a8312.json
+2025-12-13 11:05:53 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2661300&include_external=true
+2025-12-13 11:05:53 - INFO: Created game file for WUCHANG: Fallen Feathers at c:\Output\playnite\files\decksettings\7505a835-02bd-79c4-c2de-6c9f183dbf24.json
+2025-12-13 11:05:53 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2277560&include_external=true
+2025-12-13 11:05:54 - INFO: Created game file for Wheel World at c:\Output\playnite\files\decksettings\48eb7879-416b-4019-006d-b8eec4377c27.json
+2025-12-13 11:05:54 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1497460&include_external=true
+2025-12-13 11:05:54 - INFO: Created game file for Abiotic Factor at c:\Output\playnite\files\decksettings\0e3e5c2e-f4da-1001-b620-4827cce019a5.json
+2025-12-13 11:05:54 - https://deckverified.games/deck-verified/api/v1/game_details?appid=427410&include_external=true
+2025-12-13 11:05:55 - INFO: Created game file for Descenders Next at c:\Output\playnite\files\decksettings\698c6e1b-eebb-658b-1282-92569630590d.json
+2025-12-13 11:05:55 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2375530&include_external=true
+2025-12-13 11:05:56 - INFO: Created game file for Gabriel Knight: Sins of the Father® at c:\Output\playnite\files\decksettings\1987af03-3774-5ba4-05f7-4efb37130c20.json
+2025-12-13 11:05:56 - https://deckverified.games/deck-verified/api/v1/game_details?appid=495700&include_external=true
+2025-12-13 11:05:57 - INFO: Created game file for He is Coming at c:\Output\playnite\files\decksettings\e0271696-83fd-7003-b52c-cadc926e0e84.json
+2025-12-13 11:05:57 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2824490&include_external=true
+2025-12-13 11:05:57 - INFO: Created game file for RoboCop: Rogue City at c:\Output\playnite\files\decksettings\a7a9cee5-ecbf-5997-a9e1-ce5bc5c0d19d.json
+2025-12-13 11:05:57 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1681430&include_external=true
+2025-12-13 11:05:58 - INFO: Created game file for My Friendly Neighborhood at c:\Output\playnite\files\decksettings\48beff29-03ed-96c5-fbdf-c4cd409987a9.json
+2025-12-13 11:05:58 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1574260&include_external=true
+2025-12-13 11:05:58 - INFO: Created game file for High On Life at c:\Output\playnite\files\decksettings\5301e00e-aaa2-fd20-9e81-0bdc7bc8c134.json
+2025-12-13 11:05:58 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1583230&include_external=true
+2025-12-13 11:05:59 - INFO: Created game file for Minami Lane at c:\Output\playnite\files\decksettings\aee23c9c-790a-94b0-45b4-d28a7d45045f.json
+2025-12-13 11:05:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2678990&include_external=true
+2025-12-13 11:06:00 - INFO: Created game file for The Ascent at c:\Output\playnite\files\decksettings\3cf68211-4e22-f54d-33a8-1995ca2792fc.json
+2025-12-13 11:06:00 - https://deckverified.games/deck-verified/api/v1/game_details?appid=979690&include_external=true
+2025-12-13 11:06:00 - INFO: Created game file for Ultimate Chicken Horse at c:\Output\playnite\files\decksettings\090639fe-86fb-6745-2d73-9817c366f1e1.json
+2025-12-13 11:06:00 - https://deckverified.games/deck-verified/api/v1/game_details?appid=386940&include_external=true
+2025-12-13 11:06:01 - INFO: Created game file for Little Nightmares II at c:\Output\playnite\files\decksettings\4975a05a-9300-0887-a44f-f39e68cc7c2e.json
+2025-12-13 11:06:01 - https://deckverified.games/deck-verified/api/v1/game_details?appid=860510&include_external=true
+2025-12-13 11:06:01 - INFO: Created game file for Rise of the Tomb Raider™ at c:\Output\playnite\files\decksettings\6d873c3f-5419-a2ad-eaa3-43bcdce483a4.json
+2025-12-13 11:06:01 - https://deckverified.games/deck-verified/api/v1/game_details?appid=391220&include_external=true
+2025-12-13 11:06:01 - INFO: Created game file for Call of Duty®: WWII at c:\Output\playnite\files\decksettings\3fd43808-61b6-14ca-f2c5-04ab5b8eda50.json
+2025-12-13 11:06:01 - https://deckverified.games/deck-verified/api/v1/game_details?appid=476600&include_external=true
+2025-12-13 11:06:03 - INFO: Created game file for Volcano Princess at c:\Output\playnite\files\decksettings\7eee228d-ce51-db5d-8eb6-fc3fd1c0df2a.json
+2025-12-13 11:06:03 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1669980&include_external=true
+2025-12-13 11:06:03 - INFO: Created game file for REMATCH at c:\Output\playnite\files\decksettings\3101ad95-c876-b3e7-b3ca-20d1a41fefe7.json
+2025-12-13 11:06:03 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2138720&include_external=true
+2025-12-13 11:06:03 - INFO: Created game file for FBC: Firebreak at c:\Output\playnite\files\decksettings\4e5aeb6e-334d-c4dd-368c-d8a31410c9de.json
+2025-12-13 11:06:03 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2272540&include_external=true
+2025-12-13 11:06:04 - INFO: Created game file for Crash Bandicoot™ 4: It’s About Time at c:\Output\playnite\files\decksettings\e94affb1-6902-d19d-a532-2e274b409710.json
+2025-12-13 11:06:04 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1378990&include_external=true
+2025-12-13 11:06:04 - INFO: Created game file for Lost in Random: The Eternal Die at c:\Output\playnite\files\decksettings\e3cec045-0880-95cd-223d-6d4046aa090f.json
+2025-12-13 11:06:04 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2564520&include_external=true
+2025-12-13 11:06:05 - INFO: Created game file for The Alters at c:\Output\playnite\files\decksettings\4b8e117a-5724-5be7-ad3d-4163be333e9b.json
+2025-12-13 11:06:05 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1601570&include_external=true
+2025-12-13 11:06:05 - INFO: Created game file for EA SPORTS FC™ 25 at c:\Output\playnite\files\decksettings\e17f765d-05da-b969-3725-3713d7c9b0e6.json
+2025-12-13 11:06:05 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2669320&include_external=true
+2025-12-13 11:06:06 - INFO: Created game file for Warhammer 40,000: Space Marine - Master Crafted Edition at c:\Output\playnite\files\decksettings\3f6fad7d-a3a8-bf10-4421-ffc6c385c735.json
+2025-12-13 11:06:06 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3169520&include_external=true
+2025-12-13 11:06:06 - INFO: Created game file for Baldur's Gate: Enhanced Edition at c:\Output\playnite\files\decksettings\dc5bbd01-5a33-2c55-ced7-194be00bf744.json
+2025-12-13 11:06:06 - https://deckverified.games/deck-verified/api/v1/game_details?appid=228280&include_external=true
+2025-12-13 11:06:06 - INFO: Created game file for Baldur's Gate II: Enhanced Edition at c:\Output\playnite\files\decksettings\eb9dcbd0-47fe-8b4a-210d-f23f5662fa15.json
+2025-12-13 11:06:06 - https://deckverified.games/deck-verified/api/v1/game_details?appid=257350&include_external=true
+2025-12-13 11:06:07 - INFO: Created game file for Symphonia at c:\Output\playnite\files\decksettings\c361571a-4239-906b-43b5-8abc366f8422.json
+2025-12-13 11:06:07 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1865960&include_external=true
+2025-12-13 11:06:08 - INFO: Created game file for Crypt Custodian at c:\Output\playnite\files\decksettings\378b6c71-6cfb-0b4d-81ed-3e0a70e0bcc9.json
+2025-12-13 11:06:08 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2394650&include_external=true
+2025-12-13 11:06:09 - INFO: Created game file for Spray Paint Simulator at c:\Output\playnite\files\decksettings\3ba7533e-e8f2-5075-8787-24c787b17540.json
+2025-12-13 11:06:09 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1811340&include_external=true
+2025-12-13 11:06:10 - INFO: Created game file for Metaphor: ReFantazio at c:\Output\playnite\files\decksettings\50eafd20-42b7-8119-cacc-2d2c9c20189f.json
+2025-12-13 11:06:10 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2679460&include_external=true
+2025-12-13 11:06:11 - INFO: Created game file for to a T at c:\Output\playnite\files\decksettings\18ef6a8b-6731-040b-1cfa-bcd1d0d756b3.json
+2025-12-13 11:06:11 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1875320&include_external=true
+2025-12-13 11:06:11 - INFO: Created game file for Tom Clancy’s The Division® 2 at c:\Output\playnite\files\decksettings\b7d2014e-ca35-b215-0294-a9877259c828.json
+2025-12-13 11:06:11 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2221490&include_external=true
+2025-12-13 11:06:12 - INFO: Created game file for Tales of Kenzera™: ZAU at c:\Output\playnite\files\decksettings\774b5fdc-53b8-d57d-8d0a-e54e1197e755.json
+2025-12-13 11:06:12 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2316580&include_external=true
+2025-12-13 11:06:13 - INFO: Created game file for Police Quest: SWAT at c:\Output\playnite\files\decksettings\d3714782-ae6d-1ba9-8886-f1790475fddf.json
+2025-12-13 11:06:13 - https://deckverified.games/deck-verified/api/v1/game_details?appid=560350&include_external=true
+2025-12-13 11:06:14 - INFO: Created game file for Space Quest™ Collection at c:\Output\playnite\files\decksettings\b1f887d6-d0df-75af-96dc-44a1f42acb47.json
+2025-12-13 11:06:14 - https://deckverified.games/deck-verified/api/v1/game_details?appid=10110&include_external=true
+2025-12-13 11:06:15 - INFO: Created game file for Monster Train 2 at c:\Output\playnite\files\decksettings\a67bd20b-d6e6-28a2-626f-67ef9d9d8b53.json
+2025-12-13 11:06:15 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2742830&include_external=true
+2025-12-13 11:06:16 - INFO: Created game file for DOOM: The Dark Ages at c:\Output\playnite\files\decksettings\4d72f7cf-0400-d21d-0b8a-49b07f8180c8.json
+2025-12-13 11:06:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3017860&include_external=true
+2025-12-13 11:06:17 - INFO: Created game file for Firefighting Simulator - The Squad at c:\Output\playnite\files\decksettings\d8b16178-2bfe-1036-b66d-71a7dc8ada3e.json
+2025-12-13 11:06:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=420560&include_external=true
+2025-12-13 11:06:17 - INFO: Created game file for Police Simulator: Patrol Officers at c:\Output\playnite\files\decksettings\c0b32d14-48df-c4a0-affb-db1d8fb54546.json
+2025-12-13 11:06:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=997010&include_external=true
+2025-12-13 11:06:18 - INFO: Created game file for Kulebra and the Souls of Limbo at c:\Output\playnite\files\decksettings\31d19d39-4006-c010-1f1f-3098dd5d755d.json
+2025-12-13 11:06:18 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2246470&include_external=true
+2025-12-13 11:06:19 - INFO: Created game file for Warhammer: Vermintide 2 at c:\Output\playnite\files\decksettings\b5ccd1b9-9726-8070-89b8-aa43b3262122.json
+2025-12-13 11:06:19 - https://deckverified.games/deck-verified/api/v1/game_details?appid=552500&include_external=true
+2025-12-13 11:06:19 - INFO: Created game file for Revenge of the Savage Planet at c:\Output\playnite\files\decksettings\d13df88f-1b68-d85a-f81d-98d7e0bb6181.json
+2025-12-13 11:06:19 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2787320&include_external=true
+2025-12-13 11:06:20 - INFO: Created game file for DRAGON BALL XENOVERSE 2 at c:\Output\playnite\files\decksettings\c567f3e6-3fd4-7f18-03d6-ac8444986a06.json
+2025-12-13 11:06:20 - https://deckverified.games/deck-verified/api/v1/game_details?appid=454650&include_external=true
+2025-12-13 11:06:20 - INFO: Created game file for DREDGE at c:\Output\playnite\files\decksettings\df4e15f8-30c2-2c92-3c75-dbc1d63c6c3f.json
+2025-12-13 11:06:20 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1562430&include_external=true
+2025-12-13 11:06:20 - INFO: Created game file for Anno 1800 at c:\Output\playnite\files\decksettings\81f918e2-3853-e49a-42a1-6aa51521f19f.json
+2025-12-13 11:06:20 - https://deckverified.games/deck-verified/api/v1/game_details?appid=916440&include_external=true
+2025-12-13 11:06:21 - INFO: Created game file for Call of Duty®: Modern Warfare® II at c:\Output\playnite\files\decksettings\6651ec61-2f0b-9cda-c219-754eefe5a692.json
+2025-12-13 11:06:21 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3595230&include_external=true
+2025-12-13 11:06:22 - INFO: Created game file for Far Cry® 4 at c:\Output\playnite\files\decksettings\8b2e11a4-0eb1-3c86-dfa6-196a9d653ba3.json
+2025-12-13 11:06:22 - https://deckverified.games/deck-verified/api/v1/game_details?appid=298110&include_external=true
+2025-12-13 11:06:23 - INFO: Created game file for Towerborne at c:\Output\playnite\files\decksettings\3de05c0d-eff4-f91c-73a5-427f3b93b890.json
+2025-12-13 11:06:23 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2458830&include_external=true
+2025-12-13 11:06:23 - INFO: Created game file for Clair Obscur: Expedition 33 at c:\Output\playnite\files\decksettings\e08cc114-f857-c0e5-d560-f503afa4936f.json
+2025-12-13 11:06:23 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1903340&include_external=true
+2025-12-13 11:06:23 - INFO: Created game file for The Elder Scrolls IV: Oblivion Remastered at c:\Output\playnite\files\decksettings\b60752c9-1bc4-fa35-2248-ff3b4ea2d2da.json
+2025-12-13 11:06:23 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2623190&include_external=true
+2025-12-13 11:06:24 - INFO: Created game file for Crime Scene Cleaner at c:\Output\playnite\files\decksettings\c87d11cd-8048-e384-b726-2f93d055471a.json
+2025-12-13 11:06:24 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1040200&include_external=true
+2025-12-13 11:06:25 - INFO: Created game file for Tempopo at c:\Output\playnite\files\decksettings\127010a6-7035-b982-30f7-584fba1de6ac.json
+2025-12-13 11:06:25 - https://deckverified.games/deck-verified/api/v1/game_details?appid=318840&include_external=true
+2025-12-13 11:06:26 - INFO: Created game file for SpongeBob SquarePants™: The Patrick Star Game at c:\Output\playnite\files\decksettings\223d4668-e082-8d03-c3dc-a4129880e46e.json
+2025-12-13 11:06:26 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2322380&include_external=true
+2025-12-13 11:06:27 - INFO: Created game file for Grand Theft Auto V Legacy at c:\Output\playnite\files\decksettings\de7a99e6-3458-7210-4bd4-7cdbf1c6a9f0.json
+2025-12-13 11:06:27 - https://deckverified.games/deck-verified/api/v1/game_details?appid=271590&include_external=true
+2025-12-13 11:06:27 - INFO: Created game file for Blue Prince at c:\Output\playnite\files\decksettings\7e7b1d36-a24c-78f9-c61f-f8bef7176a23.json
+2025-12-13 11:06:27 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1569580&include_external=true
+2025-12-13 11:06:28 - INFO: Created game file for Commandos: Origins at c:\Output\playnite\files\decksettings\334d5cac-1509-4409-f071-cecca712bd80.json
+2025-12-13 11:06:28 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1479730&include_external=true
+2025-12-13 11:06:29 - INFO: Created game file for South of Midnight at c:\Output\playnite\files\decksettings\c4a66bb6-fc32-859e-a906-9ad0bcc6777a.json
+2025-12-13 11:06:29 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1934570&include_external=true
+2025-12-13 11:06:29 - INFO: Created game file for Atomfall at c:\Output\playnite\files\decksettings\812de988-6a24-8940-8d04-3d8766fd22b0.json
+2025-12-13 11:06:29 - https://deckverified.games/deck-verified/api/v1/game_details?appid=801800&include_external=true
+2025-12-13 11:06:30 - INFO: Created game file for Mythwrecked: Ambrosia Island at c:\Output\playnite\files\decksettings\97b11d07-562c-e810-d64f-3517bd3e27d6.json
+2025-12-13 11:06:30 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2000210&include_external=true
+2025-12-13 11:06:31 - INFO: Created game file for MULLET MADJACK at c:\Output\playnite\files\decksettings\95362eca-7035-6b77-8566-d3424e33a4d1.json
+2025-12-13 11:06:31 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2111190&include_external=true
+2025-12-13 11:06:31 - INFO: Created game file for Enter the Gungeon at c:\Output\playnite\files\decksettings\da711fcd-66b1-70a7-ad3d-1c24da7d8da2.json
+2025-12-13 11:06:31 - https://deckverified.games/deck-verified/api/v1/game_details?appid=311690&include_external=true
+2025-12-13 11:06:32 - INFO: Created game file for One Lonely Outpost at c:\Output\playnite\files\decksettings\bff31c19-fbc1-7705-bfc2-32a86f754919.json
+2025-12-13 11:06:32 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1465550&include_external=true
+2025-12-13 11:06:33 - INFO: Created game file for Monster Train at c:\Output\playnite\files\decksettings\c90672a6-eb28-d1cf-e769-60ab7e08f7ba.json
+2025-12-13 11:06:33 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1102190&include_external=true
+2025-12-13 11:06:33 - INFO: Created game file for Watch Dogs®: Legion at c:\Output\playnite\files\decksettings\bdb44b14-2705-e3d5-36d3-ac120a2635c6.json
+2025-12-13 11:06:33 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2239550&include_external=true
+2025-12-13 11:06:34 - INFO: Created game file for Balatro at c:\Output\playnite\files\decksettings\a44f8d41-79b3-5568-2142-c929d772aed3.json
+2025-12-13 11:06:34 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2379780&include_external=true
+2025-12-13 11:06:35 - INFO: Created game file for F1® 24 at c:\Output\playnite\files\decksettings\a0b0dac6-a6db-6395-2e25-07507aee85da.json
+2025-12-13 11:06:35 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2488620&include_external=true
+2025-12-13 11:06:35 - INFO: Created game file for Warhammer 40,000: Rogue Trader at c:\Output\playnite\files\decksettings\490ed79d-051b-df0b-c276-d0dae24a6c39.json
+2025-12-13 11:06:35 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2186680&include_external=true
+2025-12-13 11:06:35 - INFO: Created game file for Avowed at c:\Output\playnite\files\decksettings\3f1fd451-3b41-b751-fa2e-26b88ef58637.json
+2025-12-13 11:06:35 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2457220&include_external=true
+2025-12-13 11:06:36 - INFO: Created game file for Kingdom Two Crowns at c:\Output\playnite\files\decksettings\9f9d0529-b44e-00ef-9f9a-495690e8ac07.json
+2025-12-13 11:06:36 - https://deckverified.games/deck-verified/api/v1/game_details?appid=701160&include_external=true
+2025-12-13 11:06:37 - INFO: Created game file for EA SPORTS™ Madden NFL 25 at c:\Output\playnite\files\decksettings\7b69fea1-a6f6-865a-e7b9-3bfe0e673b7a.json
+2025-12-13 11:06:37 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2582560&include_external=true
+2025-12-13 11:06:38 - INFO: Created game file for Far Cry® New Dawn at c:\Output\playnite\files\decksettings\93d5a97c-3a7d-05f4-d442-033ab2965722.json
+2025-12-13 11:06:38 - https://deckverified.games/deck-verified/api/v1/game_details?appid=939960&include_external=true
+2025-12-13 11:06:38 - INFO: Created game file for Citizen Sleeper 2: Starward Vector at c:\Output\playnite\files\decksettings\56a3f638-334b-eefc-10e2-d5adafbec342.json
+2025-12-13 11:06:38 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2442460&include_external=true
+2025-12-13 11:06:38 - INFO: Created game file for Sniper Elite: Resistance at c:\Output\playnite\files\decksettings\5556ef08-7442-aa36-8105-655e225a07a7.json
+2025-12-13 11:06:38 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2169200&include_external=true
+2025-12-13 11:06:39 - INFO: Created game file for Shady Part of Me at c:\Output\playnite\files\decksettings\75ae6485-9ec9-9ef3-0d1c-91fd3da745f5.json
+2025-12-13 11:06:39 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1116580&include_external=true
+2025-12-13 11:06:40 - INFO: Created game file for Eternal Strands at c:\Output\playnite\files\decksettings\ea56a1eb-ebd2-4351-4aa9-3531abf3888e.json
+2025-12-13 11:06:40 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1491410&include_external=true
+2025-12-13 11:06:41 - INFO: Created game file for Orcs Must Die! Deathtrap at c:\Output\playnite\files\decksettings\ae16d361-d983-bc8c-be16-931b60d728e9.json
+2025-12-13 11:06:41 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2273980&include_external=true
+2025-12-13 11:06:41 - INFO: Created game file for NINJA GAIDEN 2 Black at c:\Output\playnite\files\decksettings\1371fb7f-125f-f860-b8db-4f690b45fc90.json
+2025-12-13 11:06:41 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3287520&include_external=true
+2025-12-13 11:06:42 - INFO: Created game file for Road 96 🛣️ at c:\Output\playnite\files\decksettings\adc5c307-9588-ab8a-a9cc-84268db253aa.json
+2025-12-13 11:06:42 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1466640&include_external=true
+2025-12-13 11:06:42 - INFO: Created game file for For The King II at c:\Output\playnite\files\decksettings\675f3c41-2733-c7d9-a6d9-82b7b554688f.json
+2025-12-13 11:06:42 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1676840&include_external=true
+2025-12-13 11:06:43 - INFO: Created game file for Hunt: Showdown 1896 at c:\Output\playnite\files\decksettings\a9a3c02e-cb54-40bb-4f99-aedeb4879177.json
+2025-12-13 11:06:43 - https://deckverified.games/deck-verified/api/v1/game_details?appid=594650&include_external=true
+2025-12-13 11:06:43 - INFO: Created game file for Indiana Jones and the Great Circle at c:\Output\playnite\files\decksettings\71f23d9e-1ce2-323d-e73b-2f83dd05cd24.json
+2025-12-13 11:06:43 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2677660&include_external=true
+2025-12-13 11:06:44 - INFO: Created game file for EA SPORTS™ WRC at c:\Output\playnite\files\decksettings\d1cdf52d-5c33-3bd4-5245-eb42a86500d0.json
+2025-12-13 11:06:44 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1849250&include_external=true
+2025-12-13 11:06:45 - INFO: Created game file for Overthrown at c:\Output\playnite\files\decksettings\30627d28-b448-4664-4fd9-605b2e8bd6a3.json
+2025-12-13 11:06:45 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1133500&include_external=true
+2025-12-13 11:06:45 - INFO: Created game file for Aliens: Dark Descent at c:\Output\playnite\files\decksettings\b3e4256c-3e6d-d8a4-0a14-f88fb2010d37.json
+2025-12-13 11:06:45 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1150440&include_external=true
+2025-12-13 11:06:46 - INFO: Created game file for Nine Sols at c:\Output\playnite\files\decksettings\d4e9a0e5-70e0-2628-2862-f02741348091.json
+2025-12-13 11:06:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1809540&include_external=true
+2025-12-13 11:06:46 - INFO: Created game file for S.T.A.L.K.E.R. 2: Heart of Chornobyl at c:\Output\playnite\files\decksettings\3c51e660-8d68-8c95-c3ed-93bd1330c432.json
+2025-12-13 11:06:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1643320&include_external=true
+2025-12-13 11:06:46 - INFO: Created game file for Microsoft Flight Simulator 2024 at c:\Output\playnite\files\decksettings\26735054-4c90-4e90-f3ab-de803cb12474.json
+2025-12-13 11:06:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2537590&include_external=true
+2025-12-13 11:06:47 - INFO: Created game file for Goat Simulator: Remastered at c:\Output\playnite\files\decksettings\ba2e2d31-aa51-52ec-5703-e40ec58603cf.json
+2025-12-13 11:06:47 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1762930&include_external=true
+2025-12-13 11:06:48 - INFO: Created game file for Call of Duty®: Black Ops 6 at c:\Output\playnite\files\decksettings\af931dd1-c087-984e-c530-34a9c7889439.json
+2025-12-13 11:06:48 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2933620&include_external=true
+2025-12-13 11:06:48 - INFO: Created game file for Ashen at c:\Output\playnite\files\decksettings\985aa663-e762-3209-0a46-e357fd93d924.json
+2025-12-13 11:06:48 - https://deckverified.games/deck-verified/api/v1/game_details?appid=649950&include_external=true
+2025-12-13 11:06:49 - INFO: Created game file for Call of Duty®: Warzone™ at c:\Output\playnite\files\decksettings\6fc14afd-d408-407d-f71a-a88d94bcee0b.json
+2025-12-13 11:06:49 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1962663&include_external=true
+2025-12-13 11:06:49 - INFO: Created game file for Donut County at c:\Output\playnite\files\decksettings\194cdbcd-7646-ab28-bece-c10425d9e995.json
+2025-12-13 11:06:49 - https://deckverified.games/deck-verified/api/v1/game_details?appid=702670&include_external=true
+2025-12-13 11:06:50 - INFO: Created game file for MechWarrior 5: Clans at c:\Output\playnite\files\decksettings\e59d9272-0520-da60-ee50-ecee2ebbc87c.json
+2025-12-13 11:06:50 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2000890&include_external=true
+2025-12-13 11:06:50 - INFO: Created game file for South Park™: The Fractured But Whole™ at c:\Output\playnite\files\decksettings\0738e67b-3697-657f-a098-b65da1b32dec.json
+2025-12-13 11:06:50 - https://deckverified.games/deck-verified/api/v1/game_details?appid=488790&include_external=true
+2025-12-13 11:06:50 - INFO: Created game file for Inscryption at c:\Output\playnite\files\decksettings\d91fa0d2-1845-f339-5b82-5479ea0b358b.json
+2025-12-13 11:06:50 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1092790&include_external=true
+2025-12-13 11:06:51 - INFO: Created game file for Mad Streets at c:\Output\playnite\files\decksettings\0e49d1c6-1dc9-e004-8ddc-bd8f454a86cf.json
+2025-12-13 11:06:51 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1282760&include_external=true
+2025-12-13 11:06:52 - INFO: Created game file for Sifu at c:\Output\playnite\files\decksettings\5971c43a-a470-0108-9bbc-efac183c38cd.json
+2025-12-13 11:06:52 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2138710&include_external=true
+2025-12-13 11:06:52 - INFO: Created game file for Legend of Mana at c:\Output\playnite\files\decksettings\ad06f3aa-ca90-e092-612b-c425a91f7225.json
+2025-12-13 11:06:52 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1175830&include_external=true
+2025-12-13 11:06:53 - INFO: Created game file for Trials of Mana at c:\Output\playnite\files\decksettings\11b967e3-604e-35f4-3bd9-0e4de3bd2967.json
+2025-12-13 11:06:53 - https://deckverified.games/deck-verified/api/v1/game_details?appid=924980&include_external=true
+2025-12-13 11:06:54 - INFO: Created game file for Ara History Untold: Anniversary Edition  at c:\Output\playnite\files\decksettings\278bb9c6-05c2-7349-beb9-dc0faae4ccf1.json
+2025-12-13 11:06:54 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2021880&include_external=true
+2025-12-13 11:06:54 - INFO: Created game file for Overwatch® 2 at c:\Output\playnite\files\decksettings\8f2844e9-91c9-1851-5979-584eeccaf027.json
+2025-12-13 11:06:54 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2357570&include_external=true
+2025-12-13 11:06:55 - INFO: Created game file for Train Sim World® 5 at c:\Output\playnite\files\decksettings\ccdb4d9d-6ebc-38e3-d652-08eb8faba4d9.json
+2025-12-13 11:06:55 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2967990&include_external=true
+2025-12-13 11:06:55 - INFO: Created game file for Riders Republic at c:\Output\playnite\files\decksettings\b9ec45b8-f7e7-eda2-0e87-ec78cd304c07.json
+2025-12-13 11:06:55 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2290180&include_external=true
+2025-12-13 11:06:55 - INFO: Created game file for Expeditions: A MudRunner Game at c:\Output\playnite\files\decksettings\59980121-296c-d0a6-6a10-209b23bb1bab.json
+2025-12-13 11:06:55 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2477340&include_external=true
+2025-12-13 11:06:56 - INFO: Created game file for Age of Mythology: Retold at c:\Output\playnite\files\decksettings\d649a0a6-30a3-8f88-d32f-b2286fe69636.json
+2025-12-13 11:06:56 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1934680&include_external=true
+2025-12-13 11:06:57 - INFO: Created game file for Star Trucker at c:\Output\playnite\files\decksettings\10970d4d-e778-3360-64fc-186209a9ef76.json
+2025-12-13 11:06:57 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2380050&include_external=true
+2025-12-13 11:06:58 - INFO: Created game file for Creatures of Ava at c:\Output\playnite\files\decksettings\44204511-6786-028b-5288-d3dc59db8203.json
+2025-12-13 11:06:58 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2304440&include_external=true
+2025-12-13 11:06:59 - INFO: Created game file for Call of Duty®: Modern Warfare® III at c:\Output\playnite\files\decksettings\1897939c-5023-9d18-424c-ab57515b4f23.json
+2025-12-13 11:06:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3595270&include_external=true
+2025-12-13 11:06:59 - INFO: Created game file for Dungeons of Hinterberg at c:\Output\playnite\files\decksettings\2d158d1a-fe38-d924-3a36-4cb818434872.json
+2025-12-13 11:06:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1983260&include_external=true
+2025-12-13 11:06:59 - INFO: Created game file for Flintlock: The Siege of Dawn at c:\Output\playnite\files\decksettings\0d763ce0-f7b4-ca50-5ad3-5f38bf91e996.json
+2025-12-13 11:06:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1832040&include_external=true
+2025-12-13 11:07:00 - INFO: Created game file for Neon White at c:\Output\playnite\files\decksettings\d5d6316a-4ecd-22d4-6fc3-039a5c90f9b6.json
+2025-12-13 11:07:00 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1533420&include_external=true
+2025-12-13 11:07:00 - INFO: Created game file for Cricket 24 at c:\Output\playnite\files\decksettings\d57999f5-c07e-34dd-e2de-9a6e496c73a0.json
+2025-12-13 11:07:00 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2358260&include_external=true
+2025-12-13 11:07:01 - INFO: Created game file for Nickelodeon All-Star Brawl 2 at c:\Output\playnite\files\decksettings\19025a5e-d0d5-0590-023a-baa88ff8df19.json
+2025-12-13 11:07:01 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2017080&include_external=true
+2025-12-13 11:07:02 - INFO: Created game file for EA SPORTS FC™ 24 at c:\Output\playnite\files\decksettings\f5b17156-9b24-4d6b-ebf6-4a58bcf823db.json
+2025-12-13 11:07:02 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2195250&include_external=true
+2025-12-13 11:07:03 - INFO: Created game file for Moving Out 2 at c:\Output\playnite\files\decksettings\24fa40ec-7e90-9741-2aaf-e3f583cc6606.json
+2025-12-13 11:07:03 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1641700&include_external=true
+2025-12-13 11:07:04 - INFO: Created game file for Galacticare at c:\Output\playnite\files\decksettings\79e29471-8fe0-e46b-49b9-b3860620a36f.json
+2025-12-13 11:07:04 - https://deckverified.games/deck-verified/api/v1/game_details?appid=494730&include_external=true
+2025-12-13 11:07:04 - INFO: Created game file for Senua’s Saga: Hellblade II at c:\Output\playnite\files\decksettings\f4679e29-8051-1c40-5688-5fb84d471e18.json
+2025-12-13 11:07:04 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2461850&include_external=true
+2025-12-13 11:07:05 - INFO: Created game file for Immortals of Aveum™ at c:\Output\playnite\files\decksettings\86d4fead-0cb4-74cb-a25f-0e644e33bccb.json
+2025-12-13 11:07:05 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2009100&include_external=true
+2025-12-13 11:07:05 - INFO: Created game file for Little Kitty, Big City at c:\Output\playnite\files\decksettings\a1cd3947-f918-81ff-307b-114bfbd990dd.json
+2025-12-13 11:07:05 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1177980&include_external=true
+2025-12-13 11:07:06 - INFO: Created game file for Kona II: Brume at c:\Output\playnite\files\decksettings\b779472d-1a2a-c9e9-7beb-19a21fd63a28.json
+2025-12-13 11:07:06 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1229020&include_external=true
+2025-12-13 11:07:07 - INFO: Created game file for Have a Nice Death at c:\Output\playnite\files\decksettings\dd954056-8e39-1b54-f59e-7f3362a2be75.json
+2025-12-13 11:07:07 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1740720&include_external=true
+2025-12-13 11:07:08 - INFO: Created game file for The Rewinder at c:\Output\playnite\files\decksettings\e791a166-a668-4e75-5e3a-aadcf744c040.json
+2025-12-13 11:07:08 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1161170&include_external=true
+2025-12-13 11:07:08 - INFO: Created game file for Manor Lords at c:\Output\playnite\files\decksettings\9ba87b15-e45b-15fa-7c13-036998e85624.json
+2025-12-13 11:07:08 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1363080&include_external=true
+2025-12-13 11:07:09 - INFO: Created game file for Another Crab's Treasure at c:\Output\playnite\files\decksettings\f1a0a12f-d55e-21eb-e590-c2baafd9b786.json
+2025-12-13 11:07:09 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1887840&include_external=true
+2025-12-13 11:07:09 - INFO: Created game file for STAR WARS Jedi: Survivor™ at c:\Output\playnite\files\decksettings\a60e38ca-9ad4-6604-60e0-50a6e29c9d63.json
+2025-12-13 11:07:09 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1774580&include_external=true
+2025-12-13 11:07:09 - INFO: Created game file for Eiyuden Chronicle: Hundred Heroes at c:\Output\playnite\files\decksettings\8c865c84-c145-fd84-39b6-58badb1b45ee.json
+2025-12-13 11:07:09 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1658280&include_external=true
+2025-12-13 11:07:10 - INFO: Created game file for Populous™: The Beginning at c:\Output\playnite\files\decksettings\78a6ca43-f537-40f2-0175-603c1a5150b2.json
+2025-12-13 11:07:10 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2616430&include_external=true
+2025-12-13 11:07:11 - INFO: Created game file for Sid Meier's Alpha Centauri™ Planetary Pack at c:\Output\playnite\files\decksettings\320ad2d2-7c3f-544f-a384-c267e92a1f80.json
+2025-12-13 11:07:11 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2204130&include_external=true
+2025-12-13 11:07:13 - INFO: Created game file for SimCity™ 3000 Unlimited at c:\Output\playnite\files\decksettings\02d80e2d-7d1e-d298-6b12-64f65e0b3187.json
+2025-12-13 11:07:13 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2741560&include_external=true
+2025-12-13 11:07:13 - INFO: Created game file for EA SPORTS™ PGA TOUR™ at c:\Output\playnite\files\decksettings\8587be3d-d5a6-c6d6-0d2c-63dd6066a40e.json
+2025-12-13 11:07:13 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1677350&include_external=true
+2025-12-13 11:07:14 - INFO: Created game file for SUPERHOT: MIND CONTROL DELETE at c:\Output\playnite\files\decksettings\9455836a-e210-63e4-5228-3b1d3260a94c.json
+2025-12-13 11:07:14 - https://deckverified.games/deck-verified/api/v1/game_details?appid=690040&include_external=true
+2025-12-13 11:07:15 - INFO: Created game file for ARK: Survival Ascended at c:\Output\playnite\files\decksettings\d0450212-b988-bffb-fde1-6cbedce192a0.json
+2025-12-13 11:07:15 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2399830&include_external=true
+2025-12-13 11:07:15 - INFO: Created game file for Diablo® IV at c:\Output\playnite\files\decksettings\4b674bd1-8acd-48b8-36d3-3a598f31cd97.json
+2025-12-13 11:07:15 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2344520&include_external=true
+2025-12-13 11:07:16 - INFO: Created game file for Terra Invicta at c:\Output\playnite\files\decksettings\7d535853-5329-787a-3ffb-5e4ce32eabd8.json
+2025-12-13 11:07:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1176470&include_external=true
+2025-12-13 11:07:16 - INFO: Created game file for Lightyear Frontier at c:\Output\playnite\files\decksettings\268c4b87-76ab-f927-0546-43e0fa923d6a.json
+2025-12-13 11:07:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1677110&include_external=true
+2025-12-13 11:07:17 - INFO: Created game file for Bluey: The Videogame at c:\Output\playnite\files\decksettings\c77eaa81-1198-3298-485e-0c329e46f972.json
+2025-12-13 11:07:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2078350&include_external=true
+2025-12-13 11:07:17 - INFO: Created game file for Dead Island 2 at c:\Output\playnite\files\decksettings\75976a8e-a7f7-4cce-f5fb-84862c8378e8.json
+2025-12-13 11:07:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=934700&include_external=true
+2025-12-13 11:07:18 - INFO: Created game file for PlateUp! at c:\Output\playnite\files\decksettings\f55e529f-29cd-957d-ef3d-b7e1d3922674.json
+2025-12-13 11:07:18 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1599600&include_external=true
+2025-12-13 11:07:18 - INFO: Created game file for Resident Evil 3 at c:\Output\playnite\files\decksettings\bc7f0c36-f9d1-d9b6-8f22-b8f39e8f22ac.json
+2025-12-13 11:07:18 - https://deckverified.games/deck-verified/api/v1/game_details?appid=952060&include_external=true
+2025-12-13 11:07:20 - INFO: Created game file for Madden NFL 24 at c:\Output\playnite\files\decksettings\6d99749c-5d4c-b564-3275-ed87857f9cb2.json
+2025-12-13 11:07:20 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2140330&include_external=true
+2025-12-13 11:07:20 - INFO: Created game file for Brotato at c:\Output\playnite\files\decksettings\1d7a0d2f-626f-93b8-8765-183dbca0e8e5.json
+2025-12-13 11:07:20 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1942280&include_external=true
+2025-12-13 11:07:21 - INFO: Created game file for Go Mecha Ball at c:\Output\playnite\files\decksettings\0a6155eb-00de-8412-c7de-81c02969ddc0.json
+2025-12-13 11:07:21 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2008510&include_external=true
+2025-12-13 11:07:22 - INFO: Created game file for Palworld at c:\Output\playnite\files\decksettings\7aaa0889-b185-ec2e-548d-942e344f1fba.json
+2025-12-13 11:07:22 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1623730&include_external=true
+2025-12-13 11:07:22 - INFO: Created game file for F1® 23 at c:\Output\playnite\files\decksettings\6e06a72c-4c17-e4b3-72fd-d847d7d71609.json
+2025-12-13 11:07:22 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2108330&include_external=true
+2025-12-13 11:07:23 - INFO: Created game file for Resident Evil 2 at c:\Output\playnite\files\decksettings\8c93d7fe-6377-1b47-263b-93380b5b9300.json
+2025-12-13 11:07:23 - https://deckverified.games/deck-verified/api/v1/game_details?appid=883710&include_external=true
+2025-12-13 11:07:24 - INFO: Created game file for Super Mega Baseball™ 4 at c:\Output\playnite\files\decksettings\7a69928d-a0ed-8f0f-73bb-3b2b025c5a8b.json
+2025-12-13 11:07:24 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1487210&include_external=true
+2025-12-13 11:07:25 - INFO: Created game file for We Happy Few at c:\Output\playnite\files\decksettings\c980b47b-6bb0-a6fd-e821-51d8daa57f36.json
+2025-12-13 11:07:25 - https://deckverified.games/deck-verified/api/v1/game_details?appid=320240&include_external=true
+2025-12-13 11:07:25 - INFO: Created game file for Assassin's Creed Valhalla at c:\Output\playnite\files\decksettings\772460d3-4e48-8304-4500-42dd10b67a38.json
+2025-12-13 11:07:25 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2208920&include_external=true
+2025-12-13 11:07:25 - INFO: Created game file for Far Cry® 6 at c:\Output\playnite\files\decksettings\dbc2a9ab-318f-8dc9-b937-eb3c08982839.json
+2025-12-13 11:07:25 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2369390&include_external=true
+2025-12-13 11:07:26 - INFO: Created game file for Against the Storm at c:\Output\playnite\files\decksettings\50840aff-d0b2-f1aa-f753-f88c6e03fc5b.json
+2025-12-13 11:07:26 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1336490&include_external=true
+2025-12-13 11:07:26 - INFO: Created game file for Goat Simulator 3 at c:\Output\playnite\files\decksettings\4cb25c2f-0fd0-4a70-8128-504ffbb27b80.json
+2025-12-13 11:07:26 - https://deckverified.games/deck-verified/api/v1/game_details?appid=850190&include_external=true
+2025-12-13 11:07:27 - INFO: Created game file for Clone Drone in the Danger Zone at c:\Output\playnite\files\decksettings\a935e1a7-4d62-e25a-f666-ed01adc7208b.json
+2025-12-13 11:07:27 - https://deckverified.games/deck-verified/api/v1/game_details?appid=597170&include_external=true
+2025-12-13 11:07:27 - INFO: Created game file for World War Z at c:\Output\playnite\files\decksettings\165d0ab8-5fd4-76b2-0577-72c9d72d2b1c.json
+2025-12-13 11:07:27 - https://deckverified.games/deck-verified/api/v1/game_details?appid=699130&include_external=true
+2025-12-13 11:07:28 - INFO: Created game file for Spirittea at c:\Output\playnite\files\decksettings\55ebddbe-b153-4ea0-26b9-31d9a4795095.json
+2025-12-13 11:07:28 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1931010&include_external=true
+2025-12-13 11:07:29 - INFO: Created game file for WILD HEARTS™ at c:\Output\playnite\files\decksettings\5d3bfcd1-c3f3-a074-4b3d-75ba91259ea6.json
+2025-12-13 11:07:29 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1938010&include_external=true
+2025-12-13 11:07:30 - INFO: Created game file for Football Manager 2024 at c:\Output\playnite\files\decksettings\ccbd85b7-c758-c602-a155-f9cccc985353.json
+2025-12-13 11:07:30 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2252570&include_external=true
+2025-12-13 11:07:31 - INFO: Created game file for Thirsty Suitors at c:\Output\playnite\files\decksettings\e06ae7e8-a80b-25fe-cb78-b84307eff8ed.json
+2025-12-13 11:07:31 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1617220&include_external=true
+2025-12-13 11:07:31 - INFO: Created game file for Wartales at c:\Output\playnite\files\decksettings\311af0cc-d11b-61e7-09ef-b3680d7f9262.json
+2025-12-13 11:07:31 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1527950&include_external=true
+2025-12-13 11:07:32 - INFO: Created game file for Dead Space at c:\Output\playnite\files\decksettings\cd9856d4-3699-5799-149c-6d241a855aea.json
+2025-12-13 11:07:32 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1693980&include_external=true
+2025-12-13 11:07:33 - INFO: Created game file for Cities: Skylines II at c:\Output\playnite\files\decksettings\59fe6e04-6228-18ab-8a20-9fcee338cd06.json
+2025-12-13 11:07:33 - https://deckverified.games/deck-verified/api/v1/game_details?appid=949230&include_external=true
+2025-12-13 11:07:33 - INFO: Created game file for Forza Motorsport at c:\Output\playnite\files\decksettings\bacfb535-0eb8-4040-0aed-5506e2a775a9.json
+2025-12-13 11:07:33 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2440510&include_external=true
+2025-12-13 11:07:34 - INFO: Created game file for Spiritfarer®: Farewell Edition at c:\Output\playnite\files\decksettings\c9028b60-222b-b3e2-0112-507b74b6c7f0.json
+2025-12-13 11:07:34 - https://deckverified.games/deck-verified/api/v1/game_details?appid=972660&include_external=true
+2025-12-13 11:07:34 - INFO: Created game file for Starfield at c:\Output\playnite\files\decksettings\ad2b6ecf-c0de-4720-8ca0-e599baa3f465.json
+2025-12-13 11:07:34 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1716740&include_external=true
+2025-12-13 11:07:34 - INFO: Created game file for Call of the Wild: The Angler™ at c:\Output\playnite\files\decksettings\d2b6df7e-2618-2db0-39b8-eb400ddac9e7.json
+2025-12-13 11:07:34 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1408610&include_external=true
+2025-12-13 11:07:35 - INFO: Created game file for Firewatch at c:\Output\playnite\files\decksettings\61e1b2b6-a74c-2a5e-5d9c-5f180df0d155.json
+2025-12-13 11:07:35 - https://deckverified.games/deck-verified/api/v1/game_details?appid=383870&include_external=true
+2025-12-13 11:07:35 - INFO: Created game file for LIMBO at c:\Output\playnite\files\decksettings\9861fd1e-4cbe-c25f-1b50-95f184b9f92c.json
+2025-12-13 11:07:35 - https://deckverified.games/deck-verified/api/v1/game_details?appid=48000&include_external=true
+2025-12-13 11:07:36 - INFO: Created game file for Celeste at c:\Output\playnite\files\decksettings\618879eb-0cff-7383-354c-0e8419fc86b7.json
+2025-12-13 11:07:36 - https://deckverified.games/deck-verified/api/v1/game_details?appid=504230&include_external=true
+2025-12-13 11:07:37 - INFO: Created game file for Techtonica at c:\Output\playnite\files\decksettings\4b4e1fd2-ed62-85c4-f7dd-4a36e02e985a.json
+2025-12-13 11:07:37 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1457320&include_external=true
+2025-12-13 11:07:37 - INFO: Created game file for The Cave at c:\Output\playnite\files\decksettings\25530801-3ba5-f600-b7cb-0475b6870ba7.json
+2025-12-13 11:07:37 - https://deckverified.games/deck-verified/api/v1/game_details?appid=221810&include_external=true
+2025-12-13 11:07:38 - INFO: Created game file for Need for Speed™ Unbound at c:\Output\playnite\files\decksettings\bf2f55b5-6dda-5eed-12e8-59254b38b112.json
+2025-12-13 11:07:38 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1846380&include_external=true
+2025-12-13 11:07:38 - INFO: Created game file for Stacking at c:\Output\playnite\files\decksettings\22fafc8a-3024-3bb9-81a9-5279627ce198.json
+2025-12-13 11:07:38 - https://deckverified.games/deck-verified/api/v1/game_details?appid=115110&include_external=true
+2025-12-13 11:07:39 - INFO: Created game file for Car Mechanic Simulator 2021 at c:\Output\playnite\files\decksettings\3d9f87da-5b70-ca66-ce0d-4d2bc3a194e0.json
+2025-12-13 11:07:39 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1190000&include_external=true
+2025-12-13 11:07:40 - INFO: Created game file for MASSIVE CHALICE at c:\Output\playnite\files\decksettings\1fee4108-8470-96ec-6a45-b885ba54bc45.json
+2025-12-13 11:07:40 - https://deckverified.games/deck-verified/api/v1/game_details?appid=246110&include_external=true
+2025-12-13 11:07:40 - INFO: Created game file for Planet of Lana at c:\Output\playnite\files\decksettings\e1b8336c-d2ca-fd3d-7ad2-5d0a40d45046.json
+2025-12-13 11:07:40 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1608230&include_external=true
+2025-12-13 11:07:41 - INFO: Created game file for Redfall at c:\Output\playnite\files\decksettings\55fb686c-9a4e-06cd-d215-190a95992056.json
+2025-12-13 11:07:41 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1294810&include_external=true
+2025-12-13 11:07:42 - INFO: Created game file for The Last Case of Benedict Fox Definitive Edition at c:\Output\playnite\files\decksettings\1ed3cb5f-1055-5e1c-1d7d-ff549fa84e8a.json
+2025-12-13 11:07:42 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2023360&include_external=true
+2025-12-13 11:07:43 - INFO: Created game file for Minecraft Legends at c:\Output\playnite\files\decksettings\009e554e-00ad-28b7-61f1-00a001eb5cc3.json
+2025-12-13 11:07:43 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1928870&include_external=true
+2025-12-13 11:07:43 - INFO: Created game file for Ghostwire: Tokyo at c:\Output\playnite\files\decksettings\d884b4c1-54ce-390a-4761-47258a3d8d1a.json
+2025-12-13 11:07:43 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1475810&include_external=true
+2025-12-13 11:07:44 - INFO: Created game file for Iron Brigade at c:\Output\playnite\files\decksettings\373f6ea5-da23-4ca0-5396-2ebca402da73.json
+2025-12-13 11:07:44 - https://deckverified.games/deck-verified/api/v1/game_details?appid=115120&include_external=true
+2025-12-13 11:07:46 - INFO: Created game file for Ni no Kuni™ II: Revenant Kingdom at c:\Output\playnite\files\decksettings\2c754145-f6a1-4fe2-a1c6-086b21263c60.json
+2025-12-13 11:07:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=589360&include_external=true
+2025-12-13 11:07:46 - INFO: Created game file for Mount & Blade II: Bannerlord at c:\Output\playnite\files\decksettings\0d28f76f-0277-c424-3800-21afc11eff75.json
+2025-12-13 11:07:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=261550&include_external=true
+2025-12-13 11:07:46 - INFO: Created game file for Hi-Fi RUSH at c:\Output\playnite\files\decksettings\d94f1c5a-d597-ef03-e323-2496ca4c95b2.json
+2025-12-13 11:07:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1817230&include_external=true
+2025-12-13 11:07:47 - INFO: Created game file for Crysis 2 Remastered at c:\Output\playnite\files\decksettings\40f4ea7a-295c-9721-3d3c-cfdf145233bd.json
+2025-12-13 11:07:47 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2096600&include_external=true
+2025-12-13 11:07:47 - INFO: Created game file for Crysis 3 Remastered at c:\Output\playnite\files\decksettings\ddf8441f-d9e8-80be-3ccc-08944acfa3e3.json
+2025-12-13 11:07:47 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2096610&include_external=true
+2025-12-13 11:07:48 - INFO: Created game file for LEGO® Star Wars™: The Skywalker Saga at c:\Output\playnite\files\decksettings\3efcd4f4-9921-00f9-570d-3065a6ccf5ba.json
+2025-12-13 11:07:48 - https://deckverified.games/deck-verified/api/v1/game_details?appid=920210&include_external=true
+2025-12-13 11:07:49 - INFO: Created game file for The Walking Dead: The Final Season at c:\Output\playnite\files\decksettings\b167e0b8-5060-cdba-b900-0ea155d91806.json
+2025-12-13 11:07:49 - https://deckverified.games/deck-verified/api/v1/game_details?appid=866800&include_external=true
+2025-12-13 11:07:49 - INFO: Created game file for Warhammer 40,000: Darktide at c:\Output\playnite\files\decksettings\a5919c08-fb2e-6742-a5fb-aa075c64eac6.json
+2025-12-13 11:07:49 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1361210&include_external=true
+2025-12-13 11:07:53 - INFO: Created game file for Battlefield™ 2042 at c:\Output\playnite\files\decksettings\b09a7431-e063-085d-6b37-05e0a54f68c9.json
+2025-12-13 11:07:53 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1517290&include_external=true
+2025-12-13 11:07:53 - INFO: Created game file for Pentiment at c:\Output\playnite\files\decksettings\4e946b87-1957-76ca-5066-7ec2ede010b4.json
+2025-12-13 11:07:53 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1205520&include_external=true
+2025-12-13 11:07:54 - INFO: Created game file for A Plague Tale: Requiem at c:\Output\playnite\files\decksettings\2d50ed45-103e-b148-c860-ea65905a8811.json
+2025-12-13 11:07:54 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1182900&include_external=true
+2025-12-13 11:07:54 - INFO: Created game file for Costume Quest at c:\Output\playnite\files\decksettings\4cac284e-565d-9608-042f-92b06dd63ee7.json
+2025-12-13 11:07:54 - https://deckverified.games/deck-verified/api/v1/game_details?appid=115100&include_external=true
+2025-12-13 11:07:55 - INFO: Created game file for DEATHLOOP at c:\Output\playnite\files\decksettings\a7b9b247-840b-133e-57a3-6325108ffbb8.json
+2025-12-13 11:07:55 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1252330&include_external=true
+2025-12-13 11:07:55 - INFO: Created game file for Assassin's Creed® Odyssey at c:\Output\playnite\files\decksettings\d1f0c4f2-794c-714a-99a8-4686f0e0bff9.json
+2025-12-13 11:07:55 - https://deckverified.games/deck-verified/api/v1/game_details?appid=812140&include_external=true
+2025-12-13 11:07:55 - INFO: Created game file for Ni no Kuni Wrath of the White Witch™ Remastered at c:\Output\playnite\files\decksettings\8f74765d-b10c-1cbb-8235-230394359b03.json
+2025-12-13 11:07:55 - https://deckverified.games/deck-verified/api/v1/game_details?appid=798460&include_external=true
+2025-12-13 11:07:56 - INFO: Created game file for GRID Legends at c:\Output\playnite\files\decksettings\06d8f39e-c26b-4d55-098c-d6e2f0459584.json
+2025-12-13 11:07:56 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1307710&include_external=true
+2025-12-13 11:07:56 - INFO: Created game file for Immortals Fenyx Rising at c:\Output\playnite\files\decksettings\44988e4b-093a-eefc-5105-f8fd06846500.json
+2025-12-13 11:07:56 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2221920&include_external=true
+2025-12-13 11:07:57 - INFO: Created game file for An Elder Scrolls Legend: Battlespire at c:\Output\playnite\files\decksettings\5056ada4-6144-cbf2-3644-39ad06d70048.json
+2025-12-13 11:07:57 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1812420&include_external=true
+2025-12-13 11:07:59 - INFO: Created game file for The Elder Scrolls Adventures: Redguard at c:\Output\playnite\files\decksettings\e19796f5-88c4-62a9-bf5c-3576ee3e7d82.json
+2025-12-13 11:07:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1812410&include_external=true
+2025-12-13 11:07:59 - INFO: Created game file for Return to Castle Wolfenstein at c:\Output\playnite\files\decksettings\6677b259-77f8-7a8c-6283-454f495a6183.json
+2025-12-13 11:07:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=9010&include_external=true
+2025-12-13 11:07:59 - INFO: Created game file for Quake 4 at c:\Output\playnite\files\decksettings\a5447dc7-c0fc-7f53-26b0-20ec371928d7.json
+2025-12-13 11:07:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2210&include_external=true
+2025-12-13 11:08:00 - INFO: Created game file for Cooking Simulator at c:\Output\playnite\files\decksettings\bf1ab8bd-29f7-ec93-a165-5295a5365255.json
+2025-12-13 11:08:00 - https://deckverified.games/deck-verified/api/v1/game_details?appid=641320&include_external=true
+2025-12-13 11:08:01 - INFO: Created game file for Tom Clancy's Ghost Recon® Wildlands at c:\Output\playnite\files\decksettings\3b6ca13b-8479-2c96-0de3-ee4462b21da6.json
+2025-12-13 11:08:01 - https://deckverified.games/deck-verified/api/v1/game_details?appid=460930&include_external=true
+2025-12-13 11:08:01 - INFO: Created game file for INSIDE at c:\Output\playnite\files\decksettings\0eeb65a6-38c8-1a2a-926a-587d6b8f895d.json
+2025-12-13 11:08:01 - https://deckverified.games/deck-verified/api/v1/game_details?appid=304430&include_external=true
+2025-12-13 11:08:02 - INFO: Created game file for As Dusk Falls at c:\Output\playnite\files\decksettings\59b6e517-f5f5-8da6-4e1d-98a3428f56f5.json
+2025-12-13 11:08:02 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1341820&include_external=true
+2025-12-13 11:08:03 - INFO: Created game file for Watch_Dogs® 2 at c:\Output\playnite\files\decksettings\519b9850-1b94-1f96-0758-bbbc390f065e.json
+2025-12-13 11:08:03 - https://deckverified.games/deck-verified/api/v1/game_details?appid=447040&include_external=true
+2025-12-13 11:08:03 - INFO: Created game file for PowerWash Simulator at c:\Output\playnite\files\decksettings\7ac8248d-70ef-58a4-baf5-7bfba0fcf807.json
+2025-12-13 11:08:03 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1290000&include_external=true
+2025-12-13 11:08:03 - INFO: Created game file for Far Cry® 5 at c:\Output\playnite\files\decksettings\592ccfdb-a738-d51d-4e12-616b7886ac97.json
+2025-12-13 11:08:03 - https://deckverified.games/deck-verified/api/v1/game_details?appid=552520&include_external=true
+2025-12-13 11:08:04 - INFO: Created game file for House Flipper at c:\Output\playnite\files\decksettings\7c1f59b1-a6ac-83d0-c709-b1163de217ed.json
+2025-12-13 11:08:04 - https://deckverified.games/deck-verified/api/v1/game_details?appid=613100&include_external=true
+2025-12-13 11:08:04 - INFO: Created game file for Assassin's Creed® Origins at c:\Output\playnite\files\decksettings\20f1cc6d-d553-f33b-af94-e2cc101fd114.json
+2025-12-13 11:08:04 - https://deckverified.games/deck-verified/api/v1/game_details?appid=582160&include_external=true
+2025-12-13 11:08:05 - INFO: Created game file for Sniper Elite 5 at c:\Output\playnite\files\decksettings\f736e6a9-06b7-b52b-7a32-fa1cf57268b0.json
+2025-12-13 11:08:05 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1029690&include_external=true
+2025-12-13 11:08:05 - INFO: Created game file for Vampire Survivors at c:\Output\playnite\files\decksettings\f91cbfd7-4d3f-1f96-af9a-bb6696bc448d.json
+2025-12-13 11:08:05 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1794680&include_external=true
+2025-12-13 11:08:05 - INFO: Created game file for Jurassic World Evolution 2 at c:\Output\playnite\files\decksettings\d6192cc6-2c18-af0b-05b6-e6ea72407cff.json
+2025-12-13 11:08:05 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1244460&include_external=true
+2025-12-13 11:08:06 - INFO: Created game file for Citizen Sleeper at c:\Output\playnite\files\decksettings\ef9527e6-1760-b71b-4cdb-f9589fc7f56d.json
+2025-12-13 11:08:06 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1578650&include_external=true
+2025-12-13 11:08:06 - INFO: Created game file for Teenage Mutant Ninja Turtles: Shredder's Revenge at c:\Output\playnite\files\decksettings\dbc1f5da-80a7-9d4a-0e00-35f4a70416d7.json
+2025-12-13 11:08:06 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1361510&include_external=true
+2025-12-13 11:08:07 - INFO: Created game file for Lost in Random™ at c:\Output\playnite\files\decksettings\d5d90505-1e3b-9a7c-82b3-c83627a17fe0.json
+2025-12-13 11:08:07 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1462570&include_external=true
+2025-12-13 11:08:07 - INFO: Created game file for TUNIC at c:\Output\playnite\files\decksettings\3a4c14b8-3b4c-0403-2147-6f1380e934b8.json
+2025-12-13 11:08:07 - https://deckverified.games/deck-verified/api/v1/game_details?appid=553420&include_external=true
+2025-12-13 11:08:08 - INFO: Created game file for Super Mega Baseball 3 at c:\Output\playnite\files\decksettings\abac557c-ad11-7c70-0cdf-d3e3527a781b.json
+2025-12-13 11:08:08 - https://deckverified.games/deck-verified/api/v1/game_details?appid=988910&include_external=true
+2025-12-13 11:08:08 - INFO: Created game file for Contrast at c:\Output\playnite\files\decksettings\78435bbf-af81-dfed-dbe2-276ec2628082.json
+2025-12-13 11:08:08 - https://deckverified.games/deck-verified/api/v1/game_details?appid=224460&include_external=true
+2025-12-13 11:08:09 - INFO: Created game file for Peggle™ Nights at c:\Output\playnite\files\decksettings\815e5e59-d179-8aeb-c6a5-62337dc688b7.json
+2025-12-13 11:08:09 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3540&include_external=true
+2025-12-13 11:08:10 - INFO: Created game file for Broken Age at c:\Output\playnite\files\decksettings\9e620a27-ad81-41ea-e572-173d2d020dd4.json
+2025-12-13 11:08:10 - https://deckverified.games/deck-verified/api/v1/game_details?appid=232790&include_external=true
+2025-12-13 11:08:10 - INFO: Created game file for The Gunk at c:\Output\playnite\files\decksettings\50c06522-06c4-a570-b088-24ec8a5033be.json
+2025-12-13 11:08:10 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1087760&include_external=true
+2025-12-13 11:08:11 - INFO: Created game file for Halo Infinite at c:\Output\playnite\files\decksettings\20d88580-53b2-0e56-43c2-08dc0a01a362.json
+2025-12-13 11:08:11 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1240440&include_external=true
+2025-12-13 11:08:11 - INFO: Created game file for Stardew Valley at c:\Output\playnite\files\decksettings\8c255247-9f60-c134-7ee6-51f2a9782b90.json
+2025-12-13 11:08:11 - https://deckverified.games/deck-verified/api/v1/game_details?appid=413150&include_external=true
+2025-12-13 11:08:11 - INFO: Created game file for Forza Horizon 5 at c:\Output\playnite\files\decksettings\f38f41c8-d4cd-4811-81e9-92c000be9819.json
+2025-12-13 11:08:11 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1551360&include_external=true
+2025-12-13 11:08:12 - INFO: Created game file for It Takes Two at c:\Output\playnite\files\decksettings\92e4c68d-72a1-d197-6a95-3d5458d7e2b1.json
+2025-12-13 11:08:12 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1426210&include_external=true
+2025-12-13 11:08:12 - INFO: Created game file for Unpacking at c:\Output\playnite\files\decksettings\67a5fbb3-f398-51c0-d88b-99e8c6d430e0.json
+2025-12-13 11:08:12 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1135690&include_external=true
+2025-12-13 11:08:13 - INFO: Created game file for Crysis Remastered at c:\Output\playnite\files\decksettings\28e6217d-1789-f75a-c319-72e2f6a83db3.json
+2025-12-13 11:08:13 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1715130&include_external=true
+2025-12-13 11:08:13 - INFO: Created game file for Superliminal at c:\Output\playnite\files\decksettings\13c19878-6416-3fc4-2256-ae1d4ee473e3.json
+2025-12-13 11:08:13 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1049410&include_external=true
+2025-12-13 11:08:14 - INFO: Created game file for Psychonauts 2 at c:\Output\playnite\files\decksettings\534dbe9c-a79d-1f85-8715-cf318c80a40e.json
+2025-12-13 11:08:14 - https://deckverified.games/deck-verified/api/v1/game_details?appid=607080&include_external=true
+2025-12-13 11:08:14 - INFO: Created game file for Quake at c:\Output\playnite\files\decksettings\1ecd23c2-db4c-0b67-fbe6-ec666e7f9c0c.json
+2025-12-13 11:08:14 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2310&include_external=true
+2025-12-13 11:08:14 - INFO: Created game file for Quake II at c:\Output\playnite\files\decksettings\aa76246a-9c5f-885f-ed4a-24b92d9a88be.json
+2025-12-13 11:08:14 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2320&include_external=true
+2025-12-13 11:08:16 - INFO: Created game file for Quake III Arena at c:\Output\playnite\files\decksettings\fe35be1a-7611-6747-0d20-cc3e59d4b81e.json
+2025-12-13 11:08:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2200&include_external=true
+2025-12-13 11:08:16 - INFO: Created game file for DiRT Rally 2.0 at c:\Output\playnite\files\decksettings\fd22bcb4-e1e1-a474-a389-1d4a50bc3851.json
+2025-12-13 11:08:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=690790&include_external=true
+2025-12-13 11:08:16 - INFO: Created game file for Gang Beasts at c:\Output\playnite\files\decksettings\23a7e3b2-ef6c-f409-6def-0f2091ae03ae.json
+2025-12-13 11:08:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=285900&include_external=true
+2025-12-13 11:08:17 - INFO: Created game file for Need for Speed™ Hot Pursuit Remastered at c:\Output\playnite\files\decksettings\31bd5b3c-7c64-e50e-57eb-6cc242db62b6.json
+2025-12-13 11:08:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1328660&include_external=true
+2025-12-13 11:08:17 - INFO: Created game file for Medieval Dynasty at c:\Output\playnite\files\decksettings\c0d88c49-e0dd-621f-9843-5cc9cbd54fa3.json
+2025-12-13 11:08:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1129580&include_external=true
+2025-12-13 11:08:18 - INFO: Created game file for Arx Fatalis at c:\Output\playnite\files\decksettings\28d8b4d1-96e2-1cd0-f942-92a6eff7da45.json
+2025-12-13 11:08:18 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1700&include_external=true
+2025-12-13 11:08:18 - INFO: Created game file for Dishonored®: Death of the Outsider™ at c:\Output\playnite\files\decksettings\0dd54e12-d9c1-9986-8ed1-71e630a3e605.json
+2025-12-13 11:08:18 - https://deckverified.games/deck-verified/api/v1/game_details?appid=614570&include_external=true
+2025-12-13 11:08:19 - INFO: Created game file for Fallout: A Post Nuclear Role Playing Game at c:\Output\playnite\files\decksettings\48b85038-bbf9-4b6a-a22f-07864bebdf1c.json
+2025-12-13 11:08:19 - https://deckverified.games/deck-verified/api/v1/game_details?appid=38400&include_external=true
+2025-12-13 11:08:19 - INFO: Created game file for Fallout 2: A Post Nuclear Role Playing Game at c:\Output\playnite\files\decksettings\3e4f3e51-b3d0-60dc-d1cc-596224bcdab9.json
+2025-12-13 11:08:19 - https://deckverified.games/deck-verified/api/v1/game_details?appid=38410&include_external=true
+2025-12-13 11:08:20 - INFO: Created game file for Fallout Tactics: Brotherhood of Steel at c:\Output\playnite\files\decksettings\511a868b-839e-ae35-fd21-c53fa54c2df3.json
+2025-12-13 11:08:20 - https://deckverified.games/deck-verified/api/v1/game_details?appid=38420&include_external=true
+2025-12-13 11:08:20 - INFO: Created game file for The Evil Within 2 at c:\Output\playnite\files\decksettings\5e43e3e0-f07d-b468-487e-e492b8c1442e.json
+2025-12-13 11:08:20 - https://deckverified.games/deck-verified/api/v1/game_details?appid=601430&include_external=true
+2025-12-13 11:08:20 - INFO: Created game file for SnowRunner at c:\Output\playnite\files\decksettings\165b282f-3f52-98ef-3468-4d7251cea6a6.json
+2025-12-13 11:08:20 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1465360&include_external=true
+2025-12-13 11:08:21 - INFO: Created game file for Psychonauts at c:\Output\playnite\files\decksettings\4a101408-1c33-b765-b3c2-8c0b9ef1631b.json
+2025-12-13 11:08:21 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3830&include_external=true
+2025-12-13 11:08:21 - INFO: Created game file for Zombie Army 4: Dead War at c:\Output\playnite\files\decksettings\f06dd6bf-21db-45f2-56a8-edd86c47481d.json
+2025-12-13 11:08:21 - https://deckverified.games/deck-verified/api/v1/game_details?appid=694280&include_external=true
+2025-12-13 11:08:23 - INFO: Created game file for Genesis Noir at c:\Output\playnite\files\decksettings\4779c646-4557-4f91-1ae2-7e2fd54dca75.json
+2025-12-13 11:08:23 - https://deckverified.games/deck-verified/api/v1/game_details?appid=735290&include_external=true
+2025-12-13 11:08:24 - INFO: Created game file for Dungeon Keeper™ 2 at c:\Output\playnite\files\decksettings\7b3e83a9-5cc1-ac57-63da-56900d5796de.json
+2025-12-13 11:08:24 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2616460&include_external=true
+2025-12-13 11:08:24 - INFO: Created game file for Jade Empire™: Special Edition at c:\Output\playnite\files\decksettings\4c000267-3be0-166e-518d-90f194e14ea5.json
+2025-12-13 11:08:24 - https://deckverified.games/deck-verified/api/v1/game_details?appid=7110&include_external=true
+2025-12-13 11:08:25 - INFO: Created game file for Need for Speed™ Most Wanted at c:\Output\playnite\files\decksettings\b05124eb-b3b8-b7a2-9239-ef5bef333e3e.json
+2025-12-13 11:08:25 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1262560&include_external=true
+2025-12-13 11:08:26 - INFO: Created game file for Populous™ at c:\Output\playnite\files\decksettings\c21434b2-9080-5948-b118-bad8f36c1f16.json
+2025-12-13 11:08:26 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2203860&include_external=true
+2025-12-13 11:08:27 - INFO: Created game file for Populous™ II: Trials of the Olympian Gods at c:\Output\playnite\files\decksettings\11564a63-04fc-d86c-127f-768b00abb62e.json
+2025-12-13 11:08:27 - https://deckverified.games/deck-verified/api/v1/game_details?appid=2616450&include_external=true
+2025-12-13 11:08:27 - INFO: Created game file for Rebel Galaxy at c:\Output\playnite\files\decksettings\dacd1ef7-ebf5-1e7a-3c2d-b4e316bc9fd0.json
+2025-12-13 11:08:27 - https://deckverified.games/deck-verified/api/v1/game_details?appid=290300&include_external=true
+2025-12-13 11:08:28 - INFO: Created game file for SPORE™ at c:\Output\playnite\files\decksettings\08263ff6-8fee-edd7-13ea-d8ea723cab3e.json
+2025-12-13 11:08:28 - https://deckverified.games/deck-verified/api/v1/game_details?appid=17390&include_external=true
+2025-12-13 11:08:28 - INFO: Created game file for STAR WARS™: Squadrons at c:\Output\playnite\files\decksettings\30064726-3682-ab44-f972-c70db1284b55.json
+2025-12-13 11:08:28 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1222730&include_external=true
+2025-12-13 11:08:29 - INFO: Created game file for The Saboteur™ at c:\Output\playnite\files\decksettings\46a3227f-cdc8-f837-2103-61bb5d467e36.json
+2025-12-13 11:08:29 - https://deckverified.games/deck-verified/api/v1/game_details?appid=24880&include_external=true
+2025-12-13 11:08:29 - INFO: Created game file for The Sims™ 3 at c:\Output\playnite\files\decksettings\cfd822af-d147-5d35-0fe2-afec35431ddc.json
+2025-12-13 11:08:29 - https://deckverified.games/deck-verified/api/v1/game_details?appid=47890&include_external=true
+2025-12-13 11:08:30 - INFO: Created game file for DOOM 3 at c:\Output\playnite\files\decksettings\ad0a4f9e-82f2-c5a4-4565-053d45e74877.json
+2025-12-13 11:08:30 - https://deckverified.games/deck-verified/api/v1/game_details?appid=9050&include_external=true
+2025-12-13 11:08:30 - INFO: Created game file for Generation Zero® at c:\Output\playnite\files\decksettings\61bfefec-583d-8c14-3b23-4092905d503f.json
+2025-12-13 11:08:30 - https://deckverified.games/deck-verified/api/v1/game_details?appid=704270&include_external=true
+2025-12-13 11:08:31 - INFO: Created game file for The Elder Scrolls III: Morrowind® Game of the Year Edition at c:\Output\playnite\files\decksettings\96acf184-08fe-e5fe-07b8-01d0c1aa9fca.json
+2025-12-13 11:08:31 - https://deckverified.games/deck-verified/api/v1/game_details?appid=22320&include_external=true
+2025-12-13 11:08:31 - INFO: Created game file for The Evil Within at c:\Output\playnite\files\decksettings\14565ac7-edb4-8263-2380-53d25ba2b7dc.json
+2025-12-13 11:08:31 - https://deckverified.games/deck-verified/api/v1/game_details?appid=268050&include_external=true
+2025-12-13 11:08:32 - INFO: Created game file for Wolfenstein: The Old Blood at c:\Output\playnite\files\decksettings\96c097fb-0b0e-5faf-e7e2-1769878aab22.json
+2025-12-13 11:08:32 - https://deckverified.games/deck-verified/api/v1/game_details?appid=350080&include_external=true
+2025-12-13 11:08:32 - INFO: Created game file for DIRT 5 at c:\Output\playnite\files\decksettings\8a0fa82b-f5b9-66ac-0f04-c149295f415b.json
+2025-12-13 11:08:32 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1038250&include_external=true
+2025-12-13 11:08:33 - INFO: Created game file for Wreckfest at c:\Output\playnite\files\decksettings\87b29fb7-7900-de8a-8b43-c42b4a46d6f3.json
+2025-12-13 11:08:33 - https://deckverified.games/deck-verified/api/v1/game_details?appid=228380&include_external=true
+2025-12-13 11:08:33 - INFO: Created game file for Injustice™ 2 at c:\Output\playnite\files\decksettings\561a6bb7-3586-f8f0-bcdf-3b60a2a6ad86.json
+2025-12-13 11:08:33 - https://deckverified.games/deck-verified/api/v1/game_details?appid=627270&include_external=true
+2025-12-13 11:08:33 - INFO: Created game file for Among Us at c:\Output\playnite\files\decksettings\af160554-1a20-3d28-658f-ff3489748d7a.json
+2025-12-13 11:08:33 - https://deckverified.games/deck-verified/api/v1/game_details?appid=945360&include_external=true
+2025-12-13 11:08:34 - INFO: Created game file for The Elder Scrolls V: Skyrim Special Edition at c:\Output\playnite\files\decksettings\e53485a5-b4e7-7e2b-b277-93d40775f552.json
+2025-12-13 11:08:34 - https://deckverified.games/deck-verified/api/v1/game_details?appid=489830&include_external=true
+2025-12-13 11:08:34 - INFO: Created game file for Monster Sanctuary at c:\Output\playnite\files\decksettings\be7da363-003e-ce8e-291b-fa66c6ce834a.json
+2025-12-13 11:08:34 - https://deckverified.games/deck-verified/api/v1/game_details?appid=814370&include_external=true
+2025-12-13 11:08:35 - INFO: Created game file for Starbound at c:\Output\playnite\files\decksettings\2aecc3b1-8298-f302-7c30-523569712a9e.json
+2025-12-13 11:08:35 - https://deckverified.games/deck-verified/api/v1/game_details?appid=211820&include_external=true
+2025-12-13 11:08:36 - INFO: Created game file for Halo 4 at c:\Output\playnite\files\decksettings\feed8a39-36a6-fe11-cb58-969fe0ba7ea3.json
+2025-12-13 11:08:36 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1064273&include_external=true
+2025-12-13 11:08:36 - INFO: Created game file for Alice: Madness Returns at c:\Output\playnite\files\decksettings\03bf0e81-cb67-d87c-3b92-88fe9ee9087c.json
+2025-12-13 11:08:36 - https://deckverified.games/deck-verified/api/v1/game_details?appid=19680&include_external=true
+2025-12-13 11:08:37 - INFO: Created game file for Battlefield™ Hardline at c:\Output\playnite\files\decksettings\e1db313f-7d51-da85-0650-4a7016475095.json
+2025-12-13 11:08:37 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1238880&include_external=true
+2025-12-13 11:08:38 - INFO: Created game file for Bejeweled 2 Deluxe at c:\Output\playnite\files\decksettings\080f0a89-da7f-9ff1-95da-51e5828c9fa6.json
+2025-12-13 11:08:38 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3300&include_external=true
+2025-12-13 11:08:39 - INFO: Created game file for Bejeweled® 3 at c:\Output\playnite\files\decksettings\89dcb791-7dcd-54c0-eb42-a7df965d5178.json
+2025-12-13 11:08:39 - https://deckverified.games/deck-verified/api/v1/game_details?appid=78000&include_external=true
+2025-12-13 11:08:40 - INFO: Created game file for Burnout™ Paradise Remastered at c:\Output\playnite\files\decksettings\77c356cc-c340-b178-a4bd-6e29cfd90d7b.json
+2025-12-13 11:08:40 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1238080&include_external=true
+2025-12-13 11:08:40 - INFO: Created game file for Crysis at c:\Output\playnite\files\decksettings\1810c55d-d8ed-c8fc-0393-674fa9e1ab34.json
+2025-12-13 11:08:40 - https://deckverified.games/deck-verified/api/v1/game_details?appid=17300&include_external=true
+2025-12-13 11:08:41 - INFO: Created game file for Crysis 2 - Maximum Edition at c:\Output\playnite\files\decksettings\b8db39ef-028d-55d5-23a0-3230572163f7.json
+2025-12-13 11:08:41 - https://deckverified.games/deck-verified/api/v1/game_details?appid=108800&include_external=true
+2025-12-13 11:08:42 - INFO: Created game file for Crysis® 3 at c:\Output\playnite\files\decksettings\a1530b38-e985-3193-7b75-a036cc8a9663.json
+2025-12-13 11:08:42 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1282690&include_external=true
+2025-12-13 11:08:42 - INFO: Created game file for Dead Space (2008) at c:\Output\playnite\files\decksettings\0db9e138-3748-5b45-f965-912006a76641.json
+2025-12-13 11:08:42 - https://deckverified.games/deck-verified/api/v1/game_details?appid=17470&include_external=true
+2025-12-13 11:08:42 - INFO: Created game file for Dead Space™ 2 at c:\Output\playnite\files\decksettings\5afc226c-3646-b125-530e-845a6d9aece2.json
+2025-12-13 11:08:42 - https://deckverified.games/deck-verified/api/v1/game_details?appid=47780&include_external=true
+2025-12-13 11:08:43 - INFO: Created game file for Dead Space™ 3 at c:\Output\playnite\files\decksettings\f9ca2056-f3f4-b1c5-14dd-820d3be8c5ba.json
+2025-12-13 11:08:43 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1238060&include_external=true
+2025-12-13 11:08:44 - INFO: Created game file for Dragon Age II: Ultimate Edition at c:\Output\playnite\files\decksettings\722df88e-65b0-ec17-1c86-14ba81c3c474.json
+2025-12-13 11:08:44 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1238040&include_external=true
+2025-12-13 11:08:45 - INFO: Created game file for Fe at c:\Output\playnite\files\decksettings\5acf391a-bd20-03bd-0f62-6ecc6fce6398.json
+2025-12-13 11:08:45 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1225580&include_external=true
+2025-12-13 11:08:46 - INFO: Created game file for Feeding Frenzy 2 Deluxe at c:\Output\playnite\files\decksettings\07738d27-6577-ed7d-46f1-6746d0ad4da9.json
+2025-12-13 11:08:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3390&include_external=true
+2025-12-13 11:08:46 - INFO: Created game file for Mass Effect™: Andromeda Deluxe Edition at c:\Output\playnite\files\decksettings\3cf7fb05-0f1b-5723-91f9-bf6cf8509c48.json
+2025-12-13 11:08:46 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1238000&include_external=true
+2025-12-13 11:08:47 - INFO: Created game file for Medal of Honor: Airborne at c:\Output\playnite\files\decksettings\28853f21-0168-4a93-378c-3d65ef33a676.json
+2025-12-13 11:08:47 - https://deckverified.games/deck-verified/api/v1/game_details?appid=24840&include_external=true
+2025-12-13 11:08:48 - INFO: Created game file for Mirror's Edge at c:\Output\playnite\files\decksettings\1d8fd59a-2a75-8b6e-d70e-44aa6469f5a0.json
+2025-12-13 11:08:48 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3627920&include_external=true
+2025-12-13 11:08:49 - INFO: Created game file for Mirror's Edge™ Catalyst at c:\Output\playnite\files\decksettings\522d94fd-d57c-844a-0368-937c28634995.json
+2025-12-13 11:08:49 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1233570&include_external=true
+2025-12-13 11:08:49 - INFO: Created game file for Need for Speed™ Heat at c:\Output\playnite\files\decksettings\a360b104-f5d1-699c-e014-b89552cd1bb1.json
+2025-12-13 11:08:49 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1222680&include_external=true
+2025-12-13 11:08:50 - INFO: Created game file for Need for Speed™ Payback at c:\Output\playnite\files\decksettings\55e410c0-886c-7928-bf22-129bc0b3ab38.json
+2025-12-13 11:08:50 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1262580&include_external=true
+2025-12-13 11:08:50 - INFO: Created game file for Plants vs. Zombies GOTY Edition at c:\Output\playnite\files\decksettings\afcce737-fd42-1a78-4288-61c0f7eae7c8.json
+2025-12-13 11:08:50 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3590&include_external=true
+2025-12-13 11:08:51 - INFO: Created game file for Plants vs. Zombies: Battle for Neighborville™ at c:\Output\playnite\files\decksettings\fe107449-d583-cd34-ad98-9071bf3bdddb.json
+2025-12-13 11:08:51 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1262240&include_external=true
+2025-12-13 11:08:52 - INFO: Created game file for Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition at c:\Output\playnite\files\decksettings\f6e80482-05f3-50be-7430-c544d6fe583d.json
+2025-12-13 11:08:52 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1922560&include_external=true
+2025-12-13 11:08:53 - INFO: Created game file for Sea of Solitude at c:\Output\playnite\files\decksettings\d184c7d9-a854-7eb3-01e8-7152ad5edf62.json
+2025-12-13 11:08:53 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1225590&include_external=true
+2025-12-13 11:08:53 - INFO: Created game file for STAR WARS™ Battlefront™ II at c:\Output\playnite\files\decksettings\b6de154a-56bd-3cf9-6d1a-7bda0ba06d30.json
+2025-12-13 11:08:53 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1237950&include_external=true
+2025-12-13 11:08:54 - INFO: Created game file for STAR WARS Jedi: Fallen Order™ at c:\Output\playnite\files\decksettings\9090ae45-3bec-892a-0edd-e1f0141c92ab.json
+2025-12-13 11:08:54 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1172380&include_external=true
+2025-12-13 11:08:54 - INFO: Created game file for Unravel at c:\Output\playnite\files\decksettings\df77b466-71cf-62d2-edbc-320273c3ee10.json
+2025-12-13 11:08:54 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1225560&include_external=true
+2025-12-13 11:08:55 - INFO: Created game file for Unravel Two at c:\Output\playnite\files\decksettings\e084c72e-8edf-74e1-1772-93ea75fe641d.json
+2025-12-13 11:08:55 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1225570&include_external=true
+2025-12-13 11:08:56 - INFO: Created game file for Zuma's Revenge! at c:\Output\playnite\files\decksettings\61a2a73e-573c-8fd7-8626-caedfdf1ae5a.json
+2025-12-13 11:08:56 - https://deckverified.games/deck-verified/api/v1/game_details?appid=3620&include_external=true
+2025-12-13 11:08:56 - INFO: Created game file for Deep Rock Galactic at c:\Output\playnite\files\decksettings\808f3e09-fce5-09f2-9e1a-35facf0a22c2.json
+2025-12-13 11:08:56 - https://deckverified.games/deck-verified/api/v1/game_details?appid=548430&include_external=true
+2025-12-13 11:08:57 - INFO: Created game file for Day of the Tentacle Remastered at c:\Output\playnite\files\decksettings\e9172304-ac8f-a3de-69c7-864a086fe4e5.json
+2025-12-13 11:08:57 - https://deckverified.games/deck-verified/api/v1/game_details?appid=388210&include_external=true
+2025-12-13 11:08:58 - INFO: Created game file for Full Throttle Remastered at c:\Output\playnite\files\decksettings\f4120654-a28c-5b46-8d5a-2ea3023ea27c.json
+2025-12-13 11:08:58 - https://deckverified.games/deck-verified/api/v1/game_details?appid=228360&include_external=true
+2025-12-13 11:08:58 - INFO: Created game file for Grim Fandango Remastered at c:\Output\playnite\files\decksettings\1a250281-875f-28bb-61e9-10a8bfc9a729.json
+2025-12-13 11:08:58 - https://deckverified.games/deck-verified/api/v1/game_details?appid=316790&include_external=true
+2025-12-13 11:08:58 - INFO: Created game file for Tom Clancy's Rainbow Six® Siege X at c:\Output\playnite\files\decksettings\e15c2a56-4729-2a7a-c1db-81bf116c1bee.json
+2025-12-13 11:08:58 - https://deckverified.games/deck-verified/api/v1/game_details?appid=359550&include_external=true
+2025-12-13 11:08:59 - INFO: Created game file for Age of Empires III: Definitive Edition at c:\Output\playnite\files\decksettings\be58837d-7e07-e816-034c-80c8f4f5ae55.json
+2025-12-13 11:08:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=933110&include_external=true
+2025-12-13 11:08:59 - INFO: Created game file for Brutal Legend at c:\Output\playnite\files\decksettings\be8c979d-4a1a-e75b-f6d0-974f6b7e0214.json
+2025-12-13 11:08:59 - https://deckverified.games/deck-verified/api/v1/game_details?appid=225260&include_external=true
+2025-12-13 11:09:00 - INFO: Created game file for DOOM Eternal at c:\Output\playnite\files\decksettings\914555cf-b253-2f21-a9c5-47ffd6f8e120.json
+2025-12-13 11:09:00 - https://deckverified.games/deck-verified/api/v1/game_details?appid=782330&include_external=true
+2025-12-13 11:09:02 - INFO: Created game file for Halo 3: ODST at c:\Output\playnite\files\decksettings\32625877-3ac6-c74c-d385-c964b9fedaf3.json
+2025-12-13 11:09:02 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1064272&include_external=true
+2025-12-13 11:09:02 - INFO: Created game file for Crusader Kings III at c:\Output\playnite\files\decksettings\e57ece4b-3aab-ad51-c2cf-335a0a5b7fc4.json
+2025-12-13 11:09:02 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1158310&include_external=true
+2025-12-13 11:09:03 - INFO: Created game file for Wasteland 3 at c:\Output\playnite\files\decksettings\682696cf-9428-b53d-3db4-c1ea1b4a99ea.json
+2025-12-13 11:09:03 - https://deckverified.games/deck-verified/api/v1/game_details?appid=719040&include_external=true
+2025-12-13 11:09:03 - INFO: Created game file for Tell Me Why at c:\Output\playnite\files\decksettings\30ccaaed-a75c-6e98-a2c4-b6882f987235.json
+2025-12-13 11:09:03 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1180660&include_external=true
+2025-12-13 11:09:04 - INFO: Created game file for Battletoads at c:\Output\playnite\files\decksettings\9ac2f791-4de9-7984-561e-a8dc86072952.json
+2025-12-13 11:09:04 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1244950&include_external=true
+2025-12-13 11:09:05 - INFO: Created game file for New Super Lucky's Tale at c:\Output\playnite\files\decksettings\9e4e6d63-c913-f875-0369-6f31b45f1da3.json
+2025-12-13 11:09:05 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1038300&include_external=true
+2025-12-13 11:09:05 - INFO: Created game file for Microsoft Flight Simulator (2020) 40th Anniversary Edition at c:\Output\playnite\files\decksettings\9b21f592-889a-5b0f-21e8-f34a6cf6e005.json
+2025-12-13 11:09:05 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1250410&include_external=true
+2025-12-13 11:09:06 - INFO: Created game file for Trailmakers at c:\Output\playnite\files\decksettings\1bdbfd0f-48d7-d283-1836-4aca2b731e0e.json
+2025-12-13 11:09:06 - https://deckverified.games/deck-verified/api/v1/game_details?appid=585420&include_external=true
+2025-12-13 11:09:06 - INFO: Created game file for Grounded at c:\Output\playnite\files\decksettings\60aad643-96d6-5ae3-234d-226561bd4884.json
+2025-12-13 11:09:06 - https://deckverified.games/deck-verified/api/v1/game_details?appid=962130&include_external=true
+2025-12-13 11:09:07 - INFO: Created game file for Halo 3 at c:\Output\playnite\files\decksettings\e32903bb-0d58-824c-dd88-653161e072d1.json
+2025-12-13 11:09:07 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1064271&include_external=true
+2025-12-13 11:09:08 - INFO: Created game file for Neon Abyss at c:\Output\playnite\files\decksettings\77eeceb6-b798-a6a5-7df7-d4debf7a7b48.json
+2025-12-13 11:09:08 - https://deckverified.games/deck-verified/api/v1/game_details?appid=788100&include_external=true
+2025-12-13 11:09:08 - INFO: Created game file for Fallout 76 at c:\Output\playnite\files\decksettings\408ff7af-7d85-bff2-a480-21284ab7342e.json
+2025-12-13 11:09:08 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1151340&include_external=true
+2025-12-13 11:09:09 - INFO: Created game file for BATTLETECH at c:\Output\playnite\files\decksettings\81b787fd-7ad1-6245-e87a-0e638af90be5.json
+2025-12-13 11:09:09 - https://deckverified.games/deck-verified/api/v1/game_details?appid=637090&include_external=true
+2025-12-13 11:09:09 - INFO: Created game file for No Man's Sky at c:\Output\playnite\files\decksettings\420b5ece-18cd-9cf4-2002-d023b81e4ccd.json
+2025-12-13 11:09:09 - https://deckverified.games/deck-verified/api/v1/game_details?appid=275850&include_external=true
+2025-12-13 11:09:09 - INFO: Created game file for Minecraft Dungeons at c:\Output\playnite\files\decksettings\0b45de56-4c65-a74a-46ff-ae517ee3ea93.json
+2025-12-13 11:09:09 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1672970&include_external=true
+2025-12-13 11:09:10 - INFO: Created game file for Golf With Your Friends at c:\Output\playnite\files\decksettings\d71e3dec-71ae-937f-7957-5172ef2cf034.json
+2025-12-13 11:09:10 - https://deckverified.games/deck-verified/api/v1/game_details?appid=431240&include_external=true
+2025-12-13 11:09:11 - INFO: Created game file for Halo 2: Anniversary at c:\Output\playnite\files\decksettings\2f63d8b1-dcdd-4920-31af-615f821b64da.json
+2025-12-13 11:09:11 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1064270&include_external=true
+2025-12-13 11:09:11 - INFO: Created game file for DayZ at c:\Output\playnite\files\decksettings\05997863-deca-a0da-fa83-83274481a282.json
+2025-12-13 11:09:11 - https://deckverified.games/deck-verified/api/v1/game_details?appid=221100&include_external=true
+2025-12-13 11:09:12 - INFO: Created game file for MechWarrior 5: Mercenaries at c:\Output\playnite\files\decksettings\3b54137e-b5a4-cb90-5c25-cc8148db0bd9.json
+2025-12-13 11:09:12 - https://deckverified.games/deck-verified/api/v1/game_details?appid=784080&include_external=true
+2025-12-13 11:09:12 - INFO: Created game file for Gears Tactics at c:\Output\playnite\files\decksettings\7435ef15-f3eb-6529-92d4-2476f156b7d4.json
+2025-12-13 11:09:12 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1184050&include_external=true
+2025-12-13 11:09:13 - INFO: Created game file for Totally Reliable Delivery Service at c:\Output\playnite\files\decksettings\35afd05f-2371-c5f7-502e-00ca440f0b73.json
+2025-12-13 11:09:13 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1011670&include_external=true
+2025-12-13 11:09:14 - INFO: Created game file for Bleeding Edge at c:\Output\playnite\files\decksettings\52c44b74-82be-3252-41b0-d829d43432af.json
+2025-12-13 11:09:14 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1189800&include_external=true
+2025-12-13 11:09:15 - INFO: Created game file for Ori and the Will of the Wisps at c:\Output\playnite\files\decksettings\6b535ecc-384a-8d2f-d15e-1e98fe8257e0.json
+2025-12-13 11:09:15 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1057090&include_external=true
+2025-12-13 11:09:15 - INFO: Created game file for Wasteland Remastered at c:\Output\playnite\files\decksettings\971bdaf0-3b33-9f18-86bb-75528f37b5c3.json
+2025-12-13 11:09:15 - https://deckverified.games/deck-verified/api/v1/game_details?appid=875800&include_external=true
+2025-12-13 11:09:16 - INFO: Created game file for Wolfenstein: Youngblood at c:\Output\playnite\files\decksettings\dda94a92-8d28-8671-773b-f0cb4d394df3.json
+2025-12-13 11:09:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1056960&include_external=true
+2025-12-13 11:09:16 - INFO: Created game file for Frostpunk at c:\Output\playnite\files\decksettings\73d205c7-cc02-1a9d-2330-101ef5515490.json
+2025-12-13 11:09:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=323190&include_external=true
+2025-12-13 11:09:16 - INFO: Created game file for Phoenix Point at c:\Output\playnite\files\decksettings\5ad8746b-4e61-bcee-c169-7bb086af6808.json
+2025-12-13 11:09:16 - https://deckverified.games/deck-verified/api/v1/game_details?appid=839770&include_external=true
+2025-12-13 11:09:17 - INFO: Created game file for Totally Accurate Battle Simulator at c:\Output\playnite\files\decksettings\7b7c04b4-8db1-9c8c-9820-97055e90b028.json
+2025-12-13 11:09:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=508440&include_external=true
+2025-12-13 11:09:17 - INFO: Created game file for Overcooked! 2 at c:\Output\playnite\files\decksettings\d9f475e3-6b4f-736e-32d2-7cb0d69e9f16.json
+2025-12-13 11:09:17 - https://deckverified.games/deck-verified/api/v1/game_details?appid=728880&include_external=true
+2025-12-13 11:09:18 - INFO: Created game file for Halo: Reach at c:\Output\playnite\files\decksettings\eaf0ce9d-7886-4a35-5466-cf368094ecf8.json
+2025-12-13 11:09:18 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1064220&include_external=true
+2025-12-13 11:09:19 - INFO: Created game file for Age of Empires II: Definitive Edition at c:\Output\playnite\files\decksettings\008dd0e7-d1ac-9843-8fda-53d037f61619.json
+2025-12-13 11:09:19 - https://deckverified.games/deck-verified/api/v1/game_details?appid=813780&include_external=true
+2025-12-13 11:09:19 - INFO: Created game file for RAGE 2 at c:\Output\playnite\files\decksettings\4c7ace68-ad96-c18c-bf76-d5a02c209368.json
+2025-12-13 11:09:19 - https://deckverified.games/deck-verified/api/v1/game_details?appid=548570&include_external=true
+2025-12-13 11:09:19 - INFO: Created game file for The Outer Worlds at c:\Output\playnite\files\decksettings\25d37a39-5964-b62e-9f0d-5f356be43af2.json
+2025-12-13 11:09:19 - https://deckverified.games/deck-verified/api/v1/game_details?appid=578650&include_external=true
+2025-12-13 11:09:20 - INFO: Created game file for Dishonored 2 at c:\Output\playnite\files\decksettings\f3af8d80-8eb7-d8cf-a9cf-92f73abc0e8c.json
+2025-12-13 11:09:20 - https://deckverified.games/deck-verified/api/v1/game_details?appid=403640&include_external=true
+2025-12-13 11:09:20 - INFO: Created game file for Dead Cells at c:\Output\playnite\files\decksettings\52225b5b-9fb3-3094-27dc-e76ac53bc4e6.json
+2025-12-13 11:09:20 - https://deckverified.games/deck-verified/api/v1/game_details?appid=588650&include_external=true
+2025-12-13 11:09:21 - INFO: Created game file for The Bard's Tale IV: Director's Cut at c:\Output\playnite\files\decksettings\b8e6c0db-fae7-790f-dc3b-b8592124ade4.json
+2025-12-13 11:09:21 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1091980&include_external=true
+2025-12-13 11:09:21 - INFO: Created game file for Age of Empires: Definitive Edition at c:\Output\playnite\files\decksettings\c5e1e1f0-4fbb-1dd2-3785-89482539cd0b.json
+2025-12-13 11:09:21 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1017900&include_external=true
+2025-12-13 11:09:21 - INFO: Created game file for Stellaris at c:\Output\playnite\files\decksettings\a056f79f-d945-d9ee-4291-2058365580f1.json
+2025-12-13 11:09:21 - https://deckverified.games/deck-verified/api/v1/game_details?appid=281990&include_external=true
+2025-12-13 11:09:22 - INFO: Created game file for Slay the Spire at c:\Output\playnite\files\decksettings\8c9ad244-a8c2-d641-e158-4b23b4b7bc1f.json
+2025-12-13 11:09:22 - https://deckverified.games/deck-verified/api/v1/game_details?appid=646570&include_external=true
+2025-12-13 11:09:22 - INFO: Created game file for Middle-earth™: Shadow of War™ at c:\Output\playnite\files\decksettings\7dc084b2-6719-7ea6-aad9-3de34d0c0c52.json
+2025-12-13 11:09:22 - https://deckverified.games/deck-verified/api/v1/game_details?appid=356190&include_external=true
+2025-12-13 11:09:23 - INFO: Created game file for Torment: Tides of Numenera at c:\Output\playnite\files\decksettings\25e616f9-1c9e-1f26-934b-a8dec3d1a8cf.json
+2025-12-13 11:09:23 - https://deckverified.games/deck-verified/api/v1/game_details?appid=272270&include_external=true
+2025-12-13 11:09:23 - INFO: Created game file for ASTRONEER at c:\Output\playnite\files\decksettings\344d7589-62b4-5646-9cf2-a51ad7fbbf94.json
+2025-12-13 11:09:23 - https://deckverified.games/deck-verified/api/v1/game_details?appid=361420&include_external=true
+2025-12-13 11:09:23 - INFO: Created game file for Batman™: Arkham Knight at c:\Output\playnite\files\decksettings\5be21226-18e9-55ef-1064-45964a2a8a6f.json
+2025-12-13 11:09:23 - https://deckverified.games/deck-verified/api/v1/game_details?appid=208650&include_external=true
+2025-12-13 11:09:24 - INFO: Created game file for Halo: Spartan Strike at c:\Output\playnite\files\decksettings\6deefba1-1dbc-63b7-b738-3b1611bbb2d1.json
+2025-12-13 11:09:24 - https://deckverified.games/deck-verified/api/v1/game_details?appid=324570&include_external=true
+2025-12-13 11:09:24 - INFO: Created game file for Hollow Knight at c:\Output\playnite\files\decksettings\4dd815ca-2f95-8f48-b49e-6b821d61233f.json
+2025-12-13 11:09:24 - https://deckverified.games/deck-verified/api/v1/game_details?appid=367520&include_external=true
+2025-12-13 11:09:25 - INFO: Created game file for Moonlighter at c:\Output\playnite\files\decksettings\9aecf46c-c001-c4e7-5663-6d27ce80a486.json
+2025-12-13 11:09:25 - https://deckverified.games/deck-verified/api/v1/game_details?appid=606150&include_external=true
+2025-12-13 11:09:25 - INFO: Created game file for Descenders at c:\Output\playnite\files\decksettings\bc5b534c-e88e-d496-3419-40542e79f3cb.json
+2025-12-13 11:09:25 - https://deckverified.games/deck-verified/api/v1/game_details?appid=681280&include_external=true
+2025-12-13 11:09:25 - INFO: Created game file for Wolfenstein II: The New Colossus at c:\Output\playnite\files\decksettings\d263ae77-4706-1697-bea4-26ecdb4ef4b8.json
+2025-12-13 11:09:25 - https://deckverified.games/deck-verified/api/v1/game_details?appid=612880&include_external=true
+2025-12-13 11:09:26 - INFO: Created game file for The Walking Dead: A New Frontier at c:\Output\playnite\files\decksettings\5b5b7624-427f-ae00-dc96-269d82207c27.json
+2025-12-13 11:09:26 - https://deckverified.games/deck-verified/api/v1/game_details?appid=536220&include_external=true
+2025-12-13 11:09:26 - INFO: Created game file for Prey at c:\Output\playnite\files\decksettings\337e2596-cd82-40f2-6c60-aea715d6589c.json
+2025-12-13 11:09:26 - https://deckverified.games/deck-verified/api/v1/game_details?appid=480490&include_external=true
+2025-12-13 11:09:27 - INFO: Created game file for Fallout 4 at c:\Output\playnite\files\decksettings\6e59ec2d-7302-4a1d-ffda-9a455c37121f.json
+2025-12-13 11:09:27 - https://deckverified.games/deck-verified/api/v1/game_details?appid=377160&include_external=true
+2025-12-13 11:09:27 - INFO: Created game file for The Walking Dead: Michonne - A Telltale Miniseries at c:\Output\playnite\files\decksettings\f2847bea-5881-3b17-acbb-840bb5f8bbb9.json
+2025-12-13 11:09:27 - https://deckverified.games/deck-verified/api/v1/game_details?appid=429570&include_external=true
+2025-12-13 11:09:27 - INFO: Created game file for The Walking Dead at c:\Output\playnite\files\decksettings\84b6678d-5897-bc57-8d05-a1a2e0b7a9e5.json
+2025-12-13 11:09:27 - https://deckverified.games/deck-verified/api/v1/game_details?appid=207610&include_external=true
+2025-12-13 11:09:28 - INFO: Created game file for The Walking Dead: Season Two at c:\Output\playnite\files\decksettings\7a2787d1-2bf7-b57e-23d8-cdf84b3cc20e.json
+2025-12-13 11:09:28 - https://deckverified.games/deck-verified/api/v1/game_details?appid=261030&include_external=true
+2025-12-13 11:09:28 - INFO: Created game file for Ori and the Blind Forest: Definitive Edition at c:\Output\playnite\files\decksettings\6e0a1fc0-7623-9a77-068e-606a14e7d0fe.json
+2025-12-13 11:09:28 - https://deckverified.games/deck-verified/api/v1/game_details?appid=387290&include_external=true
+2025-12-13 11:09:29 - INFO: Created game file for Hellblade: Senua's Sacrifice at c:\Output\playnite\files\decksettings\69c4fb59-d758-5f0b-23b7-cffd437a6ce0.json
+2025-12-13 11:09:29 - https://deckverified.games/deck-verified/api/v1/game_details?appid=414340&include_external=true
+2025-12-13 11:09:29 - INFO: Created game file for Wolfenstein: The New Order at c:\Output\playnite\files\decksettings\46c394ff-53c2-b5a7-24fa-8b7288e7c0d6.json
+2025-12-13 11:09:29 - https://deckverified.games/deck-verified/api/v1/game_details?appid=201810&include_external=true
+2025-12-13 11:09:29 - INFO: Created game file for Quantum Break at c:\Output\playnite\files\decksettings\7e84da35-0b87-e109-09fb-d5d04075a74b.json
+2025-12-13 11:09:29 - https://deckverified.games/deck-verified/api/v1/game_details?appid=474960&include_external=true
+2025-12-13 11:09:30 - INFO: Created game file for DOOM at c:\Output\playnite\files\decksettings\9f48f0be-b46b-7255-5f68-074e62259f32.json
+2025-12-13 11:09:30 - https://deckverified.games/deck-verified/api/v1/game_details?appid=379720&include_external=true
+2025-12-13 11:09:31 - INFO: Created game file for RAGE at c:\Output\playnite\files\decksettings\f25d847b-7f7c-ce1c-d342-6cafe32302fc.json
+2025-12-13 11:09:31 - https://deckverified.games/deck-verified/api/v1/game_details?appid=9200&include_external=true
+2025-12-13 11:09:32 - INFO: Created game file for RUSH: A Disney • PIXAR Adventure at c:\Output\playnite\files\decksettings\f9445638-be4d-b82e-9784-db290e28322e.json
+2025-12-13 11:09:32 - https://deckverified.games/deck-verified/api/v1/game_details?appid=579490&include_external=true
+2025-12-13 11:09:33 - INFO: Created game file for Ryse: Son of Rome at c:\Output\playnite\files\decksettings\b7f4d9b8-0818-61e8-cd70-dfb23e0f9017.json
+2025-12-13 11:09:33 - https://deckverified.games/deck-verified/api/v1/game_details?appid=302510&include_external=true
+2025-12-13 11:09:33 - INFO: Created game file for Human Fall Flat at c:\Output\playnite\files\decksettings\517e8221-9132-d18a-73a4-39b3b757ba03.json
+2025-12-13 11:09:33 - https://deckverified.games/deck-verified/api/v1/game_details?appid=477160&include_external=true
+2025-12-13 11:09:34 - INFO: Created game file for The Elder Scrolls IV: Oblivion® Game of the Year Edition (2009) at c:\Output\playnite\files\decksettings\e92b64ce-5125-df05-9d73-3b0425adfdf2.json
+2025-12-13 11:09:34 - https://deckverified.games/deck-verified/api/v1/game_details?appid=22330&include_external=true
+2025-12-13 11:09:34 - INFO: Created game file for The Elder Scrolls® Online at c:\Output\playnite\files\decksettings\a9ea7810-8392-16b0-b2ce-6849fd23162c.json
+2025-12-13 11:09:34 - https://deckverified.games/deck-verified/api/v1/game_details?appid=306130&include_external=true
+2025-12-13 11:09:35 - INFO: Created game file for Disneyland Adventures at c:\Output\playnite\files\decksettings\eadfa252-6f36-6971-a683-2be68fed2a66.json
+2025-12-13 11:09:35 - https://deckverified.games/deck-verified/api/v1/game_details?appid=630610&include_external=true
+2025-12-13 11:09:36 - INFO: Created game file for Wasteland 2: Director's Cut at c:\Output\playnite\files\decksettings\a37925c7-a46f-33c4-790c-ed98bc82a8af.json
+2025-12-13 11:09:36 - https://deckverified.games/deck-verified/api/v1/game_details?appid=240760&include_external=true
+2025-12-13 11:09:36 - INFO: Created game file for State of Decay 2: Juggernaut Edition at c:\Output\playnite\files\decksettings\5d11186e-dfb8-d5ae-bc2c-465b886a5938.json
+2025-12-13 11:09:36 - https://deckverified.games/deck-verified/api/v1/game_details?appid=495420&include_external=true
+2025-12-13 11:09:36 - INFO: Created game file for theHunter: Call of the Wild™ at c:\Output\playnite\files\decksettings\bb98d4ab-6407-64c2-b348-eb60694eecec.json
+2025-12-13 11:09:36 - https://deckverified.games/deck-verified/api/v1/game_details?appid=518790&include_external=true
+2025-12-13 11:09:37 - INFO: Created game file for Sea of Thieves: 2025 Edition at c:\Output\playnite\files\decksettings\02f69c12-b39a-3282-1dd4-27a95ad03c0c.json
+2025-12-13 11:09:37 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1172620&include_external=true
+2025-12-13 11:09:38 - INFO: Created game file for Super Lucky's Tale at c:\Output\playnite\files\decksettings\4f35aca4-4889-ccc7-e2a2-31de35461e98.json
+2025-12-13 11:09:38 - https://deckverified.games/deck-verified/api/v1/game_details?appid=847360&include_external=true
+2025-12-13 11:09:38 - INFO: Created game file for Fable Anniversary at c:\Output\playnite\files\decksettings\64c1c1bf-8289-0a4b-a310-25f1d3aad5d0.json
+2025-12-13 11:09:38 - https://deckverified.games/deck-verified/api/v1/game_details?appid=288470&include_external=true
+2025-12-13 11:09:39 - INFO: Created game file for Zoo Tycoon: Ultimate Animal Collection at c:\Output\playnite\files\decksettings\13955e4d-8d32-2675-6a7a-09db6ab5e952.json
+2025-12-13 11:09:39 - https://deckverified.games/deck-verified/api/v1/game_details?appid=613880&include_external=true
+2025-12-13 11:09:39 - INFO: Created game file for Mass Effect (2007) at c:\Output\playnite\files\decksettings\66817f6d-8fdb-7919-d960-2d58de924a3d.json
+2025-12-13 11:09:39 - https://deckverified.games/deck-verified/api/v1/game_details?appid=17460&include_external=true
+2025-12-13 11:09:40 - INFO: Created game file for Halo Wars: Definitive Edition at c:\Output\playnite\files\decksettings\51ac0139-025c-3888-1036-0857072b0038.json
+2025-12-13 11:09:40 - https://deckverified.games/deck-verified/api/v1/game_details?appid=459220&include_external=true
+2025-12-13 11:09:41 - INFO: Created game file for Costume Quest 2 at c:\Output\playnite\files\decksettings\97f71ebd-8fd2-1217-eff1-999504f14599.json
+2025-12-13 11:09:41 - https://deckverified.games/deck-verified/api/v1/game_details?appid=275180&include_external=true
+2025-12-13 11:09:41 - INFO: Created game file for State of Decay: YOSE at c:\Output\playnite\files\decksettings\105e6c35-e85b-28f2-8a20-94682d4b0bc7.json
+2025-12-13 11:09:41 - https://deckverified.games/deck-verified/api/v1/game_details?appid=329430&include_external=true
+2025-12-13 11:09:42 - INFO: Created game file for ReCore: Definitive Edition at c:\Output\playnite\files\decksettings\9eeee466-873c-ef90-e1fb-6eea9e1cd091.json
+2025-12-13 11:09:42 - https://deckverified.games/deck-verified/api/v1/game_details?appid=537450&include_external=true
+2025-12-13 11:09:43 - INFO: Created game file for Halo: Spartan Assault at c:\Output\playnite\files\decksettings\06ce4de3-f2b0-6367-2203-b688fe7d9b47.json
+2025-12-13 11:09:43 - https://deckverified.games/deck-verified/api/v1/game_details?appid=277430&include_external=true
+2025-12-13 11:09:44 - INFO: Created game file for Max: The Curse of Brotherhood at c:\Output\playnite\files\decksettings\1c98b1c9-a1fc-8037-1395-9c277aac5ec0.json
+2025-12-13 11:09:44 - https://deckverified.games/deck-verified/api/v1/game_details?appid=255390&include_external=true
+2025-12-13 11:09:45 - INFO: Created game file for Sunset Overdrive at c:\Output\playnite\files\decksettings\a5511ff5-c5d7-151a-c119-51b55999446e.json
+2025-12-13 11:09:45 - https://deckverified.games/deck-verified/api/v1/game_details?appid=847370&include_external=true
+2025-12-13 11:09:45 - INFO: Created game file for Terraria at c:\Output\playnite\files\decksettings\bc1c2cfe-e4af-4d97-873b-b68d699a8187.json
+2025-12-13 11:09:45 - https://deckverified.games/deck-verified/api/v1/game_details?appid=105600&include_external=true
+2025-12-13 11:09:45 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=3606480,2627260,2751000,647570,2104890,517790,495700,2669320,2316580,560350,10110,2488620,2582560,1849250,2933620,1962663,1282760,2967990,2195250,2009100,1229020,1740720,2616430,2204130,2741560,1677350,2140330,2108330,1487210,1693980,949230,1846380,246110,2023360,115120,2096600,2096610,866800,1517290,1307710,988910,224460,3540,1715130,690790,1328660,2616460,1262560,2203860,2616450,17390,24880,945360,1064273,1238880,3300,78000,1238080,17300,1282690,3390,1238000,24840,3627920,1222680,1262580,1262240,1922560,3620,1064272,1064271,1064270,221100,1064220,536220,429570,261030,9200,302510,288470
+2025-12-13 11:09:45 - Refreshing reviews for recent game: Call of Duty®: Black Ops 7 (ReferenceDate: 2025-11-13)
+2025-12-13 11:09:45 - https://store.steampowered.com/appreviews/3606480?json=1&language=all&num_per_page=0
+2025-12-13 11:09:46 - Refreshing reviews for recent game: NINJA GAIDEN 4 (ReferenceDate: 2025-10-20)
+2025-12-13 11:09:46 - https://store.steampowered.com/appreviews/2627260?json=1&language=all&num_per_page=0
+2025-12-13 11:09:46 - https://store.steampowered.com/appreviews/2751000?json=1&language=all&num_per_page=0
+2025-12-13 11:09:47 - https://store.steampowered.com/appreviews/647570?json=1&language=all&num_per_page=0
+2025-12-13 11:09:47 - Refreshing reviews for recent game: RoadCraft (ReferenceDate: 2025-05-20)
+2025-12-13 11:09:47 - https://store.steampowered.com/appreviews/2104890?json=1&language=all&num_per_page=0
+2025-12-13 11:09:47 - Refreshing reviews for recent game: Blacksmith Master (ReferenceDate: 2025-05-15)
+2025-12-13 11:09:47 - https://store.steampowered.com/appreviews/2292800?json=1&language=all&num_per_page=0
+2025-12-13 11:09:48 - https://store.steampowered.com/appreviews/517790?json=1&language=all&num_per_page=0
+2025-12-13 11:09:48 - https://store.steampowered.com/appreviews/495700?json=1&language=all&num_per_page=0
+2025-12-13 11:09:48 - https://store.steampowered.com/appreviews/2669320?json=1&language=all&num_per_page=0
+2025-12-13 11:09:49 - https://store.steampowered.com/appreviews/2316580?json=1&language=all&num_per_page=0
+2025-12-13 11:09:49 - https://store.steampowered.com/appreviews/560350?json=1&language=all&num_per_page=0
+2025-12-13 11:09:49 - https://store.steampowered.com/appreviews/10110?json=1&language=all&num_per_page=0
+2025-12-13 11:09:50 - https://store.steampowered.com/appreviews/2488620?json=1&language=all&num_per_page=0
+2025-12-13 11:09:50 - https://store.steampowered.com/appreviews/2582560?json=1&language=all&num_per_page=0
+2025-12-13 11:09:50 - https://store.steampowered.com/appreviews/1849250?json=1&language=all&num_per_page=0
+2025-12-13 11:09:51 - https://store.steampowered.com/appreviews/2933620?json=1&language=all&num_per_page=0
+2025-12-13 11:09:51 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=17460
+2025-12-13 11:09:51 - https://store.steampowered.com/appreviews/1962663?json=1&language=all&num_per_page=0
+2025-12-13 11:09:51 - https://store.steampowered.com/appreviews/1282760?json=1&language=all&num_per_page=0
+2025-12-13 11:09:52 - https://store.steampowered.com/appreviews/2967990?json=1&language=all&num_per_page=0
+2025-12-13 11:09:52 - https://store.steampowered.com/appreviews/2195250?json=1&language=all&num_per_page=0
+2025-12-13 11:09:52 - https://store.steampowered.com/appreviews/2009100?json=1&language=all&num_per_page=0
+2025-12-13 11:09:53 - https://store.steampowered.com/appreviews/1229020?json=1&language=all&num_per_page=0
+2025-12-13 11:09:53 - https://store.steampowered.com/appreviews/1740720?json=1&language=all&num_per_page=0
+2025-12-13 11:09:54 - https://store.steampowered.com/appreviews/2616430?json=1&language=all&num_per_page=0
+2025-12-13 11:09:54 - https://store.steampowered.com/appreviews/2204130?json=1&language=all&num_per_page=0
+2025-12-13 11:09:54 - https://store.steampowered.com/appreviews/2741560?json=1&language=all&num_per_page=0
+2025-12-13 11:09:55 - https://store.steampowered.com/appreviews/1677350?json=1&language=all&num_per_page=0
+2025-12-13 11:09:55 - https://store.steampowered.com/appreviews/2140330?json=1&language=all&num_per_page=0
+2025-12-13 11:09:55 - https://store.steampowered.com/appreviews/2108330?json=1&language=all&num_per_page=0
+2025-12-13 11:09:56 - https://store.steampowered.com/appreviews/1487210?json=1&language=all&num_per_page=0
+2025-12-13 11:09:56 - https://store.steampowered.com/appreviews/949230?json=1&language=all&num_per_page=0
+2025-12-13 11:09:56 - https://store.steampowered.com/appreviews/1846380?json=1&language=all&num_per_page=0
+2025-12-13 11:09:56 - https://store.steampowered.com/appreviews/246110?json=1&language=all&num_per_page=0
+2025-12-13 11:09:57 - https://store.steampowered.com/appreviews/2023360?json=1&language=all&num_per_page=0
+2025-12-13 11:09:57 - https://store.steampowered.com/appreviews/115120?json=1&language=all&num_per_page=0
+2025-12-13 11:09:57 - https://store.steampowered.com/appreviews/2096600?json=1&language=all&num_per_page=0
+2025-12-13 11:09:58 - https://store.steampowered.com/appreviews/2096610?json=1&language=all&num_per_page=0
+2025-12-13 11:09:58 - https://store.steampowered.com/appreviews/866800?json=1&language=all&num_per_page=0
+2025-12-13 11:09:59 - https://store.steampowered.com/appreviews/1517290?json=1&language=all&num_per_page=0
+2025-12-13 11:09:59 - https://store.steampowered.com/appreviews/1307710?json=1&language=all&num_per_page=0
+2025-12-13 11:09:59 - https://store.steampowered.com/appreviews/988910?json=1&language=all&num_per_page=0
+2025-12-13 11:10:00 - https://store.steampowered.com/appreviews/3540?json=1&language=all&num_per_page=0
+2025-12-13 11:10:00 - https://store.steampowered.com/appreviews/1715130?json=1&language=all&num_per_page=0
+2025-12-13 11:10:01 - https://store.steampowered.com/appreviews/690790?json=1&language=all&num_per_page=0
+2025-12-13 11:10:01 - https://store.steampowered.com/appreviews/1328660?json=1&language=all&num_per_page=0
+2025-12-13 11:10:01 - https://store.steampowered.com/appreviews/2616460?json=1&language=all&num_per_page=0
+2025-12-13 11:10:02 - https://store.steampowered.com/appreviews/1262560?json=1&language=all&num_per_page=0
+2025-12-13 11:10:02 - https://store.steampowered.com/appreviews/2203860?json=1&language=all&num_per_page=0
+2025-12-13 11:10:02 - https://store.steampowered.com/appreviews/2616450?json=1&language=all&num_per_page=0
+2025-12-13 11:10:03 - https://store.steampowered.com/appreviews/17390?json=1&language=all&num_per_page=0
+2025-12-13 11:10:03 - https://store.steampowered.com/appreviews/24880?json=1&language=all&num_per_page=0
+2025-12-13 11:10:03 - https://store.steampowered.com/appreviews/1064273?json=1&language=all&num_per_page=0
+2025-12-13 11:10:04 - https://store.steampowered.com/appreviews/1238880?json=1&language=all&num_per_page=0
+2025-12-13 11:10:04 - https://store.steampowered.com/appreviews/3300?json=1&language=all&num_per_page=0
+2025-12-13 11:10:04 - https://store.steampowered.com/appreviews/78000?json=1&language=all&num_per_page=0
+2025-12-13 11:10:05 - https://store.steampowered.com/appreviews/1238080?json=1&language=all&num_per_page=0
+2025-12-13 11:10:05 - https://store.steampowered.com/appreviews/1282690?json=1&language=all&num_per_page=0
+2025-12-13 11:10:05 - https://store.steampowered.com/appreviews/3390?json=1&language=all&num_per_page=0
+2025-12-13 11:10:06 - https://store.steampowered.com/appreviews/1238000?json=1&language=all&num_per_page=0
+2025-12-13 11:10:06 - https://store.steampowered.com/appreviews/24840?json=1&language=all&num_per_page=0
+2025-12-13 11:10:06 - https://store.steampowered.com/appreviews/3627920?json=1&language=all&num_per_page=0
+2025-12-13 11:10:07 - https://store.steampowered.com/appreviews/1222680?json=1&language=all&num_per_page=0
+2025-12-13 11:10:07 - https://store.steampowered.com/appreviews/1262580?json=1&language=all&num_per_page=0
+2025-12-13 11:10:07 - https://store.steampowered.com/appreviews/1262240?json=1&language=all&num_per_page=0
+2025-12-13 11:10:08 - https://store.steampowered.com/appreviews/1922560?json=1&language=all&num_per_page=0
+2025-12-13 11:10:08 - https://store.steampowered.com/appreviews/3620?json=1&language=all&num_per_page=0
+2025-12-13 11:10:08 - https://store.steampowered.com/appreviews/1064272?json=1&language=all&num_per_page=0
+2025-12-13 11:10:09 - https://store.steampowered.com/appreviews/1064271?json=1&language=all&num_per_page=0
+2025-12-13 11:10:09 - https://store.steampowered.com/appreviews/1064270?json=1&language=all&num_per_page=0
+2025-12-13 11:10:09 - https://store.steampowered.com/appreviews/221100?json=1&language=all&num_per_page=0
+2025-12-13 11:10:10 - https://store.steampowered.com/appreviews/1064220?json=1&language=all&num_per_page=0
+2025-12-13 11:10:10 - https://store.steampowered.com/appreviews/9200?json=1&language=all&num_per_page=0
+2025-12-13 11:10:10 - https://store.steampowered.com/appreviews/302510?json=1&language=all&num_per_page=0
+2025-12-13 11:10:11 - https://store.steampowered.com/appreviews/288470?json=1&language=all&num_per_page=0

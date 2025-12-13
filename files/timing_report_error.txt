@@ -1,6 +1,5 @@
 ﻿=== PERFORMANCE TIMING REPORT ===
-Process All Games: 30 ms
-Steam Friends & Playtime: 2.149 ms
-Xbox Game Pass Fetch: 194 ms
+Process All Games: 17 ms
+Steam Friends & Playtime: 1.972 ms
 
-=== ERROR OCCURRED AT: 23.403 ms ===
+=== ERROR OCCURRED AT: 60.555 ms ===
