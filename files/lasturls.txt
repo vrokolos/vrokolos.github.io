@@ -26206,3 +26206,32 @@ Path '', line 1, position 1. | StackTrace:    at Newtonsoft.Json.Serialization.J
 2025-12-14 13:30:54 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2071430
 2025-12-14 13:30:54 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2126190
 2025-12-14 13:30:54 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2126190
+2025-12-14 13:31:23 - TIMING: Total execution completed in 32.422 ms
+2025-12-14 13:36:49 - https://id.twitch.tv/oauth2/token?client_id=437y9fwocc0m6c966zkml5qq4gv6cy&client_secret=kwdxaf6idhiraz5cuaq01qe8ez4j4i&grant_type=client_credentials
+2025-12-14 13:36:49 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 13:37:05 - https://id.twitch.tv/oauth2/token?client_id=437y9fwocc0m6c966zkml5qq4gv6cy&client_secret=kwdxaf6idhiraz5cuaq01qe8ez4j4i&grant_type=client_credentials
+2025-12-14 13:37:05 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 13:37:06 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 13:37:06 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 13:37:07 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 13:37:07 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-14 13:37:12 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2155180
+2025-12-14 13:37:12 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2155180
+2025-12-14 13:37:12 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2187220
+2025-12-14 13:37:12 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2187220
+2025-12-14 13:37:12 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2244130
+2025-12-14 13:37:12 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2244130
+2025-12-14 13:37:12 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2401970
+2025-12-14 13:37:12 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2401970
+2025-12-14 13:37:12 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2414270
+2025-12-14 13:37:12 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2414270
+2025-12-14 13:37:12 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2427700
+2025-12-14 13:37:12 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2427700
+2025-12-14 13:37:13 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2432860
+2025-12-14 13:37:13 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2432860
+2025-12-14 13:37:13 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2438970
+2025-12-14 13:37:13 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2438970
+2025-12-14 13:37:13 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2474030
+2025-12-14 13:37:13 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2474030
+2025-12-14 13:37:13 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2592160
+2025-12-14 13:37:13 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2592160
