@@ -26538,3 +26538,9 @@ Path '', line 1, position 1. | StackTrace:    at Newtonsoft.Json.Serialization.J
 2025-12-14 21:41:02 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Ace Attorney Investigations Collection","ReleaseYear":2024,"GameId":"2401970"}
 2025-12-14 21:41:03 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"UFO 50","ReleaseYear":2024,"GameId":"1147860"}
 2025-12-14 21:41:23 - TIMING: Total execution completed in 23.492 ms
+2025-12-14 21:50:58 - https://id.twitch.tv/oauth2/token?client_id=437y9fwocc0m6c966zkml5qq4gv6cy&client_secret=kwdxaf6idhiraz5cuaq01qe8ez4j4i&grant_type=client_credentials
+2025-12-14 21:50:58 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 21:50:59 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 21:50:59 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 21:50:59 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 21:50:59 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
