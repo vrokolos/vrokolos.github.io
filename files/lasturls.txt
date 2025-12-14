@@ -26317,3 +26317,13 @@ Path '', line 1, position 1. | StackTrace:    at Newtonsoft.Json.Serialization.J
 2025-12-14 15:10:12 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-14 15:10:13 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-14 15:10:14 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-14 15:10:42 - TIMING: Total execution completed in 31.100 ms
+2025-12-14 15:17:11 - https://id.twitch.tv/oauth2/token?client_id=437y9fwocc0m6c966zkml5qq4gv6cy&client_secret=kwdxaf6idhiraz5cuaq01qe8ez4j4i&grant_type=client_credentials
+2025-12-14 15:17:11 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 15:17:12 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 15:17:12 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 15:17:12 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 15:17:12 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-14 15:17:53 - https://api.opencritic.com/api/meta/search?criteria=Just%2BIgnore%2BThem
+2025-12-14 15:17:54 - https://api.opencritic.com/api/game/8598
+2025-12-14 15:17:54 - https://api.opencritic.com/api/ratings/game/8598
