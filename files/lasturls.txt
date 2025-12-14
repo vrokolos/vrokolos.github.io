@@ -26235,3 +26235,35 @@ Path '', line 1, position 1. | StackTrace:    at Newtonsoft.Json.Serialization.J
 2025-12-14 13:37:13 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2474030
 2025-12-14 13:37:13 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2592160
 2025-12-14 13:37:13 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2592160
+2025-12-14 13:38:42 - TIMING: Total execution completed in 96.815 ms
+2025-12-14 13:42:20 - https://id.twitch.tv/oauth2/token?client_id=437y9fwocc0m6c966zkml5qq4gv6cy&client_secret=kwdxaf6idhiraz5cuaq01qe8ez4j4i&grant_type=client_credentials
+2025-12-14 13:42:20 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 13:42:21 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 13:42:21 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 13:42:22 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-14 13:42:22 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-14 13:42:23 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2714620
+2025-12-14 13:42:23 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2714620
+2025-12-14 13:42:23 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2719750
+2025-12-14 13:42:23 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2719750
+2025-12-14 13:42:23 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2754380
+2025-12-14 13:42:23 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2754380
+2025-12-14 13:42:23 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2807150
+2025-12-14 13:42:23 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2807150
+2025-12-14 13:42:23 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2863640
+2025-12-14 13:42:23 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2863640
+2025-12-14 13:42:24 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2885870
+2025-12-14 13:42:24 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 2885870
+2025-12-14 13:42:24 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 3150480
+2025-12-14 13:42:24 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 3150480
+2025-12-14 13:42:24 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 3274580
+2025-12-14 13:42:24 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 3274580
+2025-12-14 13:42:24 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 3768760
+2025-12-14 13:42:24 - https://api.igdb.com/v4/games (IGDB search) for [Wishlist] Steam App 3768760
+2025-12-14 13:42:45 - https://store.steampowered.com/api/appdetails?appids=1882260&cc=us&l=en
+2025-12-14 13:42:51 - https://store.steampowered.com/api/appdetails?appids=366250&cc=us&l=en
+2025-12-14 13:43:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Just Ignore Them","ReleaseYear":2017,"GameId":"561770"}
+2025-12-14 13:43:36 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"Just Ignore Them","ReleaseYear":2017,"GameId":"561770"}
+2025-12-14 13:43:36 - https://store.steampowered.com/api/appdetails?appids=561770&cc=us&l=en
+2025-12-14 13:43:38 - https://store.steampowered.com/api/appdetails?appids=1540430&cc=us&l=en
+2025-12-14 13:43:40 - https://store.steampowered.com/api/appdetails?appids=331370&cc=us&l=en
