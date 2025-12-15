@@ -27059,3 +27059,32 @@ Path '', line 1, position 1. | StackTrace:    at Newtonsoft.Json.Serialization.J
 2025-12-15 16:23:06 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
 2025-12-15 16:23:06 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
 2025-12-15 16:23:11 - https://api.gg.deals/v1/prices/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=41010,105400,1165670,94600,1279600,31120,31110,219540,3970,207890,231350,35420,2477290,400430,245550,2346660,365720,950670,3351700,49400,700580,31130,206980,2760,710750,1523,397080,1449560,201190,1083500,654310,3424520,2168390,2432860,3558670,3751260
+2025-12-15 16:23:38 - TIMING: Total execution completed in 34.273 ms
+2025-12-15 17:12:27 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-15 17:12:28 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-15 17:12:28 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-15 17:12:28 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-15 17:12:29 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-15 22:26:07 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-15 22:26:07 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-15 22:26:08 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-15 22:26:08 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-15 22:26:08 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-15 22:26:21 - https://id.twitch.tv/oauth2/token?client_id=437y9fwocc0m6c966zkml5qq4gv6cy&client_secret=kwdxaf6idhiraz5cuaq01qe8ez4j4i&grant_type=client_credentials
+2025-12-15 22:26:21 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-15 22:26:22 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-15 22:26:22 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-15 22:26:23 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-15 22:26:23 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-15 22:26:37 - INFO: Created game file for One Gun Guy at c:\Output\playnite\files\decksettings\efc843d9-d9e9-48ef-92b5-b02337222c22.json
+2025-12-15 22:26:37 - https://deckverified.games/deck-verified/api/v1/game_details?appid=1200580&include_external=true
+2025-12-15 22:27:07 - https://api.gg.deals/v1/prices/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=41010,105400,1165670,94600,1279600,31120,31110,219540,3970,207890,231350,35420,2477290,400430,245550,2346660,365720,950670,3351700,49400,700580,31130,206980,2760,710750,1523,397080,1449560,201190,1200580,1083500,654310,3424520,2168390,2432860,3558670,3751260
+2025-12-15 22:27:07 - https://api.gg.deals/v1/prices/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=41010,105400,1165670,94600,1279600,31120,31110,219540,3970,207890,231350,35420,2477290,400430,245550,2346660,365720,950670,3351700,49400,700580,31130,206980,2760,710750,1523,397080,1449560,201190,1200580,1083500,654310,3424520,2168390,2432860,3558670,3751260
+2025-12-15 22:27:07 - https://api.gg.deals/v1/bundles/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1200580
+2025-12-15 22:27:08 - https://store.steampowered.com/appreviews/1200580?json=1&language=all&num_per_page=0
+2025-12-15 22:27:40 - https://api.gg.deals/v1/prices/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1200580
+2025-12-15 22:29:15 - https://store.steampowered.com/api/appdetails?appids=1200580&cc=us&l=en
+2025-12-15 22:29:15 - https://api2.playnite.link/api/igdb/metadata - Request: {"Name":"One Gun Guy","ReleaseYear":2022,"GameId":"1200580"}
+2025-12-15 22:29:15 - https://api.opencritic.com/api/meta/search?criteria=One%2BGun%2BGuy
+2025-12-15 22:29:15 - https://api.opencritic.com/api/game/12973
+2025-12-15 22:29:16 - https://api.opencritic.com/api/ratings/game/12973

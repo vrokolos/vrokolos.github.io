@@ -8,6 +8,66 @@
     "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\7-Zip\\7-zip.chm"
   },
   {
+    "Name": "Αξεσουάρ Xbox",
+    "AppID": "Microsoft.XboxDevices_8wekyb3d8bbwe!App"
+  },
+  {
+    "Name": "Αριθμομηχανή",
+    "AppID": "Microsoft.WindowsCalculator_8wekyb3d8bbwe!App"
+  },
+  {
+    "Name": "Ασφάλεια των Windows",
+    "AppID": "Microsoft.SecHealthUI_8wekyb3d8bbwe!SecHealthUI"
+  },
+  {
+    "Name": "Εργαλείο αποκομμάτων",
+    "AppID": "Microsoft.ScreenSketch_8wekyb3d8bbwe!App"
+  },
+  {
+    "Name": "Ζωγραφική",
+    "AppID": "Microsoft.Paint_8wekyb3d8bbwe!App"
+  },
+  {
+    "Name": "Ηχογράφηση",
+    "AppID": "Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe!App"
+  },
+  {
+    "Name": "Καιρός",
+    "AppID": "Microsoft.BingWeather_8wekyb3d8bbwe!App"
+  },
+  {
+    "Name": "Λήψη βοήθειας",
+    "AppID": "Microsoft.GetHelp_8wekyb3d8bbwe!App"
+  },
+  {
+    "Name": "Μικρορύθμιση HDR των Windows",
+    "AppID": "MicrosoftCorporationII.WindowsHDRCalibration_8wekyb3d8bbwe!App"
+  },
+  {
+    "Name": "Ρολόι",
+    "AppID": "Microsoft.WindowsAlarms_8wekyb3d8bbwe!App"
+  },
+  {
+    "Name": "Σάρωση",
+    "AppID": "Microsoft.WindowsScan_8wekyb3d8bbwe!App"
+  },
+  {
+    "Name": "Σημειωματάριο",
+    "AppID": "Microsoft.WindowsNotepad_8wekyb3d8bbwe!App"
+  },
+  {
+    "Name": "Σύνδεση τηλεφώνου",
+    "AppID": "Microsoft.YourPhone_8wekyb3d8bbwe!App"
+  },
+  {
+    "Name": "Τερματικό",
+    "AppID": "Microsoft.WindowsTerminal_8wekyb3d8bbwe!App"
+  },
+  {
+    "Name": "Φωτογραφίες",
+    "AppID": "Microsoft.Windows.Photos_8wekyb3d8bbwe!App"
+  },
+  {
     "Name": "About IrfanView",
     "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\IrfanView\\i_about.txt"
   },
@@ -180,10 +240,6 @@
     "AppID": "Microsoft.SysinternalsSuite_8wekyb3d8bbwe!Cacheset"
   },
   {
-    "Name": "Calculator",
-    "AppID": "Microsoft.WindowsCalculator_8wekyb3d8bbwe!App"
-  },
-  {
     "Name": "Canon Inkjet Print Utility",
     "AppID": "34791E63.CanonInkjetPrintUtility_6e5tt8cgb93ep!App"
   },
@@ -230,10 +286,6 @@
   {
     "Name": "Click to Do",
     "AppID": "MicrosoftWindows.Client.CoreAI_cw5n1h2txyewy!ClickToDoApp"
-  },
-  {
-    "Name": "Clock",
-    "AppID": "Microsoft.WindowsAlarms_8wekyb3d8bbwe!App"
   },
   {
     "Name": "CloverPit",
@@ -377,11 +429,11 @@
   },
   {
     "Name": "Discord",
-    "AppID": "com.squirrel.Discord.Discord"
+    "AppID": "https://www.geeks3d.com/discord/"
   },
   {
     "Name": "Discord",
-    "AppID": "https://www.geeks3d.com/discord/"
+    "AppID": "com.squirrel.Discord.Discord"
   },
   {
     "Name": "Disk Cleanup",
@@ -409,15 +461,15 @@
   },
   {
     "Name": "Disney+",
-    "AppID": "www.disneyplus.com-A29E2970_gcze62ayd7e3t!App"
-  },
-  {
-    "Name": "Disney+",
     "AppID": "www.disneyplus.com-29AE268E_gcze62ayd7e3t!App"
   },
   {
     "Name": "Disney+",
     "AppID": "www.disneyplus.com-C73AD46B_gcze62ayd7e3t!App"
+  },
+  {
+    "Name": "Disney+",
+    "AppID": "www.disneyplus.com-A29E2970_gcze62ayd7e3t!App"
   },
   {
     "Name": "Do all tests once (-q onecheck)",
@@ -509,11 +561,11 @@
   },
   {
     "Name": "Facebook",
-    "AppID": "web.facebook.com-74C4FBF_wk1fy4aprvfvy!App"
+    "AppID": "www.facebook.com-1C2D851A_n468xs7erp6tc!App"
   },
   {
     "Name": "Facebook",
-    "AppID": "www.facebook.com-1C2D851A_n468xs7erp6tc!App"
+    "AppID": "web.facebook.com-74C4FBF_wk1fy4aprvfvy!App"
   },
   {
     "Name": "File Explorer",
@@ -558,10 +610,6 @@
   {
     "Name": "GDIBench",
     "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\MacType\\GdiBench.exe"
-  },
-  {
-    "Name": "Get Help",
-    "AppID": "Microsoft.GetHelp_8wekyb3d8bbwe!App"
   },
   {
     "Name": "Get Help",
@@ -633,11 +681,11 @@
   },
   {
     "Name": "Google Keep",
-    "AppID": "keep.google.com-28152D5D_x6wzt11gmmj3r!App"
+    "AppID": "keep.google.com-E3AC328F_x6wzt11gmmj3r!App"
   },
   {
     "Name": "Google Keep",
-    "AppID": "keep.google.com-E3AC328F_x6wzt11gmmj3r!App"
+    "AppID": "keep.google.com-28152D5D_x6wzt11gmmj3r!App"
   },
   {
     "Name": "Google Photos",
@@ -657,15 +705,15 @@
   },
   {
     "Name": "GraphicsMagick For Windows Page",
-    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\GraphicsMagick-1.3.40-Q8\\www\\INSTALL-windows.html"
-  },
-  {
-    "Name": "GraphicsMagick For Windows Page",
     "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\GraphicsMagick-1.3.36-Q8\\www\\INSTALL-windows.html"
   },
   {
+    "Name": "GraphicsMagick For Windows Page",
+    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\GraphicsMagick-1.3.40-Q8\\www\\INSTALL-windows.html"
+  },
+  {
     "Name": "GraphicsMagick Web Pages",
-    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\GraphicsMagick-1.3.36-Q8\\www\\index.html"
+    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\GraphicsMagick-1.3.42-Q8\\www\\index.html"
   },
   {
     "Name": "GraphicsMagick Web Pages",
@@ -673,7 +721,7 @@
   },
   {
     "Name": "GraphicsMagick Web Pages",
-    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\GraphicsMagick-1.3.42-Q8\\www\\index.html"
+    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\GraphicsMagick-1.3.36-Q8\\www\\index.html"
   },
   {
     "Name": "Greenlight",
@@ -685,11 +733,11 @@
   },
   {
     "Name": "Help",
-    "AppID": "Microsoft.AutoGenerated.{98FEBB2C-01AB-4A97-FCA1-9B74D52A119E}"
+    "AppID": "Microsoft.AutoGenerated.{A237B83F-137E-5DFC-828F-54EE80EC881E}"
   },
   {
     "Name": "Help",
-    "AppID": "Microsoft.AutoGenerated.{A237B83F-137E-5DFC-828F-54EE80EC881E}"
+    "AppID": "Microsoft.AutoGenerated.{98FEBB2C-01AB-4A97-FCA1-9B74D52A119E}"
   },
   {
     "Name": "Homepage",
@@ -725,19 +773,19 @@
   },
   {
     "Name": "ImageMagick Web Pages",
-    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\ImageMagick-7.1.1-Q16-HDRI\\index.html"
-  },
-  {
-    "Name": "ImageMagick Web Pages",
     "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\ImageMagick-7.1.2-Q16-HDRI\\index.html"
   },
   {
-    "Name": "Instagram",
-    "AppID": "www.instagram.com-E4B7766F_ysfa6mcnwr1rw!App"
+    "Name": "ImageMagick Web Pages",
+    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\ImageMagick-7.1.1-Q16-HDRI\\index.html"
   },
   {
     "Name": "Instagram",
     "AppID": "www.instagram.com-3D2AAE46_ysfa6mcnwr1rw!App"
+  },
+  {
+    "Name": "Instagram",
+    "AppID": "www.instagram.com-E4B7766F_ysfa6mcnwr1rw!App"
   },
   {
     "Name": "Install Additional Tools for Node.js",
@@ -780,12 +828,12 @@
     "AppID": "vrokdashl.duckdns.org-D67E6FBA_cpwyvr6semy4w!App"
   },
   {
-    "Name": "Jira",
-    "AppID": "smashing-kiwi-willing.ngrok-free.app-E0B3CE23_cc9x9w2rq6056!App"
-  },
-  {
     "Name": "JIRA",
     "AppID": "vroko.pagekite.me-28A3F69_scya867gec0kj!App"
+  },
+  {
+    "Name": "Jira",
+    "AppID": "smashing-kiwi-willing.ngrok-free.app-E0B3CE23_cc9x9w2rq6056!App"
   },
   {
     "Name": "Joy to Key",
@@ -1020,10 +1068,6 @@
     "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\NordVPN\\Diagnostics\\NordSecurity.NordVpn.DiagnosticsTool.Application.exe"
   },
   {
-    "Name": "Notepad",
-    "AppID": "Microsoft.WindowsNotepad_8wekyb3d8bbwe!App"
-  },
-  {
     "Name": "Notepad++",
     "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\Notepad++\\notepad++.exe"
   },
@@ -1080,10 +1124,6 @@
     "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\TortoiseGit\\bin\\pageant.exe"
   },
   {
-    "Name": "Paint",
-    "AppID": "Microsoft.Paint_8wekyb3d8bbwe!App"
-  },
-  {
     "Name": "ParkControl",
     "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\ParkControl\\ParkControl.exe"
   },
@@ -1102,14 +1142,6 @@
   {
     "Name": "Phoenix Wright Ace Attorney Trilogy",
     "AppID": "steam://rungameid/787480"
-  },
-  {
-    "Name": "Phone Link",
-    "AppID": "Microsoft.YourPhone_8wekyb3d8bbwe!App"
-  },
-  {
-    "Name": "Photos",
-    "AppID": "Microsoft.Windows.Photos_8wekyb3d8bbwe!App"
   },
   {
     "Name": "Playnite",
@@ -1149,11 +1181,11 @@
   },
   {
     "Name": "Prime Video",
-    "AppID": "www.primevideo.com-A941BF80_vgkqvjkqeeacy!App"
+    "AppID": "www.primevideo.com-E1498729_vgkqvjkqeeacy!App"
   },
   {
     "Name": "Prime Video",
-    "AppID": "www.primevideo.com-E1498729_vgkqvjkqeeacy!App"
+    "AppID": "www.primevideo.com-A941BF80_vgkqvjkqeeacy!App"
   },
   {
     "Name": "Print Management",
@@ -1212,20 +1244,20 @@
     "AppID": "Microsoft.AutoGenerated.{34722798-1A62-548D-EF16-5F508059BE51}"
   },
   {
-    "Name": "README",
-    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\MKVToolNix\\doc\\README.txt"
-  },
-  {
-    "Name": "Readme",
-    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\HxD\\readme.txt"
+    "Name": "ReadMe",
+    "AppID": "{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\MSI Afterburner\\Doc\\ReadMe.pdf"
   },
   {
     "Name": "ReadMe",
     "AppID": "{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\RivaTuner Statistics Server\\Doc\\ReadMe.pdf"
   },
   {
-    "Name": "ReadMe",
-    "AppID": "{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\MSI Afterburner\\Doc\\ReadMe.pdf"
+    "Name": "Readme",
+    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\HxD\\readme.txt"
+  },
+  {
+    "Name": "README",
+    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\MKVToolNix\\doc\\README.txt"
   },
   {
     "Name": "Realtek Audio Console",
@@ -1305,11 +1337,11 @@
   },
   {
     "Name": "RubyGems Documentation Server",
-    "AppID": "Microsoft.AutoGenerated.{63F4319D-1C8B-2C4F-7F72-8D2C3D5BC85B}"
+    "AppID": "Microsoft.AutoGenerated.{663061A3-6538-6FE2-5966-D7285823105B}"
   },
   {
     "Name": "RubyGems Documentation Server",
-    "AppID": "Microsoft.AutoGenerated.{663061A3-6538-6FE2-5966-D7285823105B}"
+    "AppID": "Microsoft.AutoGenerated.{63F4319D-1C8B-2C4F-7F72-8D2C3D5BC85B}"
   },
   {
     "Name": "Rufus",
@@ -1337,15 +1369,11 @@
   },
   {
     "Name": "Samples",
-    "AppID": "{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\RivaTuner Statistics Server\\SDK\\Samples"
-  },
-  {
-    "Name": "Samples",
     "AppID": "{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\MSI Afterburner\\SDK\\Samples"
   },
   {
-    "Name": "Scan",
-    "AppID": "Microsoft.WindowsScan_8wekyb3d8bbwe!App"
+    "Name": "Samples",
+    "AppID": "{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\RivaTuner Statistics Server\\SDK\\Samples"
   },
   {
     "Name": "SciTE Script Editor",
@@ -1385,15 +1413,15 @@
   },
   {
     "Name": "Settings",
-    "AppID": "windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel"
-  },
-  {
-    "Name": "Settings",
     "AppID": "Microsoft.AutoGenerated.{0423BC28-B989-92D0-56C0-F931E344705B}"
   },
   {
     "Name": "Settings",
     "AppID": "Microsoft.AutoGenerated.{8E66BD49-EE30-5B64-E59D-4838E1A8063F}"
+  },
+  {
+    "Name": "Settings",
+    "AppID": "windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel"
   },
   {
     "Name": "ShareEnum",
@@ -1413,11 +1441,11 @@
   },
   {
     "Name": "Skroutz.gr",
-    "AppID": "MSEdge._crx__jdbcaangjpcammafdolmgpibd"
+    "AppID": "www.skroutz.gr-E4B9A745_yjk5gtnfvw0q6!App"
   },
   {
     "Name": "Skroutz.gr",
-    "AppID": "www.skroutz.gr-E4B9A745_yjk5gtnfvw0q6!App"
+    "AppID": "MSEdge._crx__jdbcaangjpcammafdolmgpibd"
   },
   {
     "Name": "SMART attributes (-A -f brief)",
@@ -1494,14 +1522,6 @@
   {
     "Name": "smartmontools Home Page",
     "AppID": "https://www.smartmontools.org/"
-  },
-  {
-    "Name": "Snipping Tool",
-    "AppID": "Microsoft.ScreenSketch_8wekyb3d8bbwe!App"
-  },
-  {
-    "Name": "Sound Recorder",
-    "AppID": "Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe!App"
   },
   {
     "Name": "sox.exe",
@@ -1600,10 +1620,6 @@
     "AppID": "{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\GPU-Z\\GPU-Z.exe"
   },
   {
-    "Name": "Terminal",
-    "AppID": "Microsoft.WindowsTerminal_8wekyb3d8bbwe!App"
-  },
-  {
     "Name": "The Elder Scrolls IV: Oblivion Remastered",
     "AppID": "BethesdaSoftworks.ProjectAltar_3275kfvn8vcwc!AppUEGameShipping"
   },
@@ -1621,11 +1637,11 @@
   },
   {
     "Name": "TikTok",
-    "AppID": "www.tiktok.com-4C63E479_s5gx0acfdhdxa!App"
+    "AppID": "BytedancePte.Ltd.TikTok_6yccndn6064se!App"
   },
   {
     "Name": "TikTok",
-    "AppID": "BytedancePte.Ltd.TikTok_6yccndn6064se!App"
+    "AppID": "www.tiktok.com-4C63E479_s5gx0acfdhdxa!App"
   },
   {
     "Name": "Tilix (Ubuntu)",
@@ -1701,11 +1717,11 @@
   },
   {
     "Name": "Twitch",
-    "AppID": "www.twitch.tv-7A868999_01c5de24c4r2r!App"
+    "AppID": "www.twitch.tv-3ECD09D6_01c5de24c4r2r!App"
   },
   {
     "Name": "Twitch",
-    "AppID": "www.twitch.tv-3ECD09D6_01c5de24c4r2r!App"
+    "AppID": "www.twitch.tv-7A868999_01c5de24c4r2r!App"
   },
   {
     "Name": "Ubisoft Connect",
@@ -1733,11 +1749,11 @@
   },
   {
     "Name": "Uninstall",
-    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\Apollo\\Uninstall.exe"
+    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\MKVToolNix\\uninst.exe"
   },
   {
     "Name": "Uninstall",
-    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\MKVToolNix\\uninst.exe"
+    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\Apollo\\Uninstall.exe"
   },
   {
     "Name": "Uninstall ASUS Wireless Router Firmware Restoration Utility",
@@ -1880,12 +1896,12 @@
     "AppID": "vrokphonel.duckdns.org-5301BBA_534c735arb7dp!App"
   },
   {
-    "Name": "Weather",
-    "AppID": "Microsoft.BingWeather_8wekyb3d8bbwe!App"
-  },
-  {
     "Name": "webOS Dev Manager",
     "AppID": "org.webosbrew.devman"
+  },
+  {
+    "Name": "Website",
+    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\MKVToolNix\\MKVToolNix.url"
   },
   {
     "Name": "Website",
@@ -1894,10 +1910,6 @@
   {
     "Name": "Website",
     "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\TortoiseSVN\\bin\\Website.url"
-  },
-  {
-    "Name": "Website",
-    "AppID": "{6D809377-6AF0-444B-8957-A3773F02200E}\\MKVToolNix\\MKVToolNix.url"
   },
   {
     "Name": "wget.exe",
@@ -1932,10 +1944,6 @@
     "AppID": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\WF.msc"
   },
   {
-    "Name": "Windows HDR Calibration",
-    "AppID": "MicrosoftCorporationII.WindowsHDRCalibration_8wekyb3d8bbwe!App"
-  },
-  {
     "Name": "Windows Media Player Legacy",
     "AppID": "Microsoft.Windows.MediaPlayer32"
   },
@@ -1964,10 +1972,6 @@
     "AppID": "{D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\\WindowsPowerShell\\v1.0\\PowerShell_ISE.exe"
   },
   {
-    "Name": "Windows Security",
-    "AppID": "Microsoft.SecHealthUI_8wekyb3d8bbwe!SecHealthUI"
-  },
-  {
     "Name": "Windows Tools",
     "AppID": "Microsoft.Windows.AdministrativeTools"
   },
@@ -1977,11 +1981,11 @@
   },
   {
     "Name": "WinSetupFromUSB",
-    "AppID": "C:\\ProgramData\\chocolatey\\lib\\winsetupfromusb\\WinSetupFromUSB-1-10\\WinSetupFromUSB_1-10_x64.exe"
+    "AppID": "C:\\ProgramData\\chocolatey\\lib\\winsetupfromusb\\tools\\winsetupfromusb\\WinSetupFromUSB-1-9\\WinSetupFromUSB_1-9_x64.exe"
   },
   {
     "Name": "WinSetupFromUSB",
-    "AppID": "C:\\ProgramData\\chocolatey\\lib\\winsetupfromusb\\tools\\winsetupfromusb\\WinSetupFromUSB-1-9\\WinSetupFromUSB_1-9_x64.exe"
+    "AppID": "C:\\ProgramData\\chocolatey\\lib\\winsetupfromusb\\WinSetupFromUSB-1-10\\WinSetupFromUSB_1-10_x64.exe"
   },
   {
     "Name": "Winter Burrow",
@@ -2004,10 +2008,6 @@
     "AppID": "Microsoft.GamingApp_8wekyb3d8bbwe!Microsoft.Xbox.App"
   },
   {
-    "Name": "Xbox Accessories",
-    "AppID": "Microsoft.XboxDevices_8wekyb3d8bbwe!App"
-  },
-  {
     "Name": "XStreaming",
     "AppID": "com.Geocld.xstreaming"
   },
@@ -2021,11 +2021,11 @@
   },
   {
     "Name": "YouTube Music",
-    "AppID": "music.youtube.com-9F558962_vezhnr0wkvrcy!App"
+    "AppID": "music.youtube.com-5929F88E_vezhnr0wkvrcy!App"
   },
   {
     "Name": "YouTube Music",
-    "AppID": "music.youtube.com-5929F88E_vezhnr0wkvrcy!App"
+    "AppID": "music.youtube.com-9F558962_vezhnr0wkvrcy!App"
   },
   {
     "Name": "ZoomIt",
