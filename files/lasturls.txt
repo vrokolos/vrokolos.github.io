@@ -28187,3 +28187,11 @@ Path '', line 1, position 1. | StackTrace:    at Newtonsoft.Json.Serialization.J
 2025-12-16 18:14:52 - Filling Steam Games data - Total Games: 1819
 2025-12-16 18:14:53 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
 2025-12-16 18:15:33 - https://api.gg.deals/v1/prices/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1523,2760,3970,31110,31120,31130,35420,41010,94600,206980,219540,397080,400430,654310,700580,710750,950670,2346660,207890,1449560,49400,105400,2168390,2432860,3558670,3751260
+2025-12-16 18:21:05 - TIMING: Total execution completed in 374.362 ms
+2025-12-16 18:27:25 - https://id.twitch.tv/oauth2/token?client_id=437y9fwocc0m6c966zkml5qq4gv6cy&client_secret=kwdxaf6idhiraz5cuaq01qe8ez4j4i&grant_type=client_credentials
+2025-12-16 18:27:25 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-16 18:27:26 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-16 18:27:26 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-16 18:27:27 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-16 18:27:27 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-16 18:27:33 - https://api.gg.deals/v1/prices/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=41010,105400,1165670,94600,1279600,31120,31110,219540,3970,207890,231350,35420,2477290,400430,245550,2346660,365720,950670,3351700,49400,700580,31130,206980,2760,710750,1523,397080,1449560,201190,1083500,654310,3424520,2168390,2432860,3558670,3751260
