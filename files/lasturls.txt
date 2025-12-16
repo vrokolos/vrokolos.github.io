@@ -28204,3 +28204,40 @@ Path '', line 1, position 1. | StackTrace:    at Newtonsoft.Json.Serialization.J
 2025-12-16 19:12:16 - Filling Steam Games data - Total Games: 1819
 2025-12-16 19:12:17 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
 2025-12-16 19:12:22 - https://api.gg.deals/v1/prices/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1523,2760,3970,31110,31120,31130,35420,41010,94600,206980,219540,397080,400430,654310,700580,710750,950670,2346660,207890,1449560,49400,105400,2168390,2432860,3558670,3751260
+2025-12-16 19:12:49 - TIMING: Total execution completed in 34.472 ms
+2025-12-16 19:14:38 - https://id.twitch.tv/oauth2/token?client_id=437y9fwocc0m6c966zkml5qq4gv6cy&client_secret=kwdxaf6idhiraz5cuaq01qe8ez4j4i&grant_type=client_credentials
+2025-12-16 19:14:38 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-16 19:14:39 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-16 19:14:39 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-16 19:14:39 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-16 19:14:40 - Filling Steam Games data - Total Games: 1819
+2025-12-16 19:14:40 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-16 19:14:45 - https://api.gg.deals/v1/prices/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1523,2760,3970,31110,31120,31130,35420,41010,94600,206980,219540,397080,400430,654310,700580,710750,950670,2346660,207890,1449560,49400,105400,2168390,2432860,3558670,3751260
+2025-12-16 19:15:06 - TIMING: Total execution completed in 27.690 ms
+2025-12-16 19:15:42 - https://id.twitch.tv/oauth2/token?client_id=437y9fwocc0m6c966zkml5qq4gv6cy&client_secret=kwdxaf6idhiraz5cuaq01qe8ez4j4i&grant_type=client_credentials
+2025-12-16 19:15:43 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-16 19:15:43 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-16 19:15:44 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-16 19:15:44 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-16 19:15:44 - Filling Steam Games data - Total Games: 1819
+2025-12-16 19:15:45 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-16 19:15:50 - https://api.gg.deals/v1/prices/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1523,2760,3970,31110,31120,31130,35420,41010,94600,206980,219540,397080,400430,654310,700580,710750,950670,2346660,207890,1449560,49400,105400,2168390,2432860,3558670,3751260
+2025-12-16 19:16:11 - TIMING: Total execution completed in 28.749 ms
+2025-12-16 19:17:35 - https://id.twitch.tv/oauth2/token?client_id=437y9fwocc0m6c966zkml5qq4gv6cy&client_secret=kwdxaf6idhiraz5cuaq01qe8ez4j4i&grant_type=client_credentials
+2025-12-16 19:17:35 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197995620951&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-16 19:17:36 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198036970897&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-16 19:17:36 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561198026594444&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-16 19:17:36 - https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=8CEB268634BAB410D2B9C54F3018D362&steamid=76561197992494749&format=json&skip_unvetted_apps=false&include_played_free_games=1
+2025-12-16 19:17:37 - Filling Steam Games data - Total Games: 1819
+2025-12-16 19:17:37 - https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=76561197995620951
+2025-12-16 19:17:43 - https://api.gg.deals/v1/prices/by-steam-app-id/?key=0hn_86pJuIQ3Mui6n4jxbkLx4xxVowM7&region=eu&ids=1523,2760,3970,31110,31120,31130,35420,41010,94600,206980,219540,397080,400430,654310,700580,710750,950670,2346660,207890,1449560,49400,105400,2168390,2432860,3558670,3751260
+2025-12-16 19:17:43 - Refreshing reviews for recent game: Unknown (ReferenceDate: 2025-12-14)
+2025-12-16 19:17:43 - https://store.steampowered.com/appreviews/561770?json=1&language=all&num_per_page=0
+2025-12-16 19:17:43 - Refreshing reviews for recent game: Unknown (ReferenceDate: 2025-12-05)
+2025-12-16 19:17:43 - https://store.steampowered.com/appreviews/1142710?json=1&language=all&num_per_page=0
+2025-12-16 19:17:43 - Refreshing reviews for recent game: Unknown (ReferenceDate: 2025-12-13)
+2025-12-16 19:17:43 - https://store.steampowered.com/appreviews/1150440?json=1&language=all&num_per_page=0
+2025-12-16 19:17:44 - Refreshing reviews for recent game: Unknown (ReferenceDate: 2025-12-15)
+2025-12-16 19:17:44 - https://store.steampowered.com/appreviews/1200580?json=1&language=all&num_per_page=0
+2025-12-16 19:17:44 - Refreshing reviews for recent game: Unknown (ReferenceDate: 2025-12-01)
+2025-12-16 19:17:44 - https://store.steampowered.com/appreviews/1125910?json=1&language=all&num_per_page=0
