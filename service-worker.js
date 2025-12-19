@@ -6,6 +6,7 @@ self.addEventListener('install', (event) => {
         '/icons/icon-192x192.png',
         '/styles/globals.css',
         '/scripts/games.json.gz',
+        '/scripts/games_json_hash.txt',
     ];
 
     event.waitUntil(
