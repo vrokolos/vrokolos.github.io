@@ -1,10 +1,10 @@
 self.addEventListener('install', (event) => {
     const urlsToCache = [
         '/',
-        '/index.html',
-        '/manifest.json',
-        '/icons/icon-192x192.png',
-        '/styles/globals.css',
+        // '/index.html',
+        // '/manifest.json',
+        // '/icons/icon-192x192.png',
+        // '/styles/globals.css',
         '/scripts/games.json.gz',
         '/scripts/games_json_hash.txt',
     ];
