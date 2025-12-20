@@ -71,20 +71,31 @@ self.addEventListener('fetch', (event) => {
 
     const url = new URL(req.url);
 
-    // Force network-first for Next.js build artifacts and manifests
-    if (url.pathname.startsWith('/_next/') || url.pathname.endsWith('_buildManifest.js') || url.pathname.endsWith('_ssgManifest.js')) {
+    // If the request is for our origin, handle it (special-case _next)
+    if (url.origin === self.location.origin) {
+        // Force network-first for Next.js build artifacts and manifests
+        if (url.pathname.startsWith('/_next/') || url.pathname.endsWith('_buildManifest.js') || url.pathname.endsWith('_ssgManifest.js')) {
+            event.respondWith(networkFirst(req));
+            return;
+        }
+
+        // Default for same-origin: cache-first for static assets we precached or fetched before
+        event.respondWith(cacheFirst(req));
+        return;
+    }
+
+    // Cross-origin requests: only special-case known CDNs (fonts, cdnjs, kendo)
+    const host = url.hostname;
+    const isKnownCdn = host.includes('fonts.googleapis.com') || host.includes('fonts.gstatic.com') || host.includes('cdnjs.cloudflare.com') || host.includes('kendo.cdn.telerik.com');
+    if (isKnownCdn) {
+        // Network-first, but fall back to cache if network fails
         event.respondWith(networkFirst(req));
         return;
     }
 
-    // Fonts CSS (avoid caching broken requests)
-    if (url.hostname.includes('fonts.googleapis.com') || url.hostname.includes('fonts.gstatic.com')) {
-        event.respondWith(networkFirst(req));
-        return;
-    }
-
-    // Default: cache-first for static assets we precached or fetched before
-    event.respondWith(cacheFirst(req));
+    // For other cross-origin requests, don't intercept - let the browser handle them directly.
+    // (Not calling respondWith allows normal network behavior and avoids swallowing network errors.)
+    return;
 });
 
 self.addEventListener('activate', (event) => {
