@@ -198,6 +198,27 @@ async function handleManifestStub(request) {
 
     // Return a small JS stub that creates empty objects/exports the minimal shape
     // the client runtime expects. This prevents errors like "Failed to load client build manifest".
-    const stub = `self.__BUILD_MANIFEST = self.__BUILD_MANIFEST || {}; self.__SSG_MANIFEST = self.__SSG_MANIFEST || new Set();`;
-    return new Response(stub, { headers: { 'Content-Type': 'application/javascript' } });
+        // A more complete stub:
+        // - `__BUILD_MANIFEST` maps route -> array of chunk filenames (empty here)
+        // - `__SSG_MANIFEST` is a Set of SSG routes
+        // - If the runtime added callback functions like `__BUILD_MANIFEST_CB` or `__SSG_MANIFEST_CB`, invoke them
+        const richStub = `
+(function(){
+    self.__BUILD_MANIFEST = self.__BUILD_MANIFEST || {"pages":{},"ampPages":{}};
+    // pages mapping: route -> array of chunks (empty arrays used as placeholders)
+    // The runtime may later merge in real entries; providing empty structures prevents runtime crashes.
+    self.__SSG_MANIFEST = self.__SSG_MANIFEST || new Set();
+    try {
+        if (typeof self.__BUILD_MANIFEST_CB === 'function') {
+            self.__BUILD_MANIFEST_CB(self.__BUILD_MANIFEST);
+        }
+    } catch(e){}
+    try {
+        if (typeof self.__SSG_MANIFEST_CB === 'function') {
+            self.__SSG_MANIFEST_CB(self.__SSG_MANIFEST);
+        }
+    } catch(e){}
+})();
+`;
+        return new Response(richStub, { headers: { 'Content-Type': 'application/javascript' } });
 }
