@@ -47,6 +47,7 @@ async function networkFirst(request) {
         }
     } catch (e) {
         // network failed, fallthrough to cache
+        console.warn('networkFirst fetch failed, will try cache', request.url, e);
     }
     const cached = await caches.match(request);
     if (cached) return cached;
@@ -54,6 +55,7 @@ async function networkFirst(request) {
     if (request.mode === 'navigate') {
         return caches.match('/index.html');
     }
+    console.warn('networkFirst: no cache entry, returning 504 for', request.url);
     return new Response(null, { status: 504, statusText: 'Gateway Timeout' });
 }
 
@@ -95,8 +97,10 @@ self.addEventListener('fetch', (event) => {
             return;
         }
 
-        // Force network-first for Next.js build artifacts and manifests
-        if (url.pathname.startsWith('/_next/') || url.pathname.endsWith('_buildManifest.js') || url.pathname.endsWith('_ssgManifest.js')) {
+        // Force network-first for Next.js / client build artifacts and manifests
+        // Match common manifest/build filenames more broadly to avoid missing variants
+        const pathname = url.pathname;
+        if (pathname.startsWith('/_next/') || pathname.includes('_buildManifest') || pathname.includes('_ssgManifest') || pathname.includes('client-build') || pathname.includes('client-manifest') || pathname.endsWith('.manifest.js')) {
             event.respondWith(networkFirst(req));
             return;
         }
@@ -133,4 +137,10 @@ self.addEventListener('activate', (event) => {
             );
         })
     );
+    // Take control of uncontrolled clients as soon as this worker activates.
+    try {
+        self.clients.claim();
+    } catch (e) {
+        console.warn('clients.claim failed', e);
+    }
 });
