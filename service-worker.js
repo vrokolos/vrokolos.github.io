@@ -104,45 +104,16 @@ self.addEventListener('fetch', (event) => {
     const req = event.request;
     // Only handle GET
     if (req.method !== 'GET') return;
-
-    // Don't intercept navigation requests — let the browser / app handle page navigations.
-    // This avoids interfering with client-side routing and prevents "attempted to hard navigate to the same URL" errors.
-    if (req.mode === 'navigate') return;
-
     const url = new URL(req.url);
 
-    // If the request is for our origin, handle it (special-case _next)
-    if (url.origin === self.location.origin) {
-        // Keep games.json.gz as-is (cache-first / hash-checked by the app)
-        if (url.pathname === GAMES_GZ_PATH || url.pathname.endsWith('/games.json.gz')) {
-            event.respondWith(cacheFirst(req));
-            return;
-        }
-
-        // Force network-first for Next.js / client build artifacts and manifests
-        // Match common manifest/build filenames more broadly to avoid missing variants
-        const pathname = url.pathname;
-        if (pathname.startsWith('/_next/') || pathname.includes('_buildManifest') || pathname.includes('_ssgManifest') || pathname.includes('client-build') || pathname.includes('client-manifest') || pathname.endsWith('.manifest.js')) {
-            event.respondWith(networkOnly(req));
-            return;
-        }
-
-        // Default for same-origin: network-first so users get freshest content
-        event.respondWith(networkFirst(req));
+    // Only intercept the two games-related files — everything else should bypass the SW.
+    if (url.origin === self.location.origin && (url.pathname === GAMES_GZ_PATH || url.pathname.endsWith('/games_json_hash.txt') || url.pathname.endsWith('/games.json.gz'))) {
+        // Use cache-first for the gz and the hash file (install already cached them)
+        event.respondWith(cacheFirst(req));
         return;
     }
 
-    // Cross-origin requests: only special-case known CDNs (fonts, cdnjs, kendo)
-    const host = url.hostname;
-    const isKnownCdn = host.includes('fonts.googleapis.com') || host.includes('fonts.gstatic.com') || host.includes('cdnjs.cloudflare.com') || host.includes('kendo.cdn.telerik.com');
-    if (isKnownCdn) {
-        // Network-first, but fall back to cache if network fails
-        event.respondWith(networkFirst(req));
-        return;
-    }
-
-    // For other cross-origin requests, don't intercept - let the browser handle them directly.
-    // (Not calling respondWith allows normal network behavior and avoids swallowing network errors.)
+    // Not one of the games files — let the browser handle it directly.
     return;
 });
 
