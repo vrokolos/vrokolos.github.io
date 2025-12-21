@@ -1,5 +1,6 @@
 const CACHE_VERSION = 'v1';
 const CACHE_NAME = `my-cache-${CACHE_VERSION}`;
+const GAMES_GZ_PATH = '/scripts/games.json.gz';
 
 self.addEventListener('install', (event) => {
     // Precache a minimal set of assets. Keep this small to avoid stale HTML
@@ -32,7 +33,16 @@ async function networkFirst(request) {
         if (response && response.ok) {
             const cache = await caches.open(CACHE_NAME);
             // Update the cache for future offline use (don't await to speed up)
-            cache.put(request, response.clone()).catch(() => {});
+            // Only attempt to clone/cache if the body hasn't been consumed
+            try {
+                if (!response.bodyUsed) {
+                    cache.put(request, response.clone()).catch(() => {});
+                }
+            } catch (e) {
+                // Some responses (opaque, redirected, or streamed) may throw when cloning.
+                // In that case skip caching to avoid "body is already used" errors.
+                console.warn('Skipping cache.put due to clone/bodyUsed issue', request.url, e);
+            }
             return response;
         }
     } catch (e) {
@@ -54,7 +64,11 @@ async function cacheFirst(request) {
         const resp = await fetch(request);
         if (resp && resp.ok) {
             const cache = await caches.open(CACHE_NAME);
-            cache.put(request, resp.clone()).catch(() => {});
+            try {
+                if (!resp.bodyUsed) cache.put(request, resp.clone()).catch(() => {});
+            } catch (e) {
+                console.warn('Skipping cache.put due to clone/bodyUsed issue', request.url, e);
+            }
             return resp;
         }
     } catch (e) {}
@@ -67,18 +81,28 @@ self.addEventListener('fetch', (event) => {
     // Only handle GET
     if (req.method !== 'GET') return;
 
+    // Don't intercept navigation requests — let the browser / app handle page navigations.
+    // This avoids interfering with client-side routing and prevents "attempted to hard navigate to the same URL" errors.
+    if (req.mode === 'navigate') return;
+
     const url = new URL(req.url);
 
     // If the request is for our origin, handle it (special-case _next)
     if (url.origin === self.location.origin) {
+        // Keep games.json.gz as-is (cache-first / hash-checked by the app)
+        if (url.pathname === GAMES_GZ_PATH || url.pathname.endsWith('/games.json.gz')) {
+            event.respondWith(cacheFirst(req));
+            return;
+        }
+
         // Force network-first for Next.js build artifacts and manifests
         if (url.pathname.startsWith('/_next/') || url.pathname.endsWith('_buildManifest.js') || url.pathname.endsWith('_ssgManifest.js')) {
             event.respondWith(networkFirst(req));
             return;
         }
 
-        // Default for same-origin: cache-first for static assets we precached or fetched before
-        event.respondWith(cacheFirst(req));
+        // Default for same-origin: network-first so users get freshest content
+        event.respondWith(networkFirst(req));
         return;
     }
 
@@ -97,7 +121,7 @@ self.addEventListener('fetch', (event) => {
 });
 
 self.addEventListener('activate', (event) => {
-    const cacheWhitelist = ['my-cache'];
+    const cacheWhitelist = [CACHE_NAME];
     event.waitUntil(
         caches.keys().then((cacheNames) => {
             return Promise.all(
