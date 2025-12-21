@@ -108,8 +108,9 @@ self.addEventListener('fetch', (event) => {
 
     // Only intercept the two games-related files — everything else should bypass the SW.
     if (url.origin === self.location.origin && (url.pathname === GAMES_GZ_PATH || url.pathname.endsWith('/games_json_hash.txt') || url.pathname.endsWith('/games.json.gz'))) {
-        // Use cache-first for the gz and the hash file (install already cached them)
-        event.respondWith(cacheFirst(req));
+        // Use a safe handler which returns a fresh Response built from a buffered body
+        // so downstream code can safely read/clone it without "body already used" issues.
+        event.respondWith(handleGamesRequest(req));
         return;
     }
 
@@ -137,3 +138,40 @@ self.addEventListener('activate', (event) => {
         console.warn('clients.claim failed', e);
     }
 });
+
+// Handle games files (gz and hash) safely by returning a fresh Response constructed
+// from the raw ArrayBuffer so the client can consume it multiple times without clone errors.
+async function handleGamesRequest(request) {
+    // Try network first to get the freshest copy, fall back to cache on failure
+    try {
+        const netResp = await fetch(request, { cache: 'no-cache' });
+        if (netResp && netResp.ok) {
+            const buffer = await netResp.arrayBuffer();
+            // Save to cache asynchronously
+            caches.open(CACHE_NAME).then((cache) => {
+                const respForCache = new Response(buffer, {
+                    status: netResp.status,
+                    statusText: netResp.statusText,
+                    headers: netResp.headers,
+                });
+                cache.put(request, respForCache).catch(() => {});
+            }).catch(() => {});
+            return new Response(buffer, { status: netResp.status, statusText: netResp.statusText, headers: netResp.headers });
+        }
+    } catch (e) {
+        console.warn('handleGamesRequest network failed, will try cache', request.url, e);
+    }
+
+    // Try cache: return fresh Response from cached arrayBuffer
+    const cached = await caches.match(request);
+    if (cached) {
+        try {
+            const buffer = await cached.arrayBuffer();
+            return new Response(buffer, { status: cached.status, statusText: cached.statusText, headers: cached.headers });
+        } catch (e) {
+            console.warn('handleGamesRequest failed to read cached body', request.url, e);
+        }
+    }
+
+    return new Response(null, { status: 504, statusText: 'Gateway Timeout' });
+}
