@@ -4,8 +4,6 @@ const CACHE_NAME = `my-cache-${CACHE_VERSION}`;
 self.addEventListener('install', (event) => {
     // Precache a minimal set of assets. Keep this small to avoid stale HTML
     const urlsToCache = [
-        '/',
-        '/index.html',
         '/scripts/games.json.gz',
         '/scripts/games_json_hash.txt',
     ];
