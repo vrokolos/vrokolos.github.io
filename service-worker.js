@@ -114,6 +114,13 @@ self.addEventListener('fetch', (event) => {
         return;
     }
 
+    // If a client tries to load build/ssg manifests and they fail, return minimal harmless stubs
+    // so the runtime doesn't throw and reload the page. Only handle same-origin manifest paths.
+    if (url.origin === self.location.origin && (url.pathname.endsWith('_buildManifest.js') || url.pathname.endsWith('_ssgManifest.js'))) {
+        event.respondWith(handleManifestStub(req));
+        return;
+    }
+
     // Not one of the games files — let the browser handle it directly.
     return;
 });
@@ -174,4 +181,23 @@ async function handleGamesRequest(request) {
     }
 
     return new Response(null, { status: 504, statusText: 'Gateway Timeout' });
+}
+
+// Try to fetch the real manifest; if that fails, fall back to cache, and finally
+// return a minimal JS stub that defines expected objects to avoid runtime crashes.
+async function handleManifestStub(request) {
+    try {
+        const resp = await fetch(request, { cache: 'no-cache' });
+        if (resp && resp.ok) return resp;
+    } catch (e) {
+        console.warn('handleManifestStub network fetch failed', request.url, e);
+    }
+
+    const cached = await caches.match(request);
+    if (cached) return cached;
+
+    // Return a small JS stub that creates empty objects/exports the minimal shape
+    // the client runtime expects. This prevents errors like "Failed to load client build manifest".
+    const stub = `self.__BUILD_MANIFEST = self.__BUILD_MANIFEST || {}; self.__SSG_MANIFEST = self.__SSG_MANIFEST || new Set();`;
+    return new Response(stub, { headers: { 'Content-Type': 'application/javascript' } });
 }
