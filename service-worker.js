@@ -78,6 +78,28 @@ async function cacheFirst(request) {
     return new Response(null, { status: 504, statusText: 'Gateway Timeout' });
 }
 
+// Perform a direct network fetch; fall back to cache if network fails.
+async function networkOnly(request) {
+    try {
+        const response = await fetch(request);
+        if (response && response.ok) {
+            // Update cache opportunistically, but don't block the response
+            try {
+                const cache = await caches.open(CACHE_NAME);
+                if (!response.bodyUsed) cache.put(request, response.clone()).catch(() => {});
+            } catch (e) {
+                console.warn('networkOnly caching skipped', request.url, e);
+            }
+            return response;
+        }
+    } catch (e) {
+        console.warn('networkOnly fetch failed, will try cache', request.url, e);
+    }
+    const cached = await caches.match(request);
+    if (cached) return cached;
+    return new Response(null, { status: 504, statusText: 'Gateway Timeout' });
+}
+
 self.addEventListener('fetch', (event) => {
     const req = event.request;
     // Only handle GET
@@ -101,7 +123,7 @@ self.addEventListener('fetch', (event) => {
         // Match common manifest/build filenames more broadly to avoid missing variants
         const pathname = url.pathname;
         if (pathname.startsWith('/_next/') || pathname.includes('_buildManifest') || pathname.includes('_ssgManifest') || pathname.includes('client-build') || pathname.includes('client-manifest') || pathname.endsWith('.manifest.js')) {
-            event.respondWith(networkFirst(req));
+            event.respondWith(networkOnly(req));
             return;
         }
 
