@@ -114,12 +114,7 @@ self.addEventListener('fetch', (event) => {
         return;
     }
 
-    // If a client tries to load build/ssg manifests and they fail, return minimal harmless stubs
-    // so the runtime doesn't throw and reload the page. Only handle same-origin manifest paths.
-    if (url.origin === self.location.origin && (url.pathname.endsWith('_buildManifest.js') || url.pathname.endsWith('_ssgManifest.js'))) {
-        event.respondWith(handleManifestStub(req));
-        return;
-    }
+    // We only intercept the games files; do not handle manifests here.
 
     // Not one of the games files — let the browser handle it directly.
     return;
@@ -183,46 +178,4 @@ async function handleGamesRequest(request) {
     return new Response(null, { status: 504, statusText: 'Gateway Timeout' });
 }
 
-// Try to fetch the real manifest; if that fails, fall back to cache, and finally
-// return a minimal JS stub that defines expected objects to avoid runtime crashes.
-async function handleManifestStub(request) {
-    try {
-        const resp = await fetch(request, { cache: 'no-cache' });
-        if (resp && resp.ok) return resp;
-    } catch (e) {
-        console.warn('handleManifestStub network fetch failed', request.url, e);
-    }
-
-    const cached = await caches.match(request);
-    if (cached) return cached;
-
-    // Return a small JS stub that creates empty objects/exports the minimal shape
-    // the client runtime expects. This prevents errors like "Failed to load client build manifest".
-        // A more complete stub:
-        // - `__BUILD_MANIFEST` maps route -> array of chunk filenames (empty here)
-        // - `__SSG_MANIFEST` is a Set of SSG routes
-        // - If the runtime added callback functions like `__BUILD_MANIFEST_CB` or `__SSG_MANIFEST_CB`, invoke them
-        // Determine the routes present in the app and map them to the consolidated bundle.
-        // We hardcode a few common routes found in this project. If you add more pages,
-        // update this list accordingly.
-        const pages = {
-            '/': ['/all.bundle.js'],
-        };
-        // Also include index as explicit path
-        pages['/index'] = ['/all.bundle.js'];
-
-        const buildManifest = {
-            __rewrites: {},
-            ...pages,
-            sortedPages: Object.keys(pages),
-        };
-
-        const richStub = `(function(){\n` +
-            `self.__BUILD_MANIFEST = self.__BUILD_MANIFEST || ${JSON.stringify(buildManifest)};\n` +
-            `self.__SSG_MANIFEST = self.__SSG_MANIFEST || new Set();\n` +
-            `try{ if (typeof self.__BUILD_MANIFEST_CB === 'function') self.__BUILD_MANIFEST_CB(self.__BUILD_MANIFEST); }catch(e){}\n` +
-            `try{ if (typeof self.__SSG_MANIFEST_CB === 'function') self.__SSG_MANIFEST_CB(self.__SSG_MANIFEST); }catch(e){}\n` +
-        `})();`;
-
-        return new Response(richStub, { headers: { 'Content-Type': 'application/javascript' } });
-}
+// Manifest stubbing removed — service worker only handles the games files now.
