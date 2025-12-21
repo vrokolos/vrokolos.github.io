@@ -202,23 +202,27 @@ async function handleManifestStub(request) {
         // - `__BUILD_MANIFEST` maps route -> array of chunk filenames (empty here)
         // - `__SSG_MANIFEST` is a Set of SSG routes
         // - If the runtime added callback functions like `__BUILD_MANIFEST_CB` or `__SSG_MANIFEST_CB`, invoke them
-        const richStub = `
-(function(){
-    self.__BUILD_MANIFEST = self.__BUILD_MANIFEST || {"pages":{},"ampPages":{}};
-    // pages mapping: route -> array of chunks (empty arrays used as placeholders)
-    // The runtime may later merge in real entries; providing empty structures prevents runtime crashes.
-    self.__SSG_MANIFEST = self.__SSG_MANIFEST || new Set();
-    try {
-        if (typeof self.__BUILD_MANIFEST_CB === 'function') {
-            self.__BUILD_MANIFEST_CB(self.__BUILD_MANIFEST);
-        }
-    } catch(e){}
-    try {
-        if (typeof self.__SSG_MANIFEST_CB === 'function') {
-            self.__SSG_MANIFEST_CB(self.__SSG_MANIFEST);
-        }
-    } catch(e){}
-})();
-`;
+        // Determine the routes present in the app and map them to the consolidated bundle.
+        // We hardcode a few common routes found in this project. If you add more pages,
+        // update this list accordingly.
+        const pages = {
+            '/': ['/all.bundle.js'],
+        };
+        // Also include index as explicit path
+        pages['/index'] = ['/all.bundle.js'];
+
+        const buildManifest = {
+            __rewrites: {},
+            ...pages,
+            sortedPages: Object.keys(pages),
+        };
+
+        const richStub = `(function(){\n` +
+            `self.__BUILD_MANIFEST = self.__BUILD_MANIFEST || ${JSON.stringify(buildManifest)};\n` +
+            `self.__SSG_MANIFEST = self.__SSG_MANIFEST || new Set();\n` +
+            `try{ if (typeof self.__BUILD_MANIFEST_CB === 'function') self.__BUILD_MANIFEST_CB(self.__BUILD_MANIFEST); }catch(e){}\n` +
+            `try{ if (typeof self.__SSG_MANIFEST_CB === 'function') self.__SSG_MANIFEST_CB(self.__SSG_MANIFEST); }catch(e){}\n` +
+        `})();`;
+
         return new Response(richStub, { headers: { 'Content-Type': 'application/javascript' } });
 }
