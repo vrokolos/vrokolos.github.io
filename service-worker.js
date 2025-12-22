@@ -1,12 +1,13 @@
 const CACHE_VERSION = 'v1';
 const CACHE_NAME = `my-cache-${CACHE_VERSION}`;
+// Separate cache for portrait images
+const PORTRAIT_CACHE_NAME = `portrait-cache-${CACHE_VERSION}`;
 const GAMES_GZ_PATH = '/scripts/games.json.gz';
 
 self.addEventListener('install', (event) => {
     // Precache a minimal set of assets. Keep this small to avoid stale HTML
     const urlsToCache = [
         '/scripts/games.json.gz',
-        '/scripts/games_json_hash.txt',
     ];
 
     event.waitUntil(
@@ -78,6 +79,40 @@ async function cacheFirst(request) {
     return new Response(null, { status: 504, statusText: 'Gateway Timeout' });
 }
 
+// Cache-first strategy specifically for portrait images using a dedicated cache.
+async function cacheFirstPortrait(request) {
+    // Normalize portrait requests to avoid storing duplicate variants: remove cache-busting params
+    const url = new URL(request.url);
+    url.searchParams.delete('cachebust');
+    url.searchParams.delete('v');
+    const normalizedUrl = url.toString();
+
+    // Check portrait cache by normalized URL string key (more robust than matching Request objects).
+    const portraitCache = await caches.open(PORTRAIT_CACHE_NAME);
+    const cached = await portraitCache.match(normalizedUrl);
+    if (cached) return cached;
+
+    try {
+        // Bypass the browser's HTTP disk cache so we get a fresh response we can store in Cache Storage.
+        const resp = await fetch(request, { cache: 'no-cache' });
+        // Accept opaque responses (cross-origin) as well as ok responses so external portraits can be cached.
+        if (resp && (resp.ok || resp.type === 'opaque')) {
+            try {
+                if (!resp.bodyUsed) await portraitCache.put(normalizedUrl, resp.clone()).catch(() => {});
+            } catch (e) {
+                console.warn('Skipping portrait cache.put due to clone/bodyUsed issue', request.url, e);
+            }
+            return resp;
+        }
+    } catch (e) {
+        console.warn('cacheFirstPortrait fetch failed, trying generic cache', request.url, e);
+    }
+    // fallback to generic cache first
+    const genericCached = await caches.match(normalizedUrl) || await caches.match(request);
+    if (genericCached) return genericCached;
+    return new Response(null, { status: 504, statusText: 'Gateway Timeout' });
+}
+
 // Perform a direct network fetch; fall back to cache if network fails.
 async function networkOnly(request) {
     try {
@@ -105,23 +140,44 @@ self.addEventListener('fetch', (event) => {
     // Only handle GET
     if (req.method !== 'GET') return;
     const url = new URL(req.url);
+    // If this is an image request that looks like a portrait, use the portrait cache.
+    // We try to be flexible in detecting portraits: look for '/portrait' in the pathname,
+    // a '/portraits/' path segment, or a `portrait` search param. Also accept generic
+    // image requests when request.destination is 'image'.
+    const isImage = req.destination === 'image' || /\.(png|jpg|jpeg|webp|gif|svg)$/.test(url.pathname);
+    if (isImage) {
+        // Examples of portrait URLs:
+        // https://cdn.cloudflare.steamstatic.com/steam/apps/847370/library_600x900.jpg
+        // https://cdn.steamstatic.com/steam/apps/699130/library_600x900.jpg
+        // https://images.igdb.com/igdb/image/upload/t_cover_big/co3o2w.jpg
+        const looksLikePortrait = url.pathname.includes('/portrait') ||
+            url.pathname.includes('/portraits/') ||
+            url.searchParams.has('portrait') ||
+            /_600x900\.(jpg|jpeg|png|webp)$/.test(url.pathname) ||
+            /t_cover_big\.(jpg|jpeg|png|webp)$/.test(url.pathname);
+        if (looksLikePortrait) {
+            console.log('SW: handling portrait image request', req.url);
+            event.respondWith(cacheFirstPortrait(req));
+            return;
+        }
+    }
 
-    // Only intercept the two games-related files — everything else should bypass the SW.
-    if (url.origin === self.location.origin && (url.pathname === GAMES_GZ_PATH || url.pathname.endsWith('/games_json_hash.txt') || url.pathname.endsWith('/games.json.gz'))) {
+    // Only intercept the games-related files — everything else should bypass the SW.
+    if (url.origin === self.location.origin && (url.pathname === GAMES_GZ_PATH || url.pathname.endsWith('/games.json.gz') || url.pathname.endsWith('/games_json_hash.txt'))) {
         // Use a safe handler which returns a fresh Response built from a buffered body
         // so downstream code can safely read/clone it without "body already used" issues.
         event.respondWith(handleGamesRequest(req));
         return;
     }
 
-    // We only intercept the games files; do not handle manifests here.
+    // We only intercept the games files and portrait images; do not handle manifests here.
 
-    // Not one of the games files — let the browser handle it directly.
+    // Not one of the handled files — let the browser handle it directly.
     return;
 });
 
 self.addEventListener('activate', (event) => {
-    const cacheWhitelist = [CACHE_NAME];
+    const cacheWhitelist = [CACHE_NAME, PORTRAIT_CACHE_NAME];
     event.waitUntil(
         caches.keys().then((cacheNames) => {
             return Promise.all(
@@ -148,16 +204,20 @@ async function handleGamesRequest(request) {
     try {
         const netResp = await fetch(request, { cache: 'no-cache' });
         if (netResp && netResp.ok) {
+            // If this is the small hash file, do not write it into Cache Storage here.
+            const isHashFile = request.url.endsWith('/games_json_hash.txt') || new URL(request.url).pathname.endsWith('/games_json_hash.txt');
             const buffer = await netResp.arrayBuffer();
-            // Save to cache asynchronously
-            caches.open(CACHE_NAME).then((cache) => {
-                const respForCache = new Response(buffer, {
-                    status: netResp.status,
-                    statusText: netResp.statusText,
-                    headers: netResp.headers,
-                });
-                cache.put(request, respForCache).catch(() => {});
-            }).catch(() => {});
+            if (!isHashFile) {
+                // Save to cache asynchronously for the gz file
+                caches.open(CACHE_NAME).then((cache) => {
+                    const respForCache = new Response(buffer, {
+                        status: netResp.status,
+                        statusText: netResp.statusText,
+                        headers: netResp.headers,
+                    });
+                    cache.put(request, respForCache).catch(() => {});
+                }).catch(() => {});
+            }
             return new Response(buffer, { status: netResp.status, statusText: netResp.statusText, headers: netResp.headers });
         }
     } catch (e) {
